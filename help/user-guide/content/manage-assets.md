@@ -3,7 +3,7 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -28,9 +28,11 @@ Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create]-Pr
 
 Die Liste **[!UICONTROL Position]** oberhalb der Galerie auf der rechten Seite ermöglicht es Ihnen, aus verbundenen Adobe Experience Manager (AEM) [!DNL Assets Content Hub] Repositorys auszuwählen. Wenn Sie ein AEM Repository auswählen, zeigt die Galerie einen Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
 
+Eine Anleitung zum Hinzufügen Ihres [!DNL AEM Assets Content Hub]-Repositorys zu GenStudio for Performance Marketing finden Sie unter [Verbinden eines AEM-Repositorys](connect-aem-repo.md) .
+
 Das AEM-Repository ist schreibgeschützt, d. h. Sie können Entwürfe, neue Assets oder Metadaten nicht im AEM Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten](asset-details.md#system-metadata) im `GenStudio assets`-Repository gespeichert.
 
-Eine Anleitung zum Hinzufügen Ihres [!DNL AEM Assets Content Hub]-Repositorys zu GenStudio for Performance Marketing finden Sie unter [Verbinden eines AEM-Repositorys](connect-aem-repo.md) .
+{{note-aem-assets}}
 
 ## Assets-Verwaltung
 
