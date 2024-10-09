@@ -3,9 +3,9 @@ title: Markenvalidierung in Adobe GenStudio für Performance Marketing
 description: Erfahren Sie, wie das integrierte Markenvalidierungssystem in GenStudio für Performance Marketing funktioniert.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: f9bfd6d7429f1f24947c398ec73b4b350a7e828f
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -65,19 +65,22 @@ Um die Effektivität des generierten Inhalts zu maximieren und eine einheitliche
 
 **Verbessern der Markenausrichtung für generierte Inhaltsvarianten**:
 
-1. Klicken Sie auf das Symbol **[!UICONTROL [!DNL Brand]guidelines check]** für eine einzelne Variante.
+1. Klicken Sie auf das Symbol **[!UICONTROL [!DNL Brand]guidelines check]** für eine einzelne Variante. Die Prüfung der [!DNL Brand] Richtlinien zeigt eine prozentuale Anzahl an Markenausrichtungen für eine Variante an.
 
    Sehen Sie sich eine Zusammenfassung dazu an, wie viele Markenrichtlinien die Markenvalidierung erfüllten oder mehr Aufmerksamkeit benötigen.
 
 1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie in der oberen Menüleiste auf das Symbol **[!UICONTROL Überprüfung]** _oder_ und dann auf das Symbol _Markenvalidierung_ , um das Bedienfeld _Markenvalidierung_ zu öffnen.
 
-   Beachten Sie alle Abschnitte und Markenrichtlinien, die Ihre Aufmerksamkeit erfordern. <!-- The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas. -->
+   Beachten Sie alle Abschnitte und Markenrichtlinien, die Ihre Aufmerksamkeit erfordern.
 
    >[!NOTE]
    >
    > Die im _Fenster zur Markenvalidierung_ vermerkte Richtlinie _Markenstimme_ gilt für die gesamte Variante, nicht für einzelne Abschnitte. Die gesamte Inhaltsvariante wird für Verbesserungsvorschläge hervorgehoben.
 
-1. Überarbeiten Sie die Variantenabschnitte manuell, um die beste Ausrichtung an Ihrer Marke zu erzielen.
+1. Klicken Sie mit den Schaltflächen **[!UICONTROL Weiter]** und **[!UICONTROL Zurück]** durch die einzelnen Richtlinien, die beachtet werden müssen.
+
+1. Verwenden Sie die für jede Richtlinie angegebenen Überlegungen, um etwaige Änderungen an den varianten Abschnitten zu informieren, um eine bessere Ausrichtung an Ihrer Marke zu erreichen.
+
 
 1. Nachdem Sie die erforderlichen Änderungen vorgenommen haben, klicken Sie auf **[!UICONTROL Erneut prüfen]** , um Ihre Änderungen erneut zu überprüfen und zu validieren, um sicherzustellen, dass sie enger mit Ihrer Markenidentität abgestimmt sind.
 
