@@ -26,71 +26,38 @@ Zusammen mit den Vorteilen von [guidelines](/help/user-guide/guidelines/overview
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
-
 <tr style="border: 0;">
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-email-experience.md">
-
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-email-experience.md">
-
          <strong>E-Mail-Erlebnis erstellen</strong>
-
          </a>
-
       </div>
-
    </td>
-
    <!-- <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/content/overview.md">
-
       <img alt="Re-use existing content" src="../../assets/icons/icon-addContent.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/content/overview.md">
-
          <strong>Re-use existing content</strong>
-
          </a>
-
       </div>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../create/generate-variants.md">
-
       <img alt="Generate variants of approved content" src="../../assets/icons/icon-template.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="../create/generate-variants.md">
-
          <strong>Generate variants of approved content</strong>
-
          </a>
-
       </div>
-
    </td> -->
-
 </tr>
-
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten, **neue Marketinginhalte zu erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
