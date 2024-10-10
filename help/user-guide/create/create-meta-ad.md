@@ -4,12 +4,11 @@ description: Erfahren Sie, wie Sie mit Adobe GenStudio für Performance-Marketin
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 30cd73ba1beb582ea4ac73eca7e17715f9aafc66
+source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
 workflow-type: tm+mt
-source-wordcount: '1074'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -43,13 +42,12 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
 
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
-   * Um bereits in [!DNL Content] veröffentlichte Assets (Bilder) auszuwählen, klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** und klicken Sie auf , um die gewünschten Bilder auszuwählen. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
+1. Fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen:
+   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
 
-     Wenn Sie bereits in einem AEM Content Hub-Repository vorhandene Assets verwenden möchten, wählen Sie den entsprechenden Speicherort aus dem Dropdown-Menü _Position_ aus und klicken Sie auf , um die gewünschten Bilder auszuwählen.
+     Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Position_ aus. Filtern und wählen Sie ein oder mehrere Bilder aus.
 
-   * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren. Klicken Sie auf , um die gewünschten Bilder auszuwählen.
-   * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
+   * Alternativ können Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]** ziehen, um ein oder mehrere neue Assets hochzuladen.
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
 Wenn Sie die Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
@@ -84,10 +82,10 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 **So überarbeiten Sie generierte Varianten**:
 
 * **Um [den Namen des Meta-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
-* **Um [eine Metadatenanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenbereiche (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie ihn nach Bedarf.
+* **Um [eine Metaanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile,
+-Kopfzeile oder Textkopie) erstellen und nach Bedarf bearbeiten.
 * **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Aktionsaufruf-Schaltfläche und wählen Sie aus den verfügbaren Schaltflächen-Textoptionen aus. Geben Sie in _[!UICONTROL Link]_ eine URL für den Text des Aktionsaufrufs ein.
-* **Ändern Sie in [ Größe und Seitenverhältnis der Anzeige.](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** Klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die auf alle Varianten angewendet werden sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
 * **Um [ Bilder zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)**, bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittsymbol und passen Sie die Bildgröße und -platzierung an.
 * **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf den Anzeigentitel (z. B. &quot;Meta 4&quot;) und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
@@ -126,7 +124,7 @@ Weitere Informationen finden Sie unter [Überprüfungen und Genehmigungen](/help
 
 Um die generierten Metadatenanzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Publish ]**, um Ihre neuen Meta-Anzeigenerlebnisse** zu veröffentlichen.
+1. **Um Ihre neuen Meta-Anzeigenerlebnisse** zu veröffentlichen, klicken Sie in der oberen Symbolleiste oder im Genehmigungsfluss auf **[!UICONTROL Publish]** .
 1. **Klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Exportieren ]**, um Ihre neuen Meta-Anzeigenerlebnisse zu exportieren.**
    1. Wählen Sie das Format - CSV und Bilder oder nur HTML - und klicken Sie auf **[!UICONTROL Exportieren]**.
 

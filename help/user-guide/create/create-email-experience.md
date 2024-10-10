@@ -4,10 +4,9 @@ description: Erfahren Sie, wie Sie E-Mail-Erlebnisse in Adobe GenStudio für Per
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 30cd73ba1beb582ea4ac73eca7e17715f9aafc66
+source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
@@ -43,13 +42,12 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
-   * Um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]**. Filtern und wählen Sie ein oder mehrere Bilder aus.
+1. Fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen:
+   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
 
      Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Position_ aus. Filtern und wählen Sie ein oder mehrere Bilder aus.
 
-   * Um ein oder mehrere neue Assets hochzuladen, klicken Sie auf **[!UICONTROL Hochladen]**, durchsuchen Sie Ihre Dateien und wählen Sie die Assets aus, die verwendet werden sollen. Neben dem Durchsuchen Ihres Geräts können Sie aus Microsoft OneDrive oder Dropbox importieren. Klicken Sie auf , um die gewünschten Bilder auszuwählen.
-   * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
+   * Alternativ können Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]** ziehen, um ein oder mehrere neue Assets hochzuladen.
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
 >[!NOTE]
@@ -81,7 +79,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 * **Um [den Namen des E-Mail-Entwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
 * **Um [eine E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder zu tauschen](/help/user-guide/create/manage-variants.md#swap-image)**, klicken Sie auf ein Bild-Asset (oder den Bild-Asset-Bereich, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf **[!UICONTROL Aus Inhalt auswählen/austauschen]** oder auf **[!UICONTROL Neues Bild hochladen]** , um ein Bild in einer einzelnen Variante hinzuzufügen oder zu tauschen.
 * **Um [eine E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. &quot;E-Mail 1/4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
@@ -124,7 +122,7 @@ Weitere Informationen finden Sie unter [Überprüfungen und Genehmigungen](/help
 
 Um die generierten E-Mails für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Um Ihre neuen E-Mail-Erlebnisse zu veröffentlichen**, klicken Sie in der oberen Symbolleiste auf **[!UICONTROL Publish]** .
+1. **Um Ihre neuen E-Mail-Erlebnisse zu veröffentlichen**, klicken Sie in der oberen Symbolleiste oder im Genehmigungsfluss auf **[!UICONTROL Publish]** .
 1. **Um Ihre neuen E-Mail-Erlebnisse zu exportieren, klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Exportieren ]**.**
    1. Wählen Sie das Format - CSV und Bilder oder nur HTML - und klicken Sie auf **[!UICONTROL Exportieren]**.
 
