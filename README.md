@@ -11,7 +11,7 @@ Diese Website enthält die neueste Dokumentation zum GenStudio for Performance M
 
 ## Adobe-Open-Source-Verhaltenskodex
 
-Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.md) bzw. den [.NET Foundation Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). Weitere Informationen finden Sie im Artikel [Contributing](contributing.md) .
+Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.md) bzw. den [.NET Foundation Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). Weitere Informationen finden Sie im Artikel [Contributing](contributing.md).
 
 ### Geringfügige Änderungen
 
