@@ -3,9 +3,9 @@ title: Überblick über [!DNL Insights]
 description: Erfahren Sie, wie Sie Erlebnisse basierend auf Echtzeit-Metriken zur Inhaltsleistung optimieren können.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: a06b226ffc6bfc0bd371a2f5045d5a422a2983bd
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
@@ -36,24 +36,24 @@ Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterun
 
 ### Kanäle
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Kanäle]_ ist die Standardansicht und enthält eine Liste aktiver Kampagnendetails wie Ziele, Budget, Startdatum und Aktivität. Siehe [Übersicht über Kanäle](channels.md).
+Die Ansicht [[!DNL Insights] _[!UICONTROL Kanäle ]_ist die Standardansicht. Sie enthält eine Liste aktiver Kampagnendetails wie Ziele, Budget, Startdatum und Aktivität. ](channels.md) Stellen Sie sicher, dass Sie [ein Kanalkonto verbinden](connect-channel.md), damit GenStudio for Performance Marketing beginnt, Ihre statistischen Daten zu erhalten.
 
 ### Erlebnisse
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Erlebnisse]_ konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Mit der Ansicht [!UICONTROL Erlebnisse] können Sie die Metriken eines Erlebnisses basierend auf seiner Anzeigenplatzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen _[!UICONTROL Anzeigennamen]_ können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und Attribute anzeigen.
+Die Ansicht [[!DNL Insights] _[!UICONTROL Erlebnisse ]_](experiences.md) konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Mit der Ansicht [!UICONTROL Erlebnisse] können Sie die Metriken eines Erlebnisses basierend auf seiner Anzeigenplatzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen_[!UICONTROL  Anzeigennamen ]_können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und Attribute anzeigen.
 
 ### Assets
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Assets]_ soll Ihnen bei der Analyse der Leistung von Assets helfen. Sie können Attribute eines Assets identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
+Die Ansicht [[!DNL Insights] _[!UICONTROL Assets ]_](assets.md) soll Ihnen bei der Analyse der Leistung von Assets helfen. Sie können Attribute eines Assets identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
 
 Durch Klicken auf ein Asset erhalten Sie weitere Kontexte zu seiner Leistung in verschiedenen Erlebnissen:
 
 ![Asset-Details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
-In der Asset-Ansicht werden auf der linken Seite eine Miniaturansicht des Assets und eine Liste mit Attributen angezeigt. Es gibt drei hervorgehobene Metriken: `Click-through rate`, `Cost per click` und `Spend`. Die Leistungshinweise zeigen, wie die tatsächlichen Werte (durchgehende Linie) mit dem Durchschnittswert (gepunktete Linie) im ausgewählten Zeitraum (Standard: `Last 30 days`) verglichen werden.
+In der Detailansicht des Assets zeigt die linke Seite eine Miniaturansicht des Assets und eine Liste mit Attributen an. Es gibt drei hervorgehobene Metriken: `Click-through rate`, `Cost per click` und `Spend`. Die Leistungshinweise zeigen, wie die tatsächlichen Werte (durchgehende Linie) mit dem Durchschnittswert (gepunktete Linie) im ausgewählten Zeitraum (Standard: `Last 30 days`) verglichen werden.
 
 ### Attribute
 
 Inhalt _attribute_ helfen bei der Identifizierung von Assets anhand von inhärenten Details wie Farbe, Ton, Komposition (z. B. Betreff, Schriftarten, visuelle Elemente) und anderen wichtigen Komponenten. Attribute sind häufig der am wenigsten gemessene und analysierte Satz von Inhaltsinformationen.
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Attribute]_ kann Ihnen dabei helfen, zu untersuchen und herauszufinden, welche Attribute bei bestimmten Zielgruppen, Kanälen und Regionen besser abschneiden, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.
+Die Ansicht [[!DNL Insights] _[!UICONTROL Attribute ]_](attributes.md) kann Ihnen dabei helfen, die Leistung bestimmter Zielgruppen, Kanäle und Regionen zu untersuchen und zu identifizieren, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.
