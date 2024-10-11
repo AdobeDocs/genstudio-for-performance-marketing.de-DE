@@ -4,9 +4,9 @@ description: Verbessern der Fertigkeiten in der Inhaltskette mit der Adobe GenSt
 recommendations: disable, exclude
 index: false
 hidefromtoc: true
-source-git-commit: 91ad365ba7096a770d57f2de5d5c65e24ec32e4e
+source-git-commit: ef6bf8c691748844a25957de284c4f8e7dbc5e25
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -70,69 +70,61 @@ ht-degree: 0%
 
 <table>
 
- <tr style= "border: 0;colspan: 3;">
+    <tr style="border: 0;">
 
-  <td colspan="3"> <strong style= "font-size: 2em;">In Kürze verfügbar</strong></td>
+        <td colspan="3">
 
- </tr> 
+            <strong style="font-size: 2em;">In Kürze verfügbar</strong>
 
- <tr style= "border: 0;colspan: 3;"> 
+        </td>
 
-   <td align="Center">
+    </tr>
 
-      <img src="../assets/tips-and-tricks.png">
+    <tr style="border: 0;">
 
-      <div>
+        <td align="center">
 
-      <strong>Tipps und Tricks </strong>
+            <img src="../assets/tips-and-tricks.png" alt="Tipps und Tricks">
 
-      </div>
+            <div>
 
-      <p>
+                <strong>Tipps und Tricks</strong>
 
-      Tipps und Tricks zur optimalen Verwendung von GenStudio for Performance Marketing.
+            </div>
 
-      </p>
+            <p>Tipps und Tricks zur optimalen Verwendung von GenStudio for Performance Marketing.</p>
 
-   </td>
+        </td>
 
-   <td align="Center">
+        <td align="center">
 
-      <img src="../assets/social-learning.png">
+            <img src="../assets/social-learning.png" alt="Soziales Lernen">
 
-      <div>
+            <div>
 
-      <strong>Soziales Lernen</strong>
+                <strong>Soziales Lernen</strong>
 
-      </div>
+            </div>
 
-      <p>
+            <p>Lernen Sie von Ihren Kollegen und teilen Sie Ihr Wissen in Ihrem Unternehmen auf einfache Weise.</p>
 
-      Lernen Sie von Ihren Kollegen und teilen Sie Ihr Wissen in Ihrem Unternehmen auf einfache Weise.
+        </td>
 
-      </p>
+        <td align="center">
 
-   </td>
+            <img src="../assets/expert-courses.png" alt="Expertenkurse">
 
-   <td align="Center">
+            <div>
 
-      <img src="../assets/expert-courses.png">
+                <strong>Expertenkurse</strong>
 
-      <div>
+            </div>
 
-      <strong>Expertenkurse</strong>
+            <p>Fortgeschrittene Kurse zur Erschließung von KI-Kompetenzen auf Expertenebene im Marketing.</p>
 
-      </div>
+        </td>
 
-      <p>
-
-      Fortgeschrittene Kurse zur Erschließung von KI-Kompetenzen auf Expertenebene im Marketing.
-
-      </p>
-
-   </td>
-
- </tr>
+    </tr>
 
 </table>
 
@@ -142,13 +134,33 @@ ht-degree: 0%
 
     <tr></tr>
 
- <tr style= "border: 0;">
+    <tr style="border: 0;">
 
- <td><img src="../assets/put-your-learnings-into-practice.png"></td>
+        <td>
 
-  <td> <strong style= "font-size: 2em">Bringen Sie Ihre Lernergebnisse in die Praxis.</strong><p>Erkunden Sie GenStudio for Performance Marketing mit einer generativen KI-First-Anwendung, mit der Marketingteams eigene Anzeigen und E-Mails erstellen können, um wirkungsvolle, personalisierte Marketingkampagnen zu erzielen.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Bring mich dorthin</span></a></td>
+            <img src="../assets/put-your-learnings-into-practice.png" alt="Praktische Umsetzung von Lernprozessen">
 
- </tr>
+        </td>
+
+        <td>
+
+            <strong style="font-size: 3em">Bringen Sie Ihre Lernergebnisse in die Praxis.</strong>
+
+            <p>Erkunden Sie GenStudio for Performance Marketing, eine generative KI-First-Anwendung, mit der Marketingteams eigene Anzeigen und E-Mails erstellen können, um wirkungsvolle, personalisierte Marketingkampagnen zu erzielen.</p>
+
+            <p>
+
+                <a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM">
+
+                    <span class="spectrum-Button-label has-no-wrap">Bring mich dorthin</span>
+
+                </a>
+
+            </p>
+
+        </td>
+
+    </tr>
 
     <tr></tr>
 
