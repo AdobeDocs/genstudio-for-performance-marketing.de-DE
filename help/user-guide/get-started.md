@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Ihre GenStudio for Performance Marketing einr
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 8%
@@ -40,7 +40,7 @@ Drei Arten von GenStudio for Performance Marketing-Benutzerrollen unterstützen 
 
 **Bearbeiter** verfügen über die Kernberechtigungen, die zum Erstellen von GenStudio for Performance Marketing [!DNL Brands]-, [!DNL Campaigns]- und [!DNL Content]-Assets erforderlich sind. Sie können auch von ihnen erstellte Assets bearbeiten und löschen. GenStudio for Performance Marketing unterstützt die schnelle Erstellung von Hunderten von Inhaltselementen. Diese Benutzer können Inhaltsabschnitte oder ganze Erlebnisse generieren, die diskrete Teile genehmigter Inhalte orchestrieren, um die Anforderungen spezifischer Marketing-Kampagnen zu erfüllen.
 
-Bearbeiter interagieren mit den generativen KI-Technologien von GenStudio for Performance Marketing über _Eingabeaufforderung_. Der Eingabeaufforderungsbereich auf der Arbeitsfläche bietet Tools, um Eingabeaufforderungen im Kontext der Richtlinien einer bestimmten Kampagne zu platzieren. Die Qualität und der Erfolg des erstellten Inhalts hängen daher teilweise von der Qualität der Markenrichtlinien ab, die Ihr Unternehmen hochgeladen hat, und von der Spezifität Ihrer Eingabeaufforderung.
+Bearbeiter interagieren mit den generativen KI-Technologien von GenStudio for Performance Marketing über _Eingabeaufforderung_. Die Eingabeaufforderung auf der Arbeitsfläche bietet Tools zum Platzieren von Eingabeaufforderungen im Kontext der Richtlinien einer bestimmten Kampagne. Die Qualität und der Erfolg des erstellten Inhalts hängen daher teilweise von der Qualität der Markenrichtlinien ab, die Ihr Unternehmen hochgeladen hat, und von der Spezifität Ihrer Eingabeaufforderung.
 
 Siehe [Effektive Eingabeaufforderungen schreiben](effective-prompts.md).
 

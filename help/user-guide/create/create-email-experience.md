@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlag
 
 ## Parameter hinzufügen
 
-Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ im Eingabeaufforderungsbereich wird der Inhaltserstellungsvorgang überschrieben. Dies ist ein integraler Vorbereitungsschritt für die Generierung eines E-Mail-Erlebnisses.
+Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderung wird der Inhaltserstellungsvorgang überschrieben. Dies ist ein integraler Vorbereitungsschritt für die Generierung eines E-Mail-Erlebnisses.
 
 **Hinzufügen von Parametern und Assets**:
 
-1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
+1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
@@ -54,7 +54,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 >
 >Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie für jeden E-Mail-Bereich in _E-Mails mit mehreren Abschnitten_ die Option [!DNL Products] und den Inhalt (visuelle Assets) aus. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt.
 
-Wenn Sie alle Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
+Wenn Sie alle Parameter hinzugefügt haben, können Sie die Eingabeaufforderung reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
 ## Eingabeaufforderung eingeben
 

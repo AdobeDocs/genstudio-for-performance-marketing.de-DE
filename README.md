@@ -1,5 +1,5 @@
 ---
-source-git-commit: c9672d8899b54c7998e9cb8b64fe1834339f8010
+source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 39%
@@ -11,7 +11,7 @@ Diese Website enthält die neueste Dokumentation zum GenStudio for Performance M
 
 ## Adobe-Open-Source-Verhaltenskodex
 
-Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.md) bzw. den [.NET Foundation Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). Weitere Informationen finden Sie im Artikel [Contributing](contributing.md).
+Dieses Projekt beachtet den [Adobe Open Source Code of Conduct](code-of-conduct.md) bzw. den [.NET Foundation Code of Conduct](https://dotnetfoundation.org/about/policies/code-of-conduct). Weitere Informationen finden Sie im Artikel [Contributing](contributing.md) .
 
 ### Geringfügige Änderungen
 

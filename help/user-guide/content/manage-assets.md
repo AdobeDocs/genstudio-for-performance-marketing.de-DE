@@ -3,7 +3,7 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
+source-git-commit: 600d4a37be22bd057074b4dd3773b75f0273a567
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Das AEM-Repository ist schreibgeschützt, d. h. Sie können Entwürfe, neue Asse
 
 ## Assets-Verwaltung
 
-In [!UICONTROL Inhalt] können Performance Marketingexperten ihre digitalen Assets einfach speichern, abrufen und verwalten. Durch Nutzung des Repositorys `GenStudio assets` und AEM Repositorys können Benutzer sicherstellen, dass ihre Assets gut organisiert sind und für verschiedene Marketing-Kampagnen zugänglich sind. Dieser Ansatz für mehrere Repositorys bietet Flexibilität und Kontrolle über die Asset-Nutzung in allen Umgebungen, sodass sichergestellt ist, dass nur genehmigte und aktuelle Assets in Marketing-Maßnahmen verwendet werden.
+In [!UICONTROL Inhalt] kann Performance Marketing ihre digitalen Assets einfach speichern, abrufen und verwalten. Durch Nutzung des Repositorys `GenStudio assets` und AEM Repositorys können Benutzer sicherstellen, dass ihre Assets gut organisiert sind und für verschiedene Marketing-Kampagnen zugänglich sind. Dieser Ansatz für mehrere Repositorys bietet Flexibilität und Kontrolle über die Asset-Nutzung in allen Umgebungen, sodass sichergestellt ist, dass nur genehmigte und aktuelle Assets in Marketing-Maßnahmen verwendet werden.
 
 ### Hinzufügen von Assets
 
@@ -66,7 +66,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden sie standardmäßig im `Gen
 
 1. Um Ihre neu hochgeladenen Assets anzuzeigen, klicken Sie in der Benachrichtigung _Neue verfügbare Assets_ unten auf der Arbeitsfläche auf **[!UICONTROL Aktualisieren]** .
 
-<!-- 
+<!--
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 

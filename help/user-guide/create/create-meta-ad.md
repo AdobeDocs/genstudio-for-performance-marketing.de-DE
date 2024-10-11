@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '1016'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte berei
 
 ## Parameter hinzufügen
 
-Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ im Eingabeaufforderungsbereich verbessert den Inhaltserstellungsprozess und ist ein wichtiger Schritt bei der Vorbereitung der Generierung einer Metaanzeige.
+Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderung verbessert den Inhaltserstellungsprozess und ist ein wichtiger Schritt bei der Vorbereitung der Erstellung einer Metaanzeige.
 
 **Hinzufügen von Parametern und Assets**:
 
-1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
+1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
@@ -50,7 +50,7 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
    * Alternativ können Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]** ziehen, um ein oder mehrere neue Assets hochzuladen.
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
-Wenn Sie die Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
+Wenn Sie die Parameter hinzugefügt haben, können Sie die Eingabeaufforderung reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
 ## Eingabeaufforderung eingeben
 

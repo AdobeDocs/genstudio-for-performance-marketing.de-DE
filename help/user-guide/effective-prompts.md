@@ -3,7 +3,7 @@ title: Effektive Eingabeaufforderungen schreiben
 description: Erfahren Sie, wie Sie effektive Eingabeaufforderungen für Adobe GenStudio for Performance Marketing schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -39,13 +39,13 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Eingabekriterien
 
-In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie im Eingabebereich **[!UICONTROL Eingabeaufforderungskriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
+In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie **[!UICONTROL Eingabeaufforderungskriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) in der Eingabeaufforderung verwenden, um Details durch Auswahl hinzuzufügen, um die KI-Interpretation zu verbessern.
 
 Bei [E-Mails](/help/user-guide/create/email-experiences.md) umfassen die Eingabeaufforderungskriterien möglicherweise das Hinzufügen von [guidelines](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung. Bei einer [Metaanzeige](/help/user-guide/create/create-meta-ad.md) umfassen die Eingabeaufforderungskriterien möglicherweise eine Markenrichtlinie in _Parameter_, die Auswahl oder den Upload eines vorhandenen Assets, Einstellungen im Zusammenhang mit Bildern oder Assets wie dem Seitenverhältnis und eine Eingabeaufforderung. Die tatsächliche Leistung beginnt mit [Konfigurieren von Führungslinien](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Wenn in _Parameter_ im Eingabeaufforderungsbereich Richtlinien hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis auf diese einfügen. GenStudio for Performance Marketing nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
+>Wenn in der Eingabeaufforderungsleiste Richtlinien in _Parameter_ hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis auf sie einfügen. GenStudio for Performance Marketing nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
 
 ### Richtlinien
 

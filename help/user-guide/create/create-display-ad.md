@@ -1,11 +1,11 @@
 ---
 title: Erstellen eines Display-Anzeigenerlebnisses
-description: Erfahren Sie, wie Sie in Adobe [!DNL GenStudio] Display-Anzeigenerlebnisse für Performance-Marketingexperten erstellen.
+description: Erfahren Sie, wie Sie Display-Anzeigenerlebnisse in Adobe [!DNL GenStudio] für Performance-Marketing erstellen.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
+source-git-commit: 9fc0ad86b99ca61a73b46fd8febfcf66b2975d75
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -33,14 +33,14 @@ Verwenden Sie zum Erstellen eines Display-Anzeigenerlebnisses eine verfügbare V
 
 ## Parameter hinzufügen
 
-Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ im Eingabeaufforderungsbereich wird der Inhaltserstellungsvorgang überschrieben. Dies ist ein integraler Vorbereitungsschritt für die Generierung eines Display-Anzeigenerlebnisses.
+Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderung wird der Inhaltserstellungsvorgang überschrieben. Dies ist ein integraler vorbereitender Schritt zum Generieren eines Display-Anzeigenerlebnisses.
 
 **Hinzufügen von Parametern und Assets**:
 
-1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
+1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance Marketers hinzu](/help/user-guide/guidelines/add-guidelines.md).
+   Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. So fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden, um die Inhaltserstellung zu beeinflussen:
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
@@ -50,7 +50,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
    * Alternativ können Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]** ziehen, um ein oder mehrere neue Assets hochzuladen.
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
-Wenn Sie alle Parameter hinzugefügt haben, reduzieren Sie den Eingabebereich, indem Sie erneut auf das Symbol _Parameter_ klicken.
+Wenn Sie alle Parameter hinzugefügt haben, reduzieren Sie die Eingabeaufforderung, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
 ## Eingabeaufforderung eingeben
 
