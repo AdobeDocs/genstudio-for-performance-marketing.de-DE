@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 9ff0e14af49d8759c8384c67e61832d205fa6e90
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
 source-wordcount: '1538'
 ht-degree: 1%
@@ -20,7 +20,7 @@ Siehe [Führungslinien - Übersicht](/help/user-guide/guidelines/overview.md).
 
 Das Hinzufügen von Richtlinien zu GenStudio für Performance Marketing ist ein wichtiger Schritt im Erstellungsprozess. Die Richtlinien enthalten Informationen über den Inhaltserstellungsprozess sowie benutzerdefinierte Eingabeaufforderungen und die generative KI-Technologie von Adobe, um wirkungsvolle Assets zu erstellen.
 
-## Hinzufügen von [!DNL Brands]
+## Fügen Sie [!DNL Brands] hinzu.
 
 Um eine Marke hinzuzufügen, laden Sie [ein Markenhandbuch hoch](#upload-a-brand) oder [erstellen Sie manuell eine Marke](#manually-add-brand), indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Publish eine Marke](#publish-brand) bis [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
 
@@ -95,7 +95,7 @@ Auf der Startseite von _[!DNL Brands]_können Sie auf **eine bereits erstellte M
 * Wählen Sie im Aktionsmenü [!DNL Brands] die Option **[!UICONTROL Umbenennen]** aus, um eine vorhandene Rolle umzubenennen.
 * Wählen Sie im Aktionsmenü [!DNL Brands] die Option **[!UICONTROL Löschen]** aus, um eine Marke zu löschen.
 
-## Hinzufügen von [!DNL Products]
+## Fügen Sie [!DNL Products] hinzu.
 
 Um ein Produkt hinzuzufügen, laden Sie [ein Produkthandbuch hoch](#upload-a-product) oder [erstellen Sie manuell ein Produkt](#manually-add-product), indem Sie Richtlinien auswählen und Ihre Produktdetails eingeben.
 
@@ -165,7 +165,7 @@ In der Startseite von _[!DNL Products]_können Sie **ein bereits erstelltes[!DNL
 * Wählen Sie **[!UICONTROL Löschen]** aus dem Aktionsmenü [!DNL Products] aus, um ein Produkt zu **löschen**.
 * Wählen Sie **[!UICONTROL Umbenennen]** aus dem Aktionsmenü [!DNL Products] in **Umbenennen** eines Produkts.
 
-## Hinzufügen von [!DNL Personas]
+## Fügen Sie [!DNL Personas] hinzu.
 
 Um eine Persona hinzuzufügen, laden Sie [einen Personenhandbuch hoch](#upload-a-persona) oder [erstellen Sie manuell eine Persona](#manually-add-persona), indem Sie Richtlinien auswählen und Ihre persönlichen Details eingeben.
 
@@ -185,7 +185,7 @@ Siehe [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 1. Wählen Sie die Schaltfläche **[!UICONTROL Persona hinzufügen]** und danach **PDF hochladen** aus.
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
-1. Fügen Sie im Popup _Persona hinzufügen Ihr Persona-Dokument hinzu oder ziehen Sie es in das Persona-Dokument.
+1. Fügen Sie im Popup _Persona hinzufügen_ Ihr persönliches Dokument hinzu, fügen Sie es an oder ziehen Sie es in dieses.
 
    Sie können bis zu fünf PDF-Dateien mit maximal 500 MG kombinieren.
 

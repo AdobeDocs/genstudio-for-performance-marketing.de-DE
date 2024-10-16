@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 
 >[!NOTE]
 >
->Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie für jeden E-Mail-Bereich in _E-Mails mit mehreren Abschnitten_ die Option [!DNL Products] und den Inhalt (visuelle Assets) aus. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt.
+>Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie für jeden E-Mail-Bereich in _E-Mails mit mehreren Abschnitten_ die Option [!DNL Products] und den Inhalt (visuelle Assets) aus. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt. Sie können visuelle Assets nur zu mehrteiligen E-Mails aus [!DNL Content] hinzufügen. Sie können keine Assets per Drag-and-Drop aus Ihrer lokalen Quelle ziehen oder hochladen.
 
 Wenn Sie alle Parameter hinzugefügt haben, können Sie die Eingabeaufforderung reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
