@@ -3,9 +3,9 @@ title: Arbeiten mit Vorlagen
 description: Hier erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihre kreativen Prozesse in Adobe GenStudio for Performance Marketing zu optimieren.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 3a361134a0b56a2973399e38e62f4ab345a3dbc8
+source-git-commit: 61a939ae81eb5ff61d741bb1092e9e4c82119f7e
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '684'
 ht-degree: 1%
 
 ---
@@ -114,7 +114,7 @@ Verwenden Sie [Vorlagen anpassen](customize-template.md) als Anleitung zum Vorbe
    Vorlagenname und Kanaltyp sind erforderlich. Weitere Anforderungen können Folgendes umfassen:
 
    - **Meta**: erfordert Seitenverhältnis
-   <!-- - **Display ads**: requires Dimensions -->
+   - **Display ads**: erfordert Dimensionen
 
 1. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenerkennung bei der Suche und Filterung zu verbessern.
 
