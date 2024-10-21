@@ -2,9 +2,9 @@
 title: Übersicht über Attribute
 description: Erfahren Sie, wie Sie die Leistung bestimmter Attribute in Adobe GenStudio for Performance Marketing bewerten.
 feature: Insights, Assets
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 87a8833549569aaeaa60f5760b4e9a8b710a6033
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '700'
 ht-degree: 0%
 
 ---
@@ -108,7 +108,7 @@ Insights-Metriken können Ihnen dabei helfen, herauszufinden, welche Attribute z
 
 ### Details zu Metriken
 
-Die folgende Tabelle enthält Definitionen und Einblicke für wichtige digitale Marketingmetriken in der Ansicht [!UICONTROL Attribute]. Jede Metrik enthält eine kurze Definition, da sie sich auf ein Asset bezieht, wie die Metrik berechnet wird, und einen oder mehrere Einblicke, um deren Bedeutung und Auswirkung auf eine Anzeigenkampagne zu verstehen.
+Die folgende Tabelle enthält Definitionen und Einblicke für wichtige digitale Marketingmetriken in der Tabellenansicht [!UICONTROL Attribute]. Jede Metrik enthält eine kurze Definition, da sie sich auf ein Asset bezieht, wie die Metrik berechnet wird, und einen oder mehrere Einblicke, um deren Bedeutung und Auswirkung auf eine Anzeigenkampagne zu verstehen.
 
 | Metrik | Definition | Insight |
 | ---------------------- | ----------------------------- | -------------------------------- |
@@ -120,5 +120,6 @@ Die folgende Tabelle enthält Definitionen und Einblicke für wichtige digitale 
 | **[!UICONTROL Klicks]** | Anzahl der Interaktionen von Benutzern mit einem Bild oder Video mit diesem Attribut. | Eine hohe Klickanzahl weist auf starkes Interesse und Interaktion mit dem Inhalt hin, die effektiv sein können und die richtige Zielgruppe erreichen. |
 | **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die zu Klicks auf Bilder oder Videos mit diesem Attribut führten <br>**Berechnung**: `clicks` dividiert durch `impressions` | Eine hohe Clickthrough-Rate weist darauf hin, dass der Inhalt für die Zielgruppe in Messaging und Design hochgradig relevant und motivierend ist und effektiv auf die Interessen der Zielgruppe ausgerichtet ist. |
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten ($) für jede tausend Anzeigenimpressionen eines Bildes oder Videos mit diesem Attribut.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch Reichweite, dann multipliziert mit 1000 | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere bei Kombination mit einer hohen Clickthrough-Rate. |
+| **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten ($), die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Hilft bei der Identifizierung von Attributen, die zu wertvollen Kundenaktionen führen. |
 | **[!UICONTROL CPC ]**<br>_Kosten pro Klick_ | Durchschnittliche Kosten ($), die mit jedem Klick auf Bilder oder Videos mit diesem Attribut verbunden sind.<br>**Berechnung**: Gesamtbetrag `spent` dividiert durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Anzeigenausgaben hinweisen, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
 | **[!UICONTROL Spend]** | Der aus dem Budget ausgegebene Betrag ($) in Bezug auf Attribute über einen bestimmten Zeitraum. | Ein hoher Ausgabenbetrag in kurzer Zeit kann auf eine rasche Nutzung hindeuten, was zu einer frühzeitigen Erschöpfung der Ressourcen führen könnte. Verfolgen Sie den Ausgabenbetrag im Vergleich zu den wichtigsten Leistungsmetriken, um die Gesamtrendite zu überwachen. |
