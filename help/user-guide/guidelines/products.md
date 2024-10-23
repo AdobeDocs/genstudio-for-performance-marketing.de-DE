@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Products]
 description: GenStudio for Performance Marketing [!DNL Products] beinhaltet alle Aspekte Ihres Produkts - Bilder, Beschreibungen und Wertvorschläge -, um relevante Inhalte zu erstellen, die die Produktstärken hervorheben und die Konsistenz von Produktnachrichten gewährleisten.
 feature: Products Service, Guidelines
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 [!DNL Products] in GenStudio für Performance Marketing nutzen ein tiefes Verständnis der Produktspezifikationen, Vorteile und Differenzierungsfaktoren, um wirkungsvolle Inhalte zu generieren.
 
 [!DNL Products] umfasst alle Elemente eines bestimmten Produkts, z. B. Bilder, Beschreibungen und Wertvorschläge, um eine einheitliche Markendarstellung zu erstellen. Die Nutzung von Adobe für erweiterte KI-Technologien, GenStudio-Marketing-Richtlinien -[[!DNL Brands], [!DNL Products] und [!DNL Personas]](/help/user-guide/guidelines/overview.md) - arbeitet zusammen, um überzeugende Inhalte zu generieren, die die Stärken Ihrer Produkte präsentieren und für Konsistenz aller Nachrichten sorgen.
-
-![[!DNL Products] Richtlinien in GenStudio für Performance-Marketing](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **So zeigen Sie ein Produkt an oder ändern es**:
 
@@ -29,6 +27,8 @@ Informationen zum Hinzufügen oder Ändern eines Produkts in GenStudio für Perf
 ## [!DNL Products] Führungslinien
 
 Individuelle Produktrichtlinien geben GenStudio for Performance Marketing ein klares Bild Ihrer Produkte.
+
+![Produktrichtlinien](/help/assets/products.png){width="600" zoomable="yes"}
 
 In diesen Richtlinien werden die einzelnen Kategorien von Richtlinien und zugehörige Beispiele beschrieben. Die Beispiele sind Beispieleingaben, die die Ausgabe des generierten Inhalts formen. Verwenden Sie diese, um Ihre [!DNL Products] -Richtlinien zu informieren.
 

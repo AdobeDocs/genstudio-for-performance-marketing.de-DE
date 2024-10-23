@@ -2,9 +2,9 @@
 title: Varianten verwalten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen für das digitale Marketing an und erweitern Sie sie.
 feature: Content, Assets, Experiences
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 5e92233248c555a3b0a59bd4dbb0935e4c8cfb1f
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1155'
 ht-degree: 0%
 
 ---
@@ -44,13 +44,16 @@ GenStudio for Performance Marketing verfügt über die integrierte Funktion zum 
 
 Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvariante neu generieren, um zu sehen, wie es mit einem bestimmten Hintergrundasset aussieht, indem Sie die Optionen _[!UICONTROL Vorgeschlagene Bearbeitungen]_ -_[!UICONTROL Umkehren]_, _[!UICONTROL Kürzen]_ oder _[!UICONTROL Verlängern]_ - verwenden und eine neue Eingabeaufforderung eingeben.
 
+![Abschnitte neu generieren](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
+
 **So generieren Sie einzelne Variantenabschnitte erneut**:
 
 1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie mit einem Klick auf einen beliebigen bearbeitbaren Text in einer Variante.
-1. (_Optional_) Geben Sie eine neue Eingabeaufforderung ein, um den Fokus des neu generierten Inhalts zu ändern.
 1. Wählen Sie die Option _[!UICONTROL Vorgeschlagene Bearbeitungen]_ aus: _[!UICONTROL Umkehren]_, _[!UICONTROL Kürzen]_ oder _[!UICONTROL Verlängern]_.
-1. Klicken Sie auf **[!UICONTROL Generieren]**.
-1. Wenn Sie die Ergebnisse neu generieren möchten, klicken Sie auf das Symbol zum Neugenerieren neben _Ergebnisse_.
+   * Wählen Sie eine verfügbare Option aus und klicken Sie auf **[!UICONTROL Ersetzen]**.
+1. (_Optional_) Wählen Sie _[!UICONTROL Mit Eingabeaufforderung generieren] aus und geben Sie eine neue Eingabeaufforderung ein, um den Fokus des neu generierten Inhalts zu ändern.
+   * Klicken Sie auf **[!UICONTROL Generieren]**.
+1. Wenn Sie die Ergebnisse neu generieren möchten, um weitere Optionen anzuzeigen, klicken Sie auf das Symbol zum Neugenerieren neben _Ergebnisse_.
 1. Wählen Sie aus den angezeigten _Ergebnissen_ die gewünschte Option aus und klicken Sie auf **[!UICONTROL Ersetzen]**.
 
    Die Variante wird mit dem überarbeiteten Text aktualisiert.
@@ -151,6 +154,8 @@ Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md#improv
 ## Feedback zur Generierung
 
 Feedback zur Qualität der generierten markenorientierten Assets kann gesendet werden, um den Inhaltserstellungsprozess zu verbessern. Die Angabe, ob die Ergebnisse von hoher oder schlechter Qualität sind, trägt zur Verbesserung der Inhaltsqualität und der Benutzersicherheit von GenStudio for Performance Marketing bei.
+
+![Senden von Feedback zur Inhaltserstellung](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
 
 Generations-Feedback gilt für eine einzelne Variante, nicht für den gesammelten Variantensatz.
 

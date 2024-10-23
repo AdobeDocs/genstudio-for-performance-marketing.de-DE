@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: bd24c4e25df1210dd6ff2b7f17f999963133294a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1030'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,14 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
 1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
+   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen:
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
+
+     ![visuellen Inhalt auswählen](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
      Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Position_ aus. Filtern und wählen Sie ein oder mehrere Bilder aus.
 
@@ -102,6 +106,8 @@ Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markeni
 1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
 1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
+   ![Markenvalidierungs-Bedienfeld](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
+
 1. Schalten Sie durch die einzelnen Anzeigen, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu werden.
 1. [Überarbeiten Sie Anzeigen manuell](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
 
@@ -114,6 +120,9 @@ Verwenden Sie das Bedienfeld Genehmigungen , auf das Sie in der oberen Menüleis
 **So rufen Sie Bewertungen und Genehmigungen ab**:
 
 1. [Starten Sie eine Genehmigungsanfrage](/help/user-guide/approvals/request-review.md), um eine [Genehmigung der entworfenen Meta-Anzeigenerlebnisse zu erhalten.](/help/user-guide/approvals/approve-content.md)
+
+   ![Entwürfe zur Überprüfung und Genehmigung senden](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
+
 1. [Entfernen oder fügen Sie während des Überprüfungsprozesses Überprüfer hinzu](/help/user-guide/approvals/review-and-edit.md#manage-approvals).
 1. [Greifen Sie auf den Inhalt für die Überprüfung zu](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und zeigen Sie die Anforderungen für die Überarbeitung an.
 1. Bearbeiten Sie die Entwürfe pro Prüfungskommentar und [veröffentlichen Sie Ihre Metadaten-Anzeigenerlebnisse](#publish-and-export-experience).

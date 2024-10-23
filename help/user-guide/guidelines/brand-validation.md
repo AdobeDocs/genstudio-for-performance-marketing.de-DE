@@ -3,9 +3,9 @@ title: Markenvalidierung in Adobe GenStudio für Performance Marketing
 description: Erfahren Sie, wie das integrierte Markenvalidierungssystem in GenStudio für Performance Marketing funktioniert.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ GenStudio for Performance Marketing führt eine Markenvalidierung zu verschieden
 * Kopieren von Richtlinien für verschiedene Kanalplattformen
 * Ethische Aspekte in Zusammenhang mit Geschlecht, ethnischer Zugehörigkeit, Rasse, Behindertenstatus und Alter in von KI generierten Inhalten
 
-## Prüfung der Markenrichtlinien
+## Prüfung der [!DNL Brand] Führungslinien
 
-Auf eine Zusammenfassung der Informationen zur Markenvalidierung für jede generierte Inhaltsvariante kann über das Symbol _Markenrichtlinien aktivieren_ neben jeder Variante auf der Arbeitsfläche zugegriffen werden.
+Auf eine Zusammenfassung der Informationen zur Markenvalidierung für jede generierte Inhaltsvariante kann über das Symbol _[!DNL Brand]guidelines check_ neben jeder Variante auf der Arbeitsfläche zugegriffen werden.
 
-Die Prüfung der _Markenrichtlinien_ zeigt den Prozentsatz der Konformität mit Ihrer [Marke](brands.md) an. Der Prozentsatz wird als Anzahl der [Führungslinien](overview.md) berechnet, die die Validierung bestanden haben, im Vergleich zur Anzahl der getesteten Richtlinien.
+Die Prüfung der _[!DNL Brand]Richtlinien_ zeigt den Prozentsatz der Konformität mit Ihrer [Marke](brands.md) an. Der Prozentsatz wird als Anzahl der [Führungslinien](overview.md) berechnet, die die Validierung bestanden haben, im Vergleich zur Anzahl der getesteten Richtlinien.
+
+![[!DNL Brand] Richtlinien-Prüfung](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
 
 Klicken Sie auf das Symbol , um zu sehen, wie viele Richtlinien mit Ihrer Marke konform sind und wie viele Richtlinien überprüft werden müssen.
 
@@ -33,6 +35,8 @@ Siehe [Verbessern der Markenausrichtung](#improve-brand-alignment).
 ## Fenster zur Markenvalidierung
 
 Das Bedienfeld _Markenvalidierung_ wird rechts auf der Arbeitsfläche geöffnet, wenn Sie in der oberen Menüleiste _oder_ über das Symbol _Markenrichtlinien-Check_ für eine Variante klicken. Dieses Bedienfeld enthält detaillierte Informationen zur Markenvalidierung und bietet Aufschluss über Verbesserungsmöglichkeiten für jeden Variantenabschnitt.
+
+![[!DNL Brand] Validierungsfenster](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
 
 Das Bedienfeld _Markenvalidierung_ enthält Informationen zu:
 

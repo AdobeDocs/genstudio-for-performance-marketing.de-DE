@@ -3,7 +3,7 @@ title: Überblick über [!DNL Brands],  [!DNL Products] und  [!DNL Personas]
 description: Fügen Sie [!DNL Brands], [!DNL Products], and [!DNL Personas] zu GenStudio for Performance Marketing hinzu, um ein umfassendes Markenprofil zu erstellen, das alle Aspekte der Markendarstellung umfasst.
 feature: Guidelines, Brands Service, Personas Service, Products Service
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -36,12 +36,12 @@ Durch die Integration von Marken-, Produkt- und Personendaten in GenStudio für 
 Die Richtlinien [!DNL Brands], [!DNL Products] und [!DNL Personas] ermöglichen zwei Hauptanwendungsfälle, um sicherzustellen, dass alle generierten Inhalte der gewünschten Darstellung einer Marke entsprechen:
 
 * **Inhaltserstellung** in [[!DNL Create]](/help/user-guide/create/overview.md) oder [Inhalt](/help/user-guide/content/overview.md)
-* [**Validierung der Marke**](#brand-validation), die im Rahmen der Inhaltserstellung erfolgt
+* [**Markenvalidierung**](#brand-validation), die im Rahmen der Inhaltserstellung erfolgt
 
-## Validierung der Marke
+## Markenvalidierung
 
 In Zusammenarbeit mit Adobe spielen {generative KI-Funktionen}, [!DNL Products] und [!DNL Personas] eine entscheidende Rolle, um sicherzustellen, dass all Ihre GenStudio für Performance-Marketinginhalte mit Ihrer Markenidentität übereinstimmen.[!DNL Brands]
 
 GenStudio for Performance Marketing führt eine Markenvalidierung für verschiedene Markenaspekte durch und stellt eine Checkliste für generierte Inhalte bereit, um Verbesserungsbereiche hervorzuheben, die besser an Ihre Markenidentität angepasst werden können.
 
-Siehe [Validierung der Marke](/help/user-guide/guidelines/brand-validation.md).
+Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).

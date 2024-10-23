@@ -5,9 +5,9 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 94a3b4c764e29b84fc07620994913c528ffe0cdd
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '849'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,8 @@ Wenn Sie alle Parameter hinzugefügt haben, reduzieren Sie die Eingabeaufforderu
 ## Eingabeaufforderung eingeben
 
 Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues Display-Anzeigenerlebnis zu generieren. Um die Qualität der generierten Display-Anzeigenerlebnisse zu verbessern, ist es wichtig, detaillierte und beschreibende Aufforderungen zu erstellen.
+
+![Geben Sie eine Eingabeaufforderung ein](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
 Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [Gültige Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md) .
 
@@ -115,6 +117,11 @@ Siehe [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md
 Um die generierten Display-Anzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
 1. **Um Ihre neuen Display-Anzeigenerlebnisse zu veröffentlichen, klicken Sie in der oberen Symbolleiste oder im Genehmigungsfluss auf**[!UICONTROL  Publish ]**.**
+   1. Wählen Sie _[!UICONTROL [!DNL Campaigns]]_aus und fügen Sie bei Bedarf_[!UICONTROL  Weitere Details ]_hinzu.
+   1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
+
+      ![Publish einer Display-Anzeige](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+
 1. **Um Ihre neuen Display-Anzeigenerlebnisse zu exportieren, klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Exportieren ]**.**
    1. Wählen Sie das Format - nur JPG - und klicken Sie auf **[!UICONTROL Exportieren]**.
 

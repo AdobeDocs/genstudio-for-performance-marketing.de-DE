@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing [!DNL Brands] sind eine umfassende Sammlung von Marken-Assets - Marketingkopien, Bilder, Erlebnisse und mehr -, die zur Erstellung markenorientierter Inhalte beitragen.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '802'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,8 @@ Sie können Dokumente zu Markenrichtlinien - bis zu drei PDF- oder DOC-Dateien -
 ## [!DNL Brands] Führungslinien
 
 Richtlinien geben GenStudio for Performance Marketing ein klares Bild Ihres markenspezifischen Ansatzes, Ihres Tons, Ihres visuellen Gefühls und mehr.
+
+![Markenrichtlinien](/help/assets/brands.png){width="600" zoomable="yes"}
 
 In den folgenden Richtlinien-Abschnitten werden die einzelnen Richtlinien-Kategorien, Beispielrichtlinien und potenzielle Ergebnisse beschrieben. Die Beispiele für Richtlinien sind Beispieleingaben, die die Ergebnisausgabe gestalten (Beispielergebnisse unten) - sie nutzen sie, um Ihre eigenen Markenrichtlinien zu informieren.
 

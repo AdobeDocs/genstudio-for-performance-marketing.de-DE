@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
+source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '996'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,14 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
+   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen:
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
+
+     ![visuellen Inhalt auswählen](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
      Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Position_ aus. Filtern und wählen Sie ein oder mehrere Bilder aus.
 
@@ -51,8 +55,8 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
 >[!NOTE]
->
 >Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie für jeden E-Mail-Bereich in _E-Mails mit mehreren Abschnitten_ die Option [!DNL Products] und den Inhalt (visuelle Assets) aus. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt. Sie können visuelle Assets nur zu mehrteiligen E-Mails aus [!DNL Content] hinzufügen. Sie können keine Assets per Drag-and-Drop aus Ihrer lokalen Quelle ziehen oder hochladen.
+>![Hinzufügen von Inhalten und Parametern für jeden E-Mail-Abschnitt](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 Wenn Sie alle Parameter hinzugefügt haben, können Sie die Eingabeaufforderung reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
@@ -98,9 +102,15 @@ Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenid
 **Überprüfen der Markenausrichtung**:
 
 1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
+
+   ![Prüfung der Markenrichtlinien](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+
 1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch die einzelnen E-Mails, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu sein.
+
+   ![Markenvalidierungs-Bedienfeld](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
+
 1. [Manuelles Überarbeiten von E-Mails](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng mit Ihrer Marke abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
