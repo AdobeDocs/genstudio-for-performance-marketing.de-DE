@@ -27,71 +27,38 @@ Zusammen mit den Vorteilen von [guidelines](/help/user-guide/guidelines/overview
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
-
 <tr style="border: 0;">
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-email-experience.md">
-
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-email-experience.md">
-
          <strong>E-Mail-Erlebnis erstellen</strong>
-
          </a>
-
       </div>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-meta-ad.md">
-
       <img alt="Erstellen eines Meta-Anzeigenerlebnisses" src="../../assets/icons/icon-asset.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-meta-ad.md">
-
          <strong>Erstellen eines Meta-Anzeigenerlebnisses</strong>
-
          </a>
-
       </div>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-display-ad.md">
-
       <img alt="Erstellen eines Display-Anzeigenerlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-display-ad.md">
-
          <strong>Erstellen eines Display-Anzeigenerlebnisses</strong>
-
          </a>
-
       </div>
-
    </td>
-
 </tr>
-
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten, **neue Marketinginhalte zu erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
