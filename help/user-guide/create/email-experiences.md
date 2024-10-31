@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über E-Mail-Erlebnisse in Adobe GenStudio for Pe
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: cb700de090d6a2f6a6c75afcf8a4ba118ded9527
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -53,3 +53,9 @@ Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen werden in dieser Sequenz p
 1. Überschriften, E-Mail-Hauptteil (für Einzelablage-E-Mails) und Aktionsaufrufe
 1. E-Mail-Hauptteil für nachfolgende Abschnitte (für mehrteilige E-Mails)
 1. Der Validierungsprozess der Marke erfolgt und die Überprüfung der Markenrichtlinien [__](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
+
+## Zeichenanzahl
+
+Nachdem Sie eine Reihe von E-Mail-Varianten generiert haben, wird die Zeichenzahl für jeden E-Mail-Bereich angezeigt. Bewegen Sie den Mauszeiger über einen generierten Abschnitt oder klicken Sie darauf, z. B. auf die Betreffzeile oder den Text, und sehen Sie sich den Abschnittsnamen und die Zeichenanzahl für diesen Abschnitt an.
+
+![Zeichenanzahl](/help/assets/character-count.png){width="500" zoomable="yes"}
