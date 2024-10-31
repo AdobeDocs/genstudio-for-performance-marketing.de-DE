@@ -2,10 +2,10 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-source-git-commit: c3e6e5f4213074b4093591ac06e8341c9d46c212
+source-git-commit: ea897aaf6069aa70ef73baf961f56e485eeb383e
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 1%
+source-wordcount: '369'
+ht-degree: 5%
 
 ---
 
@@ -13,7 +13,25 @@ ht-degree: 1%
 
 Diese Versionsinformationen enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## Allgemeine Verfügbarkeit 2024.10.14 - Version {#latest}
+## 2024.10.31  {#latest}
+
+### Neue Funktionen
+
+* Der Suchfilter **[!DNL Content]** unterstützt jetzt die Suche nach dem Farbtag.  <!-- GS-5501 -->
+
+* Die Arbeitsfläche **[!DNL Create]** zeigt jetzt die Zeichenanzahl für E-Mail-Fragmente an. <!-- GS-5819 -->
+
+### Fehlerkorrekturen
+
+* Zu den Elementen für Mobilgeräte und Desktop wurden fehlende Bildschirmlesehilfen-Beschriftungen hinzugefügt: `view` <!-- GS-5624 4729 -->
+
+* Die Bereiche für die E-Mail-Betreffzeile **[!DNL Create]** und den Text vor der Kopfzeile sind jetzt dynamisch in der Höhe. <!-- GS-6258 -->
+
+* Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
+
+* Der Tastaturfokus funktioniert jetzt wie erwartet auf der Schaltfläche **[!DNL Content]** **[!UICONTROL Löschen]** . Zuvor konnte diese Schaltfläche nicht über die Tastatur erreicht oder bedient werden.  <!-- GS-4065 -->
+
+## Allgemeine Verfügbarkeit 2024.10.14 - Version
 
 Mit dieser Version wird Adobe GenStudio for Performance Marketing eingeführt, eine generative KI-basierte Anwendung, die die Planung, Entwicklung und Analyse von Marketingkampagnen beschleunigt. GenStudio for Performance Marketing ermöglicht es Marketingteams, markenübergreifende Inhalte für Anzeigen, E-Mails und Kampagnen mit mehreren Kanälen zu erstellen und gleichzeitig Echtzeiteinblicke zur Optimierung der Inhaltsleistung bereitzustellen.
 
