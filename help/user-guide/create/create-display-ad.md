@@ -5,9 +5,9 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 5cd6abba1f56c9a2875c7e7dc5b94a353fc5e78e
+source-git-commit: 885900eb259246c2d86a07791a1b7070e0dbf12a
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '875'
 ht-degree: 0%
 
 ---
@@ -124,5 +124,7 @@ Um die generierten Display-Anzeigen für die aktuelle und zukünftige Verwendung
 
 1. **Um Ihre neuen Display-Anzeigenerlebnisse zu exportieren, klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Exportieren ]**.**
    1. Wählen Sie das Format - nur JPG - und klicken Sie auf **[!UICONTROL Exportieren]**.
+
+      Exportierte HTML sollten in eine vordefinierte Webeigenschaft eingefügt werden, z. B. in eine Vorlage oder einen `div` -Container. Ohne diese festgelegten Dimensionen können Bilder verzerrt erscheinen, wenn sie unabhängig betrachtet werden.
 
 Siehe [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content).
