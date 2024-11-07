@@ -5,7 +5,7 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
+source-git-commit: 5cd6abba1f56c9a2875c7e7dc5b94a353fc5e78e
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
+   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügen Sie Ihrem GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu.[
 
 1. So fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden, um die Inhaltserstellung zu beeinflussen:
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
@@ -65,7 +65,7 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
-Standardmäßig wird eine Variante - basierend auf der Eingabeaufforderung, den Richtlinien und dem hinzugefügten Inhalt - generiert und auf der Arbeitsfläche angezeigt.
+Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt - basierend auf der Eingabeaufforderung, den Richtlinien und dem hinzugefügten Inhalt.
 
 ## Generierte Display-Anzeigen überarbeiten
 

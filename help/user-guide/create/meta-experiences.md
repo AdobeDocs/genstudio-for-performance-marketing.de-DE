@@ -4,9 +4,9 @@ description: Erfahren Sie alles über Meta-Erlebnisse in Adobe GenStudio for Per
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung von Meta-Erlebnissen mit hoher Auswirkung](/help/user-guide/create/create-meta-ad.md) zu optimieren.
 
 Mit [!DNL Create] können Ersteller von Inhalten [Führungslinien](/help/user-guide/guidelines/overview.md), Bild-Assets und eine [ gut entwickelte Eingabeaufforderung](/help/user-guide/effective-prompts.md) verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
+
+Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
 Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 
