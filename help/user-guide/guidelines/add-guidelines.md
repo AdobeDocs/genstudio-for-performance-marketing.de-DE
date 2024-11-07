@@ -1,24 +1,24 @@
 ---
-title: Hinzufügen von Richtlinien zu Adobe GenStudio für Performance Marketing
-description: Erfahren Sie, wie Sie in Adobe GenStudio für Performance Marketing Richtlinien hinzufügen -[!DNL Brands], [!DNL Products] und [!DNL Personas].
+title: Hinzufügen von Richtlinien zu Adobe GenStudio for Performance Marketing
+description: Erfahren Sie, wie Sie in Adobe GenStudio for Performance Marketing Richtlinien hinzufügen -[!DNL Brands], [!DNL Products] und [!DNL Personas].
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
+source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
 workflow-type: tm+mt
-source-wordcount: '1543'
+source-wordcount: '1651'
 ht-degree: 1%
 
 ---
 
 # Richtlinien hinzufügen
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md) sind benutzerdefinierte Richtlinien in GenStudio für Performance Marketing, die sicherstellen, dass alle von KI generierten Inhalte an die Markenidentität angepasst werden, sodass Inhalte effektiv personalisiert werden können.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md) sind benutzerdefinierte Richtlinien in GenStudio for Performance Marketing, die sicherstellen, dass alle von KI generierten Inhalte an die Markenidentität angepasst werden, sodass Inhalte effektiv personalisiert werden können.
 
 Siehe [Führungslinien - Übersicht](/help/user-guide/guidelines/overview.md).
 
-Das Hinzufügen von Richtlinien zu GenStudio für Performance Marketing ist ein wichtiger Schritt im Erstellungsprozess. Die Richtlinien enthalten Informationen über den Inhaltserstellungsprozess sowie benutzerdefinierte Eingabeaufforderungen und die generative KI-Technologie von Adobe, um wirkungsvolle Assets zu erstellen.
+Das Hinzufügen von Richtlinien zu GenStudio for Performance Marketing ist ein wichtiger Schritt im Erstellungsprozess. Die Richtlinien enthalten Informationen über den Inhaltserstellungsprozess sowie benutzerdefinierte Eingabeaufforderungen und die generative KI-Technologie von Adobe, um wirkungsvolle Assets zu erstellen.
 
 ## Fügen Sie [!DNL Brands] hinzu.
 
@@ -44,7 +44,7 @@ Siehe [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 1. Wählen Sie **[!UICONTROL Marke hinzufügen]** aus.
 
-GenStudio nutzt für die Generative KI-Technologie Adobe , um Informationen aus Ihren hochgeladenen Dokumenten zu extrahieren und mit der Markenbildung zu beginnen. Sie sehen Markeninformationen wie die Richtlinien zur Markenstimme, zum Kanal und zum Bild, die ausgefüllt werden, wenn jede Richtlinie aus Ihren Markendokumenten zusammengestellt wird.
+Mithilfe der generativen Adobe-KI-Technologie extrahiert GenStudio for Performance Marketing Informationen aus Ihren hochgeladenen Dokumenten und beginnt mit der Erstellung Ihrer Marke. Sie sehen Markeninformationen wie die Richtlinien zur Markenstimme, zum Kanal und zum Bild, die ausgefüllt werden, wenn jede Richtlinie aus Ihren Markendokumenten zusammengestellt wird.
 
 Ein Popup erinnert Sie daran, den extrahierten Inhalt zu überprüfen, bevor Sie die Marke [veröffentlichen](#publish-brand).
 
@@ -72,31 +72,46 @@ Sie können manuell Markendetails hinzufügen, anstatt vorhandene Markendokument
 
 Um Ihren erstellten [!DNL Brands] anzuzeigen, klicken Sie auf den Pfeil nach hinten oben im Bedienfeld _Marke_ , um zur Startseite _[!DNL Brands]_zurückzukehren.
 
-Sie müssen Ihre Marke nicht [veröffentlichen](#publish-brand), um die Informationen zugänglich zu machen. Alle manuell hinzugefügten Informationen sind unmittelbar nach dem Hinzufügen verfügbar. Damit andere Mitarbeiter in Ihrem Unternehmen die Markeninformationen in GenStudio für Performance Marketing verwenden können, müssen Sie sie veröffentlichen.
+Sie müssen Ihre Marke nicht [veröffentlichen](#publish-brand), um die Informationen zugänglich zu machen. Alle manuell hinzugefügten Informationen sind unmittelbar nach dem Hinzufügen verfügbar. Damit andere Mitarbeiter in Ihrem Unternehmen die Markeninformationen in GenStudio for Performance Marketing verwenden können, müssen Sie sie veröffentlichen.
 
 ### Publish-Marke
 
 Bevor Sie Ihre Marke veröffentlichen, klicken Sie durch die Abschnitte _Markenrichtlinien für Stimme_, _Kanalrichtlinien_, _Richtlinien für Bilder_ und _Logos_ , um alle ausgefüllten Informationen zu überprüfen. Nehmen Sie bei Bedarf Änderungen an den Markenrichtlinien vor.
 
-**So veröffentlichen Sie die Marke**:
+**So veröffentlichen Sie einen Entwurf für Markenrichtlinien**:
 
+1. Klicken Sie im linken Navigationsbereich auf **[!UICONTROL [!DNL Brands]]**.
+
+   Für alle derzeit veröffentlichten Marken ist ein Zeichen _Veröffentlicht_ sichtbar.
+
+1. Klicken Sie auf , um eine unveröffentlichte Marke zu öffnen. Wenn die Marke nicht veröffentlicht wird, wird die Schaltfläche **[!UICONTROL Publish]** angezeigt.
+1. Überprüfen Sie im Popup-Fenster _Publish brand_ , wer Zugriff auf die veröffentlichte Marke hat.
 1. Wählen Sie **[!UICONTROL Veröffentlichen]** aus.
+1. Wählen Sie im angezeigten Popup _Publish brand_ die Option **[!UICONTROL Publish]** aus.
 
-   Überprüfen Sie im Popup-Fenster _Publish brand_ , wer Zugriff auf die veröffentlichte Marke hat (um sie anzuzeigen und zu verwenden).
+   Das Popup bestätigt, dass die Marke veröffentlicht wurde. &quot;Die neue Marke ist jetzt fertig&quot;.
 
-1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
+1. Klicken Sie auf **[!UICONTROL Fertig]** , um das Popup zu beenden.
 
-Wenn die Marke veröffentlicht wird, erscheint ein Banner, das bestätigt, dass Ihre Marke bereit zur Verwendung ist: &quot;*Marke veröffentlicht und für die Verwendung verfügbar*&quot;.
+Die Marke zeigt einen grünen Punkt und &quot;Veröffentlicht&quot;an, und es wird eine Schaltfläche **[!UICONTROL Publish]** angezeigt.
+
+**Um die Veröffentlichung einer veröffentlichten Marke rückgängig zu machen**, klicken Sie auf , um sie zu öffnen, und klicken Sie auf **[!UICONTROL Publish]**.
 
 Die veröffentlichte Marke ist jetzt für die Verwendung in _[!DNL Create]_oder_[!DNL Content]_ verfügbar.
 
 ### Verwalten von [!DNL Brands]
 
-Auf der Startseite von _[!DNL Brands]_können Sie auf **eine bereits erstellte Marke öffnen**klicken, um sie zu bearbeiten oder zu überprüfen, oder auf **Umbenennen**oder **Löschen einer Marke**aus der Liste im Aktionsmenü [!DNL Brands] klicken:
+In der Startseite von _[!DNL Brands]_können Sie auf klicken, um eine bereits erstellte Marke zu öffnen und sie zu verwalten oder zu veröffentlichen.
 
-* Klicken Sie auf einen Markenkachel, um eine Marke zu öffnen.
-* Wählen Sie im Aktionsmenü [!DNL Brands] die Option **[!UICONTROL Umbenennen]** aus, um eine vorhandene Rolle umzubenennen.
-* Wählen Sie im Aktionsmenü [!DNL Brands] die Option **[!UICONTROL Löschen]** aus, um eine Marke zu löschen.
+**So zeigen Sie eine Marke an oder ändern sie**:
+
+1. Klicken Sie im linken Navigationsbereich auf **[!UICONTROL [!DNL Brands]]**.
+1. Um die Übersichtsinformationen einer Marke anzuzeigen, klicken Sie auf , um eine definierte Marke zu öffnen.
+1. Um einzelne Details anzuzeigen oder die Markenrichtlinien zu ändern, klicken Sie oben auf [**[!UICONTROL Markenrichtlinien für Sprachausgabe]**](#brand-voice-guidelines), [**[!UICONTROL Kanalrichtlinien]**](#channel-guidelines), **[!UICONTROL Bildrichtlinien]** oder **[!UICONTROL Logos]** .
+1. Um eine vorhandene Marke umzubenennen, wählen Sie im Aktionsmenü [!DNL Brands] die Option **[!UICONTROL Umbenennen]** aus.
+1. Um eine Marke zu löschen, wählen Sie im Aktionsmenü [!DNL Brands] die Option **[!UICONTROL Löschen]** aus.
+
+Sie können Dokumente zu Markenrichtlinien - bis zu drei PDF- oder DOC-Dateien - in GenStudio for Performance Marketing hochladen, um automatisch eine Marke zu erstellen.
 
 ## Fügen Sie [!DNL Products] hinzu.
 
@@ -106,7 +121,7 @@ Klicken Sie im linken Navigationsbereich auf **[!DNL Products]**. Wählen Sie im
 
 ![Hinzufügen eines [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
 
-Sie können in GenStudio für Performance Marketing [!DNL Products] hinzufügen, um beim Erstellen von Inhalten einzelne Produktschwerpunktbereiche anzugeben.
+Sie können [!DNL Products] in GenStudio for Performance Marketing hinzufügen, um beim Erstellen von Inhalten einzelne Produktschwerpunktbereiche anzugeben.
 
 Siehe [[!DNL Products]](products.md).
 
@@ -176,7 +191,7 @@ Um eine Persona hinzuzufügen, laden Sie [einen Personenhandbuch hoch](#upload-a
 
 Klicken Sie im linken Navigationsbereich auf **[!DNL Personas]**. Wählen Sie im Bedienfeld _[!DNL Personas]_die Option **Persona hinzufügen**.
 
-Sie können in GenStudio für Performance Marketing einen [!DNL Persona] hinzufügen, um die erstellten Inhalte zielgerichtet auf Ihre ideale Zielgruppe auszurichten.
+Sie können in GenStudio for Performance Marketing eine &quot;[!DNL Persona]&quot; hinzufügen, um die erstellten Inhalte zielgerichtet auf Ihre ideale Zielgruppe auszurichten.
 
 Siehe [[!DNL Personas]](personas.md).
 

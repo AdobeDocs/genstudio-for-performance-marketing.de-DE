@@ -1,9 +1,9 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Brands]
-description: GenStudio for Performance Marketing [!DNL Brands] sind eine umfassende Sammlung von Marken-Assets - Marketingkopien, Bilder, Erlebnisse und mehr -, die zur Erstellung markenorientierter Inhalte beitragen.
+description: GenStudio for Performance Marketing [!DNL Brands] ist eine umfassende Sammlung von Marken-Assets - Marketingkopien, Bilder, Erlebnisse und mehr -, die zur Erstellung markenorientierter Inhalte beitragen.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
+source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
 workflow-type: tm+mt
 source-wordcount: '802'
 ht-degree: 1%
@@ -16,13 +16,17 @@ Eine Marke unterscheidet eine Organisation, ein Produkt, eine Dienstleistung ode
 
 GenStudio for Performance Marketing nutzt die Vielzahl von Markeninformationen Ihrer Marke, verknüpft diese mit [!DNL Product] - und [!DNL Persona] -Informationen und erstellt eine umfassende Markenidentität. Diese Markenidentität wird verwendet, um die Erstellung von Markeninhalten mithilfe der generativen KI-Technologie von Adobe zu unterstützen.
 
-**So zeigen Sie eine Marke an oder ändern sie**:
+## Verwalten von [!DNL Brands]
 
-1. Klicken Sie im linken Navigationsbereich auf **[!UICONTROL [!DNL Brands]]**.
-1. Um die Übersichtsinformationen einer Marke anzuzeigen, klicken Sie auf , um eine definierte Marke zu öffnen.
-1. Um einzelne Details anzuzeigen oder eine Marke zu ändern, klicken Sie oben auf [**[!UICONTROL Markenrichtlinien für Sprachausgabe]**](#brand-voice-guidelines), [**[!UICONTROL Kanalrichtlinien]**](#channel-guidelines), **[!UICONTROL Bildrichtlinien]** oder **[!UICONTROL Logos]** .
+Nachdem Sie GenStudio for Performance Marketing Markenrichtlinien hinzugefügt haben, können Sie diese [verwalten](/help/user-guide/guidelines/add-guidelines.md#manage-brands) und [veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung werden diese für Ihr Team zur Verfügung gestellt, das sie bei der Asset-Generierung verwenden kann.
 
-Sie können Dokumente zu Markenrichtlinien - bis zu drei PDF- oder DOC-Dateien - für Performance Marketing in GenStudio hochladen, um automatisch eine Marke zu erstellen. Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Marke zu GenStudio hinzufügen, um sie für das Performance-Marketing zu verwenden, ändern, veröffentlichen und vieles mehr.
+[!DNL Brands] kann entweder den Status _Entwurf_ oder _Veröffentlicht_ aufweisen. Neuer [!DNL brands] Beginn als _Entwurf_.
+
+Sie müssen einen [!DNL brand] veröffentlichen, um ihn für die Asset-Generierung durch Ihr Team verfügbar zu machen.
+
+Veröffentlichte [!DNL brands] können bearbeitet werden und Änderungen sind sofort verfügbar. Nur veröffentlichte [!DNL brands] können zum Erstellen und Überprüfen von Inhalten verwendet werden.
+
+Gelöschte [!DNL brands] werden 30 Tage lang archiviert und können innerhalb dieses Zeitraums abgerufen werden.
 
 ## [!DNL Brands] Führungslinien
 
@@ -84,6 +88,6 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ## Markenvalidierung
 
-In GenStudio für Performance Marketing spielt die Markenvalidierung im Zusammenhang mit den generativen KI-Funktionen von [!DNL Brands], [!DNL Products] und [!DNL Personas] eine entscheidende Rolle. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität übereinstimmt.
+In GenStudio for Performance Marketing spielt die Markenvalidierung im Zusammenhang mit der generativen KI-Funktion von [!DNL Brands], [!DNL Products] und [!DNL Personas] eine entscheidende Rolle. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität übereinstimmt.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
