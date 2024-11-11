@@ -4,9 +4,9 @@ description: Verbinden Sie ein Kanalkonto, um Ihre Adobe GenStudio for Performan
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 7b3ecc1964df3d5a3fdc5c32b1e5c80f29133560
+source-git-commit: 310a6ea3b64e223222e0664750547be1812b8ef6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing bewahrt Kanaldaten 13 Monate lang auf. Diese
 
 **So verbinden Sie ein Metadatenanzeigenkonto in GenStudio for Performance Marketing**:
 
-1. Klicken Sie in _[!DNL Insights]_auf **[!UICONTROL Ein Kanalkonto verbinden]**.
+1. Klicken Sie in _[!DNL Insights]_im Banner auf **[!UICONTROL Ein Kanalkonto verbinden]**oder oben rechts auf die Schaltfläche **[!UICONTROL Konten hinzufügen]**(Personenform mit Pluszeichen).
 
    Sie können angewiesen werden, sich bei Facebook anzumelden. Facebook ist derzeit die einzige verfügbare Option.
 
