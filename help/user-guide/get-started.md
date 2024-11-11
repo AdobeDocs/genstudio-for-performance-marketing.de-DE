@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie mit GenStudio for Performance Marketing begin
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 6454090c9fffb4b288b615680597b80e5b71a89c
+source-git-commit: 3c391753ebd0d19ad7dcb17870915eeccc55cc05
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -49,16 +49,28 @@ Sie können Führungslinien-Dokumente hochladen oder sie konsultieren, wenn Sie 
 
 Ein GenStudio-Systemmanager kann das zugrunde liegende generative KI-Framework des Produkts vorbereiten, indem Sie manuell die spezifischen Markenanforderungen Ihres Unternehmens eingeben oder hochladen. Obwohl die Einrichtung der Markenrichtlinien eines Unternehmens eine einmalige Aktion ist, können Sie diese Richtlinien auf Grundlage der Volatilität, des Wachstums und der sich ändernden Marktbedingungen in Ihrem Unternehmen überarbeiten und verbessern.
 
-### Schritt 2: Vorlagen hochladen
+## Schritt 2: Einrichten eines Adobe Admin Console-Projekts für GenStudio [!DNL Brands]
+
+Systemadministratoren müssen zusätzliche Einrichtungsaufgaben ausführen, bevor sie [!DNL Brands] bearbeiten oder erstellen können. Adobe-Systemadministratoren führen diese Aufgaben in der Adobe Admin Console aus:
+
+* Erstellen Sie eine neue Benutzergruppe, die alle Benutzer enthält, die bearbeitet werden müssen, und erstellen Sie [!DNL Brands] -Berechtigungen.
+
+* Erstellen Sie ein neues Projekt in der Adobe Admin Console.
+
+Siehe [Zuweisen von Markenberechtigungen](configure-brand-permissions.md).
+
+### Schritt 3: Vorlagen hochladen
 
 Vorlagen beschleunigen die Inhaltserstellung. Eine Vorlage enthält genehmigte Funktionen wie Kopf- und Fußzeilen und ist für bestimmte Kanäle optimiert. Systemmanager laden normalerweise Vorlagen für ihre Organisation hoch und verwalten sie. Inhaltseditoren verwenden Vorlagen, um den Inhaltserstellungsprozess innerhalb der festgelegten Grenzen der Organisationsmarke zu starten.
 
-Anweisungen zum Anpassen und Hochladen von Vorlagen finden Sie unter [Arbeiten mit Vorlagen](./content/use-templates.md) .
+Siehe [Arbeiten mit Vorlagen](./content/use-templates.md).
 
-### Schritt 3: Hochladen genehmigter Assets
+### Schritt 4: Hochladen genehmigter Assets
 
-Genehmigte Assets in [!DNL Content] stehen allen GenStudio for Performance Marketing-Editoren zur Verfügung. Sie können [!DNL Content] mit Assets füllen, damit Inhaltseditoren neue Erlebnisse oder Assets erstellen können. Anleitungen zum Hochladen und Verwalten von Assets finden Sie unter [Hochladen genehmigter Assets](./content/manage-assets.md) .
+Genehmigte Assets in [!DNL Content] stehen allen GenStudio for Performance Marketing-Editoren zur Verfügung. Sie können [!DNL Content] mit Assets füllen, damit Inhaltseditoren neue Erlebnisse oder Assets erstellen können.
 
-### Schritt 4: Verbindung zu einem Meta (Facebook)-Konto herstellen
+Siehe [Hochladen genehmigter Assets](./content/manage-assets.md).
+
+### Schritt 5: Verbindung zu einem Meta (Facebook)-Konto herstellen
 
 Konfigurieren Sie eine Verbindung zwischen GenStudio for Performance Marketing und den Social-Konten Ihres Unternehmens, um Daten aus Ihren aktiven Marketing-Kampagnen, -Assets und -Erlebnissen zu erhalten. [[!DNL Insights]](./insights/overview.md) bietet Tools zur Analyse von kanalabgeleiteten Daten. Siehe [Verbindung zu einem Meta (Facebook)-Konto herstellen](./insights/connect-channel.md#meta-ads-connect).
