@@ -3,10 +3,12 @@ title: Attributkategorien
 description: Erfahren Sie mehr über die in GenStudio for Performance Marketing verwendeten Attributkategorien.
 feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
-source-git-commit: 3b5fc55595f766db0327b6aefb0e29c3896e00c0
+last-substanial-update: 2024-11-11T00:00:00Z
+exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
+source-git-commit: 13b5e63afffc5a88d6d8c98fddac6d2d85f6e862
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 1%
+source-wordcount: '607'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +16,7 @@ ht-degree: 1%
 
 Eine Attributkategorie ist eine Classification-Gruppe, die verwandte Attribute organisiert, die ein gemeinsames Merkmal aufweisen. Diese Kategorien helfen bei der Optimierung der Erkennung, Identifizierung und des Verständnisses bestimmter Attribute, indem sie einen größeren Kontext bieten und deren Anwendung und Verwendung erleichtern.
 
-GenStudio for Performance Marketing nutzt Adobe-API- und maschinelle Lernfunktionen, um Bilder, Videos und Texte zu untersuchen und [!UICONTROL Asset] auf der Grundlage des Vertrauensgrads anzuwenden. _Konfidenz_ bezieht sich auf die Wahrscheinlichkeit, mit der die KI einer Vorhersage oder Klassifizierung zuweist. Im Kontext des maschinellen Lernens ist es eine Art Scoring, das misst, wie &quot;sicher&quot;die KI ist, dass die Classification korrekt ist. Je höher die Konfidenzauswertung, desto größer die Gewissheit. Beispielsweise kann die KI bei der Analyse eines Bildes mehrere Funktionen identifizieren und jedem einen Wert zuweisen, der angibt, wie sicher die Funktion ist. Die Attributliste eines Assets ist nicht vollständig. Assets mit einer Vielzahl von Funktionen kann auf einen Vertrauensschwellenwert beschränkt werden, wie z. B. die drei am weitesten verbreiteten Merkmale.
+GenStudio for Performance Marketing nutzt Adobe-API- und maschinelle Lernfunktionen, um Bilder, Videos und Texte zu untersuchen und [!UICONTROL Asset] auf der Grundlage einer Wahrscheinlichkeit der Richtigkeit anzuwenden. Die Attributliste eines Assets ist nicht vollständig. Assets, die eine Vielzahl von Funktionen enthalten, kann auf die drei wichtigsten von der KI identifizierten Funktionen beschränkt sein.
 
 ## Bildfunktionen
 
