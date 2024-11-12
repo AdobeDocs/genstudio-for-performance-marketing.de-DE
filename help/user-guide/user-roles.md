@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über GenStudio for Performance Marketing-Benutze
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
+source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1115'
 ht-degree: 10%
 
 ---
@@ -32,6 +32,10 @@ Siehe [Administratorrollen](https://helpx.adobe.com/enterprise/using/admin-roles
 ## Berechtigungen
 
 _Berechtigungen_ gewähren Berechtigungen zum Ausführen bestimmter Aufgaben und zum Zugriff auf geschützte Ressourcen. Berechtigungen werden in der Benutzerrolle im Produktprofil definiert und Benutzer erhalten diese Berechtigungen, wenn sie dieser Rolle zugewiesen werden.
+
+>[!IMPORTANT]
+>
+>Fügen Sie keine neuen Produktprofile hinzu oder bearbeiten oder löschen Sie diese. Das Ändern der Standard-Produktprofile kann Ihre GenStudio for Performance Marketing-Implementierung ernsthaft stören.
 
 ## Benutzerrollen
 

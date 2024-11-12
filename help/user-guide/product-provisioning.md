@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Bereitstellung des GenStudio for Perfor
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
+source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Ein Adobe-Systemadministrator führt die ersten Bereitstellungsaufgaben in der [
 >[!NOTE]
 >
 >Nur Adobe-Systemadministratoren können Aktivierungsaufgaben implementieren, die Zugriff auf Adobe Admin Console erfordern.
+
+>[!IMPORTANT]
+>
+>Fügen Sie keine neuen Produktprofile hinzu oder bearbeiten oder löschen Sie diese. Das Ändern der Standard-Produktprofile kann Ihre GenStudio for Performance Marketing-Implementierung ernsthaft stören.
 
 ## Schritt 1: Zugriff auf das Produktprofil in Adobe Admin Console
 
