@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
+source-git-commit: b644a69fd63c8b1deaf42736659dfe9b3b6bd8ab
 workflow-type: tm+mt
 source-wordcount: '1651'
 ht-degree: 1%
@@ -20,6 +20,8 @@ Siehe [Führungslinien - Übersicht](/help/user-guide/guidelines/overview.md).
 
 Das Hinzufügen von Richtlinien zu GenStudio for Performance Marketing ist ein wichtiger Schritt im Erstellungsprozess. Die Richtlinien enthalten Informationen über den Inhaltserstellungsprozess sowie benutzerdefinierte Eingabeaufforderungen und die generative KI-Technologie von Adobe, um wirkungsvolle Assets zu erstellen.
 
+{{in-academy}}
+
 ## Fügen Sie [!DNL Brands] hinzu.
 
 Um eine Marke hinzuzufügen, laden Sie [ein Markenhandbuch hoch](#upload-a-brand) oder [erstellen Sie manuell eine Marke](#manually-add-brand), indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Publish eine Marke](#publish-brand) bis [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
@@ -27,6 +29,7 @@ Um eine Marke hinzuzufügen, laden Sie [ein Markenhandbuch hoch](#upload-a-brand
 Klicken Sie im linken Navigationsbereich auf **[!DNL Brands]**. Wählen Sie im Bedienfeld _[!DNL Brands]_die Option **Marke hinzufügen**aus.
 
 >[!TIP]
+>
 >Jede Marke arbeitet unabhängig, ohne hierarchische Beziehungen. Wenn Sie Untermarken unter einer übergeordneten Marke erstellen möchten, schließen Sie während des Erstellungsprozesses die Informationen der übergeordneten Marke ein.
 
 ### Eine Marke hochladen
