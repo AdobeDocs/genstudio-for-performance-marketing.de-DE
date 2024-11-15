@@ -3,9 +3,9 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: edd27a6151cb81213ee27813beb4ecee835a1229
+source-git-commit: a2c2a39a8ed69a36c7126312ac42f6e02dd0598e
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '735'
 ht-degree: 1%
 
 ---
@@ -35,6 +35,19 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugewiesen
 ## In Express bearbeiten
 
 Sie können Bild-Assets (JPG oder PNG) direkt in GenStudio for Performance Marketing mit Adobe Express bearbeiten. Die Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ bietet praktische Funktionen zur Verbesserung Ihrer Bilder, ohne die GenStudio-Anwendung verlassen zu müssen. Sie können einfach Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
+
+>[!BEGINSHADEBOX]
+
+Kriterien für die Verbesserung von Bildern mit der Funktion [!DNL Edit in Adobe Express]:
+
+- Zu den unterstützten MIME-Typen gehören `image/png` und `image/jpeg`
+- Die Mindestbildabmessungen betragen 50 x 50 Pixel.
+- Die maximale Bildgröße beträgt 8000 x 8000 Pixel.
+- Die maximale Größe beträgt 40 MB (40.000.000 Byte)
+
+>[!ENDSHADEBOX]
+
+**So bearbeiten Sie ein Asset mit Express**:
 
 1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
 
@@ -91,7 +104,7 @@ In der folgenden Tabelle sind die Metadaten (Asset-Details) aufgeführt, die Sie
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) zur Verwendung zu GenStudio for Performance Marketing hinzugefügt |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zur Verwendung zu GenStudio for Performance Marketing hinzugefügt |
 | Kanäle | Inhaltstypen in GenStudio for Performance Marketing, für die das Asset verwendet wird, z. B. E-Mail- und Metadatenanzeigen |
-| Zeitrahmen | Zeitraum, für den das Asset verwendet wurde, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` |
+| Zeitrahmen | Zeitraum, für den das Asset verwendet wird, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` |
 | Region | Regionen, für die das Asset verwendet wird. Beispiele: `North America`, `APAC`, `Italy` |
 | Sprache | Sprachen, für die das Asset verwendet wird. Beispiel: `Spanish` |
 | Keywords | Schlüsselwörter, die zur weiteren Identifizierung von Asset-Eigenschaften und -Zweck verwendet werden |
