@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing-Konzepte
 description: Erfahren Sie mehr über Adobe GenStudio for Performance Marketing-Konzepte und -Terminologie.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
+source-git-commit: e8a210a22856683f7d61c5309c451689e445c8fe
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -16,26 +16,33 @@ GenStudio for Performance Marketing ist ein eigenständiges Unternehmensprodukt,
 
 Mit GenStudio for Performance Marketing können Sie:
 
-* Erstellen von Markeninhalten mit kostenlosen Sprachaufforderungen
+* Erstellen Sie Markeninhalte mit kostenlosen Sprachaufforderungen für Ihre wichtigsten digitalen Kanäle wie Paid Media, E-Mail und Display-Anzeigen.
+
 * Zusammenarbeit mit Interessengruppen zur Überprüfung und Genehmigung generierter Inhalte
 * Speichern generierter und genehmigter Inhalte für den Zugriff auf zukünftige Marketing-Kampagnen
-* Bewerten der Inhaltsleistung mit Einblicken über Kampagnen und Inhaltsattribute
+* Bewertung der Inhaltseffizienz durch Analyse der Asset-Leistung und Identifizierung von Schlüsselattributen der leistungsfähigsten Inhalte
 
 ## Generische KI-Technologie
 
 GenStudio for Performance Marketing nutzt die Leistung generativer KI, um den Inhaltserstellungsprozess zu beschleunigen und eine hochwertige Inhaltserstellung zu gewährleisten. Der iterative Lebenszyklus Ihrer kreativen Assets führt zu immer präziseren und markenorientierten Inhalten, die mit Ihrer Zielgruppe übereinstimmen.
 
-Beginnen Sie mit einer effektiven Schulung von GenStudio for Performance Marketing für das Branding, die Kundenpersonals und die Produktbeschreibungen Ihres Unternehmens mithilfe der leistungsstarken Markenrichtlinien-Funktion. Informationen zur Vorbereitung und zum Hochladen dieser Richtlinien finden Sie in der [Übersicht über die Richtlinien](../user-guide/guidelines/overview.md) .
+Beginnen Sie mit der Erfassung von Marken, Kundenpersonals und Produktbeschreibungen in Ihrem Unternehmen mithilfe der leistungsstarken Markenrichtlinien-Funktion. Informationen zur Vorbereitung und zum Hochladen dieser Richtlinien finden Sie in der [Übersicht über die Richtlinien](../user-guide/guidelines/overview.md) .
 
 {{in-academy}}
 
+## Große Sprachmodelle
+
+GenStudio for Performance Marketing nutzt die generative Adobe-KI-Plattform, die grundlegende KI- und maschinelle Lerndienste (ML) anbietet. Diese Plattform vereinfacht den Einsatz von großen Sprachmodellen (LLMs) und ermöglicht so die Erstellung ansprechender Erlebnisse durch Adobe GenAI.
+
+GenStudio for Performance Marketing verwendet die GPT-Reihe von LLMs von Drittanbietern über Azure OpenAI.<!-- Claude, and Gemini models. -->
+
 ## Data Governance
 
-Wenn Sie mit AI arbeiten, um Inhalte zu generieren, müssen Sie sicherstellen, dass die Ausgabe für alle Benutzer sicher und inklusiv ist. Dies erfordert die Bewertung des Inhalts auf potenzielle schädliche Verzerrungen, Hassreden, anstößiges Material oder Profitabilität. Durch Tests aus vielfältigen Perspektiven, eine umfassende ethische Überprüfung und die Implementierung effektiver Abhilfepläne ist es wichtig, schädliche Inhalte in den Produkten zu verhindern.
+Wenn Sie mit AI arbeiten, um Inhalte zu generieren, müssen Sie sicherstellen, dass die Ausgabe für alle Benutzer sicher und inklusiv ist. Dies erfordert die Bewertung des Inhalts auf potenzielle schädliche Verzerrungen, Hassreden, anstößiges Material oder Profitabilität. Adobe testet die Inhaltserstellungstechnologie aus vielfältigen Perspektiven gründlich, führt umfassende ethische Prüfungen durch und implementiert wirksame Abhilfepläne, um zu verhindern, dass schädliche Inhalte in Produkten entstehen.
 
-Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und gewährleistet die Einhaltung von Adobe Trust &amp; Safety and Ethics-Richtlinien.
+Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und gewährleistet die Einhaltung der [Adobe Trust &amp; Safety and Ethics Policy](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf)-Richtlinien.
 
-GenStudio for Performance Marketing umfasst Abmilderungspläne, um die Verwendung identifizierter schädlicher oder voreingestellter Inhalte gemäß Data Governance-Standards und -Richtlinien zu verhindern. Wenn solche Inhalte erkannt werden, werden Sie darauf hingewiesen, dass die Asset-Erstellung mit der Meldung &quot;Kann nicht generiert werden&quot;blockiert wird.
+GenStudio for Performance Marketing umfasst Abmilderungspläne, um die Verwendung identifizierter schädlicher oder voreingestellter Inhalte gemäß Adobe Data Governance-Standards und -Richtlinien zu verhindern. Wenn solche Inhalte erkannt werden, werden Sie darauf hingewiesen, dass die Asset-Erstellung mit der Meldung &quot;Kann nicht generiert werden&quot;blockiert wird.
 
 Wenn diese Meldung angezeigt wird, können Sie die Eingabeaufforderung bearbeiten und erneut versuchen, _oder_ die Kennzeichnung des Eingabeinhalts für die Überprüfung durch GenStudio for Performance Marketing durchzuführen. Die Eingabeaufforderungsdaten für Inhalte, die zur Überprüfung gekennzeichnet sind, werden zu internen Überprüfungszwecken erfasst.
 
