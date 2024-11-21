@@ -2,10 +2,11 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
+last-substanial-update: 2024-11-14T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 958ad60d1d9a88e0dd4cba0decf8da8bc398d542
+source-git-commit: 720b23061d7e56a9b1e712d7787158c6a1bb771c
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '791'
 ht-degree: 2%
 
 ---
@@ -28,7 +29,7 @@ Unterstützung für Rich-Media-Vorlagen hinzugefügt, sodass Kunden Assets wiede
 
 * Die Schaltflächen im Popup [!DNL Content] _Erlebnisse_ **[!UICONTROL Exportieren]** sind in bestimmten Sprachen nicht mehr abgeschnitten. <!-- GS-6873 -->
 
-* Display-Anzeigen, die mit Vorlagen mit einer Größe von 50 x 50 erstellt wurden, werden jetzt in die erwartete Bildgröße exportiert. Zuvor wurden exportierte PNG-Dateien mit doppelt so hohen Dimensionen exportiert. <!-- GS-7192 -->
+* Display-Anzeigen, die mit Vorlagen mit einer Größe von 50 x 50 erstellt wurden, werden jetzt in die erwartete Bildgröße exportiert. Zuvor wurden PNG-Dateien mit doppelt so großen Dimensionen exportiert. <!-- GS-7192 -->
 
 * Vorlagenfehler, die beim Ändern der Größe von Display-Anzeigen aufgetreten sind, wurden jetzt behoben. <!-- GS-7322 -->
 
@@ -36,11 +37,13 @@ Unterstützung für Rich-Media-Vorlagen hinzugefügt, sodass Kunden Assets wiede
 
 Diese Version enthält Verbesserungen der Lokalisierung in der gesamten Benutzeroberfläche, einschließlich:
 
-* Alle Zeichenfolgen des Popup-Fensters [!DNL Content] _Asset hochladen_ sind jetzt korrekt lokalisiert. <!-- GS-6872 6770 -->
+* Alle Zeichenfolgen im Popup [!DNL Content] _Asset hochladen_ sind jetzt korrekt lokalisiert. <!-- GS-6872 6770 -->
 * Alle QuickInfos im Feld [!DNL Content] _Assets_ view **[!UICONTROL Search]** sind lokalisiert. <!-- GS-6879 -->
 * Wenn ein vorhandenes Bild in einer E-Mail-Variante auf der Arbeitsfläche [!DNL Create] ersetzt wird, ist die Ansicht _Aus Inhalt auswählen_ jetzt lokalisiert. <!-- GS-6906 -->
 
-## 2024.11.07
+## Frühere Versionshinweise
+
++++ Anmerkungen aus dem Jahr 2024.11.07
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -84,7 +87,9 @@ Diese Version enthält Verbesserungen der Lokalisierung in der gesamten Benutzer
 
 * Das Regenerieren von Meta-Anzeigenbildern nach der Größenanpassung führt nicht mehr zu einem Fehler. Zuvor wurden durch die Größenanpassung von Bildern vor der Neuerstellung die Kanalmetadaten von `meta` in `facebook` <!-- GS-7042 --> geändert.
 
-## 2024.10.31
++++
+
++++ Anmerkungen aus dem Jahr 2024.10.31
 
 ### Neue Funktionen
 
@@ -122,10 +127,4 @@ Zu den wichtigsten Produktfunktionen gehören:
 
 GenStudio for Performance Marketing kann mit anderen Adobe Experience Cloud-Produkten integriert werden, einschließlich Adobe Expreß und Adobe AEM Assets.
 
-### Weitere Informationen
-
-Weitere Informationen finden Sie in den folgenden hilfreichen Ressourcen:
-
-* [Adobe GenStudio for Performance Marketing-Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
-
-* [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy), Online-Lernplattform für die Nutzung generativer KI-Technologien im Kreativprozess.
++++
