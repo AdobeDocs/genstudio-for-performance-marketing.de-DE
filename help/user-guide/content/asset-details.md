@@ -3,10 +3,10 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: a2c2a39a8ed69a36c7126312ac42f6e02dd0598e
+source-git-commit: 7cb19de7f1fe61465046b0d27a528c2f5e1a4d5e
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '508'
+ht-degree: 2%
 
 ---
 
@@ -26,50 +26,15 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugewiesen
    >
    >Wenn der Abschnitt _[!UICONTROL Details]_ nicht angezeigt wird, klicken Sie auf das Symbol **[!UICONTROL Informationen]** (i).
 
-   Asset-Details umfassen Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet werden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
+Asset-Details umfassen Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet werden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
+
+Das folgende Bild-Asset enthält Systemmetadaten, die den Dateityp, die Größe und andere Eigenschaften, ein benutzerdefiniertes Keyword sowie mehrere von AI erkannte Attribute und Farben beschreiben.
+
+![Details eines Assets mit mehreren Tags](/help/assets/content-asset-details.png)
 
 >[!NOTE]
 >
 >Assets aus AEM Repositorys zeigt unterschiedliche Metadaten an. Informationen zum Konfigurieren von [!DNL AEM Assets Content Hub] Asset-Details finden Sie unter [Konfigurieren der Asset-Sichtbarkeit](connect-aem-repo.md#step-4-configure-asset-visibility) .
-
-## In Express bearbeiten
-
-Sie können Bild-Assets (JPG oder PNG) direkt in GenStudio for Performance Marketing mit Adobe Express bearbeiten. Die Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ bietet praktische Funktionen zur Verbesserung Ihrer Bilder, ohne die GenStudio-Anwendung verlassen zu müssen. Sie können einfach Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
-
->[!BEGINSHADEBOX]
-
-Kriterien für die Verbesserung von Bildern mit der Funktion [!DNL Edit in Adobe Express]:
-
-- Zu den unterstützten MIME-Typen gehören `image/png` und `image/jpeg`
-- Die Mindestbildabmessungen betragen 50 x 50 Pixel.
-- Die maximale Bildgröße beträgt 8000 x 8000 Pixel.
-- Die maximale Größe beträgt 40 MB (40.000.000 Byte)
-
->[!ENDSHADEBOX]
-
-**So bearbeiten Sie ein Asset mit Express**:
-
-1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
-
-1. Klicken Sie in der Asset-Ansicht oben rechts auf das Symbol **[!UICONTROL Im Adobe Expreß bearbeiten]** .
-
-1. Verwenden Sie in der Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
-
-1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken Sie oben rechts auf **[!UICONTROL Kopie speichern]** .
-
-1. Wählen Sie das Dateiformat - JPG oder PNG - aus und klicken Sie auf **[!UICONTROL Kopie speichern]**.
-
-1. Aktualisieren Sie im Popup _[!UICONTROL Speichern einer Kopie des Assets]_ den **[!UICONTROL Asset-Namen]**.
-
-   - Wählen Sie **[!UICONTROL Gleiche Details wie das ursprüngliche Asset]** aus, um die Asset-Details in das neue Bild zu übertragen.
-
-   - Erweitern Sie den Abschnitt **[!UICONTROL Mehr Details]** , um die Kampagnen, Richtlinien und andere Metadaten zu aktualisieren.
-
-   >[!TIP]
-   >
-   >Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio for Performance Marketing. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
-
-1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ## Systemmetadaten
 
@@ -107,7 +72,7 @@ In der folgenden Tabelle sind die Metadaten (Asset-Details) aufgeführt, die Sie
 | Zeitrahmen | Zeitraum, für den das Asset verwendet wird, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` |
 | Region | Regionen, für die das Asset verwendet wird. Beispiele: `North America`, `APAC`, `Italy` |
 | Sprache | Sprachen, für die das Asset verwendet wird. Beispiel: `Spanish` |
-| Keywords | Schlüsselwörter, die zur weiteren Identifizierung von Asset-Eigenschaften und -Zweck verwendet werden |
+| Keywords | Benutzerdefinierte Schlüsselwörter, die zur weiteren Identifizierung von Asset-Eigenschaften und -Zweck verwendet werden |
 
 <!-- ## History
 
