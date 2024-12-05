@@ -1,8 +1,8 @@
 ---
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 39%
+source-wordcount: '311'
+ht-degree: 38%
 
 ---
 # GenStudio for Performance Marketing-Dokumentation
@@ -38,7 +38,7 @@ Weitere Informationen finden Sie im [Handbuch für Mitwirkende an der Adobe-Doku
 Alle Artikel in diesem Repository verwenden GitHub-Flavored Markdown. Wenn Sie mit Markdown nicht vertraut sind, lesen Sie:
 
 - [Markdown-Grundlagen](https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Druckbare Markdown-Anleitung](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Druckbares Markdown-Cheatsheet](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## Kennzeichnungen
 

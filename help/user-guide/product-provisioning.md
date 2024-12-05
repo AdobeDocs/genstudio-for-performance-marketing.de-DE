@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über die Bereitstellung des GenStudio for Perfor
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -65,4 +65,4 @@ Sie können Benutzer einzeln hinzufügen oder Kontoinformationen für mehrere Be
 
 * [Verwalten mehrerer Benutzer/Massen-CSV-Upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
 
-Sobald Sie Benutzer in die GenStudio for Performance Marketing Ihres Unternehmens integriert haben, kann ein Genstudio-Systemmanager [die Marken- und Medienrichtlinien Ihres Unternehmens einrichten](get-started.md).
+Nachdem Sie Benutzer in die GenStudio for Performance Marketing Ihres Unternehmens integriert haben, kann ein GenStudio-Systemmanager die Marken- und Medienrichtlinien Ihres Unternehmens [ einrichten.](get-started.md)
