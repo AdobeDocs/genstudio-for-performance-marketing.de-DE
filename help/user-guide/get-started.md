@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie mit GenStudio for Performance Marketing begin
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: fd49abb491477b0a8ed5b1f646219458efc49365
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 2%
@@ -49,7 +49,7 @@ Sie können Führungslinien-Dokumente hochladen oder sie konsultieren, wenn Sie 
 
 Ein GenStudio-Systemmanager kann das zugrunde liegende generative KI-Framework des Produkts vorbereiten, indem Sie manuell die spezifischen Markenanforderungen Ihres Unternehmens eingeben oder hochladen. Obwohl die Einrichtung der Markenrichtlinien eines Unternehmens eine einmalige Aktion ist, können Sie diese Richtlinien auf Grundlage der Volatilität, des Wachstums und der sich ändernden Marktbedingungen in Ihrem Unternehmen überarbeiten und verbessern.
 
-## Schritt 2: Einrichten eines Adobe Admin Console-Projekts für GenStudio [!DNL Brands]
+### Schritt 2: Einrichten eines Adobe Admin Console-Projekts für GenStudio [!DNL Brands]
 
 Systemadministratoren müssen zusätzliche Einrichtungsaufgaben ausführen, bevor sie [!DNL Brands] bearbeiten oder erstellen können. Adobe-Systemadministratoren führen diese Aufgaben in der Adobe Admin Console aus:
 
