@@ -3,9 +3,9 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 3a32c26ff746989798842afa5798ffa397a19ef8
+source-git-commit: 802ee1b5c403394b66567bbe4bffbda8124f3624
 workflow-type: tm+mt
-source-wordcount: '1166'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Die Galerie zeigt eine Bestandsaufnahme genehmigter Assets, Erlebnisse oder Vorl
 
 Im Folgenden finden Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONTROL Assets]:
 
-![Assets-Ansicht mit Suche nach Hund](../../assets/content-assets.png)
+![Assets-Ansicht mit Suche nach Hund](/help/assets/content-assets.png)
 
 ### Suchinhalt
 
@@ -120,7 +120,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
 
-1. Klicken Sie in der Asset-Ansicht oben rechts auf das Symbol &quot;**[!UICONTROL Löschen]**&quot;(Papierkorb).
+1. Klicken Sie in der Asset-Ansicht oben rechts auf &quot;**[!UICONTROL Löschen]**&quot;(Papierkorb).
 
 1. Überprüfen Sie im Popup _Asset löschen_ das Asset und klicken Sie auf **[!UICONTROL Löschen]**.
 
@@ -155,7 +155,7 @@ Kriterien für die Verbesserung von Bildern mit der Funktion [!DNL Edit in Adobe
 
    - Wählen Sie **[!UICONTROL Gleiche Details wie das ursprüngliche Asset]** aus, um die Asset-Details in das neue Bild zu übertragen.
 
-   - Erweitern Sie den Abschnitt **[!UICONTROL Mehr Details]** , um die Kampagnen, Richtlinien und andere Metadaten zu aktualisieren.
+   - Erweitern Sie den Abschnitt **[!UICONTROL Mehr Details]** , um die Richtlinien und anderen Metadaten zu aktualisieren.
 
    >[!TIP]
    >

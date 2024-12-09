@@ -4,18 +4,25 @@ description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio for Perform
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: f95848546abc2decbb5ac52491307977820ce503
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Vorlagen anpassen
 
-Passen Sie Ihre HTML-Vorlagen für Adobe GenStudio for Performance Marketing mithilfe der Vorlagensprache _Handlebars_ an. Die Syntax [!DNL Handlebars] verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Informationen zur Vorbereitung Ihrer Vorlage finden Sie unter [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars-Sprachleitfaden_ .
+Sie können eine Vorlage für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter für Inhalte oder Felder einfügen, die von der generativen KI zum Einfügen von Inhalten verwendet werden.
 
-In den nächsten Abschnitten wird beschrieben, wie Sie Platzhalter für Inhalte hinzufügen, unnötige Elemente aus der Vorschau ausblenden und Links zu statischen Inhalten verwalten. Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing](use-templates.md#upload-a-template) hochladen und mit der Generierung personalisierter E-Mails auf der Basis Ihrer benutzerdefinierten Vorlage beginnen.
+In den nächsten Abschnitten wird beschrieben, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der Vorlagensprache _Handlebars_ anpassen. Die Syntax [!DNL Handlebars] verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Siehe [Was ist  [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars language guide_ , um zu erfahren, wie Sie Ihre Vorlage vorbereiten.
+
+
+Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing](use-templates.md#upload-a-template) hochladen und mit der Generierung personalisierter E-Mails auf der Basis Ihrer benutzerdefinierten Vorlage beginnen.
+
+>[!TIP]
+>
+>Befolgen Sie die [Richtlinien zur Barrierefreiheit](accessibility-for-templates.md) und [Best Practices](/help/user-guide/content/best-practices-for-templates.md) , damit Sie mehr Zielgruppen erreichen und ein optimales Erlebnis bieten können.
 
 ## Inhalts-Platzhalter
 
@@ -34,14 +41,14 @@ Sie können beispielsweise `{{ headline }}` mit der Syntax [!DNL Handlebars] ver
 In der folgenden Tabelle sind die von GenStudio for Performance Marketing für die Population erkannten Feldnamen in Vorlagen aufgeführt. Fügen Sie diese Feldnamen mithilfe der Syntax [!DNL Handlebars] zu Ihrer Vorlage hinzu, wo GenStudio for Performance Marketing zum Generieren von Inhalten erforderlich ist.
 
 | Feld | Rolle | Kanalvorlage |
-| -------------- | ---------------------- | ------------------------------ |
-| `pre_header` | Pre-Header | email |
-| `headline` | Überschrift | email <br>Meta-Anzeige |
-| `body` | Textkopie | email <br>Meta-Anzeige |
-| `cta` | Aktionsaufruf | email <br>Meta-Anzeige |
-| `on_image_text` | Im Bildtext | Meta-Anzeige |
-| `image` | Bild | email <br>Meta-Anzeige |
-| `brand_logo` | Logo der ausgewählten Marke<br>Siehe [Markenname des Logos](#brand-logo-field-name) für die empfohlene Verwendung. | email<br>Meta-Anzeige |
+| ------------------ | ---------------------- | -------------------------------- |
+| `{{pre_header}}` | Pre-Header | email |
+| `{{headline}}` | Überschrift | email <br>Meta ad <br>Display-Anzeige |
+| `{{body}}` | Textkopie | email <br>Meta ad <br>Display-Anzeige |
+| `{{cta}}` | Aktionsaufruf | email <br>Meta ad <br>Display-Anzeige |
+| `{{on_image_text}}` | Im Bildtext | Meta-Anzeige |
+| `{{image}}` | Bild - aus Inhalt auswählen | email <br>Meta ad <br>Display-Anzeige |
+| `{{brand_logo}}` | Logo der ausgewählten Marke<br>Siehe [Markenname des Logos](#brand-logo-field-name) für die empfohlene Verwendung. | email<br>Meta-Anzeige |
 
 GenStudio for Performance Marketing füllt bestimmte Felder automatisch in den folgenden Vorlagen aus:
 
@@ -93,23 +100,27 @@ Um einen bearbeitbaren Abschnitt zu erstellen, fügen Sie um den Abschnittsnamen
 
 _Abschnitte_ informieren GenStudio for Performance Marketing darüber, dass die Felder in diesem Abschnitt einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit den kreativen Elementen im Abschnitt übereinstimmen.
 
-Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Sie können beispielsweise Inhalte in einem hervorgehobenen Bereich markieren:
+Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Verwenden Sie einen Feldnamen (`headline`, `body`, `image` oder `cta`) nach dem Unterstrich (`_`). Beispielsweise gehören die folgende Überschrift und der folgende Text zum Abschnitt `pod1` :
 
 - `pod1_headline`
 - `pod1_body`
 
-Jeder Abschnitt kann nur einen Feldtyp verwenden. Im obigen Beispiel kann der Abschnitt `pod1` nur ein einziges `pod1_headline` -Feld verwenden.
+Jeder Abschnitt kann nur einen Feldtyp verwenden. Im obigen Beispiel kann der Abschnitt `pod1` nur ein einziges `pod1_headline` -Feld verwenden. Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
 
-Eine Vorlage kann aus bis zu drei Bereichen bestehen:
+Eine E-Mail-Vorlage kann bis zu drei Abschnitte umfassen. Die folgende Liste enthält beispielsweise drei Überschriften- und Textabschnitte:
 
-- `headline`
-- `body`
+- `pre-header`
 - `pod1_headline`
 - `pod1_body`
 - `pod2_headline`
 - `pod2_body`
+- `pod3_headline`
+- `pod3_body`
+- `cta`
 
 GenStudio for Performance Marketing versteht, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verwandt ist.
+
+Unter [Strukturierte Aufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) erfahren Sie, wie Sie eine Eingabeaufforderung erstellen, die für jeden Abschnitt in einer E-Mail unterschiedliche Inhalte generiert.
 
 ## Vorschau der Vorlage
 
@@ -117,7 +128,7 @@ Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template), scannt Ge
 
 Beispielvorschau für eine E-Mail-Vorlage:
 
-![Vorschau der erkannten Felder anzeigen](../../assets/template-detected-fields.png){width="650"}
+![Vorschau der erkannten Felder anzeigen](/help/assets/template-detected-fields.png){width="650"}
 
 ### Control preview
 

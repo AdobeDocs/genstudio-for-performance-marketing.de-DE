@@ -3,10 +3,10 @@ title: Arbeiten mit Vorlagen
 description: Hier erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihre kreativen Prozesse in Adobe GenStudio for Performance Marketing zu optimieren.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 61a939ae81eb5ff61d741bb1092e9e4c82119f7e
+source-git-commit: bfe1ae2c734b19e474ab1614fa72afea7d35a73e
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,9 +16,9 @@ GenStudio for Performance Marketing ermöglicht es Erstellern von Inhalten, mith
 
 ## Vorlagenelemente
 
-Eine Vorlage ist ein Satz von Anweisungen, die mit HTML und Inline-CSS definiert sind und zur Erstellung eines E-Mail- oder Meta-Anzeigenerlebnisses verwendet werden können.
+Eine Vorlage ist ein Satz von Anweisungen, die mit HTML und Inline-CSS definiert sind und zur Erstellung einer E-Mail, einer sozialen Anzeige oder eines Display-Anzeigenerlebnisses verwendet werden können. Vorlagenelemente bieten die Struktur für die Inhaltserstellung.
 
-Im Folgenden finden Sie eine Liste der Elemente, die in Vorlagen verwendet werden, sowie einige Details zu ihren Eigenschaften.
+Im Folgenden finden Sie eine Liste der Elemente, die in Vorlagen verwendet werden, sowie einige Details zu ihren Eigenschaften:
 
 - **Preheader**
 
@@ -73,19 +73,13 @@ Im Folgenden finden Sie eine Liste der Elemente, die in Vorlagen verwendet werde
 >
 >Siehe [erkannte Feldnamen](customize-template.md#recognized-field-names), die GenStudio for Performance Marketing für Vorlagen der einzelnen Kanaltypen unterstützt.
 
-## Konfigurieren von Kanalrichtlinien
-
-Es empfiehlt sich, die [Kanalrichtlinien](../guidelines/brands.md#channel-guidelines) für jede Marke zu konfigurieren, bevor Vorlagen in GenStudio for Performance Marketing verwendet werden. Die Kanalrichtlinien beeinflussen direkt den Inhaltstyp, der bei Verwendung der Vorlage generiert wird. Sie können beispielsweise Zeichenbeschränkungen für den Text einer E-Mail festlegen.
-
-![Textkörperspezifikationen](/help/assets/channel-email-body.png)
-
 ## Vorlage anpassen
 
 Sie können Ihre Vorlage [ für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter für Inhalte oder Felder einfügen, die von der generativen KI zum Einfügen von Inhalten verwendet werden. ](customize-template.md) GenStudio for Performance Marketing erkennt bestimmte Felder, wie z. B. das Feld `body`, und hält sich an die für die ausgewählte Marke konfigurierten Kanalrichtlinien.
 
 >[!TIP]
 >
->Befolgen Sie die [Richtlinien für Barrierefreiheit beim Erstellen von Vorlagen](accessibility-for-templates.md), damit Sie mehr Zielgruppen erreichen und ein optimales Erlebnis bieten können.
+>Befolgen Sie die [Richtlinien zur Barrierefreiheit](accessibility-for-templates.md) und [Best Practices](/help/user-guide/content/best-practices-for-templates.md) , damit Sie mehr Zielgruppen erreichen und ein optimales Erlebnis bieten können.
 
 ## Vorlage hochladen
 
@@ -103,7 +97,7 @@ Verwenden Sie [Vorlagen anpassen](customize-template.md) als Anleitung zum Vorbe
 
    Beispielvorschau für eine E-Mail-Vorlage:
 
-   ![Vorschau der erkannten Felder anzeigen](../../assets/template-detected-fields.png){width="650"}
+   ![Vorschau der erkannten Felder anzeigen](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
@@ -128,7 +122,7 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
-   ![Liste der Inhaltsvorlagen](../../assets/content-templates.png){width="650" zoomable="yes"}
+   ![Liste der Inhaltsvorlagen](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Wählen Sie eine Vorlage für eine vollständige Ansicht und eine Detailliste aus.
 

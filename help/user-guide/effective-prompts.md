@@ -3,10 +3,10 @@ title: Effektive Eingabeaufforderungen schreiben
 description: Erfahren Sie, wie Sie effektive Prompts für Adobe GenStudio for Performance Marketing schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
+source-git-commit: 79430c3279529c4871141489e409240852e1f4fc
 workflow-type: tm+mt
-source-wordcount: '758'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -57,9 +57,9 @@ GenStudio for Performance Marketing-Richtlinien helfen der generativen KI bei de
 
 ### Strukturierte Eingabeaufforderungen
 
-Bei mehrteiligen E-Mails können Sie Aufforderungen strukturieren, um bereichsspezifische Anweisungen zur Generierung variierender Inhalte für jeden Bereich in einer [E-Mail](/help/user-guide/create/email-experiences.md) bereitzustellen. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail-Vorlage](/help/user-guide/content/email-template.md#multi-section-emails) verweisen, damit der generierte Inhalt in die entsprechenden Inhaltsplatzhalter eingefügt werden kann.
+Bei E-Mails mit mehreren Abschnitten können Sie Aufforderungen strukturieren, um bereichsspezifische Anweisungen zur Generierung variierender Inhalte für jeden Bereich in einer E-Mail bereitzustellen. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail-Vorlage](/help/user-guide/content/customize-template.md#sections-or-groups) verweisen, damit der generierte Inhalt in die entsprechenden Inhaltsplatzhalter eingefügt werden kann.
 
-Beispielsweise können Sie GenStudio for Performance Marketing anweisen, Inhalte zu erstellen, die ein neues Produkt im ersten Teil einer E-Mail bewerben, und Inhalte zu generieren, die die kostensparenden Vorteile des Produkts im zweiten E-Mail-Abschnitt detailliert beschreiben.
+Beispielsweise können Sie GenStudio for Performance Marketing anweisen, Inhalte für eine E-Mail zu erstellen, die ein neues Produkt bewerbt, im ersten Abschnitt und im zweiten Abschnitt die Kosteneinsparungen detailliert beschrieben.
 
 Die strukturierte Eingabeaufforderung sollte:
 
@@ -72,7 +72,7 @@ Die strukturierte Eingabeaufforderung sollte:
   Wenn Ihre Vorlage beispielsweise `moduleA` oder `Group-3` als Abschnittsnamen verwendet, können Sie diese Abschnittsnamen in der Eingabeaufforderung referenzieren.
 
 - Befolgen Sie die empfohlenen Regeln/Strukturen. Wenn die Eingabeaufforderungsstruktur nicht dem angegebenen Format entspricht, gilt die Eingabeaufforderung für die E-Mail-Abschnitte *Alle* und erleichtert weiterhin die Inhaltserstellung.
-- Verwenden Sie die Abschnittsnamen als [definiert in Ihrer E-Mail-Vorlage](/help/user-guide/content/email-template.md#code-an-email-template). Die Eingabeaufforderungen müssen mit den Abschnittsnamen übereinstimmen, die in Ihrer E-Mail-Vorlage codiert sind.
+- Verwenden Sie die in Ihrer E-Mail-Vorlage definierten Abschnittsnamen. Die Eingabeaufforderungen müssen mit den Abschnittsnamen übereinstimmen, die in Ihrer E-Mail-Vorlage codiert sind.
 - Beachten Sie nicht die Groß-/Kleinschreibung. Sie können beispielsweise `Pod` oder `pod` in Ihrer E-Mail-Vorlage und in der strukturierten Eingabeaufforderung verwenden.
 - Verweisen Sie zuerst auf die generische Benutzeraufforderung und dann auf die bereichsspezifischen Anweisungen.
 - Verwenden Sie einen Doppelpunkt, einen Bindestrich, ein Komma oder eine andere Abgrenzung (`,:;#$!~|@=-%&*^_`) als Trennung zwischen der Referenz zum Abschnittsnamen und der Anweisung. Beispielsweise können Sie Folgendes als eine bereichsspezifische Eingabeaufforderungsanweisung verwenden: `Pod1; Describe how to easily edit text and swap images.`
@@ -91,7 +91,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-Siehe [Vorbereiten einer E-Mail-Vorlage](/help/user-guide/content/email-template.md#code-an-email-template).
+Siehe [Best Practices für die Verwendung von Vorlagen](/help/user-guide/content/best-practices-for-templates.md).
 
 ## Erneut versuchen
 

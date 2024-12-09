@@ -3,10 +3,10 @@ title: Überblick über Adobe GenStudio for Performance Marketing [!DNL Content]
 description: Erfahren Sie, wie Sie markengenehmigte Assets in einem intuitiven Portal finden, bearbeiten, wiederverwenden und freigeben können.
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,58 +17,111 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speich
 ## [!DNL Content]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md#search">
+
          <img alt="Lupe" src="../../assets/icons/icon-search.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md#search">
+
          <strong>Inhalt suchen</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md">
+
          <img alt="Bilder mit Pluszeichen" src="../../assets/icons/icon-addContent.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md">
+
          <strong>Hinzufügen von Assets</strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="../content/customize-template.md">
-         <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template.png">
-      </a>
-      <p>
-         <a href="../content/customize-template.md">
-         <strong>Anpassen einer Vorlage</strong>
-         </a>
-      </p>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/use-templates.md">
-         <img alt="Blitz auf Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png">
-      </a>
-      <p>
-         <a href="../content/use-templates.md#upload-a-template">
-         <strong>Vorlage hochladen</strong>
-         </a>
-      </p>
-   </td>
-   <td align="center" valign="top" width="100">
+
       <a href="../content/asset-details.md#edit-in-express">
+
          <img alt="In Adobe Expreß bearbeiten" src="../../assets/icons/icon-editExpress.png">
+
       </a>
+
       <p>
+
          <a href="../content/asset-details.md#edit-in-express">
+
          <strong>Bearbeiten von Assets in Adobe Express</strong>
+
          </a>
+
       </p>
+
    </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="../content/customize-template.md">
+
+         <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template.png">
+
+      </a>
+
+      <p>
+
+         <a href="../content/customize-template.md">
+
+         <strong>Anpassen einer Vorlage</strong>
+
+         </a>
+
+      </p>
+
+   </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="../content/use-templates.md">
+
+         <img alt="Blitz auf Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png">
+
+      </a>
+
+      <p>
+
+         <a href="../content/use-templates.md#upload-a-template">
+
+         <strong>Vorlage hochladen</strong>
+
+         </a>
+
+      </p>
+
+   </td>
+
 </tr>
+
 </table>
 
 ## [!DNL Content] Funktionen
@@ -85,4 +138,4 @@ Beim Speichern genehmigter Assets behält [!DNL Content] die Rich-Metadaten, den
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt für die Erstellung mit vorkonfigurierten Layouts und Designelementen zu verwenden.
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt für die Erstellung mit vorkonfigurierten Layouts und Designelementen zu verwenden. Erfahren Sie mehr über grundlegende Vorlagenelemente und -verfahren in [Arbeiten mit Vorlagen](use-templates.md). Machen Sie sich mit dem Thema [Anpassen einer Vorlage](customize-template.md) tief mit dem Erstellen von Vorlagen vertraut.

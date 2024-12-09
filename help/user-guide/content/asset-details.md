@@ -3,10 +3,10 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
 workflow-type: tm+mt
-source-wordcount: '509'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,7 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugewiesen
 
 1. Überprüfen Sie in der Asset-Ansicht den Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
 
-   >[!TIP]
-   >
-   >Wenn der Abschnitt _[!UICONTROL Details]_ nicht angezeigt wird, klicken Sie auf das Symbol **[!UICONTROL Informationen]** (i).
+1. Wenn der Abschnitt _[!UICONTROL Details]_ nicht angezeigt wird, klicken Sie auf das Symbol **[!UICONTROL Informationen]** (i).
 
 Asset-Details umfassen Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet werden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
 
@@ -38,9 +36,7 @@ Das folgende Bild-Asset enthält Systemmetadaten, die den Dateityp, die Größe 
 
 ## Systemmetadaten
 
-Einige Asset-Metadaten werden beim Hochladen eines Assets automatisch erfasst. Sie können keine standardmäßigen Systemmetadaten bearbeiten.
-
-Zu den Standardmetadaten, die für ein Asset gespeichert und erfasst werden, gehören der Name, die Dimensionen, die Quelle und mehr der Datei.
+Einige Asset-Metadaten werden beim Hochladen eines Assets automatisch erfasst, z. B. Dateityp, Größe, Dimensionen, Quelle und mehr. Mit Ausnahme des Dateinamens können Sie keine standardmäßigen Systemmetadaten bearbeiten.
 
 ### Generierte Tags
 
