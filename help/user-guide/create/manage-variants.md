@@ -1,75 +1,88 @@
 ---
-title: Varianten verwalten
-description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen für das digitale Marketing an und erweitern Sie sie.
+title: Verwalten von Varianten
+description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Content, Assets, Experiences
-source-git-commit: 5e92233248c555a3b0a59bd4dbb0935e4c8cfb1f
+exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
+# Verwalten von Varianten
 
-# Varianten verwalten
+Mit Adobe GenStudio for Performance Marketing [!DNL Create] können Sie generierte Varianten - [E-Mails](/help/user-guide/create/email-experiences.md), [Meta-Anzeigen](/help/user-guide/create/meta-experiences.md) und mehr - für die Verwendung in Initiativen für digitales Marketing anpassen und verbessern.
 
-Mit Adobe GenStudio for Performance Marketing [!DNL Create] können Sie generierte Varianten -[E-Mails](/help/user-guide/create/email-experiences.md), [Metaanzeigen](/help/user-guide/create/meta-experiences.md) und mehr - für die Verwendung in digitalen Marketinginitiativen anpassen und erweitern.
+Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Sie Inhalte und Assets generierter Varianten einzeln oder in einem Batch ändern. Die Möglichkeit, Varianten auf individueller Mikroebene zu verwalten, ermöglicht es Ihnen, jedes erzeugte Inhaltselement explizit zu verwalten.
 
-Beim [ Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Sie Inhalte und Assets generierter Varianten einzeln oder in einem Batch ändern. Die Möglichkeit, Varianten auf der einzelnen Mikroebene zu verwalten, ermöglicht es Ihnen, die einzelnen generierten Inhalte explizit zu verwalten.
+## Namen des Entwurfs ändern
 
-## Entwurfname ändern
+Generierte Variantenentwürfe haben einen Standardnamen, der oben auf der Arbeitsfläche angezeigt wird. Standardmäßige Entwurfsnamen verwenden die folgende Konvention, die den Kanaltyp, das Datum und die Uhrzeit der Generierung enthält.
 
-Die Entwürfe generierter Varianten haben einen Standardnamen, der oben auf der Arbeitsfläche angezeigt wird. Standardentwurfsnamen verwenden die folgende Konvention, die den Kanaltyp, das Datum und die Uhrzeit der Erstellung enthält.
+*Beispiel*: „Meta: Unbenannter Entwurf - 09.5.24, 9:56“
 
-*Beispiel*: &quot;Meta: Unbenannter Entwurf - 09.5.24, 9:56 Uhr&quot;
+**Den Standardnamen ändern**:
 
-**So ändern Sie den Standardnamen**:
-
-1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie oben auf der Arbeitsfläche auf den Standardnamen _Unbenannter Entwurf_ .
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie oben auf der Arbeitsfläche auf _Standardnamen_ Nicht benannter Entwurf“.
 1. Wählen Sie Text aus und geben Sie einen neuen Namen ein.
-1. Klicken Sie auf das Textfeld, um es zu speichern.
+1. Klicken Sie zum Speichern auf das Textfeld.
 
 ## Text manuell bearbeiten
 
-Sie können die Textfelder in generierten Varianten bearbeiten. Verfeinern Sie den Text für Ihre Zielgruppe, indem Sie mit verschiedenen Ausdrücken und Überschriften experimentieren. Beispielsweise können Sie Text in Varianten manuell überarbeiten, um das Erscheinungsbild einer Überschrift mit einem ausgewählten Bild anzuzeigen.
+Sie können die Textfelder in generierten Varianten bearbeiten. Verfeinern Sie den Text für Ihre Zielgruppe, indem Sie mit verschiedenen Sätzen und Ausdrücken experimentieren. Beispielsweise können Sie Text in Varianten manuell überarbeiten, um das Erscheinungsbild einer Überschrift mit einem ausgewählten Bild in der Vorschau anzuzeigen.
 
 **So bearbeiten Sie Text in generierten Varianten manuell**:
 
 1. Doppelklicken Sie nach dem Generieren eines Variantensatzes auf bearbeitbaren Text in einer Variante.
-1. Geben Sie neuen Text ein.
-1. Klicken Sie auf das Textfeld, um es zu speichern.
+1. Neuen Text eingeben.
+1. Klicken Sie zum Speichern auf das Textfeld.
 
-## Abschnitte erneut generieren
+## Abschnitte neu generieren
 
-GenStudio for Performance Marketing verfügt über die integrierte Funktion zum Neugenerieren einzelner Abschnitte generierter Varianten mithilfe von _[!UICONTROL Vorgeschlagene Bearbeitungen]_ und Aktualisierungsaufforderungen.
+GenStudio for Performance Marketing verfügt über integrierte Funktionen zum Generieren von Abschnitten generierter Varianten. Sie können Text umformulieren, kürzen oder verlängern oder neue Eingabeaufforderungen hinzufügen, um neue Inhalte zu generieren.
 
-Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvariante neu generieren, um zu sehen, wie es mit einem bestimmten Hintergrundasset aussieht, indem Sie die Optionen _[!UICONTROL Vorgeschlagene Bearbeitungen]_ -_[!UICONTROL Umkehren]_, _[!UICONTROL Kürzen]_ oder _[!UICONTROL Verlängern]_ - verwenden und eine neue Eingabeaufforderung eingeben.
+Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvariante neu generieren, um zu sehen, wie er mit einem bestimmten Hintergrund-Asset aussieht. Sie können _[!UICONTROL Inhalt eines Abschnitts]_, __ oder _[!UICONTROL verlängern]_ oder _[!UICONTROL neuen Text generieren]_ eine neue Eingabeaufforderung hinzufügen.
 
-![Abschnitte neu generieren](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
+![Abschnitte neu erstellen](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
-**So generieren Sie einzelne Variantenabschnitte erneut**:
+**So generieren Sie einzelne Variantenabschnitte neu**:
 
-1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie mit einem Klick auf einen beliebigen bearbeitbaren Text in einer Variante.
-1. Wählen Sie die Option _[!UICONTROL Vorgeschlagene Bearbeitungen]_ aus: _[!UICONTROL Umkehren]_, _[!UICONTROL Kürzen]_ oder _[!UICONTROL Verlängern]_.
-   * Wählen Sie eine verfügbare Option aus und klicken Sie auf **[!UICONTROL Ersetzen]**.
-1. (_Optional_) Wählen Sie _[!UICONTROL Mit Eingabeaufforderung generieren] aus und geben Sie eine neue Eingabeaufforderung ein, um den Fokus des neu generierten Inhalts zu ändern.
-   * Klicken Sie auf **[!UICONTROL Generieren]**.
-1. Wenn Sie die Ergebnisse neu generieren möchten, um weitere Optionen anzuzeigen, klicken Sie auf das Symbol zum Neugenerieren neben _Ergebnisse_.
-1. Wählen Sie aus den angezeigten _Ergebnissen_ die gewünschte Option aus und klicken Sie auf **[!UICONTROL Ersetzen]**.
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie mit einem Mausklick auf einen beliebigen bearbeitbaren Text in einer Variante.
+1. Um den vorhandenen Text zu ändern, wählen Sie _[!UICONTROL Umformulieren]_, _[!UICONTROL Kürzen]_ oder _[!UICONTROL Verlängern]_ aus.
+1. Um neue Formulierungsoptionen zu generieren, wählen Sie _[!UICONTROL Neuen Text generieren]_ und geben Sie eine neue Eingabeaufforderung ein.
+   1. Klicken Sie auf **[!UICONTROL Generieren]**.
+1. Wenn Sie den Text eines Abschnitts neu generieren, klicken Sie auf das Symbol Neu generieren , um weitere Textoptionen anzuzeigen.
+1. Wählen Sie aus den angezeigten Ergebnissen die gewünschte Option aus und klicken Sie auf **[!UICONTROL Ersetzen]**.
 
    Die Variante wird mit dem überarbeiteten Text aktualisiert.
 
-## Zuschneiden von Assets
+## Revidieren der Handlungsaufforderung
+
+Nachdem Sie einen Variantensatz generiert haben, können Sie den Text und den Link des Aktionsaufrufs (CTA) überarbeiten.
+
+**So überarbeiten Sie die CTA in einer Variante**:
+
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf die Schaltfläche mit dem CTA-Text.
+1. Um den CTA-Schaltflächentext zu ändern, wählen Sie aus den verfügbaren Optionen in der Liste _Aktionsaufruf_ aus.
+1. Um den Link in der CTA zu ändern, klicken Sie auf **[!UICONTROL Link]**.
+   1. Geben Sie einen neuen Link ein, fügen Sie ihn ein oder überarbeiten Sie den vorhandenen Link im Abschnitt _Link bearbeiten_ und klicken Sie auf **[!UICONTROL Anwenden]**. Sie können auf **[!UICONTROL Link entfernen]** klicken, um den vorhandenen Link zu entfernen, bevor Sie einen neuen eingeben.
+
+
+Der hinzugefügte oder überarbeitete Link wird auf alle CTAs im Variantensatz angewendet.
+
+## Assets zuschneiden
 
 Sie können Bild-Assets in einzelnen generierten Varianten manuell zuschneiden und neu positionieren.
 
-**So schneiden Sie Bilder in Varianten ab und positionieren sie neu**:
+**So schneiden Sie Bilder in Varianten zu und positionieren sie neu**:
 
-1. Bewegen Sie nach dem Generieren eines Variantensatzes den Mauszeiger über ein Bild in einer Variante.
-1. Klicken Sie auf das Zuschnittsymbol, das in der linken Ecke des Bildes angezeigt wird.
-1. Passen Sie den Begrenzungsrahmen an und ziehen Sie das Bild an die gewünschte Position.
-1. Klicken Sie auf **[!UICONTROL Anwenden]** , um den Zuschnitt auf ein einzelnes Bild anzuwenden, oder auf alle Bilder anwenden ]**, um den Zuschnitt auf alle Bilder in den Varianten anzuwenden.**[!UICONTROL 
+1. Nachdem Sie einen Variantensatz generiert haben, bewegen Sie den Mauszeiger über ein Bild innerhalb einer Variante.
+1. Klicken Sie auf das Zuschnittssymbol in der linken Ecke des Bildes.
+1. Passen Sie den Begrenzungsrahmen für das Bild an und ziehen Sie das Bild an die gewünschte Position.
+1. Klicken Sie **[!UICONTROL Anwenden]**, um den Zuschnitt auf ein einzelnes Bild anzuwenden, oder **[!UICONTROL Auf alle Bilder anwenden]** um ihn auf alle Bilder in den Varianten anzuwenden.
 
-   Das zugeschnittene Bild wird gespeichert und für die Varianten sichtbar.
+   Das zugeschnittene Bild wird gespeichert und für die Varianten angezeigt.
 
 ## Seitenverhältnis ändern
 
@@ -77,32 +90,32 @@ Sie können das Seitenverhältnis von Meta-Anzeigen schnell ändern, um die gew�
 
 Verfügbare Größen-/Seitenverhältnisse sind:
 
-* 1:1 Quadrat (Meta)
-* 4:5 vertikal (Meta)
-* 9:16 vertikal (Meta)
+* 1:1-Quadrat (Meta)
+* Vertikal 4:5 (Meta)
+* 9:16 Vertikal (Meta)
 * 250 x 980 (Display-Anzeige)
 
 >[!NOTE]
 >
->Andere Seitenverhältnisse und -größen können auf Basis der verfügbaren Vorlagen verfügbar sein.
+>Je nach verfügbaren Vorlagen sind möglicherweise auch andere Seitenverhältnisse und Größen verfügbar.
 
-**So ändern Sie das Seitenverhältnis der generierten Meta-Anzeigen**:
+**So ändern Sie das Seitenverhältnis generierter Meta-Anzeigen**:
 
-1. Nachdem Sie einen Variantensatz generiert haben, wählen Sie auf der linken Seite der Arbeitsfläche das Symbol für die Größenanpassung des Seitenverhältnisses (Pfeil, der auf die Ecke des Felds zeigt) aus.
+1. Nachdem Sie einen Variantensatz erstellt haben, wählen Sie das Symbol zur Größenänderung des Seitenverhältnisses (Pfeil, der auf die Ecke des Feldes zeigt) auf der linken Seite der Arbeitsfläche aus.
 
    Das Seitenverhältnis, das derzeit für Ihre Anzeigen verwendet wird, wird im oberen Bereich des Fensters _[!UICONTROL Größe ändern]_ angezeigt.
 
-   Die Anzahl der von dieser Änderung betroffenen Varianten wird oben rechts im Fenster angezeigt. _Beispiel_: &quot;4 von 4 Varianten&quot;
+   Die Anzahl der von dieser Revision betroffenen Varianten ist in der oberen rechten Ecke des Fensters angegeben. _Beispiel_: „4 von 4 Varianten“
 
-1. Wählen Sie ein verfügbares Seitenverhältnis aus.
+1. Auswählen eines verfügbaren Seitenverhältnisses.
 
-   Es stehen nur Seitenverhältnisgrößen zur Auswahl, die derzeit nicht auf der Arbeitsfläche dargestellt werden.
+   Es können nur Seitenverhältnisgrößen ausgewählt werden, die derzeit nicht auf der Arbeitsfläche dargestellt werden.
 
-1. Klicken Sie auf **[!UICONTROL Duplizieren und ändern Sie die Größe]**.
+1. Klicken Sie auf **[!UICONTROL Duplizieren und die Größe ändern]**.
 
-   [!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neuen ausgewählten Seitenverhältnis. Alle Varianten, auch die im ursprünglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
+   [!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neu ausgewählten Seitenverhältnis. Alle Varianten, einschließlich derjenigen im anfänglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
 
-   Wenn Sie beispielsweise zunächst vier Varianten in einem Seitenverhältnis von 1:1 generieren und dann das Seitenverhältnis auf 4:5 ändern, sind jetzt auf der Arbeitsfläche insgesamt _acht_ Varianten verfügbar.
+   Wenn Sie beispielsweise zunächst vier Varianten im Seitenverhältnis 1:1 generieren und dann das Seitenverhältnis in 4:5 ändern, sind jetzt insgesamt _8_ Varianten auf der Arbeitsfläche verfügbar.
 
 ## Bild tauschen
 
@@ -110,69 +123,69 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 
 **So fügen Sie Bilder in einer Variante hinzu oder tauschen sie aus**:
 
-1. Klicken Sie nach dem Generieren eines Variantensatzes auf ein Bild-Asset.
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein Bild-Asset.
 
-   Wenn die Variante derzeit kein platziertes Bild-Asset hat, klicken Sie auf den Asset-Bereich für das Bild.
+   Wenn die Variante derzeit kein platziertes Bild-Asset hat, klicken Sie auf den Bereich Bild-Asset .
 
-1. So wählen Sie ein Bild-Asset aus, das bereits in [!DNL Content] veröffentlicht wurde:
-   1. Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]**. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
-   1. Klicken Sie auf **[!UICONTROL Use]**
+1. So wählen Sie ein bereits in [!DNL Content] veröffentlichtes Bild-Asset aus:
+   1. Klicken Sie **[!UICONTROL Aus Inhalt auswählen]**. Verwenden Sie die Filter, um Ihre Suchergebnisse weiter einzugrenzen.
+   1. Klicken Sie auf **[!UICONTROL Verwenden]**
 1. So laden Sie ein Bild-Asset hoch:
-   1. Klicken Sie auf **[!UICONTROL Neues Bild hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie aus Microsoft OneDrive oder Dropbox importieren.
-   1. Klicken Sie auf **[!UICONTROL Assets hinzufügen]**.
+   1. Klicken Sie **[!UICONTROL Neues Bild hochladen]**, um Ihre Dateien zu durchsuchen und die zu verwendenden Assets auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch von Microsoft OneDrive oder Dropbox importieren.
+   1. Klicken Sie **[!UICONTROL Assets hinzufügen]**.
 
-   Die Bilder werden der entsprechenden Variante hinzugefügt oder in diese getauscht.
+   Die Bilder werden hinzugefügt oder in die entsprechende Variante eingetauscht.
 
 ## Vorschau für Gerät
 
-Bei der Überprüfung und Vorbereitung von E-Mail-Erlebnissen können Sie zwischen der Vorschau für Desktop- und Mobile-Ansichten umschalten, um Kohärenz und visuelle Attraktivität von Entwurfsvarianten sicherzustellen.
+Beim Überarbeiten und Vorbereiten von E-Mail-Erlebnissen können Sie zwischen Vorschauen für Desktop- und Mobile-Ansichten wechseln, um Kohärenz und visuelle Attraktivität von Entwurfsvarianten sicherzustellen.
 
-Um Varianten für Desktop- und Mobilgeräte in der Vorschau anzuzeigen, schalten Sie in der rechten Menüleiste (Computer- und Telefonsymbol) die Vorschauoption für das Gerät (zwischen **Desktop** und **Mobil**) um, um die Darstellung der Varianten in der Vorschau anzuzeigen.****
+**Um Varianten für Desktop- und Mobilgeräte in der Vorschau anzuzeigen** schalten Sie in der rechten Menüleiste (Computer- und Telefonsymbole) die Option Gerätevorschau zwischen **Desktop** und **Mobile** um, um eine Vorschau der Varianten anzuzeigen.
 
 ## Variante löschen
 
 Sie können alle generierten Varianten löschen, die Sie nicht speichern oder wiederverwenden möchten.
 
-Löschen Sie unnötige Varianten, sodass die Arbeitsfläche nur die Varianten anzeigt, die Sie aktiv verfeinern oder verwenden.
+Löschen Sie unnötige Varianten, damit auf der Arbeitsfläche nur die Varianten angezeigt werden, die Sie aktiv verfeinern oder verwenden.
 
 **So löschen Sie eine generierte Variante**:
 
-1. Klicken Sie nach dem Generieren eines Variantensatzes auf das Optionssymbol (drei Punkte) über einer Variante.
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf das Optionssymbol (drei Punkte) über einer Variante.
 
    Die Variante wird hervorgehoben und ein Kontextmenü wird angezeigt.
 
-1. Wählen Sie **[!UICONTROL Löschen]** aus den verfügbaren Optionen aus.
+1. Wählen **[!UICONTROL aus]** verfügbaren Optionen „Löschen“ aus.
 
    Die Variante wird gelöscht.
 
 ## Markenvalidierung pro Variante
 
-Verwenden Sie die Prüfung der _[!UICONTROL Markenrichtlinien]_ und das Validierungsfenster _[!UICONTROL Marke]_, um eine einheitliche Markenidentität und -ausrichtung für Varianten zu gewährleisten.
+Verwenden Sie die _[!UICONTROL Prüfung der Markenrichtlinien]_ und das _[!UICONTROL Bedienfeld Markenvalidierung]_, um eine konsistente Markenidentität und die Ausrichtung von Varianten zu gewährleisten.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
 
-## Feedback zur Generierung
+## Feedback zur Erzeugung
 
-Feedback zur Qualität der generierten markenorientierten Assets kann gesendet werden, um den Inhaltserstellungsprozess zu verbessern. Die Angabe, ob die Ergebnisse von hoher oder schlechter Qualität sind, trägt zur Verbesserung der Inhaltsqualität und der Benutzersicherheit von GenStudio for Performance Marketing bei.
+Feedback zur Qualität der generierten markenorientierten Assets kann gesendet werden, um den Prozess der Inhaltserstellung zu verbessern. Wenn Sie angeben, ob die Ergebnisse von hoher oder schlechter Qualität sind, können Sie die Gesamtqualität der Inhalte und die Benutzersicherheit von GenStudio for Performance Marketing verbessern.
 
-![Senden von Feedback zur Inhaltserstellung](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
+![Feedback zur Inhaltserstellung übermitteln](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
 
-Generations-Feedback gilt für eine einzelne Variante, nicht für den gesammelten Variantensatz.
+Das Generations-Feedback gilt für eine einzelne Variante, nicht für den erfassten Variantensatz.
 
-**Senden von Generierungsfeedback**:
+**So senden Sie Feedback zur Generierung**:
 
-1. Klicken Sie nach dem Generieren eines Variantensatzes auf das Optionssymbol (drei Punkte) über einer Variante.
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf das Optionssymbol (drei Punkte) über einer Variante.
 
    Die Variante wird hervorgehoben und ein Kontextmenü wird angezeigt.
 
-1. Wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL schlechte Ausgabe]**.
+1. Wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL Schlechte Ausgabe]**.
 
-   In einem Feedback-Popup werden weitere Informationen angezeigt. Der generierte Inhalt und die Informationen zur Eingabeaufforderung sind in Ihrem Feedback enthalten.
+   Ein Feedback-Popup wird angezeigt, um weitere Informationen zu erfassen. Generierter Inhalt und sofortige Informationen sind in Ihrem Feedback enthalten.
 
-1. Fügen Sie im Feedback-Popup die folgenden Informationen hinzu:
-   1. Wählen Sie die Option _[!UICONTROL Auch Ihren Referenzinhalt und Ihre Ebenendaten einschließen]_ aus, um diese zusätzlichen Referenzinformationen in das erfasste Feedback aufzunehmen.
-   1. Aus dem Abschnitt _[!UICONTROL Was hat gut funktioniert?]_ oder _[!UICONTROL Was ist schiefgelaufen?]_ die Optionen auswählen, die beschreiben, was die Inhaltserzeugung in hoher oder schlechter Qualität ermöglicht.
-   1. Fügen Sie im Feld _[!UICONTROL Hinweise]_ weitere hilfreiche oder zugehörige Informationen hinzu.
+1. Fügen Sie die folgenden Informationen in das Feedback-Popup ein:
+   1. Wählen Sie die Option _[!UICONTROL Referenzinhalt und Ebenendaten einbeziehen]_, um diese zusätzlichen Referenzinformationen in das gesammelte Feedback aufzunehmen.
+   1. Aus dem _[!UICONTROL Was hat gut funktioniert?]_ oder _[!UICONTROL Was ist schiefgelaufen?Wählen Sie]_ Abschnitt die Optionen aus, die beschreiben, was die Inhaltserstellung zu hoher oder schlechter Qualität macht.
+   1. Fügen Sie weitere hilfreiche oder zugehörige Informationen in das Feld _[!UICONTROL Hinweise]_ ein.
 1. Klicken Sie auf **[!UICONTROL Absenden]**.
 
-   Es wird ein Banner angezeigt, mit dem Sie Ihr Feedback bestätigt haben.
+   Es wird ein Banner angezeigt, um Ihr gesendetes Feedback zu bestätigen.

@@ -1,164 +1,189 @@
 ---
 title: Verwalten von Assets und Erlebnissen
-description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
+description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 802ee1b5c403394b66567bbe4bffbda8124f3624
+source-git-commit: 5785c807f0a674c95cada0aa3976dd7fb3d7f16e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1271'
+ht-degree: 2%
 
 ---
 
 # Verwalten von Assets und Erlebnissen
 
-Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
+Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 
 ## Inhaltsgalerie
 
-Die Galerie zeigt eine Bestandsaufnahme genehmigter Assets, Erlebnisse oder Vorlagen je nach ausgewählter Ansicht. Das Filtersymbol (Trichter) über der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um den in der Galerie angezeigten Inhalt zu filtern. Klicken Sie in der Ansicht _[!UICONTROL Assets]_ auf das Suchsymbol (Lupe), um ein Asset mit einem Schlüsselwort zu suchen.
+In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Mit dem Filter-Symbol (Trichter) über der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus vielen Kategorien auswählen können, um den in der Galerie angezeigten Inhalt zu filtern. Assets Klicken Sie in der Ansicht ]_0} auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._[!UICONTROL 
 
 
-Im Folgenden finden Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONTROL Assets]:
+Im Folgenden sehen Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONTROL Assets]:
 
-![Assets-Ansicht mit Suche nach Hund](/help/assets/content-assets.png)
+![Assets-Ansicht mit Suche auf Hund](/help/assets/content-assets.png)
 
-### Suchinhalt
+### Durchsuchen von Inhalt
 
-Die Filter- und Suchschnittstelle ist schnell und responsiv und bietet ein produktives Erlebnis für die Suche. Jede [!DNL Content] -Ansicht bietet Filteroptionen, um Ihre Suche nach dem idealen Asset, Erlebnis oder der Vorlage einzuschränken. Für Assets und Erlebnisse können Sie eine Kampagne und spezifische Richtlinien auswählen, z. B. Inhalte, die für ein bestimmtes Produkt erstellt wurden.
+Die Filter- und Suchoberfläche ist schnell und reaktionsschnell und bietet ein produktives „Search-First“-Erlebnis. Jede [!DNL Content] bietet Filteroptionen, mit denen Sie Ihre Suche nach dem idealen Asset, Erlebnis oder einer Vorlage eingrenzen können. Für Assets und Erlebnisse können Sie eine Kampagne und bestimmte Richtlinien auswählen, z. B. für Inhalte, die für ein bestimmtes Produkt erstellt wurden.
 
-Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attribute-category.md) basieren, um Suchergebnisse einzuschränken. Sie können beispielsweise ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
+Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attribute-category.md) basieren, um Suchergebnisse einzugrenzen. Vielleicht möchten Sie zum Beispiel ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
 
-Bei der Suche nach _Erlebnissen_ können Sie den Filter **[!UICONTROL Erstellt von]** verwenden, um die Liste so zu beschränken, dass nur die von Ihnen oder einer bestimmten Person erstellten Erlebnisse angezeigt werden.
+Bei der Suche nach _Erlebnissen_ können Sie den Filter **[!UICONTROL Erstellt von]** verwenden, um die Liste so einzuschränken, dass nur die von Ihnen oder einer bestimmten Person erstellten Erlebnisse angezeigt werden.
 
-**So suchen Sie nach Inhalten, die wiederverwendet werden sollen**:
+**So suchen Sie nach wiederzuverwendenden Inhalten**:
 
 1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Assets]**aus.
 
-1. Wählen Sie ein Asset-Repository aus der Liste **[!UICONTROL Speicherort]** aus oder überprüfen Sie, ob Sie das richtige Asset-Repository anzeigen. `GenStudio assets` ist das Standard-Repository.
+1. Wählen Sie ein Asset-Repository aus der **[!UICONTROL Speicherort]**-Liste aus oder stellen Sie sicher, dass Sie das richtige Asset-Repository verwenden. `GenStudio assets` ist das Standard-Repository.
 
    >[!IMPORTANT]
    >
-   >Die Liste _Ort_ ist nur verfügbar, wenn Sie [eine Verbindung zu einem AEM-Repository herstellen](connect-aem-repo.md).
+   >Die _Speicherort_-Liste ist nur verfügbar, wenn Sie [eine Verbindung zu einem AEM-Repository herstellen](connect-aem-repo.md).
 
-1. Klicken Sie auf **[!UICONTROL Suchen]** (Lupe), um einen Suchbegriff oder eine Beschreibung einzugeben.
+1. Klicken Sie **[!UICONTROL Suche]** (Lupe), um ein Keyword oder eine Beschreibung einzugeben.
 
-1. Schränken Sie die Suche ein, indem Sie eine Kategorie aus der Liste _[!UICONTROL Filter]_ auswählen. Wenn Sie beispielsweise nach einer PNG-Datei suchen, klicken Sie auf **[!UICONTROL Dateiformat]** und wählen Sie **PNG**.
+1. Grenzen Sie Ihre Suche ein, indem Sie eine Kategorie aus der Liste _[!UICONTROL Filter]_ auswählen. Wenn Sie beispielsweise nach einer PNG-Datei suchen, klicken Sie auf **[!UICONTROL Dateiformat]** und wählen Sie **PNG**.
 
-   Je stärker Sie Ihre Suche eingrenzen, desto weniger Filteroptionen sind verfügbar. Klicken Sie auf **[!UICONTROL Alle löschen]** , um alle Filter zu entfernen.
+   Je enger Sie Ihre Suche eingrenzen, desto weniger Filteroptionen stehen zur Verfügung. Klicken Sie auf **[!UICONTROL Alle löschen]**, um alle Filter zu entfernen.
 
 1. Wählen Sie ein Asset für eine vollständige Ansicht und eine Liste mit Details aus.
 
-   Klicken Sie auf **[!UICONTROL Herunterladen]** (Pfeil nach unten), um das Asset auf Ihrer lokalen Workstation zu verwenden.
+   Klicken Sie **[!UICONTROL Herunterladen]** (Abwärtspfeil), um das Asset auf Ihrer lokalen Workstation zu verwenden.
 
 ### Speicherort
 
-Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create]-Prozess oder den Upload hinzufügen, im `GenStudio assets`-Repository gespeichert. Das Repository `GenStudio assets` ist ein Lese- und Schreibrepository in GenStudio for Performance Marketing. Dies bedeutet, dass Sie Assets im `GenStudio assets` -Repository speichern, bearbeiten und löschen können.
+Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create] oder durch Hochladen hinzufügen, im `GenStudio assets`-Repository gespeichert. Das `GenStudio assets`-Repository ist ein Lese-/Schreib-Repository in GenStudio for Performance Marketing. Das bedeutet, dass Sie Assets im `GenStudio assets`-Repository speichern, bearbeiten und löschen können.
 
-Mit der Liste **[!UICONTROL Position]** oberhalb der Galerie _[!UICONTROL Assets]_ rechts können Sie aus verbundenen Adobe Experience Manager (AEM) [!DNL Assets Content Hub] Repositorys auswählen.
+In der **[!UICONTROL Speicherort]**-Liste über der _[!UICONTROL Assets]_-Galerie auf der rechten Seite können Sie aus verbundenen Adobe Experience Manager (AEM)-[!DNL Assets Content Hub]-Repositorys auswählen.
 
-![Ortsliste der Repositorys](../../assets/content-location-selection.png){width="350"}
+![Standortliste der Repositorys](../../assets/content-location-selection.png){width="350"}
 
+Wenn Sie ein AEM-Repository auswählen, zeigt die Galerie ein Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
 
-Wenn Sie ein AEM Repository auswählen, zeigt die Galerie einen Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
+AEM Anleitungen [ Hinzufügen Ihres-Repositorys ](connect-aem-repo.md) GenStudio for Performance Marketing finden Sie unter „Verbinden eines [!DNL AEM Assets Content Hub]-Repositorys“.
 
-Eine Anleitung zum Hinzufügen Ihres [!DNL AEM Assets Content Hub]-Repositorys zu GenStudio for Performance Marketing finden Sie unter [Verbinden eines AEM-Repositorys](connect-aem-repo.md) .
-
-Das AEM-Repository ist schreibgeschützt. Das bedeutet, dass Sie auf den Inhalt zugreifen können, Entwürfe, neue Assets oder Metadaten jedoch nicht im AEM Repository speichern können. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten](asset-details.md#system-metadata) im `GenStudio assets`-Repository gespeichert.
+Das AEM-Repository ist schreibgeschützt, d. h. Sie können auf den Inhalt zugreifen, aber keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository ](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 
-## Assets-Verwaltung
+## Verwaltung von Assets
 
-In [!UICONTROL Inhalt] kann Performance Marketing ihre digitalen Assets einfach speichern, abrufen und verwalten. Durch Nutzung des Repositorys `GenStudio assets` und AEM Repositorys können Benutzer sicherstellen, dass ihre Assets gut organisiert sind und für verschiedene Marketing-Kampagnen zugänglich sind. Dieser Ansatz für mehrere Repositorys bietet Flexibilität und Kontrolle über die Asset-Nutzung in allen Umgebungen, sodass sichergestellt ist, dass nur genehmigte und aktuelle Assets in Marketing-Maßnahmen verwendet werden.
+In [!UICONTROL Content] können Sie Ihre digitalen Assets einfach speichern, abrufen und verwalten. Durch die Nutzung sowohl des `GenStudio assets`-Repositorys als auch der AEM-Repositorys können Sie sicherstellen, dass Ihre Assets gut organisiert sind und für verschiedene Marketing-Kampagnen zugänglich sind. Dieser Ansatz mit mehreren Repositorys bietet Flexibilität und Kontrolle über die Asset-Nutzung in allen Umgebungen, sodass nur genehmigte und aktuelle Assets für die Marketing-Maßnahmen verwendet werden.
+
+In der folgenden Tabelle sind die für Assets, Erlebnisse und Vorlagen verfügbaren Verwaltungsaufgaben aufgeführt:
+
+| Aufgaben | Assets | Erlebnisse | Vorlagen |
+| --------------------------------------------------------- | :----: | :---------: | :-------: |
+| [Details anzeigen](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
+| [Erlebnis erstellen](/help/user-guide/create/overview.md) |        |             | ✓ |
+| [Im Adobe Expreß bearbeiten](#edit-in-express) | ✓ |             |           |
+| [Zur Aktivierung exportieren](#export-for-activation) |        | ✓ |           |
+| [Download](#download-assets) | ✓ |             | ✓ |
+| [Löschen](#delete-assets) | ✓ | ✓ | ✓ |
+
+<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### Hinzufügen von Assets
 
-Beim Hinzufügen von Assets zu [!DNL Content] werden sie standardmäßig im `GenStudio assets`-Repository gespeichert. Die Schaltfläche _[!UICONTROL Assets hinzufügen]_ ist nur verfügbar, wenn der _[!UICONTROL Speicherort]_ das `GenStudio assets`-Repository ist.
+Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `GenStudio assets`-Repository gespeichert. Die Schaltfläche _[!UICONTROL Assets hinzufügen]_ ist nur verfügbar, wenn _[!UICONTROL Speicherort]_ das `GenStudio assets`-Repository ist.
 
-![Ortsfeld](../../assets/content-location.png){width="350"}
+![Standortfeld](../../assets/content-location.png){width="350"}
 
-**So fügen Sie ein oder mehrere Assets hinzu**:
+**Hinzufügen von Assets**:
 
-1. Klicken Sie in _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
 
-1. Legen Sie in der Ansicht _Asset hinzufügen_ eine oder mehrere Dateien in der Ablagefläche ab. Optional können Sie aus lokalen Dateien mit **[!UICONTROL Durchsuchen]** auswählen oder Dateien von Dropbox oder Microsoft OneDrive importieren.
+1. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** Dateien von Dropbox oder Microsoft OneDrive importieren.
 
-1. Wählen Sie im Abschnitt _Details hinzufügen_ einen **[!UICONTROL Kampagnennamen]** oder geben Sie einen neuen Namen ein.
+1. Wählen Sie im _Details hinzufügen_ einen **[!UICONTROL Kampagnennamen]** oder geben Sie einen neuen Namen ein.
 
-1. Fügen Sie optionale Details wie _Markenname_, _Personas_, _Region_ und _Schlüsselwörter_ im Abschnitt **Mehr Details** hinzu, um die Auffindbarkeit zu verbessern.
+1. Um die Auffindbarkeit zu verbessern, fügen Sie optionale Details wie _Markenname_, _Personas_, _Region_ und _Keywords_ in den Abschnitt **Weitere Details** ein.
 
-   Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio for Performance Marketing. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+   Je mehr Details Sie angeben, desto zuverlässiger werden die Funktionen von GenStudio for Performance Marketing. Wählen Sie ein oder mehrere Details aus der Liste aus oder geben Sie gegebenenfalls ein neues ein, z. B. mit Schlüsselwörtern. Jedes hinzugefügte Detail wird unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
-   Alle hinzugefügten Details gelten für alle Assets, die in dieser Aktion hinzugefügt werden.
+   Alle Details, die Sie hinzufügen, gelten für alle in dieser Aktion hinzugefügten Assets.
 
    Siehe [Metadatendetails](/help/user-guide/content/asset-details.md#system-metadata).
 
-1. Klicken Sie auf **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie **[!UICONTROL Assets hinzufügen]**.
 
 1. Klicken Sie nach Abschluss des Asset-Uploads auf **Fertig**.
 
-1. Um Ihre neu hochgeladenen Assets anzuzeigen, klicken Sie in der Benachrichtigung _Neue verfügbare Assets_ unten auf der Arbeitsfläche auf **[!UICONTROL Aktualisieren]** .
-
-<!--
-In the future, need guidance on template upload errors. For now, the UI just says error.
--->
+1. Um Ihre neu hochgeladenen Assets anzuzeigen, klicken Sie auf **[!UICONTROL Aktualisieren]** in der Benachrichtigung _Neue Assets verfügbar_ unten auf der Arbeitsfläche.
 
 ### Herunterladen von Assets
 
-**So laden Sie ein Asset herunter**:
+**Herunterladen eines Assets**:
 
-1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
-1. Klicken Sie in der Asset-Ansicht oben rechts auf das Symbol &quot;**[!UICONTROL Download]**&quot;(Pfeil nach unten).
+1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf das Symbol]** Herunterladen“ (Pfeil nach unten).
 
-1. Beim Herunterladen wird mit dem Platzieren einer Kopie des Assets an Ihrem standardmäßigen Download-Speicherort begonnen.
+1. Beim Download wird eine Kopie des Assets an Ihrem standardmäßigen Download-Speicherort abgelegt.
 
 ### Löschen von Assets
 
 **So löschen Sie ein Asset**:
 
-1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
-1. Klicken Sie in der Asset-Ansicht oben rechts auf &quot;**[!UICONTROL Löschen]**&quot;(Papierkorb).
+1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben]** auf „Löschen“ (Papierkorb).
 
 1. Überprüfen Sie im Popup _Asset löschen_ das Asset und klicken Sie auf **[!UICONTROL Löschen]**.
 
+## Zur Aktivierung exportieren
+
+Sie können genehmigte Erlebnisse zur Aktivierung in einem Format exportieren, das mit Ihrem Zielkanal kompatibel ist.
+
+**Ein Erlebnis exportieren**:
+
+1. Wählen Sie _[!DNL Content]_ein Erlebnis aus. Durch Klicken auf ein Erlebnis wird die Detailansicht geöffnet oder auf das Kontextmenü (`...`) geklickt.
+
+1. Klicken Sie auf **[!UICONTROL Zur Aktivierung exportieren]** (Feld mit einem Pfeil nach oben).
+
+1. Wählen _im Popup_ Zur Aktivierung exportieren“ eines der verfügbaren Formate aus:
+
+   - E-Mail: `HTML`, `CSV`
+   - Meta- und Display-Anzeigen: `HTML`, `JPEG`, `PNG`
+
+Siehe [Aktivierung](/help/user-guide/activation/overview.md).
+
 ## In Express bearbeiten
 
-Sie können Bild-Assets (JPG oder PNG) direkt in GenStudio for Performance Marketing mit Adobe Express bearbeiten. Die Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ bietet praktische Funktionen zur Verbesserung Ihrer Bilder, ohne die GenStudio-Anwendung verlassen zu müssen. Sie können einfach Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
+Sie können Bild-Assets (JPG oder PNG) mit dem Adobe Expreß direkt in GenStudio for Performance Marketing bearbeiten. Die _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche bietet praktische Funktionen, um Ihre Bilder zu verbessern, ohne das GenStudio-Programm verlassen zu müssen. Sie können auf einfache Weise Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
 
 >[!BEGINSHADEBOX]
 
-Kriterien für die Verbesserung von Bildern mit der Funktion [!DNL Edit in Adobe Express]:
+Kriterien für die Optimierung von Bildern mit der [!DNL Edit in Adobe Express]:
 
 - Zu den unterstützten MIME-Typen gehören `image/png` und `image/jpeg`
-- Die Mindestbildabmessungen betragen 50 x 50 Pixel.
-- Die maximale Bildgröße beträgt 8000 x 8000 Pixel.
+- Die minimalen Bildabmessungen betragen 50x50 Pixel
+- Die maximalen Bildabmessungen betragen 8000 x 8000 Pixel
 - Die maximale Größe beträgt 40 MB (40.000.000 Byte)
 
 >[!ENDSHADEBOX]
 
 **So bearbeiten Sie ein Asset mit Express**:
 
-1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
-1. Klicken Sie in der Asset-Ansicht oben rechts auf das Symbol **[!UICONTROL Im Adobe Expreß bearbeiten]** .
+1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf]** Symbol „Bearbeiten im Adobe Expreß&quot;.
 
-1. Verwenden Sie in der Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
+1. Verwenden Sie auf der _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
 
-1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken Sie oben rechts auf **[!UICONTROL Kopie speichern]** .
+1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken **[!UICONTROL oben rechts auf]** Kopie speichern“.
 
-1. Wählen Sie das Dateiformat - JPG oder PNG - aus und klicken Sie auf **[!UICONTROL Kopie speichern]**.
+1. Wählen Sie das Dateiformat JPG oder PNG aus und klicken Sie auf **[!UICONTROL Kopie speichern]**.
 
-1. Aktualisieren Sie im Popup _[!UICONTROL Speichern einer Kopie des Assets]_ den **[!UICONTROL Asset-Namen]**.
+1. Aktualisieren _[!UICONTROL im Popup Kopie des Assets]_ den **[!UICONTROL Asset-Namen]**.
 
-   - Wählen Sie **[!UICONTROL Gleiche Details wie das ursprüngliche Asset]** aus, um die Asset-Details in das neue Bild zu übertragen.
+   - Wählen Sie **[!UICONTROL Wie Original-Asset]** aus, um die Asset-Details auf das neue Bild zu übertragen.
 
-   - Erweitern Sie den Abschnitt **[!UICONTROL Mehr Details]** , um die Richtlinien und anderen Metadaten zu aktualisieren.
+   - Erweitern Sie den Abschnitt **[!UICONTROL Weitere Details]**, um die Richtlinien und andere Metadaten zu aktualisieren.
 
    >[!TIP]
    >
-   >Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio for Performance Marketing. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+   >Je mehr Details Sie angeben, desto zuverlässiger werden die Funktionen von GenStudio for Performance Marketing. Wählen Sie ein oder mehrere Details aus der Liste aus oder geben Sie gegebenenfalls ein neues ein, z. B. mit Schlüsselwörtern. Jedes hinzugefügte Detail wird unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.

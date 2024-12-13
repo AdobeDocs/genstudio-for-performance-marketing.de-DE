@@ -4,28 +4,28 @@ description: Erfahren Sie alles über Meta-Erlebnisse in Adobe GenStudio for Per
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
+exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung von Meta-Erlebnissen mit hoher Auswirkung](/help/user-guide/create/create-meta-ad.md) zu optimieren.
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/user-guide/create/create-meta-ad.md).
 
-Mit [!DNL Create] können Ersteller von Inhalten [Führungslinien](/help/user-guide/guidelines/overview.md), Bild-Assets und eine [ gut entwickelte Eingabeaufforderung](/help/user-guide/effective-prompts.md) verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
+[!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
 Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 
 * Überschrift
-* body
+* Textkörper
 * Aktionsaufruf (CTA)
-* Text im Bild
+* Text auf dem Bild
 * Bild
 * Markenlogo
 
@@ -35,22 +35,28 @@ Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elem
 
 Content creators and marketers can produce brand-consistent Meta ad experiences in GenStudio for Performance Marketing. -->
 
-## Meta-Anzeigenkanäle
+## Meta-Anzeigen-Kanäle
 
-Beim Erstellen von Meta-Anzeigenerlebnissen können Sie Varianten für Facebook- und Instagram-Kanäle generieren. Wechsel zwischen Facebook- und Instagram-Anzeigen hin und her, um Varianten für jeden Kanal in der Vorschau anzuzeigen.
+Beim Erstellen von Meta-Anzeigen-Erlebnissen können Sie Varianten für Facebook- und Instagram-Kanäle generieren. Wechseln Sie zwischen Facebook- und Instagram-Anzeigen hin und her, um Varianten für jeden Kanal in der Vorschau anzuzeigen.
 
-Siehe [Kanal für Metadatenanzeigen auswählen](/help/user-guide/create/create-meta-ad.md#choose-meta-ads-channel).
+Siehe [Auswählen des Meta-Anzeigenkanals](/help/user-guide/create/create-meta-ad.md#choose-meta-ads-channel).
 
 ## Progressives Laden
 
-Wenn der Prozess zur Inhaltserstellung beginnt, wird jeder Abschnitt des generierten Inhalts in Varianten schrittweise auf die Arbeitsfläche geladen. Erlebnisse, Assets sowie Felder und Abschnitte innerhalb von Erlebnissen werden einzeln bei ihrer Erstellung auf der Arbeitsfläche angezeigt.
+Wenn der Inhaltserstellungsprozess beginnt, wird jeder Abschnitt des generierten Inhalts in Varianten schrittweise auf der Arbeitsfläche geladen. Erlebnisse, Assets sowie Felder und Abschnitte in Erlebnissen werden bei ihrer Erstellung einzeln auf der Arbeitsfläche angezeigt.
 
-Wenn Sie auf **[!UICONTROL Erzeugen]** klicken, wird unten auf der Arbeitsfläche eine Ladeanzeige angezeigt, die Sie über den Erstellungsfortschritt informiert.
+Wenn Sie auf **[!UICONTROL Generieren]** klicken, wird unten auf der Arbeitsfläche eine Ladeanzeige angezeigt, die Sie über den Fortschritt der Generierung informiert.
 
-Jedes Feld und jeden Abschnitt der Meta-Werbeinhalte werden in dieser Sequenz progressiv geladen:
+Jedes Feld und jeder Abschnitt der Meta- und -Erlebnisse wird schrittweise in dieser Sequenz geladen:
 
 1. Primärer Text für alle Varianten
 1. Aktionsaufrufe und zugehörige URLs
 1. Überschriften
-1. Text im Bild
-1. Der Prozess zur Markenvalidierung erfolgt und die [_Markenrichtlinien-Prüfung_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
+1. Text auf dem Bild
+1. Der Markenvalidierungsprozess wird durchgeführt und die [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
+
+## Zeichenanzahl
+
+Nachdem Sie einen Satz von Meta-Varianten generiert haben, können Sie die für jeden Abschnitt angezeigte Zeichenzahl sehen. Bewegen Sie den Mauszeiger über einen generierten Abschnitt, z. B. die Betreffzeile oder den Hauptteil, oder klicken Sie darauf, und sehen Sie sich den Abschnittsnamen und die Zeichenanzahl für diesen Abschnitt an.
+
+![Zeichenanzahl](/help/assets/character-count.png){width="500" zoomable="yes"}

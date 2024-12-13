@@ -1,12 +1,12 @@
 ---
 title: E-Mail-Erlebnis erstellen
-description: Erfahren Sie, wie Sie E-Mail-Erlebnisse in Adobe GenStudio für Performance-Marketing erstellen.
+description: Erfahren Sie, wie Sie E-Mail-Erlebnisse in Adobe GenStudio for Performance Marketing erstellen.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
+source-git-commit: 763c907598d92779483938295a99d640ee3f4d20
 workflow-type: tm+mt
 source-wordcount: '996'
 ht-degree: 0%
@@ -15,125 +15,125 @@ ht-degree: 0%
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Erlebnisse mit der Marke [E-Mail-Erlebnisse](/help/user-guide/create/email-experiences.md) generieren.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich](/help/user-guide/create/email-experiences.md) markenspezifische E-Mail-Erlebnisse generieren können.
 
-Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie GenStudio Richtlinien für Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) hinzufügen und die [Grundlagen für die Erstellung einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) aufpolieren, bevor Sie beginnen.[
+Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) ](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
 
-## Vorlage auswählen
+## Vorlage wählen
 
 Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlage, um das Framework für Ihren Inhalt bereitzustellen.
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
-1. Klicken Sie in &quot;_[!DNL Create]_&quot;unter &quot;_&quot;Was möchten Sie heute erstellen&quot;auf &quot;**[!UICONTROL E-Mail]**&quot;.Abschnitt &quot;_&quot;.
-1. Verwenden Sie die Suchoption neben _Filter_ , um eine bestimmte E-Mail-Vorlage zu finden.
-1. Klicken Sie auf , um eine E-Mail-Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**in der_ „Was möchten Sie heute erstellen?“_.
+1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte E-Mail-Vorlage zu finden.
+1. Wählen Sie eine E-Mail-Vorlage aus und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Die Arbeitsfläche, das Epizentrum der Inhaltserstellung, wird angezeigt.
 
 ## Parameter hinzufügen
 
-Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderung wird der Inhaltserstellungsvorgang überschrieben. Dies ist ein integraler Vorbereitungsschritt für die Generierung eines E-Mail-Erlebnisses.
+Das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderungsschublade lädt den Inhaltserstellungsprozess auf und ist ein integraler Vorbereitungsschritt für die Erstellung eines E-Mail-Erlebnisses.
 
 **Hinzufügen von Parametern und Assets**:
 
-1. Klicken Sie auf das Symbol _Parameter_ , um die Eingabeaufforderung zu erweitern.
-1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
+1. Klicken Sie auf _Parameter_, um die Eingabeaufforderungsschublade zu erweitern.
+1. Wählen Sie _Abschnitt_ Parameter“ Richtlinien - [!DNL Brands], [!DNL Personas] und [!DNL Products] - aus, um über die Inhaltserstellung zu informieren.
 
-   ![Choose persona](/help/assets/persona-select.png){width="600" zoomable="yes"}
+   ![Persona auswählen](/help/assets/persona-select.png){width="600" zoomable="yes"}
 
-   Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
+   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, [fügen Sie Ihrer GenStudio for Performance Marketing Richtlinien hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Fügen Sie Inhalte hinzu, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen:
-   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, ein oder mehrere Bilder zu filtern und auszuwählen.
+1. Fügen Sie Inhalte für die Verwendung in der -Version *und* hinzu, um die Inhaltserstellung zu beeinflussen:
+   * Klicken Sie **[!UICONTROL Aus Inhalt auswählen]**, um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, zu filtern und ein oder mehrere Bilder auszuwählen.
 
-     ![visuellen Inhalt auswählen](/help/assets/content-select-email.png){width="500" zoomable="yes"}
+     ![Auswählen visueller Inhalte](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
-     Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Position_ aus. Filtern und wählen Sie ein oder mehrere Bilder aus.
+     Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Speicherort_ aus. Filtern Sie ein oder mehrere Bilder und wählen Sie sie aus.
 
-   * Alternativ können Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]** ziehen, um ein oder mehrere neue Assets hochzuladen.
-1. Klicken Sie auf **[!UICONTROL Use]**.
+   * Oder ziehen Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]**, um ein oder mehrere neue Assets hochzuladen.
+1. Klicken Sie **[!UICONTROL Verwenden]**.
 
 >[!NOTE]
->Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie für jeden E-Mail-Bereich in _E-Mails mit mehreren Abschnitten_ die Option [!DNL Products] und den Inhalt (visuelle Assets) aus. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt. Sie können visuelle Assets nur zu mehrteiligen E-Mails aus [!DNL Content] hinzufügen. Sie können keine Assets per Drag-and-Drop aus Ihrer lokalen Quelle ziehen oder hochladen.
->![Hinzufügen von Inhalten und Parametern für jeden E-Mail-Abschnitt](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
+>Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie [!DNL Products] und Inhalt (visuelle Assets) für jeden E-Mail-Abschnitt in _E-Mails mit mehreren Abschnitten_. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt. Sie können visuelle Assets nur aus [!DNL Content] zu mehrteiligen E-Mails hinzufügen. Assets können nicht per Drag-and-Drop aus Ihrer lokalen Quelle gezogen oder hochgeladen werden.
+>![Fügen Sie Inhalt und Parameter für jeden E-Mail-Abschnitt hinzu](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
-Wenn Sie alle Parameter hinzugefügt haben, können Sie die Eingabeaufforderung reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
+Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie die Eingabeaufforderungsschublade reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
 ## Eingabeaufforderung eingeben
 
-Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues E-Mail-Erlebnis zu generieren. Detaillierte Eingabeaufforderungen führen zu einer höheren Qualität als vage oder unbeschreibliche Aufforderungen.
+Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Generierung von Inhalten für Ihr neues E-Mail-Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine bessere Ausgabe als vage oder unbeschreibende Eingabeaufforderungen.
 
-Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [Gültige Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md) .
+Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
 **So geben Sie eine Eingabeaufforderung ein**:
 
-1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
+1. Geben Sie in das _„Beschreiben der Erlebnisse, die Sie generieren möchten“ eine Eingabeaufforderung_.
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
-Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
+Standardmäßig werden vier Varianten - alle basierend auf der Eingabeaufforderung, Richtlinien und hinzugefügten Inhalten - generiert und auf der Arbeitsfläche angezeigt.
 
-Generierte Inhalte werden progressiv geladen. Da jeder Abschnitt der E-Mail-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [E-Mail-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf der Arbeitsfläche geladen werden.
+Erzeugte Inhalte werden progressiv geladen : Wenn jeder Abschnitt der E-Mail-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [E-Mail-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf die Arbeitsfläche geladen werden.
 
-## Erstellte E-Mails überarbeiten
+## Erzeugte E-Mails überarbeiten
 
-Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Content] senden möchten, können Sie die E-Mail-Abschnitte bearbeiten oder eine Variante aus dem Satz der generierten E-Mails löschen.
+Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Content] gesendet werden soll, können Sie E-Mail-Abschnitte bearbeiten oder eine Variante aus dem Satz der generierten E-Mails löschen.
 
-**So überarbeiten Sie generierte Varianten**:
+**Überarbeiten generierter Varianten**:
 
-* **Um [den Namen des E-Mail-Entwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
-* **Um [eine E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
-* **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
-* **Um [Bilder in einer Variante hinzuzufügen oder zu tauschen](/help/user-guide/create/manage-variants.md#swap-image)**, klicken Sie auf ein Bild-Asset (oder den Bild-Asset-Bereich, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf **[!UICONTROL Aus Inhalt auswählen/austauschen]** oder auf **[!UICONTROL Neues Bild hochladen]** , um ein Bild in einer einzelnen Variante hinzuzufügen oder zu tauschen.
-* **Um [eine E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. &quot;E-Mail 1/4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
+* **Um [ E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
+* **Um [E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf
+* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf **[!UICONTROL Aus Inhalt auswählen/]** oder **[!UICONTROL Neues Bild hochladen]**, um ein Bild in einer einzelnen Variante hinzuzufügen oder auszutauschen.
+* **Um [E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. „E-Mail 1/4„), und klicken Sie dann auf **[!UICONTROL Variante löschen]**.
 
-## Feedback zur Sendegenerierung
+## Feedback zur Senden-Generierung
 
-Um [Feedback zur Qualität der Generierungsausgabe zu senden](/help/user-guide/create/manage-variants.md#generation-feedback), klicken Sie auf das Optionssymbol (drei Punkte) und wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL Schlechte Ausgabe]** aus.
+Um [Feedback](/help/user-guide/create/manage-variants.md#generation-feedback) zur Qualität der Generierungsausgabe zu senden, klicken Sie auf das Optionssymbol (drei Punkte) und wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL Schlechte Ausgabe]**.
 
 ## Vorschau für Gerät
 
-Beim Überarbeiten und Vorbereiten von E-Mail-Erlebnissen können Sie [zwischen der Vorschau für Desktop- und Mobile-Ansichten umschalten](/help/user-guide/create/manage-variants.md#preview-for-device), um Kohärenz und visuelle Anziehungskraft von Entwurfsvarianten sicherzustellen.
+Beim Überarbeiten und Vorbereiten von E-Mail-Erlebnissen können Sie [zwischen Vorschauen für Desktop- und Mobilansichten wechseln](/help/user-guide/create/manage-variants.md#preview-for-device) um Kohärenz und visuelle Attraktivität von Entwurfsvarianten sicherzustellen.
 
 ## Markenausrichtung überprüfen
 
-Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit des [_Markenrichtlinien-Kontrollkästchens_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - eine Zusammenfassung der Markenausrichtung für eine Variante - und des [_Bedienfelds zur Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) -, das umfassende Details zur Markenvalidierung anzeigt und Verbesserungsbereiche beleuchtet.
+Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit der [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - mit einer Zusammenfassung der Markenausrichtung für eine Variante - und des [_Bedienfelds Markenvalidierung_, ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) umfassende Details zur Markenvalidierung und aufschlussreiche Bereiche für die Verbesserung anzuzeigen.
 
-**Überprüfen der Markenausrichtung**:
+**So überprüfen Sie die Markenausrichtung**:
 
-1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
+1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] Richtlinien]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check), um eine Variante zu überprüfen und eine Zusammenfassung der Leistung dieser Variante anzuzeigen, wenn sie gegen Ihre Marke geprüft wird.
 
    ![Prüfung der Markenrichtlinien](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
 
-1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
+1. Um Details zu den Abschnitten und Richtlinien zu erhalten, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das Bedienfeld [_Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
-1. Schalten Sie durch die einzelnen E-Mails, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu sein.
+1. Schalten Sie durch jede E-Mail, um zu sehen, wie Sie die generierten Inhalte verbessern können, um sie markenorientierter zu gestalten.
 
-   ![Markenvalidierungs-Bedienfeld](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
+   ![Bedienfeld für die Markenvalidierung](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
 
-1. [Manuelles Überarbeiten von E-Mails](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng mit Ihrer Marke abgestimmt sind.
+1. [Überarbeiten Sie E-Mails ](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng an Ihre Marke angepasst sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
-## Prüfungen und Genehmigungen abrufen
+## Abrufen von Bewertungen und Genehmigungen
 
-Verwenden Sie das Bedienfeld Genehmigungen , auf das Sie in der oberen Menüleiste der Arbeitsfläche zugreifen können, um Bewertungen zu erhalten, Kommentare zu Überprüfungen zu verfolgen und Genehmigungen von Interessenträgern zu erhalten.
+Verwenden Sie das Bedienfeld Genehmigungen , auf das über die obere Menüleiste der Arbeitsfläche zugegriffen werden kann, um Überprüfungen abzurufen, Kommentare zu überprüfen und Genehmigungen von Stakeholdern abzurufen.
 
-**So rufen Sie Bewertungen und Genehmigungen ab**:
+**Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [Starten Sie eine Genehmigungsanfrage](/help/user-guide/approvals/request-review.md), um eine [Genehmigung entworfener E-Mail-Erlebnisse zu erhalten.](/help/user-guide/approvals/approve-content.md)
-1. [Entfernen oder fügen Sie während des Überprüfungsprozesses Überprüfer hinzu](/help/user-guide/approvals/review-and-edit.md#manage-approvals).
-1. [Greifen Sie auf den Inhalt für die Überprüfung zu](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und zeigen Sie die Anforderungen für die Überarbeitung an.
-1. Bearbeiten Sie die Entwürfe pro Prüfungskommentar und [veröffentlichen Sie Ihre E-Mail-Erlebnisse](#publish-and-export-experience).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener E-Mail-Erlebnisse“ ](/help/user-guide/approvals/approve-content.md).
+1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
+1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
+1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre E-Mail-Erlebnisse](#publish-and-export-experience).
 
-Weitere Informationen finden Sie unter [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md) .
+Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
-## Publish- und Exporterlebnis
+## Publish und Exporterlebnis
 
 Um die generierten E-Mails für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Um Ihre neuen E-Mail-Erlebnisse zu veröffentlichen**, klicken Sie in der oberen Symbolleiste oder im Genehmigungsfluss auf **[!UICONTROL Publish]** .
-1. **Um Ihre neuen E-Mail-Erlebnisse zu exportieren, klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Exportieren ]**.**
-   1. Wählen Sie das Format - CSV und Bilder oder nur HTML - und klicken Sie auf **[!UICONTROL Exportieren]**.
+1. **Um Ihre neuen E-Mail-Erlebnisse zu veröffentlichen** klicken Sie in der ]**Symbolleiste oder im Genehmigungsfluss auf**[!UICONTROL  Publish.
+1. **Um Ihre neuen E-Mail-Erlebnisse zu exportieren** klicken Sie in der oberen Symbolleiste **[!UICONTROL Exportieren]**.
+   1. Wählen Sie das Format aus (nur CSV und Bilder oder HTML) und klicken Sie auf **[!UICONTROL Exportieren]**.
 
 Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) .

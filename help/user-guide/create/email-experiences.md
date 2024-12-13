@@ -1,22 +1,22 @@
 ---
-title: E-Mail-Erlebnisse
-description: Erfahren Sie mehr über E-Mail-Erlebnisse in Adobe GenStudio for Performance Marketing.
+title: E-Mail-Erfahrungen
+description: Informationen zu E-Mail-Erlebnissen in Adobe GenStudio for Performance Marketing.
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 333d40a733f5417ea182d7708bef38907dfd5722
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# E-Mail-Erlebnisse
+# E-Mail-Erfahrungen
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung von E-Mail-Erlebnissen mit hoher Wirkung](/help/user-guide/create/create-email-experience.md) zu optimieren.
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller E-Mail-Erlebnisse](/help/user-guide/create/create-email-experience.md) zu optimieren.
 
-Mit [!DNL Create] können moderne Marketingexperten [guidelines](/help/user-guide/guidelines/overview.md), Bild-Assets und eine [ gut durchdachte Aufforderung](/help/user-guide/effective-prompts.md) verwenden, um schnell [markenorientierte E-Mail-Erlebnisse zu erstellen](/help/user-guide/create/create-email-experience.md).
+[!DNL Create] ermöglicht es modernen Marketing-Experten, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [markenorientierte E-Mail-Erlebnisse zu erstellen](/help/user-guide/create/create-email-experience.md).
 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
@@ -24,7 +24,7 @@ Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 
 * Pre-header
 * Überschrift
-* body
+* Textkörper
 * Aktionsaufruf (CTA)
 * Bild
 * Markenlogo
@@ -37,27 +37,27 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 ## E-Mails mit mehreren Abschnitten
 
-E-Mail-Erlebnisse können mehrere Bereiche umfassen, sodass eine vollständige Anpassung an Ihre Marke und Ziele möglich ist. [Wählen Sie  [!DNL Products]  und visuelle Assets für jeden Abschnitt](/help/user-guide/create/create-email-experience.md#add-parameters) aus und verwenden Sie [strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts), um eindeutige Inhalte zu erstellen. Jeder Abschnitt unterstützt ein visuelles Asset.
+E-Mail-Erlebnisse können mehrere Abschnitte enthalten, sodass sie vollständig an Ihre Marke und Ihre Ziele angepasst werden können. [Auswählen [!DNL Products]  und visuelle Assets für jeden Abschnitt](/help/user-guide/create/create-email-experience.md#add-parameters) und verwenden Sie [strukturierte Aufforderungen](/help/user-guide/effective-prompts.md#structured-prompts), um eindeutige Inhalte zu erstellen. Jeder Abschnitt unterstützt ein visuelles Asset.
 
-Informationen zum Erstellen einer Vorlage mit mehreren Abschnitten finden Sie unter [Anpassen von Vorlagen mit Abschnitten](/help/user-guide/content/customize-template.md#sections-or-groups) .
+Unter [Anpassen von Vorlagen mit Abschnitten](/help/user-guide/content/customize-template.md#sections-or-groups) erfahren Sie, wie Sie eine Vorlage mit mehreren Abschnitten erstellen.
 
 ## Progressives Laden
 
-Wenn der Prozess zur Inhaltserstellung beginnt, wird jeder Abschnitt des generierten Inhalts in E-Mail-Varianten progressiv auf die Arbeitsfläche geladen. Erlebnisse, Assets sowie Felder und Abschnitte innerhalb von Erlebnissen werden einzeln bei ihrer Erstellung auf der Arbeitsfläche angezeigt.
+Wenn der Inhaltserstellungsprozess beginnt, wird jeder Abschnitt des generierten Inhalts in E-Mail-Varianten schrittweise auf der Arbeitsfläche geladen. Erlebnisse, Assets sowie Felder und Abschnitte in Erlebnissen werden bei ihrer Erstellung einzeln auf der Arbeitsfläche angezeigt.
 
-Wenn Sie auf **[!UICONTROL Erzeugen]** klicken, wird unten auf der Arbeitsfläche eine Ladeanzeige angezeigt, die Sie über den Erstellungsfortschritt informiert.
+Wenn Sie auf **[!UICONTROL Generieren]** klicken, wird unten auf der Arbeitsfläche eine Ladeanzeige angezeigt, die Sie über den Fortschritt der Generierung informiert.
 
-Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen werden in dieser Sequenz progressiv geladen:
+Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen wird schrittweise in dieser Reihenfolge geladen:
 
 1. Variantennamen
 1. Betreffzeilen für alle Varianten
 1. Pre-Header
-1. Überschriften, E-Mail-Hauptteil (für Einzelablage-E-Mails) und Aktionsaufrufe
-1. E-Mail-Hauptteil für nachfolgende Abschnitte (für mehrteilige E-Mails)
-1. Der Validierungsprozess der Marke erfolgt und die Überprüfung der Markenrichtlinien [__](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
+1. Überschriften, E-Mail-Textkörper (für E-Mails mit nur einem Abschnitt) und Aktionsaufrufe
+1. Textkörper der E-Mail für nachfolgende Abschnitte (für E-Mails mit mehreren Abschnitten)
+1. Die Markenvalidierung wird durchgeführt und die [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 
-Nachdem Sie eine Reihe von E-Mail-Varianten generiert haben, wird die Zeichenzahl für jeden E-Mail-Bereich angezeigt. Bewegen Sie den Mauszeiger über einen generierten Abschnitt oder klicken Sie darauf, z. B. auf die Betreffzeile oder den Text, und sehen Sie sich den Abschnittsnamen und die Zeichenanzahl für diesen Abschnitt an.
+Nachdem Sie einen Satz von E-Mail-Varianten erstellt haben, können Sie die für jeden Abschnitt angezeigte Zeichenzahl sehen. Bewegen Sie den Mauszeiger über einen generierten Abschnitt, z. B. die Betreffzeile oder den Hauptteil, oder klicken Sie darauf, und sehen Sie sich den Abschnittsnamen und die Zeichenanzahl für diesen Abschnitt an.
 
 ![Zeichenanzahl](/help/assets/character-count.png){width="500" zoomable="yes"}

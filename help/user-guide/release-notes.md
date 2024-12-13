@@ -2,129 +2,207 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2024-11-14T00:00:00Z
+last-substantial-update: 2024-12-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 00359960b6cf314203382d74faa23bae3e753875
 workflow-type: tm+mt
-source-wordcount: '791'
-ht-degree: 2%
+source-wordcount: '1268'
+ht-degree: 1%
 
 ---
 
 # Versionshinweise zu GenStudio for Performance Marketing
 
-Diese Versionsinformationen enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
+Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2024.11.14 {#latest}
+## 2024,12,12 {#latest}
 
 ### Neue Funktionen
 
-Unterstützung für Rich-Media-Vorlagen hinzugefügt, sodass Kunden Assets wiederverwenden können, die bereits über ihre eigenen verwalteten Inhaltskanäle veröffentlicht wurden. <!-- GS-6107 -->
+Bearbeiter können jetzt die folgenden Metadaten-bezogenen Aufgaben ausführen:
+
+* Asset-, Erlebnis- und Vorlagenmetadaten bearbeiten. Siehe [Asset-Details](/help/user-guide/content/asset-details.md#user-defined-metadata). <!-- GS-4905 6935-->
+
+* Zeigen Sie die generierten Tags eines Assets in der Ansicht _Details_ jedes Erlebnisses an, das das Asset verwendet. Siehe _Erzeugte Tags_ in [Asset-](/help/user-guide/content/asset-details.md#generated-tags)<!-- GS-3705 -->
+
+Editoren können jetzt benutzerdefinierte Werte für diese Aspekte der generierten Varianten angeben:
+
+* Breite und Höhe für Webbanner in Anzeigen-Vorlagen. Diese Werte werden jetzt als Vorlagenmetadaten gespeichert. <!-- GS-6735 -->
+
+* Dimensionen an Bildern in Anzeigen-Erlebnissen während des Bild-Uploads.<!-- GS-7166 -->
+
+* Siehe kanalspezifische Richtlinien in den [Best Practices für Vorlagen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+
+Zu den Exportoptionen gehören jetzt:
+
+* Exportieren Sie Display-Anzeigen und Meta-Anzeigen als HTML, JPEG oder PNG. Siehe [Erstellen eines Anzeigen-Erlebnisses](/help/user-guide/create/create-display-ad.md) und [Erstellen eines Meta-Anzeigen-](/help/user-guide/create/create-meta-ad.md)<!-- GS-7093 6655 5152-->
+
+Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
+
+* Verwenden Sie die Schaltfläche **[!UICONTROL Aktualisieren]** in der Ansicht [!DNL Content]-Vorlage _Asset-_), um die ausgewählte Vorlage zu aktualisieren. <!-- GS-7102 -->
+
+* Abschnitte von Anzeige- und E-Mail-Varianten neu generieren. Siehe [Erstellen eines Anzeigen-Erlebnisses](/help/user-guide/create/create-display-ad.md#revise-generated-display-ads) und [Erstellen eines E-Mail-Erlebnisses](/help/user-guide/create/create-email-experience.md#revise-generated-emails). <!-- GS-5080 5078-->
+
+* Duplizieren Sie bestehende Marken. Siehe [Marken verwalten](/help/user-guide/guidelines/brands.md#manage-brands). <!-- BRANDS-548 -->
 
 ### Fehlerbehebungen und Verbesserungen
 
-* Wenn die Größe in einem anderen Browser als dem zum Generieren des anfänglichen Inhalts verwendeten geändert wird, werden Entwürfe jetzt erwartungsgemäß geladen. <!-- GS-7204 -->
+* Anzeigentitel werden jetzt erwartungsgemäß in [!DNL Content] gespeichert. <!-- GS-7239 -->
 
-* Alle Zeichen werden jetzt in exportierter HTML korrekt dargestellt. <!-- GS-7246 -->
+* Die Eingabeaufforderung wird nicht mehr geschlossen, wenn ein Editor außerhalb des Dropdown-Menüs der Schublade klickt. <!-- GS-7275 -->
 
-* Die Schaltflächen im Popup [!DNL Content] _Erlebnisse_ **[!UICONTROL Exportieren]** sind in bestimmten Sprachen nicht mehr abgeschnitten. <!-- GS-6873 -->
+* Das Dropdown-Menü [!DNL Create] [!DNL Persona]/[!DNL Product] wird jetzt wie erwartet geladen, wenn ein Fehler im URL-Service für Miniaturansichten auftritt. <!-- GS-7277 -->
 
-* Display-Anzeigen, die mit Vorlagen mit einer Größe von 50 x 50 erstellt wurden, werden jetzt in die erwartete Bildgröße exportiert. Zuvor wurden PNG-Dateien mit doppelt so großen Dimensionen exportiert. <!-- GS-7192 -->
+* Anzeigen, die Elemente enthalten, die Fragmente überlagern, können jetzt bearbeitet werden. <!-- GS-7186 -->
 
-* Vorlagenfehler, die beim Ändern der Größe von Display-Anzeigen aufgetreten sind, wurden jetzt behoben. <!-- GS-7322 -->
+* Die Canvas **[!UICONTROL Marke]**-Schaltfläche ist jetzt deaktiviert, wenn keine Markenbewertungen für ein Erlebnis generiert werden. <!-- GS-6429 -->
 
-### Lokalisierung
+* Auf der Arbeitsfläche werden Erlebnisse in der Größe jetzt in konsistenter Reihenfolge angezeigt. <!-- GS-7123 -->
 
-Diese Version enthält Verbesserungen der Lokalisierung in der gesamten Benutzeroberfläche, einschließlich:
+* Beim manuellen Zuschneiden werden jetzt bei der Bearbeitung von Display-Anzeigen Bildabmessungen und nicht Vorlagenabmessungen verwendet. Zuvor, wenn ein Bild kleiner war als die in der Anzeige und Vorlage angegebenen Abmessungen, verwendete der Begrenzungsrahmen Vorlagendimensionen, nicht Bilddimensionen. <!-- GS-7315 -->
 
-* Alle Zeichenfolgen im Popup [!DNL Content] _Asset hochladen_ sind jetzt korrekt lokalisiert. <!-- GS-6872 6770 -->
-* Alle QuickInfos im Feld [!DNL Content] _Assets_ view **[!UICONTROL Search]** sind lokalisiert. <!-- GS-6879 -->
-* Wenn ein vorhandenes Bild in einer E-Mail-Variante auf der Arbeitsfläche [!DNL Create] ersetzt wird, ist die Ansicht _Aus Inhalt auswählen_ jetzt lokalisiert. <!-- GS-6906 -->
+* Bearbeiter können jetzt beim Erstellen einer Display-Anzeige bis zu vier Bilder auswählen. <!-- GS-7189 -->
+
+* Die Entwürfe für Anzeigen und Meta-Anzeigen werden jetzt wie erwartet geladen, wenn die Größe in einem anderen Browser geändert wird. <!-- GS-7204 -->
+
+* Nicht verwendete Vorlagenfelder werden im generierten Inhalt nicht mehr angezeigt.  <!-- GS-5670 -->
+
+* Editoren können jetzt auf Links klicken, um sie wie erwartet in generierten Varianten zu bearbeiten. <!-- GS-7423 -->
+
+* [!DNL Create] respektiert jetzt korrekt die Berechtigungen der Mitwirkenden. <!-- GS-7614 -->
+
+* Die Schaltfläche **[!UICONTROL Größe ändern]** der Arbeitsfläche ist jetzt deaktiviert, nachdem alle Größenänderungsoptionen ausgewählt und gerendert wurden. <!-- GS-5940 -->
+
+* Reviewer mit Lesezugriff können jetzt bei Reviews Varianten ein- und auszoomen. <!-- GS-7371 -->
+
+* Der Tastaturfokus wurde nur zu ausführbaren Schaltflächen in der Ansicht [!DNL Create]Letzte _&quot;_. <!-- GS-4060 -->
+
+* Die **Speichervorgang läuft** Meldung, die während der Speichervorgänge für E-Mail-Fragmente angezeigt wird, wird jetzt nur noch während des Speichervorgangs angezeigt. Zuvor wurde diese Nachricht auf der Arbeitsfläche unbegrenzt angezeigt. <!-- GS-6964 -->
+
+* Editoren sehen jetzt eine Fehlermeldung wie erwartet, wenn ein Entwurf im Bereich [!DNL Create]Letzte Arbeit _nicht geladen_.  <!-- GS-8081 -->
+
+* Auf der Arbeitsfläche werden jetzt in der Größe angepasste Meta-Anzeigen und Anzeigen in der richtigen Reihenfolge angezeigt.  <!-- GS-7375 -->
+
+* Editoren können jetzt per Einzelklick in Felder in E-Mails klicken und Anzeigen anzeigen. <!-- GS-6297 -->
+
+* Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
+
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 ## Frühere Versionshinweise
 
-+++ Anmerkungen aus dem Jahr 2024.11.07
-
-### Fehlerbehebungen und Verbesserungen
-
-* Der Spinner _In Bearbeitung speichern_ wird nicht mehr angezeigt, wenn ein Benutzer auf **[!UICONTROL Neues Bild hochladen]** klickt und den Vorgang dann abbricht, bevor der Upload abgeschlossen ist. <!-- GS-6780 -->
-
-* Erlebnistitel werden jetzt bei der Erlebnisregenerierung korrekt erstellt. <!-- GS-7006 -->
-
-* Probleme mit flackernden Bildlaufleisten beim Laden von Entwürfen wurden behoben. <!-- GS-5587 -->
-
-* Der Link `View documentation` im Popup [!DNL Content] _Genehmigte Vorlage hinzufügen_ funktioniert jetzt erwartungsgemäß. <!-- GS-6881 -->
-
-* Das Löschen eines Bildes aus der Eingabeaufforderung während eines Größenvorgangs führt nicht mehr zu einem Fehler. <!-- GS-7115 7009 -->
-
-* Die Auswahl von **[!UICONTROL Löschen]** aus dem Aktionsmenü (...) von [!DNL Create] funktioniert jetzt erwartungsgemäß. <!-- GS-6871 -->
-
-* Benutzer können jetzt alle interaktiven Elemente der Meta-Anzeigenvorlage über die Tastatur steuern. <!-- GS-4066 -->
-
-* Die Extraktion von Bilddimensionen aus Vorlagenbildfeldern wurde zu Anzeigenvorlagen hinzugefügt. Anforderungen für smartes Zuschneiden werden jetzt für die tatsächliche Dimension des Bildes und nicht für die gesamte Vorlage gesendet. <!-- GS-6926 -->
-
-* Die Zeichenfolge `Zoom to fit to screen` wurde in generierten E-Mail- und Metaanzeigen lokalisiert. <!-- GS-5063 -->
-
-* Die Eingabeaufforderung [!DNL Create] wird jetzt wie erwartet geschlossen, wenn ein Benutzer auf &quot;Entfernen&quot;klickt. <!-- GS-5254 -->
-
-* Der Export von Meta-Anzeigen enthält jetzt die ausgewählte Aktionsaufruf-Beschriftung wie erwartet. <!-- GS-6504 -->
-
-* Die Markenbewertung wird jetzt aktualisiert und für neu generierte Erlebnisse erwartungsgemäß beibehalten. <!-- GS-6535 -->
-
-* Der HTML-Export von Meta-Anzeigen und Display-Anzeigen umfasst keine Wrapper-Elemente `div` und `chrome` mehr. <!-- GS-7116 -->
-
-* Probleme mit dem Rendering von E-Mail-Entwürfen während der Veröffentlichung wurden jetzt behoben. <!-- GS-6394 -->
-
-* Die Schaltfläche &quot;Arbeitsfläche **[!UICONTROL Marke]**&quot;ist jetzt deaktiviert, wenn kein Markenwert generiert wird. <!-- GS-6429 -->
-
-* Mit dem Umschalter Facebook/Instagram in der Aktionsleiste Arbeitsfläche werden Erlebnisrenderungen jetzt wie erwartet aktualisiert, wenn die Einstellung `ReadOnly` Arbeitsfläche aktiviert ist. <!-- GS-7039 -->
-
-#### Bildregeneration
-
-* Die Größenanpassung mehrerer Meta-Anzeigenvarianten funktioniert jetzt erwartungsgemäß. Zuvor wurden auf der Arbeitsfläche keine regenerierten Varianten angezeigt, aber leer geblieben. <!-- GS-7010 -->
-
-* Die Neuerstellung von Fragmenten funktioniert jetzt bei in der Größe angepassten Erlebnissen erwartungsgemäß. <!-- GS-6836 -->
-
-* Das Regenerieren von Meta-Anzeigenbildern nach der Größenanpassung führt nicht mehr zu einem Fehler. Zuvor wurden durch die Größenanpassung von Bildern vor der Neuerstellung die Kanalmetadaten von `meta` in `facebook` <!-- GS-7042 --> geändert.
-
-+++
-
-+++ Anmerkungen aus dem Jahr 2024.10.31
++++Anmerkungen aus dem 14.11.2024
 
 ### Neue Funktionen
 
-* Der Suchfilter **[!DNL Content]** unterstützt jetzt die Suche nach dem Farbtag. <!-- GS-5501 -->
-
-* Die Arbeitsfläche **[!DNL Create]** zeigt jetzt die Zeichenanzahl für E-Mail-Fragmente an. <!-- GS-5819 -->
+Rich-Media-Vorlagen werden nun unterstützt, sodass Kunden bereits veröffentlichte Assets über ihre eigenen verwalteten Inhaltskanäle wiederverwenden können. <!-- GS-6107 -->
 
 ### Fehlerbehebungen und Verbesserungen
 
-* Zu den Elementen für Mobilgeräte und Desktop wurden fehlende Bildschirmlesehilfen-Beschriftungen hinzugefügt: `view` <!-- GS-5624 4729 -->
+* Wenn die Größe in einem anderen Browser als dem, der zum Generieren des anfänglichen Inhalts verwendet wird, geändert wird, werden Entwürfe jetzt erwartungsgemäß geladen. <!-- GS-7204 -->
 
-* Die Bereiche für die E-Mail-Betreffzeile **[!DNL Create]** und den Text vor der Kopfzeile sind jetzt dynamisch in der Höhe. <!-- GS-6258 -->
+* Alle Zeichen werden nun in exportierten HTML korrekt dargestellt. <!-- GS-7246 -->
+
+* Die Schaltflächen im Popup [!DNL Content] _Erlebnisse_ **[!UICONTROL Export]** sind in bestimmten Sprachen nicht mehr abgeschnitten. <!-- GS-6873 -->
+
+* Display-Anzeigen, die mit Vorlagen erstellt wurden, die eine Größe von 50 x 50 haben, werden jetzt in der erwarteten Bildgröße exportiert. Zuvor wurden PNG-Dateien doppelt so stark exportiert wie erwartet. <!-- GS-7192 -->
+
+* Vorlagenfehler, die beim Ändern der Größe von Display-Anzeigen aufgetreten sind, werden jetzt behoben. <!-- GS-7322 -->
+
+### Lokalisierung
+
+Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benutzeroberfläche, einschließlich:
+
+* Alle Zeichenfolgen im [!DNL Content]-Popup _Asset hochladen_ sind jetzt korrekt lokalisiert. <!-- GS-6872 6770 -->
+* Alle QuickInfos im [!DNL Content] _Assets_ Ansichtsfeld **[!UICONTROL Suche]** sind lokalisiert. <!-- GS-6879 -->
+* Beim Ersetzen eines vorhandenen Bildes in einer E-Mail-Variante auf der [!DNL Create]-Arbeitsfläche ist die Ansicht _Aus Inhalt auswählen_ jetzt lokalisiert. <!-- GS-6906 -->
+
++++
+
++++Anmerkungen vom 11.2024.07
+
+### Fehlerbehebungen und Verbesserungen
+
+* Das _„Speichern in Bearbeitung_ wird nicht mehr angezeigt, wenn ein Benutzer auf **[!UICONTROL Neues Bild hochladen]** klickt und dann den Vorgang abbricht, bevor der Upload abgeschlossen ist. <!-- GS-6780 -->
+
+* Erlebnistitel werden jetzt bei der Regenerierung des Erlebnisses korrekt erstellt. <!-- GS-7006 -->
+
+* Probleme mit flackernden Bildlaufleisten beim Laden von Entwürfen wurden behoben. <!-- GS-5587 -->
+
+* Der `View documentation` Link im Popup-Fenster [!DNL Content]_Genehmigte Vorlage hinzufügen_ funktioniert jetzt erwartungsgemäß. <!-- GS-6881 -->
+
+* Das Löschen eines Bildes aus der Eingabeaufforderungsschublade während eines Größenänderungsvorgangs führt nicht mehr zu einem Fehler. <!-- GS-7115 7009 -->
+
+* Die Auswahl **[!UICONTROL Löschen]** aus dem [!DNL Create] Aktionsmenü (…) funktioniert jetzt erwartungsgemäß. <!-- GS-6871 -->
+
+* Benutzer können jetzt alle interaktiven Meta- und Vorlagenelemente allein über die Tastatur steuern. <!-- GS-4066 -->
+
+* Es wurde eine Extraktion von Bildabmessungen aus Vorlagenbildfeldern hinzugefügt, um Anzeigenvorlagen anzuzeigen. Anfragen zum smarten Zuschneiden werden jetzt für die tatsächliche Dimension des Bildes und nicht für die gesamte Vorlage gesendet. <!-- GS-6926 -->
+
+* Lokalisierte `Zoom to fit to screen` in generierten E-Mail- und Meta-Anzeigen. <!-- GS-5063 -->
+
+* Die [!DNL Create]-Eingabeaufforderungsschublade wird jetzt erwartungsgemäß geschlossen, wenn ein Benutzer wegklickt. <!-- GS-5254 -->
+
+* Der Export von Meta-Anzeigen enthält jetzt wie erwartet die ausgewählte Beschriftung für Aktionsaufrufe. <!-- GS-6504 -->
+
+* Die Markenbewertung wird jetzt aktualisiert und wie erwartet für neu generierte Erlebnisse beibehalten. <!-- GS-6535 -->
+
+* Der HTML-Export von Meta-Anzeigen und Display-Anzeigen enthält nicht mehr Wrapper-`div` und `chrome`. <!-- GS-7116 -->
+
+* Probleme mit dem Rendering von E-Mail-Entwürfen während der Veröffentlichung wurden jetzt behoben. <!-- GS-6394 -->
+
+* Die Schaltfläche **[!UICONTROL Marke]** der Arbeitsfläche ist jetzt deaktiviert, wenn kein Markenwert generiert wird. <!-- GS-6429 -->
+
+* Der Facebook/Instagram-Umschalter in der Arbeitsflächen-Aktionsleiste aktualisiert jetzt das Erlebnis-Rendering wie erwartet, wenn die Einstellung Arbeitsfläche `ReadOnly` aktiviert ist. <!-- GS-7039 -->
+
+#### Bildregenerierung
+
+* Das Ändern der Größe mehrerer Meta- und Varianten funktioniert jetzt erwartungsgemäß. Zuvor zeigte die Arbeitsfläche keine regenerierten Varianten an, blieb aber leer. <!-- GS-7010 -->
+
+* Die Fragmentregenerierung funktioniert jetzt für Erlebnisse in der Größe wie erwartet. <!-- GS-6836 -->
+
+* Das erneute Generieren von Meta- und -Bildern nach der Größenanpassung führt nicht mehr zu einem Fehler. Zuvor wurden durch das Ändern der Bildgröße vor der Regenerierung die Kanalmetadaten von `meta` in `facebook` geändert. <!-- GS-7042 -->
+
++++
+
++++Anmerkungen aus dem 31.10.2024
+
+### Neue Funktionen
+
+* Der **[!DNL Content]** Suchfilter unterstützt jetzt die Suche nach Farb-Tag. <!-- GS-5501 -->
+
+* Auf der **[!DNL Create]**-Arbeitsfläche wird jetzt die Zeichenanzahl für E-Mail-Fragmente angezeigt. <!-- GS-5819 -->
+
+### Fehlerbehebungen und Verbesserungen
+
+* Fehlende Beschriftungen für Bildschirmlesehilfen wurden zu mobilen und Desktop-`view` hinzugefügt. <!-- GS-5624 4729 -->
+
+* Die Betreffzeile der **[!DNL Create]** Canvas-E-Mail und die Textbereiche der Pre-Header sind jetzt dynamisch in der Höhe. <!-- GS-6258 -->
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt wie erwartet auf der Schaltfläche **[!DNL Content]** **[!UICONTROL Löschen]** . Zuvor konnte diese Schaltfläche nicht über die Tastatur erreicht oder bedient werden.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
-## Allgemeine Verfügbarkeit 2024.10.14 - Version
++++
 
-Mit dieser Version wird Adobe GenStudio for Performance Marketing eingeführt, eine generative KI-basierte Anwendung, die die Planung, Entwicklung und Analyse von Marketingkampagnen beschleunigt. GenStudio for Performance Marketing ermöglicht es Marketingteams, markenübergreifende Inhalte für Anzeigen, E-Mails und Kampagnen mit mehreren Kanälen zu erstellen und gleichzeitig Echtzeiteinblicke zur Optimierung der Inhaltsleistung bereitzustellen.
++++Hinweise aus 2024.10.14 Allgemeine Verfügbarkeit
+
+Mit dieser Version wird Adobe GenStudio for Performance Marketing eingeführt, eine generative KI-basierte Anwendung, die die Planung, Entwicklung und Analyse von Marketing-Kampagnen beschleunigt. GenStudio for Performance Marketing ermöglicht es Marketing-Teams, markeninterne, kanalübergreifende Inhalte für Anzeigen, E-Mails und Kampagnen zu erstellen und gleichzeitig Echtzeiteinblicke zu erhalten, um die Content-Performance zu optimieren.
 
 ### Funktionen
 
 Zu den wichtigsten Produktfunktionen gehören:
 
-**[!DNL Create]** führt die Arbeitsfläche ein, die ein strukturiertes Aufforderungserlebnis bietet, mit dem Inhaltseditoren schnell Inhalte und Varianten generieren können. Systemmanager schulen das Produkt nach Richtlinien für Unternehmensmarken. [!DNL Create] stellt sicher, dass alle von KI generierten Inhalte mit Ihren Markenrichtlinien übereinstimmen - Branding, Kundenrollen und Produktbeschreibungen - und optimiert die Produktion von wirkungsvollen, markenkonsistenten Marketinginhalten.
+**[!DNL Create]** stellt die Arbeitsfläche vor, die ein strukturiertes Eingabeerlebnis bietet, mit dem Inhaltseditoren schnell Inhalte und Varianten generieren können. Systemmanager schulen das Produkt entsprechend den Richtlinien für Unternehmensmarken. [!DNL Create] stellt sicher, dass alle mit KI generierten Inhalte mit Ihren Markenrichtlinien - Branding, Kundenrollen und Produktbeschreibungen - übereinstimmen, und optimiert die Erstellung wirkungsvoller, markenkonsistenter Marketing-Inhalte.
 
-**[!DNL Content]** speichert kuratierte, markenkonforme genehmigte Assets und Erlebnisse. GenStudio for Performance Marketing-Benutzer können problemlos genehmigte Assets finden, bearbeiten, wiederverwenden und freigeben, sodass Inhalte für jede Kampagne nicht von Grund auf neu erstellt werden müssen.
+**[!DNL Content]** speichert kuratierte, markenkonforme genehmigte Assets und Erlebnisse. GenStudio for Performance Marketing-Anwender können genehmigte Assets einfach finden, bearbeiten, wiederverwenden und freigeben, sodass für jede Kampagne weniger Inhalte von Grund auf neu erstellt werden müssen.
 
-**[!DNL Reviews and Approvals]** legt ein Framework für Stakeholder fest, um generierte Varianten zu überprüfen und zu genehmigen, bevor sie in **[!DNL Content]** gespeichert oder exportiert werden.
+**[!DNL Reviews and Approvals]** wird ein Framework eingerichtet, mit dem Stakeholder generierte Varianten überprüfen und genehmigen können, bevor sie in **[!DNL Content]** oder exportiert werden.
 
-**[!DNL Campaigns]** organisiert und verwaltet Marketing-Kampagnen und sorgt so für eine optimierte Ausführung und Verfolgung. Mitwirkende können Kampagnen visualisieren, planen und verfolgen, um mehrere Initiativen effektiv zu verwalten und eine zeitnahe Bereitstellung zu gewährleisten.
+**[!DNL Campaigns]** organisiert und verwaltet Marketing-Kampagnen und sorgt für eine optimierte Ausführung und Nachverfolgung. Mitarbeiter können Kampagnen visualisieren, planen und verfolgen, um mehrere Initiativen effektiv zu verwalten und eine zeitnahe Bereitstellung sicherzustellen.
 
-**[!DNL Insights]** bietet eine Echtzeitbewertung der Inhaltsleistung, die Marketing-Experten dabei unterstützt, ihre Strategien zu optimieren und datenbasierte Entscheidungen zu treffen.
+**[!DNL Insights]** bietet eine Echtzeit-Bewertung der Content-Performance und hilft Marketing-Experten, ihre Strategien zu optimieren und datengestützte Entscheidungen zu treffen.
 
-GenStudio for Performance Marketing kann mit anderen Adobe Experience Cloud-Produkten integriert werden, einschließlich Adobe Expreß und Adobe AEM Assets.
+GenStudio for Performance Marketing lässt sich mit anderen Adobe Experience Cloud-Produkten, einschließlich Adobe Expreß und Adobe AEM Assets, integrieren.
 
 +++
