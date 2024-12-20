@@ -3,9 +3,9 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 5785c807f0a674c95cada0aa3976dd7fb3d7f16e
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1302'
 ht-degree: 2%
 
 ---
@@ -14,10 +14,9 @@ ht-degree: 2%
 
 Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 
-## Inhaltsgalerie
+## [!DNL Content]
 
 In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Mit dem Filter-Symbol (Trichter) über der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus vielen Kategorien auswählen können, um den in der Galerie angezeigten Inhalt zu filtern. Assets Klicken Sie in der Ansicht ]_0} auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._[!UICONTROL 
-
 
 Im Folgenden sehen Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONTROL Assets]:
 
@@ -27,9 +26,10 @@ Im Folgenden sehen Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONT
 
 Die Filter- und Suchoberfläche ist schnell und reaktionsschnell und bietet ein produktives „Search-First“-Erlebnis. Jede [!DNL Content] bietet Filteroptionen, mit denen Sie Ihre Suche nach dem idealen Asset, Erlebnis oder einer Vorlage eingrenzen können. Für Assets und Erlebnisse können Sie eine Kampagne und bestimmte Richtlinien auswählen, z. B. für Inhalte, die für ein bestimmtes Produkt erstellt wurden.
 
-Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attribute-category.md) basieren, um Suchergebnisse einzugrenzen. Vielleicht möchten Sie zum Beispiel ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
+Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attribute-category.md) basieren, um Suchergebnisse einzugrenzen. Vielleicht möchten Sie zum Beispiel ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen. Oder Sie können Inhalte nach Ihrem Benutzernamen oder dem Namen eines Team-Mitglieds filtern:
 
-Bei der Suche nach _Erlebnissen_ können Sie den Filter **[!UICONTROL Erstellt von]** verwenden, um die Liste so einzuschränken, dass nur die von Ihnen oder einer bestimmten Person erstellten Erlebnisse angezeigt werden.
+- **[!UICONTROL Hochgeladen von]** begrenzt die _[!UICONTROL Assets]_-Liste so, dass nur die Assets angezeigt werden, die von Ihnen oder einer bestimmten Person hochgeladen wurden.
+- **[!UICONTROL Erstellt von]** begrenzt die Liste _[!UICONTROL Erlebnisse]_ auf die Erlebnisse, die von Ihnen oder einer bestimmten Person erstellt wurden.
 
 **So suchen Sie nach wiederzuverwendenden Inhalten**:
 
@@ -79,10 +79,9 @@ In der folgenden Tabelle sind die für Assets, Erlebnisse und Vorlagen verfügba
 | [Erlebnis erstellen](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [Im Adobe Expreß bearbeiten](#edit-in-express) | ✓ |             |           |
 | [Zur Aktivierung exportieren](#export-for-activation) |        | ✓ |           |
+| [Aktualisieren](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
 | [Download](#download-assets) | ✓ |             | ✓ |
 | [Löschen](#delete-assets) | ✓ | ✓ | ✓ |
-
-<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### Hinzufügen von Assets
 
@@ -116,7 +115,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Herunterladen eines Assets**:
 
-1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf das Symbol]** Herunterladen“ (Pfeil nach unten).
 
@@ -126,7 +125,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **So löschen Sie ein Asset**:
 
-1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben]** auf „Löschen“ (Papierkorb).
 

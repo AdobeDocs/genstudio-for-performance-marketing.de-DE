@@ -3,9 +3,9 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und die Leistung zu verfolgen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: cd3cfface9121788c1dd0808f7f7db36c36766df
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
@@ -56,11 +56,11 @@ Beim [Hochladen eines Assets](/help/user-guide/content/manage-assets.md#add-asse
 
 **So bearbeiten Sie die benutzerdefinierten Metadaten**:
 
-1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus.
+1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Gehen Sie in der Asset-Ansicht zum Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
 
-1. Klicken Sie **[!UICONTROL Details bearbeiten]** (Bleistift), um Asset-Metadaten zu bearbeiten.
+1. Klicken Sie **[!UICONTROL Details bearbeiten]** (Bleistift), um Asset-, Erlebnis- oder Vorlagenmetadaten zu bearbeiten.
 
    Je mehr Details Sie angeben, desto zuverlässiger werden die Funktionen von GenStudio for Performance Marketing. Wählen Sie ein oder mehrere Details aus der Liste aus oder geben Sie gegebenenfalls ein neues ein, z. B. mit Schlüsselwörtern. Jedes hinzugefügte Detail wird unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
@@ -91,8 +91,8 @@ Der Abschnitt [!UICONTROL Generativer Kontext] zeigt, welche Informationen zum G
 
 Die Informationen können Folgendes umfassen:
 
-- `Brand`-, `Product`- und `Persona`
-- `Subject line` und `Pre Header` für E-Mail-Erlebnisse
+- `Brand`-, `Product`- und `Persona`, die während des [!DNL Create] ausgewählt wurden
+- `Subject line` und `Preheader` für E-Mail-Erlebnisse
 - `Headline` und `Body` für Meta-Anzeigen
 
 ## Verlauf
