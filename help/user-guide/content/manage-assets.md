@@ -3,10 +3,10 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: d5efabbaf3dd0817bd3158acb59d997a727e5f62
 workflow-type: tm+mt
-source-wordcount: '1302'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -66,6 +66,8 @@ AEM Anleitungen [ Hinzufügen Ihres-Repositorys ](connect-aem-repo.md) GenStudio
 Das AEM-Repository ist schreibgeschützt, d. h. Sie können auf den Inhalt zugreifen, aber keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository ](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
+
+Ein AEM-Repository kann bestimmte Lizenzanforderungen durchsetzen, z. B. den Ablauf von Assets. Diese Assets sind möglicherweise nicht für die Verwendung in [!DNL Create]-Workflows verfügbar. Abgelaufene Assets müssen möglicherweise erneuert oder ersetzt werden, um die Kontinuität Ihrer Projekte zu wahren. Wenden Sie sich an Ihren [!DNL AEM Assets Content Hub]-Administrator, um Unterstützung zu diesen Assets zu erhalten.
 
 ## Verwaltung von Assets
 
