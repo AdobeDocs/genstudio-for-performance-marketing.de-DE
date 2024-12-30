@@ -6,24 +6,24 @@ feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 source-git-commit: cf6e0679999614a4d14d224c9a8dce0b66f50262
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '159'
+ht-degree: 28%
 
 ---
 
 
-# Adobe GenStudio for Performance Marketing-Anleitung {#user-guide}
+# Handbuch zu Adobe GenStudio for Performance Marketing {#user-guide}
 
-+ [GenStudio for Performance Marketing-Handbuch](home.md)
++ [Handbuch zu GenStudio for Performance Marketing](home.md)
 + [Versionshinweise](release-notes.md)
 + [Erste Schritte](get-started.md)
 + Einführung {#intro}
    + [Konzepte](concepts.md)
    + [Produktbereitstellung](product-provisioning.md)
-   + [Konfigurieren von [!DNL Brand] berechtigungen](configure-brand-permissions.md)
+   + [Konfigurieren [!DNL Brand] Berechtigungen](configure-brand-permissions.md)
    + [Benutzerrollen](user-roles.md)
    + [Effektive Eingabeaufforderungen](effective-prompts.md)
-+ Richtlinien {#guidelines}
++ Richtlinien-{#guidelines}
    + [Richtlinien - Übersicht](guidelines/overview.md)
    + [Marken](guidelines/brands.md)
    + [Personas](guidelines/personas.md)
@@ -34,21 +34,21 @@ ht-degree: 0%
    + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
-   + [Anzeigen von Anzeigenerlebnissen](create/display-ad-experiences.md)
+   + [Anzeigen-Erlebnisse](create/display-ad-experiences.md)
    + [Varianten verwalten](create/manage-variants.md)
    + [E-Mail-Erlebnis erstellen](create/create-email-experience.md)
-   + [Erstellen eines Meta-Anzeigenerlebnisses](create/create-meta-ad.md)
-   + [Erstellen eines Display-Anzeigenerlebnisses](create/create-display-ad.md)
-+ Bewertungen und Genehmigungen {#approve}
-   + [Überblick über Überprüfungen und Genehmigungen](approvals/overview.md)
-   + [Überprüfung und Genehmigung des Inhalts anfordern](approvals/request-review.md)
+   + [Erstellen eines Meta-Anzeigen-Erlebnisses](create/create-meta-ad.md)
+   + [Erstellen eines Anzeigen-Erlebnisses](create/create-display-ad.md)
++ Reviews &amp; Approvals {#approve}
+   + [Übersicht über Prüfungen und Genehmigungen](approvals/overview.md)
+   + [Überprüfung und Genehmigung von Inhalten anfordern](approvals/request-review.md)
    + [Inhalt überprüfen und bearbeiten](approvals/review-and-edit.md)
    + [Inhalt genehmigen](approvals/approve-content.md)
-   + [Publish-genehmigter Inhalt](approvals/publish-content.md)
-+ Inhalt {#content}
+   + [Von Publish genehmigte Inhalte](approvals/publish-content.md)
++ {#content}
    + [Inhaltsübersicht](content/overview.md)
    + [Verwalten von Assets und Erlebnissen](content/manage-assets.md)
-   + [AEM Repository verbinden](content/connect-aem-repo.md)
+   + [Verbinden eines AEM-Repositorys](content/connect-aem-repo.md)
    + [Asset-Details](content/asset-details.md)
    + Vorlagen {#templates}
       + [Arbeiten mit Vorlagen](content/use-templates.md)
@@ -56,9 +56,9 @@ ht-degree: 0%
       + [Erstellen barrierefreier Vorlagen](content/accessibility-for-templates.md)
       + [Best Practices für Vorlagen](content/best-practices-for-templates.md)
 + Kampagnen {#campaigns}
-   + [Kampagnenübersicht](campaigns/overview.md)
-+ Activation {#activation}
-   + [Aktivierungsübersicht](activation/overview.md)
+   + [Kampagnen - Übersicht](campaigns/overview.md)
++ {#activation}
+   + [Aktivierung - Übersicht](activation/overview.md)
 + Insights {#insights}
    + [Insights-Überblick](insights/overview.md)
    + [Kanalkonto verbinden](insights/connect-channel.md)
@@ -67,4 +67,4 @@ ht-degree: 0%
    + [Assets](insights/assets.md)
    + [Attribute](insights/attributes.md)
    + [Attributkategorien](insights/attribute-category.md)
-+ [GenStudio Academy - Hidden](genstudioacademy.md)
++ [GenStudio Academy - Ausgeblendet](genstudioacademy.md)

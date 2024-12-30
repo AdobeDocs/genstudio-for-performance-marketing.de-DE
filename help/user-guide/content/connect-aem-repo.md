@@ -1,17 +1,17 @@
 ---
-title: Herstellen einer Verbindung zu einem [!DNL AEM Assets Content Hub] Repository
-description: Erfahren Sie, wie Sie Adobe GenStudio for Performance Marketing mit einem Adobe Experience Manager (AEM) [!DNL Content Hub] Repository verbinden und vorhandene genehmigte Inhalte nutzen.
+title: Verbindung zu einem  [!DNL AEM Assets Content Hub] -Repository herstellen
+description: Erfahren Sie, wie Sie Adobe GenStudio for Performance Marketing mit einem Adobe Experience Manager (AEM)- [!DNL Content Hub]  verbinden und vorhandene genehmigte Inhalte nutzen können.
 level: Experienced
 feature: Assets, Content
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
 source-git-commit: abe1de42b81bff63d473a67632d27f96db7c1c7d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
-# Herstellen einer Verbindung zu einem [!DNL AEM Assets Content Hub]-Repository
+# Herstellen einer Verbindung zu einem [!DNL AEM Assets Content Hub] Repository
 
 Wenn Sie Assets in Adobe Experience Manager (AEM) haben, können Sie diese Schritte ausführen, um sie in GenStudio for Performance Marketing verfügbar zu machen.
 
@@ -19,41 +19,41 @@ Wenn Sie Assets in Adobe Experience Manager (AEM) haben, können Sie diese Schri
 
 **Voraussetzungen**:
 
-Die folgenden Schritte erfordern Administratorzugriff auf Admin Console und AEM Assets as a Cloud Service.
+Für die folgenden Schritte ist ein administrativer Zugriff auf Admin Console und AEM Assets as a Cloud Service erforderlich.
 
 >[!ENDSHADEBOX]
 
-## Schritt 1: Aktivieren Sie [!DNL AEM Assets Content Hub]
+## Schritt 1: [!DNL AEM Assets Content Hub] aktivieren
 
-Führen Sie den Self-Service-Prozess **Content Hub bereitstellen** aus, um [!DNL Content Hub] für Ihre vorhandene AEM Assets in Cloud Manager zu aktivieren. Siehe [Bereitstellen [!DNL Content Hub]](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in der Dokumentation zu _AEM as a Cloud Service_.
+Befolgen Sie **Selbstbedienungsprozess &quot;Content Hub bereitstellen** um [!DNL Content Hub] für Ihre bestehende AEM Assets in Cloud Manager zu aktivieren. Siehe [Bereitstellen [!DNL Content Hub]](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in der Dokumentation zu _AEM as a Cloud Service_.
 
-Nachdem Sie [!DNL AEM Assets Content Hub] aktiviert haben, haben Sie eine neue Instanz mit dem Suffix `contenthub` innerhalb von [!DNL AEM Assets as a Cloud Service] auf der Admin Console.
+Nach der Aktivierung von [!DNL AEM Assets Content Hub] haben Sie eine neue Instanz mit dem `contenthub` Suffix in [!DNL AEM Assets as a Cloud Service] auf Admin Console.
 
 >[!IMPORTANT]
 >
->Administratoren sollten sicherstellen, dass sich das [!DNL AEM Assets Content Hub] -Repository in derselben Organisation wie GenStudio for Performance Marketing befindet.
+>Admins sollten sicherstellen, dass sich das [!DNL AEM Assets Content Hub]-Repository in derselben Organisation wie GenStudio for Performance Marketing befindet.
 
-## Schritt 2: Onboard GenStudio-Benutzer
+## Schritt 2: Onboarding von GenStudio-Benutzern
 
-Fügen Sie unter &quot;[!DNL Admin Console]&quot;einen GenStudio for Performance Marketing-Benutzer oder eine Benutzergruppe zum Produktprofil &quot;[!DNL AEM Assets Content Hub]&quot;hinzu. Wenn ein Inhaltsvalidierer keinen Zugriff auf dieselbe Organisation wie das [!DNL AEM Assets Content Hub]-Repository hat, kann es bei der Überprüfung und Genehmigung von Inhalten zu Problemen kommen.
+Fügen Sie in der [!DNL Admin Console] einen GenStudio for Performance Marketing-Benutzer oder eine -Benutzergruppe zum [!DNL AEM Assets Content Hub] Produktprofil hinzu. Wenn ein Content Reviewer nicht auf dieselbe Organisation wie das [!DNL AEM Assets Content Hub]-Repository zugreifen kann, kann es zu Schwierigkeiten bei der Überprüfung und Genehmigung von Inhalten kommen.
 
 - [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
 - [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
-## Schritt 3: Genehmigen von Assets
+## Schritt 3: Assets genehmigen
 
-Genehmigen Sie Assets zur Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar gemacht werden.
+Genehmigen von Assets für die Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar werden.
 
-Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der Dokumentation zu _AEM as a Cloud Service_ .
+Siehe [Genehmigen von Assets im Experience Manager AEM as a Cloud Services ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der Dokumentation zu __.
 
-## Schritt 4: Konfigurieren der Asset-Sichtbarkeit
+## Schritt 4: Asset-Sichtbarkeit konfigurieren
 
-Überprüfen Sie in den Konfigurationsoptionen für _[!DNL AEM Assets Content Hub]_die einzelnen Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding.
+Überprüfen Sie unter _[!DNL AEM Assets Content Hub]_Konfigurationsoptionen jeden Satz von Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding.
 
-Siehe [Konfigurieren der Content Hub-Benutzeroberfläche](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu _AEM as a Cloud Service_ .
+Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu _AEM as a Cloud Service_.
 
 ## Schritt 5: Verbindung überprüfen
 
-In GenStudio for Performance Marketing Content ist die Liste _[!UICONTROL Position]_ rechts über der Galerie verfügbar. Die Liste ist nicht verfügbar, wenn Sie keinen Zugriff haben oder Ihr Unternehmen kein [!DNL AEM Assets Content Hub] -Repository bereitgestellt und verbunden hat.
+Im GenStudio for Performance Marketing-Inhalt _[!UICONTROL die Liste]_ Speicherort“ über der Galerie auf der rechten Seite verfügbar. Die Liste ist nicht verfügbar, wenn Sie keinen Zugriff haben oder Ihre Organisation kein [!DNL AEM Assets Content Hub]-Repository bereitgestellt und verbunden hat.
 
-Informationen zur Standortliste und zum Ändern von Repositorys finden Sie unter [Assets-Speicherort](manage-assets.md#assets-location) .
+Siehe [Speicherort in Assets](manage-assets.md#assets-location), um mehr über die Liste der Speicherorte und das Ändern von Repositorys zu erfahren.

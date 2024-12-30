@@ -14,30 +14,30 @@ ht-degree: 2%
 
 # Attributkategorien
 
-Eine Attributkategorie ist eine Classification-Gruppe, die verwandte Attribute organisiert, die ein gemeinsames Merkmal aufweisen. Diese Kategorien helfen bei der Optimierung der Erkennung, Identifizierung und des Verständnisses bestimmter Attribute, indem sie einen größeren Kontext bieten und deren Anwendung und Verwendung erleichtern.
+Eine Attributkategorie ist eine Klassifizierungsgruppe, die verwandte Attribute organisiert, die ein gemeinsames Merkmal aufweisen. Diese Kategorien helfen, die Erkennung, Identifizierung und das Verständnis bestimmter Attribute zu optimieren, indem sie einen größeren Kontext bieten und ihre Anwendung und Verwendung erleichtern.
 
-GenStudio for Performance Marketing nutzt Adobe-API- und maschinelle Lernfunktionen, um Bilder, Videos und Texte zu untersuchen und [!UICONTROL Asset] auf der Grundlage einer Wahrscheinlichkeit der Richtigkeit anzuwenden. Die Attributliste eines Assets ist nicht vollständig. Assets, die eine Vielzahl von Funktionen enthalten, kann auf die drei wichtigsten von der KI identifizierten Funktionen beschränkt sein.
+GenStudio for Performance Marketing verwendet KI-Funktionen von Adobe und maschinelles Lernen, um Bilder, Videos und Texte zu untersuchen und [!UICONTROL Asset-Attribute] basierend auf einer Korrektheitswahrscheinlichkeit anzuwenden. Die Attributliste eines Assets ist nicht vollständig. Assets, die einen umfangreichen Funktionssatz enthalten, kann auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
 
 ## Bildfunktionen
 
-Bildfunktionen stellen eindeutige und informative Elemente oder Muster innerhalb eines Bildes dar, die für die Analyse mit [!DNL Insights] verwendet werden. In der folgenden Tabelle sind die von der GenStudio for Performance Marketing AI erkannten Bildfunktionskategorien aufgeführt.
+Bildfunktionen stellen bestimmte und informative Elemente oder Muster innerhalb eines Bildes dar, die für die Analyse mit [!DNL Insights] verwendet werden. In der folgenden Tabelle sind die Bildfunktionskategorien aufgeführt, die von der GenStudio for Performance Marketing-KI erkannt werden.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 
 | Kategorie | Beschreibung | Beispiel |
 | ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Kamerawinkel | Position und Winkel der Kamera in Bezug auf das Thema. |                                                                                                                                                                                |
-| Fachweite | Die Entfernung zwischen der Kamera und dem Betreff eines Bildes. | `close up`, `mid shot`, `long shot` |
-| Kameraeinstellung | Die Konfiguration der Steuerelemente der Kamera, um das Bild zu erzeugen. |                                                                                                                                                                                |
-| Farbe und Ton | Wertet die in Bildelementen verwendeten Farben aus. Identifiziert eine bis drei Farben aus einem Satz von 40 vorab bestimmten Farben in den folgenden Bildebenen:<br>**[!UICONTROL Vordergrundfarben ]**- Elemente in der Vorderseite des Bildes<br>**[!UICONTROL Hintergrundfarben]** - Elemente in der Hinterschicht eines Bildes<p>**[!UICONTROL Farbtemperatur]** beschreibt die allgemeine Wärme oder Farbtiefe der Farben im Bild.<br>Ton- oder Temperaturwerte: `warm`, `cool`, `neutral` | ![Farben und coole Töne](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
+| Kamerawinkel | Die Position und der Winkel der Kamera relativ zum Motiv. |                                                                                                                                                                                |
+| Entfernung des Objekts | Der Abstand zwischen der Kamera und dem Motiv eines Bildes. | `close up`, `mid shot`, `long shot` |
+| Kameraeinstellung | Die Konfiguration der Kamerasteuerung zur Erzeugung des Bildes. |                                                                                                                                                                                |
+| Farbe und Ton | Wertet die in Bildelementen verwendeten Farben aus. Identifiziert ein bis drei Farben aus einem Satz von 40 vordefinierten Farben in den folgenden Bildebenen:<br>**[!UICONTROL Vordergrundfarben ]**-Elemente in der Vorderschicht des Bildes<br>**[!UICONTROL Hintergrundfarben]**-Elemente in der Hinterschicht eines Bildes<p>**[!UICONTROL Farbtemperatur]** beschreibt die allgemeine Wärme oder Kälte von Farben im Bild.<br>Ton- oder Temperaturwerte: `warm`, `cool`, `neutral` | ![Farben und kühle Töne](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
 | Bildstil | Die visuelle Behandlung eines Bildes. |                                                                                                                                                                                |
-| Beleuchtungsbedingung | Die Lichtart in einem Bild. |                                                                                                                                                                                |
-| Objekte | Identifiziert ein oder mehrere Elemente, Entitäten und Elemente, aus denen das Bild besteht. | ![Sonnenblumen, Ebene, Blumenobjekt](../../assets/category/image-objects.png){width="200" zoomable="yes"} |
-| Ausrichtung | Die Position des Bildes im Verhältnis zum Seitenverhältnis. | `landscape`, `portrait`, `square` |
-| Personen | Wenn mindestens eine Person vorhanden ist, können ein oder mehrere Attribute die Person(en) im Bild beschreiben. | ![Frau, die tanzt](../../assets/category/image-people.png){width="200" zoomable="yes"} |
-| Fotografiergenres | Ermittelt den Betreff und die Technik, die zum Erfassen eines Bildes verwendet werden, z. B. `abstract` oder `landscape` (nicht identisch mit der Ausrichtung im Querformat). |           |
-| Szenen | Ermittelt die in einem Bild dargestellte Einstellung oder Umgebung. |                                             |
-| Tags | Ermittelt Objekte, Elemente und andere Bildmerkmale, die nicht unter eine bestimmte Classification fallen. |                                      |
+| Beleuchtungsbedingung | Die Art des Lichts in einem Bild. |                                                                                                                                                                                |
+| Objekte | Identifiziert ein oder mehrere Elemente, Entitäten und Elemente, aus denen das Bild besteht. | ![Sonnenblume, Ebene, Blumenobjekt](../../assets/category/image-objects.png){width="200" zoomable="yes"} |
+| Ausrichtung | Die Position des Bildes relativ zum Seitenverhältnis. | `landscape`, `portrait`, `square` |
+| Personen | Wenn mindestens eine Person vorhanden ist, können ein oder mehrere Attribute die Person(en) im Bild beschreiben. | ![Frau Person tanzt](../../assets/category/image-people.png){width="200" zoomable="yes"} |
+| Genres der Fotografie | Erkennt das Motiv und die Technik, mit der ein Bild erfasst wird, z. B. `abstract` oder `landscape` (nicht identisch mit der Querformat-Ausrichtung). |           |
+| Szenen | Erkennt die in einem Bild dargestellte Einstellung oder Umgebung. |                                             |
+| Tags | Erkennt Objekte, Elemente und andere Bildmerkmale, die nicht unter eine bestimmte Klassifizierung fallen. |                                      |
 
 <!-- Not yet approved by legal
 | Attention distribution  | The level of viewer attention spread across an image.                                                 | `high`, `medium`, `low`                                                                                                                                                                                                    |
@@ -46,24 +46,24 @@ Bildfunktionen stellen eindeutige und informative Elemente oder Muster innerhalb
 
 ## Videofunktionen
 
-Bildfunktionen stellen eindeutige und informative Elemente, Töne oder Muster innerhalb eines Videos zur Analyse mit [!DNL Insights] dar. In der folgenden Tabelle sind die von der GenStudio for Performance Marketing AI erkannten Videofunktionskategorien aufgeführt.
+Bildfunktionen stellen bestimmte und informative Elemente, Töne oder Muster innerhalb eines Videos zur Analyse mit [!DNL Insights] dar. In der folgenden Tabelle sind die Videofunktionskategorien aufgeführt, die von der GenStudio for Performance Marketing-KI erkannt werden.
 
 | Kategorie | Beschreibung | Beispiel |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| Audio-Genre | Wenn Musik vorhanden ist, kann das Video eine Klassifizierung des Musikstils erhalten, z. B. `electronic` oder `classical`. |          |
-| Kategorie &quot;Audio-Genre&quot; | Wenn Musik vorhanden ist, kann das Video eine umfassende Klassifizierung des Musikgenres erhalten, z. B. `acoustic` oder `traditional`. |          |
-| Audio-Stimmung | Beschreibt die allgemeine Atmosphäre oder den Ton des Audios, z. B. `relaxing` oder `energetic`. |          |
-| Audiotypen | Wenn Audio vorhanden ist, kann das Video ein Tag für einen oder mehrere Audiotypen erhalten, z. B. `music` oder `speech`. |          |
-| Objekte | Identifiziert ein oder mehrere Elemente, Entitäten und Elemente, die im Video angezeigt werden. | ![Objekte im Video](../../assets/category/video-objects.png){width="200" zoomable="yes"} |
-| Ausrichtung | Die Position des Videos im Verhältnis zum Seitenverhältnis des Rahmens. | `landscape`, `portrait`, `square` |
-| Personen | Wenn mindestens eine Person vorhanden ist, kann eines oder mehrere Attribute die Person(en) im Video beschreiben. |        |
-| Szenen | Die im Video dargestellte Einstellung oder Umgebung. |        |
-| Stile | Ermittelt visuelle Behandlungen, die auf Elemente im Video angewendet werden, z. B. `matte` oder `neon`. |        |
-| Tags | Ermittelt Objekte, Elemente und andere Videomerkmale, die nicht unter eine bestimmte Classification fallen. |        |
+| Audiogenre | Wenn Musik vorhanden ist, erhält das Video möglicherweise eine Klassifizierung des Musikstils, z. B. `electronic` oder `classical`. |          |
+| Genre-Kategorie | Wenn Musik vorhanden ist, erhält das Video möglicherweise eine breite Klassifizierung des Musikgenres, z. B. `acoustic` oder `traditional`. |          |
+| Audiomodus | Beschreibt die allgemeine Atmosphäre oder den Ton des Audios, z. B. `relaxing` oder `energetic`. |          |
+| Audiotypen | Wenn Audio vorhanden ist, empfängt das Video möglicherweise ein -Tag für einen oder mehrere Audiotypen, z. B. `music` oder `speech`. |          |
+| Objekte | Identifiziert ein oder mehrere Elemente, Entitäten und Elemente, die im gesamten Video angezeigt werden. | ![Objekte im Video](../../assets/category/video-objects.png){width="200" zoomable="yes"} |
+| Ausrichtung | Die Position des Videos im Verhältnis zum Seitenverhältnis des Bildes. | `landscape`, `portrait`, `square` |
+| Personen | Wenn mindestens eine Person vorhanden ist, können ein oder mehrere Attribute die Person(en) im Video beschreiben. |        |
+| Szenen | Die Einstellung oder Umgebung, die im Video dargestellt wird. |        |
+| Stile | Erkennt visuelle Behandlungen, die auf Elemente im Video angewendet werden, z. B. `matte` oder `neon`. |        |
+| Tags | Erkennt Objekte, Elemente und andere Videoeigenschaften, die nicht unter eine bestimmte Klassifizierung fallen. |        |
 
 ## Textfunktionen
 
-Zu den Textfunktionen gehören Zählungen für bestimmte Textelemente wie Wörter, Sätze, Emojis und Klassifizierungen für Semantik, Emotion und Ton, die für die Analyse mit [!DNL Insights] verwendet werden. Text kann auch eine Lesbarkeit erhalten. Bald.
+Zu den Textfunktionen gehören Zählungen für bestimmte Textelemente wie Wörter, Sätze, Emojis und Klassifizierungen für Semantik, Emotion und Ton, die für die Analyse mit [!DNL Insights] verwendet werden. Text kann auch einen Lesbarkeitswert erhalten. Bald verfügbar.
 
 <!-- Not yet approved by legal
 

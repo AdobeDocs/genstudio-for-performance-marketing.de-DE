@@ -1,6 +1,6 @@
 ---
 title: Kanalkonto verbinden
-description: Verbinden Sie ein Kanalkonto, um Ihre Adobe GenStudio for Performance Marketing-Marketingkampagnen und die Asset-Leistung zu überwachen.
+description: Ein Kanalkonto verbinden, um Ihre Adobe GenStudio for Performance Marketing-Marketing-Kampagnen und die Asset-Leistung zu überwachen.
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
@@ -11,46 +11,46 @@ ht-degree: 0%
 
 ---
 
-# Kanalanzeigenkonto verbinden
+# Kanal und Konto verbinden
 
-Wenn Sie [!DNL Insights] zum ersten Mal öffnen, wird Ihnen möglicherweise ein Banner angezeigt, mit dem Sie Adobe GenStudio for Performance Marketing mit einem Kanalkonto verbinden können.
+Beim ersten Öffnen von [!DNL Insights] wird möglicherweise ein Banner angezeigt, das Sie anleitet, Adobe GenStudio for Performance Marketing mit einem Kanalkonto zu verbinden.
 
-Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistische Daten aus Ihren aktiven Marketingkampagnen, Assets und Erlebnissen zu erhalten. Zunächst nimmt GenStudio for Performance Marketing die Daten der letzten sechs Monate auf, sodass Sie über die Tools verfügen, die neuesten Daten zu analysieren und Maßnahmen zu ergreifen.
+Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistische Daten aus Ihren aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten. Zunächst nimmt GenStudio for Performance Marketing die Daten der letzten 6 Monate auf, damit Sie über die Tools verfügen, um die neuesten Daten zu analysieren und Maßnahmen zu ergreifen.
 
 >[!BEGINSHADEBOX]
 
-**Datenerfassungs- und Aufbewahrungsrichtlinie**
+**Richtlinie zur Datenaufnahme und -speicherung**
 
-GenStudio for Performance Marketing bewahrt Kanaldaten 13 Monate lang auf. Diese Aufbewahrungsrichtlinie umfasst die Daten, die während der ersten Verbindung sechs Monate erfasst wurden, und gewährleistet so eine umfassende Analyse und Berichterstellung historischer Daten.
+GenStudio for Performance Marketing bewahrt Kanaldaten 13 Monate lang auf. Diese Aufbewahrungsrichtlinie umfasst die 6 Monate an Daten, die während der ersten Verbindung aufgenommen wurden, um eine umfassende historische Datenanalyse und Berichterstellung sicherzustellen.
 
 >[!ENDSHADEBOX]
 
-## Verbindung von Meta-Anzeigen
+## Meta-Anzeigen verbinden
 
 >[!BEGINSHADEBOX]
 
 **Voraussetzungen**:
 
-- Facebook/Meta-Anzeigen-Konto
-- Zugriff auf das Meta-Anzeigen-Konto mit `View performance` Berechtigungsstufe für den Zugriff auf Berichte und Anzeigen
-- Entfernen Sie alle Popup-Blocker in Ihrem Browser.
+- Facebook-/Meta-Werbekonto
+- Zugriff auf das Meta-Anzeigen-Konto mit `View performance` Berechtigungsstufe für den Zugriff auf Berichte und das Anzeigen von Anzeigen
+- Entfernen Sie alle Popup-Blocker in Ihrem Browser
 
 >[!ENDSHADEBOX]
 
-**So verbinden Sie ein Metadatenanzeigenkonto in GenStudio for Performance Marketing**:
+**So verbinden Sie ein Meta Ads-Konto in GenStudio for Performance Marketing**:
 
-1. Klicken Sie in _[!DNL Insights]_im Banner auf **[!UICONTROL Ein Kanalkonto verbinden]**oder oben rechts auf die Schaltfläche **[!UICONTROL Konten hinzufügen]**(Personenform mit Pluszeichen).
+1. Klicken Sie _[!DNL Insights]_im Banner auf **[!UICONTROL Kanalkonto verbinden]**oder klicken Sie auf die Schaltfläche **[!UICONTROL Konten hinzufügen]**(Personen-Shape mit Pluszeichen) in der oberen rechten Ecke.
 
-   Sie können angewiesen werden, sich bei Facebook anzumelden. Facebook ist derzeit die einzige verfügbare Option.
+   Sie werden möglicherweise zur Anmeldung bei Facebook weitergeleitet. Facebook ist derzeit die einzige verfügbare Option.
 
 1. Melden Sie sich bei Ihrem Facebook-Konto an.
 
-   Möglicherweise müssen Sie die Popup-Blocker entfernen und dann **[!UICONTROL Aktualisieren]** verwenden, um es erneut zu versuchen.
+   Möglicherweise müssen Sie die Popup-Blocker entfernen und dann mit &quot;**[!UICONTROL &quot;]**, um es erneut zu versuchen.
 
-1. Überprüfen Sie im Popup &quot;_[!UICONTROL Verbindung neu herstellen]_&quot;(Meta-Adobe-Symbol) die Kontoinformationen und klicken Sie auf &quot;**[!UICONTROL Neu verbinden]**&quot;.
+1. Adobe Überprüfen _[!UICONTROL im Popup]_ Erneut verbinden) die Kontoinformationen und klicken Sie auf **[!UICONTROL Erneut verbinden]**.
 
-   Durch die Wiederanbindung wird GenStudio for Performance Marketing wieder in den Blickpunkt gerückt.
+   Erneut verbinden bringt GenStudio for Performance Marketing wieder zum Vorschein.
 
-1. Wählen Sie in der Ansicht _[!UICONTROL Konto für Metadatenanzeigen verbinden]_ mindestens ein Werbekonto aus und klicken Sie auf **[!UICONTROL Konto verbinden]**.
+1. Wählen _[!UICONTROL in der Ansicht Verbinden eines Meta]_ Werbekontos eines oder mehrere Ihrer Werbekonten aus und klicken Sie auf **[!UICONTROL Konto verbinden]**.
 
-   Unten auf der Seite [!DNL Insights] wird ein Banner vom Typ `Account successfully connected` angezeigt. Es kann einige Minuten dauern, bis Ihre Daten verfügbar sind.
+   Unten auf der [!DNL Insights] wird ein `Account successfully connected` angezeigt. Es kann einige Minuten dauern, bis Ihre Daten verfügbar sind.
