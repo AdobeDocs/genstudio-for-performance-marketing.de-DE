@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio for Perform
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: 8930d3284f9dd1223067239c0077e481ea98335a
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1173'
 ht-degree: 0%
 
 ---
@@ -107,7 +107,9 @@ Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld T
 
 Jeder Abschnitt kann nur einen der Feldtypen verwenden. Im obigen Beispiel kann der Abschnitt `pod1` nur ein `pod1_headline` verwenden. Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
 
-Eine E-Mail-Vorlage kann bis zu drei Abschnitte enthalten. Die folgende Liste hat beispielsweise drei Überschriften- und Hauptteilabschnitte:
+Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) im Thema _Best Practices für die Verwendung von Vorlagen_.
+
+Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher können Sie drei Überschriften- und Hauptteilabschnitte haben:
 
 - `pre-header`
 - `pod1_headline`
