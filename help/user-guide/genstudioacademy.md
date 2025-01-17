@@ -1,11 +1,11 @@
 ---
 title: GenStudio Academy
 description: Verbessern Sie Ihre Fähigkeiten in der Inhaltslieferkette mit Adobe GenStudio Academy
-recommendations: disable, exclude
+recommendations: noDisplay, noCatalog
 index: false
 hidefromtoc: true
 exl-id: 44486f96-e01b-4fa1-91f3-a0b50d458133
-source-git-commit: 39dcf0d8ede66cac8522a72eae50ef915ddbca8f
+source-git-commit: cac3ee686121c3b5eca6f91ab6cfe2c0e97def4a
 workflow-type: tm+mt
 source-wordcount: '17'
 ht-degree: 0%

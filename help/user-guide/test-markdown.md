@@ -3,7 +3,8 @@ title: Testseite für Markdown
 description: Dieser Artikel ist zum Testen verschiedener Markdown-Transformationen ausgeblendet.
 hide: true
 hidefromtoc: true
-source-git-commit: 3b186165022be9ac98c7698cf1511e36332962d8
+recommendations: noDisplay, noCatalog
+source-git-commit: cac3ee686121c3b5eca6f91ab6cfe2c0e97def4a
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -33,4 +34,4 @@ ht-degree: 0%
 
 Sie können jetzt beim Verwalten von Varianten neue Ausdrücke für Aktionsaufrufe (CTA) generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
 
-![CTA-Umformulierung in Aktion](/help/assets/animation/rephrase-cta.gif "CTA-Umformulierung"){width="250" align="center"}
+![CTA-Umformulierung in Aktion](/help/assets/animation/rephrase-cta.gif "CTA-Umformulierung"){width="250" align="center" zoomable="yes"}
