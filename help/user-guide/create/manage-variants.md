@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Content, Assets, Experiences
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '1268'
+source-wordcount: '1335'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Mit Adobe GenStudio for Performance Marketing [!DNL Create] können Sie generierte Varianten - [E-Mails](/help/user-guide/create/email-experiences.md), [Meta-Anzeigen](/help/user-guide/create/meta-experiences.md) und mehr - für die Verwendung in Initiativen für digitales Marketing anpassen und verbessern.
 
-Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Sie Inhalte und Assets generierter Varianten einzeln oder in einem Batch ändern. Die Möglichkeit, Varianten auf individueller Mikroebene zu verwalten, ermöglicht es Ihnen, jedes erzeugte Inhaltselement explizit zu verwalten.
+Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Sie Inhalte und Assets generierter Varianten einzeln oder in einem Batch ändern. Die Möglichkeit, Varianten auf individueller Mikroebene zu verwalten, ermöglicht es Ihnen, jedes Stück generierten Inhalts zu verwalten.
 
 ## Namen des Entwurfs ändern
 
@@ -52,22 +52,38 @@ Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvarian
 1. Um den vorhandenen Text zu ändern, wählen Sie _[!UICONTROL Umformulieren]_, _[!UICONTROL Kürzen]_ oder _[!UICONTROL Verlängern]_ aus.
 1. Um neue Formulierungsoptionen zu generieren, wählen Sie _[!UICONTROL Neuen Text generieren]_ und geben Sie eine neue Eingabeaufforderung ein.
    1. Klicken Sie auf **[!UICONTROL Generieren]**.
-1. Wenn Sie den Text eines Abschnitts neu generieren, klicken Sie auf das Symbol Neu generieren , um weitere Textoptionen anzuzeigen.
+1. Wenn Sie den Text eines Abschnitts neu generieren, klicken Sie auf das Symbol „Neu generieren“ (kreisende Pfeile), um weitere Textoptionen anzuzeigen.
 1. Wählen Sie aus den angezeigten Ergebnissen die gewünschte Option aus und klicken Sie auf **[!UICONTROL Ersetzen]**.
 
    Die Variante wird mit dem überarbeiteten Text aktualisiert.
 
-## Revidieren der Handlungsaufforderung
+## Handlungsaufforderung überarbeiten
 
 Nachdem Sie einen Variantensatz generiert haben, können Sie den Text und den Link des Aktionsaufrufs (CTA) überarbeiten.
 
+>[!NOTE]
+>
+>Sie können CTA-Beschriftungstext mithilfe der Option _[!UICONTROL Umformulieren]_ bearbeiten, wenn der Beschriftungstext ein generiertes Vorlagenfeld ist (in der Vorlage nicht hartcodiert). Sie können einen CTA-Link mit der Option _[!UICONTROL Link bearbeiten]_ bearbeiten, wenn der Link vorhanden und bearbeitbar ist (in der Vorlage nicht hartcodiert).
+
 **So überarbeiten Sie die CTA in einer Variante**:
 
-1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf die Schaltfläche mit dem CTA-Text.
-1. Um den CTA-Schaltflächentext zu ändern, wählen Sie aus den verfügbaren Optionen in der Liste _Aktionsaufruf_ aus.
-1. Um den Link in der CTA zu ändern, klicken Sie auf **[!UICONTROL Link]**.
-   1. Geben Sie einen neuen Link ein, fügen Sie ihn ein oder überarbeiten Sie den vorhandenen Link im Abschnitt _Link bearbeiten_ und klicken Sie auf **[!UICONTROL Anwenden]**. Sie können auf **[!UICONTROL Link entfernen]** klicken, um den vorhandenen Link zu entfernen, bevor Sie einen neuen eingeben.
+1. Klicken Sie in einer der Varianten auf eine CTA-Schaltfläche.
 
+   Die ausgewählte Schaltfläche zeigt die Zeichenanzahl an und bietet zwei Optionen: _[!UICONTROL Umformulieren]_ und _[!UICONTROL Link hinzufügen]_.
+
+1. Klicken Sie auf **[!UICONTROL Umformulieren]**.
+
+   1. Wählen Sie aus der Liste der neu generierten Phrasen oder klicken Sie auf **[!UICONTROL Ergebnisse aktualisieren]**, um weitere Optionen anzuzeigen.
+
+   1. Klicken Sie **[!UICONTROL Ersetzen]**.
+
+      Der CTA-Text wird aktualisiert, und die Meldung _Eine Schaltflächenbeschriftung wurde ersetzt_ wird angezeigt, die die Änderung bestätigt.
+
+1. Klicken Sie auf **[!UICONTROL Link hinzufügen]**.
+
+   1. Geben Sie eine URL ein, fügen Sie sie ein und klicken Sie auf **[!UICONTROL Anwenden]**.
+
+      Um einen vorhandenen Link in Ihrer CTA zu überarbeiten, bearbeiten Sie die vorhandene URL oder fügen Sie eine neue URL ein und klicken Sie auf **[!UICONTROL Übernehmen]**.
 
 Der hinzugefügte oder überarbeitete Link wird auf alle CTAs im Variantensatz angewendet.
 

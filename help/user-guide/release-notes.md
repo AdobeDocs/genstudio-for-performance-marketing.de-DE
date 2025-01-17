@@ -2,11 +2,11 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2024-12-13T00:00:00Z
+last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 00359960b6cf314203382d74faa23bae3e753875
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '1268'
+source-wordcount: '1644'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,49 @@ ht-degree: 1%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2024,12,12 {#latest}
+## 2 025,1,16 {#latest}
+
+### Integration mit Adobe Workfront Proof
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Das Beta-Programm zur Integration von GenStudio for Performance Marketing und Adobe Workfront-Korrekturabzügen wird diesen Monat gestartet. Workfront Proof erhöht den Lebenszyklus der Inhaltserstellung und -aktivierung mit Genehmigungsvorlagen, mehrstufigen Workflows und Anmerkungen. GenStudio for Performance Marketing-Benutzende mit Workfront Proof-Berechtigungen können die erweiterten Funktionen des Korrekturabzugs in GenStudio for Performance Marketing verwenden, um GenStudio-generierte Inhalte zu überprüfen und zu kommentieren.
+
+Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und die allgemeine Verfügbarkeit zu bestimmen. Kontaktieren Sie Etienne Bosch (etienneb@adobe.com), um Informationen über das Integrationsprogramm Beta GenStudio for Performance Marketing/Workfront Proof zu erhalten.
+
+### Neue Aktionsaufrufe generieren
+
+Sie können jetzt beim Verwalten von Varianten neue Ausdrücke für Aktionsaufrufe (CTA) generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+
+### Fehlerbehebungen und Verbesserungen
+
+* Die Zeichenzahl wird jetzt in allen erzeugten und manuellen Feldern von Display-Anzeigen angezeigt. Siehe _Zeichenanzahl_ in [Meta-](/help/user-guide/create/meta-experiences.md#character-counts)<!-- GS-7732 -->
+
+* _Mitwirkende_ können jetzt Assets anzeigen, diese Assets jedoch nicht erstellen, bearbeiten oder löschen. Zuvor wurden Kollaborateurberechtigungen nicht wie erwartet in erzwungen[!DNL Create]. <!-- GS-7614 -->
+
+* Inhaltseditoren können jetzt Asset-, Erlebnis- und Vorlagenmetadaten bearbeiten. <!-- GS-4905 -->
+
+* Benutzerdefinierte Bildgrößen in Meta-Anzeigenvorlagen werden jetzt unterstützt. <!-- GS-7512 -->
+
+* Die Auswahl von Rollen, Marken und Produkten wird jetzt während der Vorlagenerstellung vorgeladen. <!-- GS-8069 -->
+
+* Der Link für E-Mail-Aktionsaufrufe ist kein erforderliches Feld mehr. <!-- GS-8103 -->
+
+* Das Dropdown-Menü der [!DNL Brand] funktioniert jetzt für Vorlagen wie erwartet. Zuvor wurde der Selektor für einige Vorlagen nicht erfolgreich geladen. <!-- GS-8908 -->
+
+* Bearbeiter können jetzt maximal vier Bilder für E-Mails mit einem Pod und Meta-Anzeigen auswählen. <!-- GS-2631 -->
+
+* Der Jahreswert des Felds `Created by` eines genehmigten Erlebnisses bleibt nun wie erwartet konsistent, nachdem die Metadaten des Erlebnisses bearbeitet wurden. <!-- GS-8344 -->
+
+* Inhaltseditoren können jetzt erfolgreich eine Vorlage aus [!DNL Create] auswählen. Zuvor gab die Anwendung einen Konsolenfehler aus, wenn ein Editor eine Vorlage auswählte.  <!-- GS-8798 -->
+
+* Probleme mit Vorgängen zum Ändern der Größe und Neugenerieren für Meta-Anzeigen wurden behoben. <!-- GS-8900 -->
+
+* Die Schaltfläche **[!UICONTROL Zurück]** gibt Benutzerinnen und Benutzer jetzt erwartungsgemäß entweder zur vorherigen Seite oder zur [!DNL Create] Landingpage zurück. <!-- GS-8622 -->
+
+## Frühere Versionshinweise
+
++++Anmerkungen vom 12.12.2024
 
 ### Neue Funktionen
 
@@ -89,7 +131,7 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
-## Frühere Versionshinweise
++++
 
 +++Anmerkungen aus dem 14.11.2024
 

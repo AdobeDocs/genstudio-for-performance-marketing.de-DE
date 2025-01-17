@@ -3,9 +3,9 @@ title: Arbeiten mit Vorlagen
 description: Erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihren Kreativprozess in Adobe GenStudio for Performance Marketing zu optimieren.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '936'
 ht-degree: 1%
 
 ---
@@ -55,8 +55,9 @@ Im Folgenden finden Sie eine Liste der in Vorlagen verwendeten Elemente und eini
    - Kann Text, Bilder und andere Medien enthalten
    - Wird in E-Mail- und Meta-Anzeigenvorlagen verwendet
 
-- **CTA (Aktionsaufruf)**
+- **Aktionsaufforderung**
 
+   - Die Aktionsaufruf-Schaltfläche verwendet einen Satz und einen Link
    - Ermuntert den Empfänger, eine bestimmte Aktion auszuführen, z. B. auf einen Link zu klicken oder einen Kauf zu tätigen
    - Wird in E-Mail- und Meta-Anzeigenvorlagen verwendet
 

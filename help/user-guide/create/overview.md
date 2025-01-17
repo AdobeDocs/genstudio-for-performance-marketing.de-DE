@@ -3,9 +3,9 @@ title: Überblick über GenStudio for Performance Marketing [!DNL Create]
 description: Schnelles Generieren von leistungsstarken, markeninternen Inhalten mit generativer KI in Adobe GenStudio for Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 8f77f877eb09f91160cb149d5df55e1030989370
+source-git-commit: ef4e6f48fe9aeffdd575dd83d49368cd438d62f2
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '600'
 ht-degree: 1%
 
 ---
@@ -27,38 +27,71 @@ Neben der Leistungsfähigkeit von [Richtlinien](/help/user-guide/guidelines/over
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>E-Mail-Erlebnis erstellen</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Erstellen eines Meta-Anzeigen-Erlebnisses" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>Erstellen eines Meta-Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue Marketing-Inhalte zu**. In diesem Anwendungsbeispiel verwenden Sie definierte [Richtlinien](/help/user-guide/guidelines/overview.md) und Inspirationsbilder, um die Erstellung von markenorientierten Inhalten zu unterstützen.
@@ -99,9 +132,11 @@ Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie
 
 ### Entwürfe
 
-Greifen Sie im _Letzte Arbeit_ des [!DNL Create] auf alle aktuellen Entwürfe zu und verwalten Sie sie. Zeigen Sie Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) vorzubereiten.
+Greifen Sie im _Letzte Arbeit_ des [!DNL Create] auf alle aktuellen Entwürfe zu und verwalten Sie sie. Zeigen Sie Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) oder den Export zur Verwendung vorzubereiten.
 
-In Bearbeitung befindliche Entwürfe werden automatisch gespeichert. Wenn Sie zurück zur [!DNL Create]-Startseite navigieren, wird der Abschnitt _Letzte Arbeit_ mit Ihren letzten Entwürfen aktualisiert. Für jeden Entwurf können Sie sehen, ob er _Genehmigt_ wurde oder noch die Form _Entwurf_ hat.
+In Bearbeitung befindliche Entwürfe werden automatisch gespeichert. Wenn Sie zurück zur [!DNL Create]-Startseite navigieren, wird der Abschnitt _Letzte Arbeit_ mit Ihren letzten Entwürfen aktualisiert. Jeder Entwurf in diesem Abschnitt zeigt einen Status an, wie _Entwurf_ oder _Genehmigt_.
+
+Klicken Sie auf die Sortiersymbole (Raster oder Tabelle), um _Letzte Arbeit_ Elemente in einer Raster- oder Tabellenansicht anzuzeigen.
 
 ### Verwalten von Varianten
 

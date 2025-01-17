@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio for Perform
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8930d3284f9dd1223067239c0077e481ea98335a
+source-git-commit: 229d16019d71b8228acf16e651885ce8c6d325e5
 workflow-type: tm+mt
-source-wordcount: '1173'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sie können eine Vorlage für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die die generative KI zum Einfügen von Inhalten verwendet.
 
-In den nächsten Abschnitten wird beschrieben, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der Vorlagensprache _Handlebars_ anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Siehe [Was ist [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars-Sprachhandbuch_, um zu erfahren, wie Sie Ihre Vorlage vorbereiten.
+In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
 
 
 Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing hochladen](use-templates.md#upload-a-template) und mit der Erstellung personalisierter E-Mails beginnen, die auf Ihrer benutzerdefinierten Vorlage basieren.
@@ -123,6 +123,32 @@ Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher 
 GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verbunden ist.
 
 Unter [Strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) erfahren Sie, wie Sie eine Eingabeaufforderung erstellen, die für jeden Abschnitt in einer E-Mail unterschiedliche Inhalte generiert.
+
+### Handlungsaufforderungen
+
+Ein Aktionsaufruf (CTA) enthält einen Satz und einen Link. Damit die CTA-Funktionen _[!UICONTROL Umformulieren]_ und _[!UICONTROL Link hinzufügen]_ während des Variantengenerierungsprozesses ordnungsgemäß funktionieren, müssen Sie Platzhalter für den Link und den Satz in Ihrer Vorlage einfügen.
+
+Verwenden Sie die folgende Anleitung zum Einrichten von CTA-Platzhaltern:
+
+- CTA-Umformulierung ist verfügbar und Link kann bearbeitet werden
+
+  ```html
+  <a class="button" href="{{pod1_link}}" >{{cta}}</a>
+  ```
+
+- CTA-Umformulierung ist verfügbar, aber Link **nicht** bearbeitbar, da der eigentliche Link in der Vorlage bereitgestellt wird
+
+  ```html
+  <a align="center" href="https://link">{{cta}}</a>
+  ```
+
+- CTA-Link ist bearbeitbar, aber Umformulierung ist **nicht** verfügbar, da die Phrase in der Vorlage bereitgestellt wird
+
+  ```html
+  <a class="button" href="{{pod1_link}}" >Register now</a>
+  ```
+
+GenStudio for Performance Marketing kann auch Ausdrücke mit varianten Aktionsaufrufen bereitstellen. Siehe [Revidieren einer Handlungsaufforderung](/help/user-guide/create/manage-variants.md#revise-call-to-action).
 
 ## Vorlagenvorschau
 
