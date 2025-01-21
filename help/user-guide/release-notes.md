@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 9bddfe4118715b13f893fc9b8fbc24eda6c8cf66
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1664'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,10 @@ Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und
 ### Neue Aktionsaufrufe generieren
 
 Sie können jetzt beim Verwalten von Varianten neue Ausdrücke für Aktionsaufrufe (CTA) generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+
+Die folgende Vorschau zeigt die Anzahl der CTA-Zeichen, neue Optionen und ein Beispiel für eine Umformulierung und Ersetzung:
+
+![CTA-Umformulierung in Aktion](/help/assets/animation/rephrase-cta.gif "CTA-Umformulierung"){width="250" zoomable="yes"}
 
 ### Fehlerbehebungen und Verbesserungen
 
