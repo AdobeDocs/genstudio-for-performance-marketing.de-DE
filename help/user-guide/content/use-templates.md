@@ -3,9 +3,9 @@ title: Arbeiten mit Vorlagen
 description: Erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihren Kreativprozess in Adobe GenStudio for Performance Marketing zu optimieren.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '960'
 ht-degree: 1%
 
 ---
@@ -133,7 +133,7 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 ### Vorlage aktualisieren
 
-Vorlagen können statische Dateien wie Symbole oder Logos enthalten. Verwenden Sie „Aktualisieren“, um die Vorlagenvorschau mit den neuesten Versionen dieser Assets zu aktualisieren.
+Vorlagen können statische Dateien wie Symbole oder Logos enthalten. [Statischer Inhalt](/help/user-guide/content/customize-template.md#static-content) wird nach der Erstellung der Vorlagenvorschau nicht gespeichert. GenStudio for Performance Marketing verweist weiterhin auf den in der Vorlage bereitgestellten Quell-Link. Verwenden Sie „Aktualisieren“, um die Vorlagenvorschau mit den neuesten Versionen dieser Assets zu aktualisieren.
 
 **Aktualisieren der Vorlage**:
 
@@ -155,4 +155,4 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 1. Klicken **[!UICONTROL oben rechts auf Erlebnis]** Pinsel erstellen), um die Vorlage zu verwenden.
 
-1. Fahren Sie mit [Erstellen](/help/user-guide/create/overview.md) fort.
+1. Fahren Sie mit [Erstellen](/help/user-guide/create/overview.md#create-use-cases) fort.

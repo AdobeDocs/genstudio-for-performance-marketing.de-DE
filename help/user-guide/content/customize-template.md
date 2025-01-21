@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio for Perform
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 229d16019d71b8228acf16e651885ce8c6d325e5
+source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1281'
 ht-degree: 0%
 
 ---
@@ -181,17 +181,13 @@ Ein weiteres Beispiel könnte sein, die Verwendung von Trackingcodes bei der Vor
 
 ## Statischer Inhalt
 
-E-Mail- und Meta-Vorlagen sind häufig mit Bildern und CSS-Dateien verknüpft, die außerhalb von GenStudio for Performance Marketing gehostet werden. Wenn GenStudio for Performance Marketing Miniaturansichten für diese Vorlagen oder die daraus abgeleiteten Erlebnisse generiert, kann es diese externen Ressourcen ignorieren, wenn sie nicht die richtigen CORS-Kopfzeilen (Cross-Origin Resource Sharing) haben.
+E-Mail- und Meta-Vorlagen sind häufig mit Bildern und CSS-Dateien verknüpft, die auf anderen Domains gehostet werden. Wenn GenStudio for Performance Marketing Miniaturansichten für Vorlagenvorschauen oder die daraus abgeleiteten Erlebnisse generiert, validiert es die Inhaltsquelle und bettet eine Kopie zu Vorschauzwecken ein.
 
-Um sicherzustellen, dass diese Ressourcen während des Generierungsprozesses von Miniaturansichten verfügbar sind, sollten Sie zwei Optionen in Betracht ziehen:
+Externe Dateien werden vorübergehend nur zum Zweck der Erstellung der Vorlagenvorschau eingebettet, wodurch sichergestellt wird, dass die Vorschau den Inhalt so wiedergibt, wie er zum Zeitpunkt der Erstellung angezeigt wird. Diese externen Dateien werden **nicht** dauerhaft in GenStudio for Performance Marketing gespeichert. Nachdem die Vorlagenvorschau erstellt wurde, verweist GenStudio for Performance Marketing weiterhin auf den in der Vorlage bereitgestellten Quell-Link.
 
-1. **CORS-Header verwenden**: Der Host-Server muss Antworten senden, bei denen der `Access-Control-Allow-Origin`-Header für Produktionsumgebungen auf `https://experience.adobe.com` Wert festgelegt ist. Auf diese Weise kann GenStudio for Performance Marketing auf die Ressourcen zugreifen und sie einbeziehen.
+### Inhalt aktualisieren
 
-1. **Daten-URLs verwenden**: Betten Sie die externen Ressourcen mithilfe von Daten-URLs direkt in die Vorlage ein. Diese Methode umgeht CORS-Einschränkungen und stellt sicher, dass die Ressourcen während der Generierung von Miniaturansichten verfügbar sind.
-
->[!TIP]
->
->Verwenden Sie [Aktualisieren](/help/user-guide/content/use-templates.md#refresh-template), um die Vorlagenvorschau mit den neuesten statischen Inhalten zu aktualisieren.
+Wenn sich die Quelle nach der Erstellung der ersten Vorschau ändert, verwenden Sie die Funktion [Aktualisieren](/help/user-guide/content/use-templates.md#refresh-template), um die Vorlagenvorschau mit der neuesten Version des Inhalts aus den externen Quellen zu aktualisieren.
 
 ## Vorlagenbeispiele
 
