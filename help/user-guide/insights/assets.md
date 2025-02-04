@@ -3,9 +3,9 @@ title: Übersicht über Assets
 description: Erfahren Sie, wie Sie die Asset-Leistung in Adobe GenStudio for Performance Marketing bewerten.
 feature: Insights, Assets
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: d6ea1a34a8679ae958fb184e40ad0673abbab0a4
+source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -44,8 +44,8 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Ma
 | Metrik | Definition | Einblick |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Asset-ID]** | Der mit diesem Asset verknüpfte Name. | Sortieren Sie die Tabelle, indem Sie auf die Spaltenüberschrift für eine der Schlüsselmetriken klicken. |
-| **[!UICONTROL Impressions]** | Eine Zählung, die anzeigt, wie oft das Asset unabhängig von Interaktion oder Ansicht im Kanal geladen wird. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für echte Leistungseinblicke sollten Sie andere Interaktionsmetriken berücksichtigen. |
-| **[!UICONTROL Klicks]** | Anzahl der Interaktionen von Benutzern mit einem anklickbaren Element, z. B. einem Link, auf dem Asset. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
+| **[!UICONTROL Impressions]** | Eine Zählung, die anzeigt, wie oft das Asset unabhängig von Interaktion oder Ansicht im Kanal geladen wird. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber berücksichtigen Sie dies im Zusammenhang mit anderen Interaktionsmetriken, um echte Leistungseinblicke zu erhalten. |
+| **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende mit einem anklickbaren Element, z. B. einem Link, auf dem Asset interagieren. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
 | **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die zu Asset-Klicks innerhalb eines Erlebnisses geführt haben.<br>**Berechnung**: `clicks` geteilt durch `impressions` | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten für alle tausend Anzeigen-Impressions für das Asset.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
 | **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Hilft bei der Identifizierung von Assets, die zu wertvollen Kundenaktionen führen. |

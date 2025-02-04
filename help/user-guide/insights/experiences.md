@@ -3,9 +3,9 @@ title: Übersicht über Erlebnisse
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget und Ausgaben für Erlebnisse und Anzeigenplatzierungs-Performance in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 693557104bc880445c021f942b728af10243fe27
+source-git-commit: c027d5fa15b05feb95c976805d06d8fe3204c5d1
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '1092'
 ht-degree: 0%
 
 ---
@@ -60,11 +60,11 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Ma
 | Metrik | Definition | Einblick |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Erlebnisname]** | Eine Liste von Erlebnissen für das verbundene Kanalkonto. Filtern Sie Anzeigen, indem Sie eine Kampagne auswählen. | Sortieren Sie die Liste der Erlebnisse, indem Sie auf eine der Schlüsselmetriken klicken. |
-| **[!UICONTROL Kampagne]** | Eine Kampagne ist eine Reihe von Erlebnissen, mit denen ein bestimmtes Ziel erreicht werden soll. | |
-| **[!UICONTROL Platzierungen]** | Anzahl der Anzeigen [Platzierungen](#ad-placements) Standorte, an denen ein Erlebnis in der Kampagne erschienen ist. | Platzierungen erhöhen die Reichweite von Zielgruppen. |
-| **[!UICONTROL Assets]** | Anzahl der in der Anzeige oder dem Erlebnis verwendeten Assets. | |
-| **[!UICONTROL Impressions]** | Eine Zählung, mit der jedes Mal, wenn die Anzeigenplatzierung oder das Erlebnis im Kanal geladen wird, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für echte Leistungseinblicke sollten Sie andere Interaktionsmetriken berücksichtigen. |
-| **[!UICONTROL Klicks]** | Anzahl der Interaktionen von Benutzern mit einem anklickbaren Element in einer Erlebnisplatzierung, z. B. einem Link oder einer Aktionsaufruf-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
+| **[!UICONTROL Kampagne]** | Eine Kampagne ist eine Reihe von Erlebnissen, mit denen ein bestimmtes Ziel erreicht werden soll. | Wenn Sie die Tabelle Erlebnisse nach Kampagne filtern, können sich die Zusammenfassungsmetriken aller Erlebnisse für die Kampagne von der Zusammenfassungszeile der Kampagne in der Ansicht [!UICONTROL Kanäle] unterscheiden. Diese Diskrepanz kann auftreten, wenn die Kanalquelle (z. B. Meta und GenStudio) geringfügig unterschiedliche Zusammenfassungsberechnungen verwendet. |
+| **[!UICONTROL Platzierungen]** | Anzahl der Anzeigen [Platzierungen](#ad-placements) Standorte, an denen ein Erlebnis in der Kampagne erschienen ist. | Platzierungen erhöhen die Reichweite von Zielgruppen.<p>Anzeigen, die keine Platzierungen und keine Assets aufweisen, können auf einen [nicht unterstützten Anzeigetyp“ ](#unsupported-placements).</p> |
+| **[!UICONTROL Assets]** | Die Anzahl der in der Anzeige oder dem Erlebnis verwendeten Assets. | Die Anzahl in der Tabelle Erlebnisse kann sich von der Anzahl in der Ansicht Erlebnisdetails unterscheiden. Diese Diskrepanz kann auftreten, wenn die Kanalquelle (z. B. Meta und GenStudio) geringfügig unterschiedliche Zusammenfassungsberechnungen verwendet. |
+| **[!UICONTROL Impressions]** | Eine Zählung, mit der jedes Mal, wenn die Anzeigenplatzierung oder das Erlebnis im Kanal geladen wird, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber berücksichtigen Sie dies im Zusammenhang mit anderen Interaktionsmetriken, um echte Leistungseinblicke zu erhalten. |
+| **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende in einer Erlebnisplatzierung mit einem anklickbaren Element interagieren, z. B. mit einem Link oder einer Aktionsaufruf-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
 | **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die zu Klicks auf die Erlebnisplatzierung innerhalb einer Kampagne geführt haben.<br>**Berechnung**: `clicks` geteilt durch `impressions` | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten pro 1.000 Anzeigen-Impressions für die Platzierung des Erlebnisses.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
 | **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Verwenden Sie , um die Ausgaben für Erlebnisse zu überwachen, die zu wertvollen Kundenaktionen führen. |

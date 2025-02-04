@@ -3,9 +3,9 @@ title: Kanäle - Übersicht
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistung, Budget und Ausgaben für Marketing-Kampagnen in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 8d85d47bdda981838771f9401d26f04fbb48d371
+source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Ma
 | **[!UICONTROL Meta-Kampagnenname]** | Eine Liste der Kampagnennamen für das verbundene Kanalkonto. Der Kampagnenstatus kann `Active`, `Paused`, `Deleted` oder `Archived` sein. Filtern Sie Kampagnen nach Status und Ziel. | Sortieren Sie die Tabelle, indem Sie auf die Spaltenüberschrift für eine der Schlüsselmetriken klicken. |
 | **[!UICONTROL Starten]** | Das Datum, an dem die Kampagne veröffentlicht wurde. | Eine hohe Anzahl an Impressionen kann darauf hindeuten, dass die Anzeige die beabsichtigte Zielgruppe erreicht. |
 | **[!UICONTROL Impressions]** | Eine Zählung, mit der angezeigt wird, wann Inhalte im Kanal geladen werden, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber um echte Leistungseinblicke zu erhalten, sollten Sie sie zusammen mit anderen Interaktionsmetriken berücksichtigen. |
-| **[!UICONTROL Klicks]** | Anzahl der Interaktionen von Benutzenden mit einem anklickbaren Element wie einem Link oder einer Aktionsaufruf-Schaltfläche innerhalb der Anzeigenkampagne. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
+| **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende innerhalb der Anzeigenkampagne mit einem anklickbaren Element interagieren, z. B. einem Link oder einer Aktionsaufruf-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
 | **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die innerhalb eines Kanals zu Kampagnenklicks geführt haben.<br>**Berechnung**: (`clicks` geteilt durch `impressions`) x 100 = % | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten pro tausend Anzeigen-Impressions für die Anzeigenkampagne. <br>**Berechnung**: (Gesamtbetrag `spent` geteilt durch `impressions`) x 1000 | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
 | **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten für jeden Klick in einer Anzeigenkampagne.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` = $ | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
