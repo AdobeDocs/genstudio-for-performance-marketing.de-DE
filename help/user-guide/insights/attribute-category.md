@@ -5,9 +5,9 @@ feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
 last-substantial-update: 2024-11-11T00:00:00Z
 exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 976358742e598b55b1f0c4ca4664d2bcd8f1e9b9
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '609'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 Eine Attributkategorie ist eine Klassifizierungsgruppe, die verwandte Attribute organisiert, die ein gemeinsames Merkmal aufweisen. Diese Kategorien helfen, die Erkennung, Identifizierung und das Verständnis bestimmter Attribute zu optimieren, indem sie einen größeren Kontext bieten und ihre Anwendung und Verwendung erleichtern.
 
-GenStudio for Performance Marketing verwendet KI-Funktionen von Adobe und maschinelles Lernen, um Bilder, Videos und Texte zu untersuchen und [!UICONTROL Asset-Attribute] basierend auf einer Korrektheitswahrscheinlichkeit anzuwenden. Die Attributliste eines Assets ist nicht vollständig. Assets, die einen umfangreichen Funktionssatz enthalten, kann auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
+GenStudio for Performance Marketing verwendet die KI- und maschinellen Lernfunktionen von Adobe, um Bilder, Videos und Text zu untersuchen und [!UICONTROL Asset-Attribute] basierend auf der Wahrscheinlichkeit der Korrektheit anzuwenden. Die Attributliste eines Assets ist nicht vollständig. Assets, die einen umfangreichen Funktionssatz enthalten, kann auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
 
 ## Bildfunktionen
 
@@ -29,7 +29,8 @@ Bildfunktionen stellen bestimmte und informative Elemente oder Muster innerhalb 
 | Kamerawinkel | Die Position und der Winkel der Kamera relativ zum Motiv. |                                                                                                                                                                                |
 | Entfernung des Objekts | Der Abstand zwischen der Kamera und dem Motiv eines Bildes. | `close up`, `mid shot`, `long shot` |
 | Kameraeinstellung | Die Konfiguration der Kamerasteuerung zur Erzeugung des Bildes. |                                                                                                                                                                                |
-| Farbe und Ton | Wertet die in Bildelementen verwendeten Farben aus. Identifiziert ein bis drei Farben aus einem Satz von 40 vordefinierten Farben in den folgenden Bildebenen:<br>**[!UICONTROL Vordergrundfarben ]**-Elemente in der Vorderschicht des Bildes<br>**[!UICONTROL Hintergrundfarben]**-Elemente in der Hinterschicht eines Bildes<p>**[!UICONTROL Farbtemperatur]** beschreibt die allgemeine Wärme oder Kälte von Farben im Bild.<br>Ton- oder Temperaturwerte: `warm`, `cool`, `neutral` | ![Farben und kühle Töne](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
+| Farbe und Ton | Wertet die in Bildelementen verwendeten Farben aus. Identifiziert ein bis drei Farben aus einem Satz von 40 vordefinierten Farben in den folgenden Bildebenen:<br>**[!UICONTROL Vordergrundfarben ]**-Elemente in der Vorderschicht des Bildes<br>**[!UICONTROL Hintergrundfarben]**-Elemente in der Hinterschicht eines Bildes | Werte: `Red`, `Dark_Red`, `Bright_Green`, `Light_Green`, `Blue`, `Dark_Blue`, `Royal_Blue`, `Black`, `Silver`, `Green`, `Dark_Green`, `Mud_Green`, `Magenta`, `Light_Blue`, `White`, `Off_White`, `Gray`, `Dark_Gray`, `Cream`, `Cyan`, `Yellow`, `Mustard`, `Khaki`, `Brown`, `Dark_Brown`, `Violet`, `Pink` `Dark_Pink` `Maroon` `Tan` `Purple` `Lavender` `Turquoise` `Plum` `Gold` `Emerald` `Orange` `Beige` `Lilac` `Olive`, |
+| Farbtemperatur | Beschreibt die allgemeine Wärme oder Kühle von Farben im Bild. | Ton- oder Temperaturwerte: `warm`, `cool`, `neutral`<br>![Farben und kühle Töne](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
 | Bildstil | Die visuelle Behandlung eines Bildes. |                                                                                                                                                                                |
 | Beleuchtungsbedingung | Die Art des Lichts in einem Bild. |                                                                                                                                                                                |
 | Objekte | Identifiziert ein oder mehrere Elemente, Entitäten und Elemente, aus denen das Bild besteht. | ![Sonnenblume, Ebene, Blumenobjekt](../../assets/category/image-objects.png){width="200" zoomable="yes"} |
