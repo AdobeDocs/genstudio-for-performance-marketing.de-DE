@@ -3,9 +3,9 @@ title: Übersicht über Assets
 description: Erfahren Sie, wie Sie die Asset-Leistung in Adobe GenStudio for Performance Marketing bewerten.
 feature: Insights, Assets
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -14,18 +14,20 @@ ht-degree: 0%
 
 Die Ansicht [!DNL Insights] _[!UICONTROL Assets]_ zeigt eine Liste der Assets an, die in Erlebnissen und Anzeigenkampagnen für das ausgewählte Kanalkonto verwendet werden.
 
-Die _[!UICONTROL Assets]_-Galerie ist die Standardansicht, die eine Collage aus Asset-Vorschauen und einer Metrik, z. B. Klickrate, anzeigt. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Galerie, um zwischen drei sichtbaren Metriken umzuschalten:
+{{connect-insights}}
+
+Die Tabelle _[!UICONTROL Assets]_ ist nach (Asset[!UICONTROL ID) ]. Sie können zwischen den Ansichten wechseln, indem Sie das Symbol Liste anzeigen (Tabelle) und das Symbol Galerieansicht (Raster) verwenden. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können.
+
+![Assets-Filter und -Tabelle](/help/assets/insights-assets-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
+
+Die Galerieansicht _[!UICONTROL Assets]_ zeigt eine Collage aus Asset-Vorschauen und einer Metrik, z. B. Klickrate. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oben rechts in der Galerie, um **[!UICONTROL Karteneinstellungen]** zu öffnen und eine der drei sichtbaren Metriken umzuschalten:
 
 - CPA (Kosten pro Aktion)
 - CTR (Clickthrough-Rate)
 - CPC (Kosten pro Klick)
 - Ausgaben
-
-Die Tabelle _[!UICONTROL Assets]_ ist nach (Asset[!UICONTROL ID) ]. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können.
-
-![Assets-Filter und -Tabelle](/help/assets/insights-assets-filter.png){zoomable="yes"}
-
-Sie können zwischen den Ansichten wechseln, indem Sie das Symbol Liste anzeigen (Tabelle) und das Symbol Galerieansicht (Raster) verwenden.
 
 ## Asset-Details
 

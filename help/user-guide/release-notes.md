@@ -2,11 +2,11 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2025-01-16T00:00:00Z
+last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a14da101907c3e7dd990082723f7c59f7f5ff3fd
+source-git-commit: a48ffd2147f79109803c49cc1a696c083c44e879
 workflow-type: tm+mt
-source-wordcount: '1676'
+source-wordcount: '1746'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,19 @@ ht-degree: 1%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2 025,1,16 {#latest}
+## 2 025,2,13 {#latest}
+
+### Verbesserungen an der Landingpage für [!DNL Create]
+
+Die [!DNL Create] Landingpage in GenStudio for Performance Marketing enthält Verbesserungen an der Benutzeroberfläche, die das Benutzererlebnis verbessern. Der _Letzte Arbeit_ wird verfeinert und mit der Listenansicht als Standardansicht konfiguriert. Abstände und andere visuelle Verbesserungen optimieren das Erscheinungsbild der [!DNL Create] Arbeitsfläche.
+
+### Insights-Export in CSV
+
+Sie können jetzt die anzeigbare Tabelle aus jeder [!DNL Insights] in eine CSV-Datei herunterladen. Diese Funktion ermöglicht den einfachen Export und die Analyse von Daten aus verschiedenen [!DNL Insights] und erleichtert so die Datenanalyse und Berichterstellung.
+
+## Frühere Versionshinweise
+
++++Hinweise aus 2025.1.16
 
 ### Integration mit Adobe Workfront Proof
 
@@ -28,10 +40,6 @@ Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und
 ### Neue Aktionsaufrufe generieren
 
 Sie können jetzt beim Verwalten von Varianten neue Ausdrücke für Aktionsaufrufe (CTA) generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
-
-Die folgende Vorschau zeigt die Anzahl der CTA-Zeichen, neue Optionen und ein Beispiel für eine Umformulierung und Ersetzung:
-
-![CTA-Umformulierung in Aktion](/help/assets/animation/rephrase-cta.gif "CTA-Umformulierung"){width="250" zoomable="yes"}
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -59,7 +67,7 @@ Die folgende Vorschau zeigt die Anzahl der CTA-Zeichen, neue Optionen und ein Be
 
 * Die Schaltfläche **[!UICONTROL Zurück]** gibt Benutzerinnen und Benutzer jetzt erwartungsgemäß entweder zur vorherigen Seite oder zur [!DNL Create] Landingpage zurück. <!-- GS-8622 -->
 
-## Frühere Versionshinweise
++++
 
 +++Anmerkungen vom 12.12.2024
 
@@ -75,7 +83,7 @@ Editoren können jetzt benutzerdefinierte Werte für diese Aspekte der generiert
 
 * Breite und Höhe für Webbanner in Anzeigen-Vorlagen. Diese Werte werden jetzt als Vorlagenmetadaten gespeichert. <!-- GS-6735 -->
 
-* Dimensionen an Bildern in Anzeigen-Erlebnissen während des Bild-Uploads.<!-- GS-7166 -->
+* Abmessungen der Bilder in Anzeigen-Erlebnissen während des Bild-Uploads.<!-- GS-7166 -->
 
 * Siehe kanalspezifische Richtlinien in den [Best Practices für Vorlagen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
@@ -199,7 +207,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Die Schaltfläche **[!UICONTROL Marke]** der Arbeitsfläche ist jetzt deaktiviert, wenn kein Markenwert generiert wird. <!-- GS-6429 -->
 
-* Der Facebook/Instagram-Umschalter in der Arbeitsflächen-Aktionsleiste aktualisiert jetzt das Erlebnis-Rendering wie erwartet, wenn die Einstellung Arbeitsfläche `ReadOnly` aktiviert ist. <!-- GS-7039 -->
+* Der Umschalter Facebook/Instagram in der Aktionsleiste der Arbeitsfläche aktualisiert jetzt das Erlebnis-Rendering wie erwartet, wenn die Einstellung Arbeitsfläche `ReadOnly` aktiviert ist. <!-- GS-7039 -->
 
 #### Bildregenerierung
 
@@ -249,6 +257,6 @@ Zu den wichtigsten Produktfunktionen gehören:
 
 **[!DNL Insights]** bietet eine Echtzeit-Bewertung der Content-Performance und hilft Marketing-Experten, ihre Strategien zu optimieren und datengestützte Entscheidungen zu treffen.
 
-GenStudio for Performance Marketing lässt sich mit anderen Adobe Experience Cloud-Produkten, einschließlich Adobe Expreß und Adobe AEM Assets, integrieren.
+GenStudio for Performance Marketing lässt sich mit anderen Adobe Experience Cloud-Produkten wie Adobe Express und Adobe AEM Assets integrieren.
 
 +++

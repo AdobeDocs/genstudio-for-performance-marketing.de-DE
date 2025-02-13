@@ -3,10 +3,10 @@ title: Überblick über [!DNL Insights]
 description: Erfahren Sie, wie Sie Erlebnisse basierend auf Echtzeit-Metriken zur Inhaltsleistung optimieren können.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a06b226ffc6bfc0bd371a2f5045d5a422a2983bd
+source-git-commit: f2850d3f535cc06dd8da4e744c081dda299e27f4
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 0%
+source-wordcount: '500'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +20,7 @@ Vom [!DNL Insights]-Dashboard aus haben Sie folgende Möglichkeiten:
 - **Leistungsschwache Inhalte optimieren**: Suchen Sie nach Inhalten, die keine gute Leistung erbringen, und verwenden Sie die integrierte generative KI, um Varianten sofort zu erstellen, was möglicherweise die Effektivität verbessern kann, ohne von Grund auf neu zu beginnen.
 - **Neubelebung leistungsstarker Inhalte**: Nehmen Sie erfolgreiche Inhalte und passen Sie sie an, um das Erlebnis für die Zielgruppe zu aktualisieren oder Hero-Inhalte für die Verwendung in neuen Kampagnen anzupassen, wodurch ihr Lebenszyklus und ihre Leistung möglicherweise verlängert werden.
 
->[!TIP]
->
->GenStudio for Performance Marketing Anweisungen zum [ von Daten aus Ihren aktuellen Marketing](connect-channel.md)Kampagnen, Assets und Erlebnissen finden Sie unter „Connect Channel Account .
+{{connect-insights}}
 
 ## Dashboard
 

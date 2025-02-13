@@ -3,9 +3,9 @@ title: Kanäle - Übersicht
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistung, Budget und Ausgaben für Marketing-Kampagnen in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Die [!DNL Insights] Ansicht _[!UICONTROL Kanäle]_ zeigt eine Liste der Kampagnen für das verbundene Kanal-Werbekonto.
 
->[!TIP]
->
->GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanalkonto herstellen, um Daten zu erhalten. Siehe [Connect-Kanalkonto](connect-channel.md).
+{{connect-insights}}
 
 Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampagne organisiert. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus den Listen [!UICONTROL Konto], [!UICONTROL Status] und [!UICONTROL Ziel] auswählen können, um die Kampagnen in der Tabelle zu filtern.
 
 ![Kanalfilter und -tabelle](/help/assets/insights-channels-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 Wenn Sie eine Kampagne auswählen, wird [[!UICONTROL  Registerkarte ]Erlebnisse](experiences.md) geöffnet, in der eine Liste der mit dieser Kampagne verknüpften Anzeigenamen angezeigt wird. Auf diese Weise können Sie ermitteln, welche Erlebnisse zum Gesamterfolg der Kampagne beigetragen haben.
 

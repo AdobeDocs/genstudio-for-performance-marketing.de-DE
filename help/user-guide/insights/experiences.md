@@ -3,7 +3,7 @@ title: Übersicht über Erlebnisse
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget und Ausgaben für Erlebnisse und Anzeigenplatzierungs-Performance in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: c027d5fa15b05feb95c976805d06d8fe3204c5d1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
 source-wordcount: '1092'
 ht-degree: 0%
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Die [!DNL Insights] Ansicht _[!UICONTROL Erlebnisse]_ zeigt eine Liste der Erlebnisse für das verbundene Kanal-Werbekonto an. Bei Facebook sind die Erlebnisse Meta-Anzeigenamen.
 
+{{connect-insights}}
+
 Die _[!UICONTROL Erlebnisse]_ ist nach „Anzeigenamen. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Das Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus den Listen [!UICONTROL Konto] und [!UICONTROL Kampagne] auswählen können, um die Anzeigenamen in der Tabelle zu filtern.
 
 ![Erlebnisfilter und -tabelle](/help/assets/insights-experiences-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Erlebnisdetails
 
