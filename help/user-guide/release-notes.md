@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a48ffd2147f79109803c49cc1a696c083c44e879
+source-git-commit: 0d55b89d550a8e44e7dd354d809f00699fccf468
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1729'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Sie können jetzt die anzeigbare Tabelle aus jeder [!DNL Insights] in eine CSV-D
 
 Das Beta-Programm zur Integration von GenStudio for Performance Marketing und Adobe Workfront-Korrekturabzügen wird diesen Monat gestartet. Workfront Proof erhöht den Lebenszyklus der Inhaltserstellung und -aktivierung mit Genehmigungsvorlagen, mehrstufigen Workflows und Anmerkungen. GenStudio for Performance Marketing-Benutzende mit Workfront Proof-Berechtigungen können die erweiterten Funktionen des Korrekturabzugs in GenStudio for Performance Marketing verwenden, um GenStudio-generierte Inhalte zu überprüfen und zu kommentieren.
 
-Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und die allgemeine Verfügbarkeit zu bestimmen. Kontaktieren Sie Etienne Bosch (etienneb@adobe.com), um Informationen über das Integrationsprogramm Beta GenStudio for Performance Marketing/Workfront Proof zu erhalten.
+Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und die allgemeine Verfügbarkeit zu bestimmen.
 
 ### Neue Aktionsaufrufe generieren
 
