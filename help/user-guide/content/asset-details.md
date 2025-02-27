@@ -3,7 +3,7 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und die Leistung zu verfolgen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 1%
@@ -40,9 +40,9 @@ Einige Asset-Metadaten werden beim Hochladen eines Assets automatisch erfasst, z
 
 ### Erzeugte Tags
 
-Wenn Sie ein genehmigtes Asset in [!DNL Content] speichern, verwendet GenStudio for Performance Marketing die KI-Funktion und maschinelle Lernfunktionen von Adobe, um das Asset zu untersuchen und Tags basierend auf den Asset-Funktionen anzuwenden. Beispielsweise kann ein Bild einer Katze zu Attribut-Tags wie `pet photography` oder `cat` und Farb-Tags führen, die dominante Farben im Bild identifizieren. Sie können Tags, die erkannt und automatisch angewendet werden, nicht bearbeiten.
+Wenn Sie ein genehmigtes Asset in [!DNL Content] speichern, verwendet GenStudio for Performance Marketing die KI- und maschinellen Lernfunktionen von Adobe, um das Asset zu untersuchen und Tags basierend auf den Asset-Funktionen anzuwenden. Beispielsweise kann ein Bild einer Katze zu Attribut-Tags wie `pet photography` oder `cat` und Farb-Tags führen, die dominante Farben im Bild identifizieren. Sie können Tags, die erkannt und automatisch angewendet werden, nicht bearbeiten.
 
-Siehe [!DNL Insights] [Attributkategorien](/help/user-guide/insights/attribute-category.md) für detaillierte Listen mit Bild-, Video- und Textfunktionen.
+Siehe [!DNL Insights] [Attributkategorien](/help/user-guide/insights/attributes.md#categories) für detaillierte Listen mit Bild-, Video- und Textfunktionen.
 
 ### Erzeugte Inhaltsmetadaten
 

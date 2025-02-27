@@ -3,9 +3,9 @@ title: Attributübersicht
 description: Erfahren Sie, wie Sie die Leistung bestimmter Attribute in Adobe GenStudio for Performance Marketing bewerten.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Attribute]_ zeigt eine Liste der Attrib
 
 Die _[!UICONTROL Attribute]_ ist unter Verwendung des Namens [!UICONTROL Attribut] organisiert. Sie können mithilfe der Schaltfläche (Bilder **[!UICONTROL und der Schaltfläche (Video]** zwischen **[!UICONTROL Listentypen]**. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
 
-Das Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus den Kategorien [!UICONTROL Konto] und [!UICONTROL Attribut] auswählen können, um die Attribute in der Tabelle zu filtern. Das folgende Beispiel zeigt eine Liste von Attributen in der Kategorie `Lighting Condition`.
+Das Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus den Kategorien [!UICONTROL Konto] und [!UICONTROL Attribut] auswählen können, um die Attribute in der Tabelle zu filtern. Das folgende Beispiel zeigt eine Liste von Attributen in der Kategorie `Lighting Condition`. Klicken Sie **Zurücksetzen**, um alle Filterauswahlen zu löschen.
 
 ![Attributfilter und -tabelle](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
@@ -36,11 +36,17 @@ GenStudio for Performance Marketing erkennt bestimmte Funktionen und wendet das 
 
 ## Kategorien
 
-GenStudio for Performance Marketing erkennt bestimmte Funktionen von Bildern, Videos und Text und wendet ein Funktions-Tag auf das Asset an. Eine _Kategorie_ ist eine Reihe von Funktionen, die ein bestimmtes Merkmal gemeinsam haben. Beispielsweise hat die Kategorie _Bildausrichtung_ einen `landscape`-, `portrait`- oder `square`.
+Eine Attributkategorie ist eine Klassifizierungsgruppe, die verwandte Attribute organisiert, die ein gemeinsames Merkmal aufweisen. Diese Kategorien helfen, die Erkennung, Identifizierung und das Verständnis bestimmter Attribute zu optimieren, indem sie einen größeren Kontext bieten und ihre Anwendung und Verwendung erleichtern.
 
-Sie können Tags, die erkannt und automatisch angewendet werden, nicht bearbeiten.
+GenStudio for Performance Marketing nutzt die KI- und maschinellen Lernfunktionen von Adobe zum Untersuchen [Bilder](image-features.md), [Videos](video-features.md) und zum Anwenden von [!UICONTROL Asset-Attributen] auf der Grundlage einer Korrektheitswahrscheinlichkeit.
 
-Unter [Attributkategorien](/help/user-guide/insights/attribute-category.md) finden Sie detaillierte Listen mit Bild-, Video- und Textfunktionen.
+Die Liste der erkannten Attribute für ein Asset ist nicht vollständig. Assets, die einen umfangreichen Funktionssatz enthalten, kann auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden. Die folgende Abbildung enthält beispielsweise mehrere erkannte Bildattribute, einschließlich mehrerer Objekte, Vordergrund- und Hintergrundfarben.
+
+![Bild-Asset-Attribute](/help/assets/category/asset-attributes.png "Bild von Toucan enthält mehrere erkannte Attribute"){width="300" zoomable="yes"}
+
+>[!INFO]
+>
+>Sie können Tags, die erkannt und automatisch angewendet werden, nicht bearbeiten.
 
 ## Attributleistung
 
@@ -60,4 +66,4 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen digitalen 
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten für alle eintausend Anzeigen-Impressionen eines Bildes oder Videos mit diesem Attribut.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
 | **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Hilft bei der Identifizierung von Attributen, die zu wertvollen Kundenaktionen führen. |
 | **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten für jedes Klickereignis auf Bilder oder Videos mit diesem Attribut.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
-| **[!UICONTROL Ausgaben]** | Der aus dem Budget ausgegebene Betrag, da er sich auf Attribute über einen bestimmten Zeitraum bezieht. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie den Ausgabenbetrag anhand wichtiger Leistungsmetriken, um den Gesamtrendite zu überwachen. |
+| **[!UICONTROL Ausgaben]** | Der aus dem Budget ausgegebene Betrag, da er sich auf Attribute über einen bestimmten Zeitraum bezieht. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |

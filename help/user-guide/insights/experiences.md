@@ -3,9 +3,9 @@ title: Übersicht über Erlebnisse
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget und Ausgaben für Erlebnisse und Anzeigenplatzierungs-Performance in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
 workflow-type: tm+mt
-source-wordcount: '1092'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Erlebnisse]_ zeigt eine Liste der Erleb
 
 {{connect-insights}}
 
-Die _[!UICONTROL Erlebnisse]_ ist nach „Anzeigenamen. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Das Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus den Listen [!UICONTROL Konto] und [!UICONTROL Kampagne] auswählen können, um die Anzeigenamen in der Tabelle zu filtern.
+Die _[!UICONTROL Erlebnisse]_ ist nach „Anzeigenamen. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Das Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus den Listen [!UICONTROL Konto] und [!UICONTROL Kampagne] auswählen können, um die Anzeigenamen in der Tabelle zu filtern. Klicken Sie **Zurücksetzen**, um alle Filterauswahlen zu löschen.
 
 ![Erlebnisfilter und -tabelle](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 
@@ -26,7 +26,7 @@ Die _[!UICONTROL Erlebnisse]_ ist nach „Anzeigenamen. Klicken Sie auf das Symb
 
 Ein _Erlebnis_ ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen.
 
-Wählen Sie ein Erlebnis (Anzeigename) aus und zeigen Sie die Leistungsmetriken, Textattribute und Platzierungen an, die mit jeder Anzeige verknüpft sind. In der Detailansicht können Sie die Metriken eines Erlebnisses basierend auf seinen Platzierungs- und Marketing-Maßnahmen innerhalb eines bestimmten Datumsbereichs analysieren.
+Wählen Sie ein Erlebnis aus und zeigen Sie die Leistungsmetriken, Textattribute und Platzierungen an, die mit jeder Anzeige verknüpft sind. In der Detailansicht können Sie die Metriken eines Erlebnisses basierend auf seinen Platzierungs- und Marketing-Maßnahmen innerhalb eines bestimmten Datumsbereichs analysieren.
 
 Die Detailansicht enthält eine Metrik mit den `click-through rate`, `cost per action` und `spend` der gesamten Anzeige, d. h. wie viel vom Budget für die Anzeige verwendet wurde. Da Anzeigen mehrere Platzierungen haben können, z. B. einen Feed oder ein Banner, können Sie für jede Anzeigenplatzierung eine Aufschlüsselung der gleichen Metriken sehen. Verwenden Sie die Pfeile nach links und rechts unter **[!UICONTROL Performance nach Anzeigenplatzierung]**, um durch die Platzierungsmetriken zu navigieren.
 
@@ -34,7 +34,7 @@ Die Detailansicht enthält eine Metrik mit den `click-through rate`, `cost per a
 
 ### Textattribute
 
-Unter der Erlebnisvorschau befindet sich eine Liste mit [!UICONTROL Textattributen] die mit der Anzeige verknüpft sind. Wenn Assets und Erlebnisse in [!DNL Content] genehmigt und gespeichert werden, generiert GenStudio for Performance Marketing Tags basierend auf ihren inhärenten Funktionen. Weitere [ zu Systemmetadaten finden Sie ](../content/asset-details.md#system-metadata) „Asset-Details“.
+Unter der Erlebnisvorschau befindet sich eine Liste mit [!UICONTROL Textattributen] die mit der Anzeige verknüpft sind. Wenn Assets und Erlebnisse in [!DNL Content] genehmigt und gespeichert werden, generiert GenStudio for Performance Marketing Tags basierend auf ihren inhärenten Funktionen. Weitere [ zu Systemmetadaten finden Sie ](/help/user-guide/content/asset-details.md#system-metadata) „Asset-Details“.
 
 ### Platzierungen hinzufügen
 
@@ -73,15 +73,17 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Ma
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten pro 1.000 Anzeigen-Impressions für die Platzierung des Erlebnisses.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
 | **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Verwenden Sie , um die Ausgaben für Erlebnisse zu überwachen, die zu wertvollen Kundenaktionen führen. |
 | **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten, die mit jedem Klick in einer Erlebnisplatzierung verbunden sind.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
-| **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Budget ausgegeben wurde. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie den Ausgabenbetrag anhand wichtiger Leistungsmetriken, um den Gesamtrendite zu überwachen. |
+| **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Kampagnenbudget ausgegeben wurde, um dieses Anzeigen-Erlebnis zu platzieren. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |
 
 ## Platzierungsleistung
 
-In _Ansicht_ Erlebnisdetails“ spiegeln die drei wichtigsten Metriken die Gesamtleistung des ausgewählten Erlebnisses wider. Im Abschnitt _Performance nach Platzierung_ werden jedoch die detaillierten Metriken für jede Anzeigenplatzierung angezeigt. Die folgende Tabelle enthält Definitionen für Metriken zur Platzierungs-Performance:
+In _Ansicht_ Erlebnisdetails“ spiegeln die drei wichtigsten Metriken die Gesamtleistung des ausgewählten Erlebnisses wider. Im Abschnitt _Performance nach Platzierung_ werden jedoch die detaillierten Metriken für jede Anzeigenplatzierung angezeigt. Navigieren Sie mit den Rechts- und Linkspfeilen durch die verschiedenen Anzeigenplatzierungen.
 
-| Metrik | Definition | Kalkulation |
+Die folgende Tabelle enthält Definitionen für Leistungsmetriken zur Anzeigenplatzierung:
+
+| Metrik | Definition | Einblick |
 | ---------------------- | ----------------------------- | ----------- |
-| **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die zu Klicks bei der Anzeigenplatzierung des Erlebnisses geführt haben. | `clicks` geteilt durch `impressions` |
-| **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten für diese Anzeigenplatzierung, um eine bestimmte Kundenaktion zu erreichen, z. B. einen Kauf oder ein Abonnement. | Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen |
-| **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten, die mit jedem Klick in einer Erlebnisplatzierung verbunden sind. | Gesamtbetrag `spent` geteilt durch `clicks` |
-| **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Budget ausgegeben wurde. | |
+| **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Der Prozentsatz (%) der Impressionen für eine einzelne Anzeigenplatzierung, die zu Klicks geführt hat.<p>**Berechnung**:`clicks` geteilt durch `impressions`<p>Diese Metrik hilft bei der Bestimmung der Effektivität der Anzeigenplatzierung, um die Zielgruppe anzusprechen. | Ein hoher CTR zeigt an, dass die Anzeigenplatzierung für die Zielgruppe relevant und überzeugend ist, was zu mehr Interaktionen führt. |
+| **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Die durchschnittlichen Kosten, die für eine einzelne Anzeigenplatzierung aufgewendet werden, um eine gewünschte Kundenaktion zu erzielen, z. B. einen Kauf oder ein Abonnement.<p>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen<p>Diese Metrik hilft bei der Bewertung der Kosteneffizienz der Anzeigenplatzierung bei der Förderung wertvoller Aktionen. | Ein niedrigerer CPA legt nahe, dass die Anzeigenplatzierung Zielgruppeninteraktionen mit geringeren Kosten in gewünschte Aktionen umwandelt. |
+| **[!UICONTROL CPC ]**<br>_Cost per click_ | Die durchschnittlichen Kosten, die mit jedem Klick in einer einzelnen Anzeigenplatzierung verbunden sind.<p>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks`<p>Diese Metrik hilft bei der Bewertung der Kosteneffizienz der Anzeigenplatzierung bei der Generierung von Klicks. | Ein niedrigerer CPC zeigt an, dass die Anzeigenplatzierung Klicks zu niedrigeren Kosten generiert, was für die Maximierung des ROI von Vorteil sein kann. |
+| **[!UICONTROL Ausgaben]** | Der Betrag, der für eine einzelne Anzeigenplatzierung ausgegeben wird und einen Bruchteil der Gesamtsumme darstellt, die für das gesamte Erlebnis ausgegeben wird. Diese Metrik hilft, die Budgetzuweisung und die Ausgabeneffizienz für jede Anzeigenplatzierung zu verfolgen. | Die Überwachung der Ausgaben kann dazu beitragen, sicherzustellen, dass Ressourcen auf verschiedenen Platzierungen effektiv verwendet werden. |

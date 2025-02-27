@@ -3,7 +3,7 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: d5efabbaf3dd0817bd3158acb59d997a727e5f62
+source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
 workflow-type: tm+mt
 source-wordcount: '1348'
 ht-degree: 2%
@@ -26,7 +26,7 @@ Im Folgenden sehen Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONT
 
 Die Filter- und Suchoberfläche ist schnell und reaktionsschnell und bietet ein produktives „Search-First“-Erlebnis. Jede [!DNL Content] bietet Filteroptionen, mit denen Sie Ihre Suche nach dem idealen Asset, Erlebnis oder einer Vorlage eingrenzen können. Für Assets und Erlebnisse können Sie eine Kampagne und bestimmte Richtlinien auswählen, z. B. für Inhalte, die für ein bestimmtes Produkt erstellt wurden.
 
-Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attribute-category.md) basieren, um Suchergebnisse einzugrenzen. Vielleicht möchten Sie zum Beispiel ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen. Oder Sie können Inhalte nach Ihrem Benutzernamen oder dem Namen eines Team-Mitglieds filtern:
+Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attributes.md#categories) basieren, um Suchergebnisse einzugrenzen. Vielleicht möchten Sie zum Beispiel ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen. Oder Sie können Inhalte nach Ihrem Benutzernamen oder dem Namen eines Team-Mitglieds filtern:
 
 - **[!UICONTROL Hochgeladen von]** begrenzt die _[!UICONTROL Assets]_-Liste so, dass nur die Assets angezeigt werden, die von Ihnen oder einer bestimmten Person hochgeladen wurden.
 - **[!UICONTROL Erstellt von]** begrenzt die Liste _[!UICONTROL Erlebnisse]_ auf die Erlebnisse, die von Ihnen oder einer bestimmten Person erstellt wurden.
@@ -55,7 +55,7 @@ Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [
 
 Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create] oder durch Hochladen hinzufügen, im `GenStudio assets`-Repository gespeichert. Das `GenStudio assets`-Repository ist ein Lese-/Schreib-Repository in GenStudio for Performance Marketing. Das bedeutet, dass Sie Assets im `GenStudio assets`-Repository speichern, bearbeiten und löschen können.
 
-In der **[!UICONTROL Speicherort]**-Liste über der _[!UICONTROL Assets]_-Galerie auf der rechten Seite können Sie aus verbundenen Adobe Experience Manager (AEM)-[!DNL Assets Content Hub]-Repositorys auswählen.
+In der **[!UICONTROL Standort]**-Liste über der _[!UICONTROL Assets]_-Galerie auf der rechten Seite können Sie aus verbundenen Adobe Experience Manager (AEM)-[!DNL Assets Content Hub]-Repositorys auswählen.
 
 ![Standortliste der Repositorys](../../assets/content-location-selection.png){width="350"}
 
@@ -79,7 +79,7 @@ In der folgenden Tabelle sind die für Assets, Erlebnisse und Vorlagen verfügba
 | --------------------------------------------------------- | :----: | :---------: | :-------: |
 | [Details anzeigen](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
 | [Erlebnis erstellen](/help/user-guide/create/overview.md) |        |             | ✓ |
-| [Im Adobe Expreß bearbeiten](#edit-in-express) | ✓ |             |           |
+| [Bearbeiten in Adobe Express](#edit-in-express) | ✓ |             |           |
 | [Zur Aktivierung exportieren](#export-for-activation) |        | ✓ |           |
 | [Aktualisieren](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
 | [Download](#download-assets) | ✓ |             | ✓ |
@@ -95,7 +95,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 1. Klicken Sie _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
 
-1. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** Dateien von Dropbox oder Microsoft OneDrive importieren.
+1. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** aus Dropbox oder Microsoft OneDrive importieren.
 
 1. Wählen Sie im _Details hinzufügen_ einen **[!UICONTROL Kampagnennamen]** oder geben Sie einen neuen Namen ein.
 
@@ -152,7 +152,7 @@ Siehe [Aktivierung](/help/user-guide/activation/overview.md).
 
 ## In Express bearbeiten
 
-Sie können Bild-Assets (JPG oder PNG) mit dem Adobe Expreß direkt in GenStudio for Performance Marketing bearbeiten. Die _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche bietet praktische Funktionen, um Ihre Bilder zu verbessern, ohne das GenStudio-Programm verlassen zu müssen. Sie können auf einfache Weise Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
+Sie können Bild-Assets (JPG oder PNG) mit Adobe Express direkt in GenStudio for Performance Marketing bearbeiten. Die _[!UICONTROL Powered by Adobe Express]_-Arbeitsfläche bietet praktische Funktionen, um Ihre Bilder zu verbessern, ohne das GenStudio-Programm verlassen zu müssen. Sie können auf einfache Weise Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
 
 >[!BEGINSHADEBOX]
 
@@ -169,9 +169,9 @@ Kriterien für die Optimierung von Bildern mit der [!DNL Edit in Adobe Express]:
 
 1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
-1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf]** Symbol „Bearbeiten im Adobe Expreß&quot;.
+1. Klicken Sie in der Asset-Ansicht **[!UICONTROL oben rechts auf]** Symbol „Bearbeiten in Adobe Express&quot;.
 
-1. Verwenden Sie auf der _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
+1. Verwenden Sie auf _[!UICONTROL Arbeitsfläche „Powered by Adobe Express]_ die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
 
 1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken **[!UICONTROL oben rechts auf]** Kopie speichern“.
 

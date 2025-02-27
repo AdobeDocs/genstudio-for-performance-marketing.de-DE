@@ -1,20 +1,21 @@
 ---
 title: Daten-Management
-description: Erfahren Sie mehr über Datenaufnahme und -speicherung für Einblicke in GenStudio for Performance Marketing.
+description: Erfahren Sie mehr über Datenaufnahme und -speicherung für  [!DNL Insights]  in GenStudio for Performance Marketing.
 feature: Insights
 level: Experienced
 role: Admin
 last-substantial-update: 2025-1-7
-source-git-commit: 5dbe645f2ccf033f515da22ffdcce86edcb9fb24
+exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
+source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # Daten-Management
 
-GenStudio for Performance Marketing verwendet Adobe Experience Platform (AEP) für die Datenaufnahme und Speicherung der Metriken und Metadaten, die [!DNL Insights] unterstützen. AEP verwendet _Schemata_, um die Datenstrukturen und _Datensätze_ zum Speichern und Verwalten von Datenerfassungen zu definieren.
+GenStudio for Performance Marketing verwendet Adobe Experience Platform (AEP) für die Datenaufnahme und Speicherung der Metriken und Metadaten, die [!DNL Insights] unterstützen. AEP verwendet _Schemata_ zum Definieren der Datenstrukturen und _Datensätze_ zum Speichern und Verwalten von Datenerfassungen.
 
 ## Datenverbindungen
 
@@ -35,8 +36,8 @@ Seien Sie vorsichtig und löschen Sie nicht die folgenden Datenverbindungen, die
 - AEP-Datensätze mit dem Präfix `GS Insights`
 - AEP-Schemata, -Klassen und -Feldergruppen mit dem Präfix `GS Insights`
 - `timestamp for metadata` der benutzerdefinierten Feldergruppe
-- AEP-Verbindungen: Datenflüsse mit dem Präfix `GS Insights`
-- AEP-Verbindungen: GS Insights-Konto
+- AEP Connections: Datenflüsse mit dem Präfix `GS Insights`
+- AEP Connections: GS Insights-Konto
 
 Siehe [Auswirkungen löschen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion) im Handbuch _Customer Journey Analytics_, bevor Sie Datenkomponenten in AEP löschen.
 

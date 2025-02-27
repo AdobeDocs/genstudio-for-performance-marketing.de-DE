@@ -4,10 +4,10 @@ breadcrumb-title: Benutzerhandbuch
 user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing. Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: c76e0584c049b77e5e5742f4b52e959503422016
+source-git-commit: 3309dfa13e476d6acce60bfdcd4e5e9801b74149
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 27%
+source-wordcount: '171'
+ht-degree: 26%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 27%
    + [Überprüfung und Genehmigung von Inhalten anfordern](approvals/request-review.md)
    + [Inhalt überprüfen und bearbeiten](approvals/review-and-edit.md)
    + [Inhalt genehmigen](approvals/approve-content.md)
-   + [Von Publish genehmigte Inhalte](approvals/publish-content.md)
+   + [Genehmigte Inhalte veröffentlichen](approvals/publish-content.md)
 + {#content}
    + [Inhaltsübersicht](content/overview.md)
    + [Verwalten von Assets und Erlebnissen](content/manage-assets.md)
@@ -66,7 +66,10 @@ ht-degree: 27%
    + [Erlebnisse](insights/experiences.md)
    + [Assets](insights/assets.md)
    + [Attribute](insights/attributes.md)
-   + [Attributkategorien](insights/attribute-category.md)
+   + Attributkategorien {#categories}
+      + [Bildfunktionen](insights/image-features.md)
+      + [Videofunktionen](insights/video-features.md)
+      + [Textfunktionen - Ausgeblendet](insights/text-features.md)
    + [Daten-Management](insights/data-management.md)
 + [GenStudio Academy - Ausgeblendet](genstudioacademy.md)
 + [Test-Markdown - Ausgeblendet](test-markdown.md)

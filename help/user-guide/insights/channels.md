@@ -3,9 +3,9 @@ title: Kanäle - Übersicht
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistung, Budget und Ausgaben für Marketing-Kampagnen in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Zum Zeitpunkt der Erstellung einer Kampagne mit Meta-Anzeigen haben Sie möglich
 
 ## Kanalleistung
 
-Je nach Ihren Leistungszielen können Insights-Metriken Ihnen dabei helfen zu bewerten, ob Sie Ihr Ziel erreichen.
+Abhängig von Ihren Leistungszielen können [!DNL Insights] Metriken Ihnen dabei helfen zu bewerten, ob Sie Ihr Ziel erreichen.
 
 Wenn beispielsweise die Sensibilisierung Ihr Ziel ist, kann eine erhöhte `impressions` darauf hindeuten, dass Sie Ihre Reichweite erweitern. Um zu verstehen, ob dies Ihr Ziel erreicht, können Sie Metriken betrachten, die anzeigen, dass Ihr Inhalt ansprechend ist, z. B. `clicks` oder `video plays`. Wie effektiv interagiert Ihre Zielgruppe mit Ihren Inhalten?
 
