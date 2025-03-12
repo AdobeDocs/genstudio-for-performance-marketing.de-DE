@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Benutzerrollen und Berechtigungen in GenStu
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: de1c54ceb4402d98fd3ae9bd129b26d6b4919681
 workflow-type: tm+mt
-source-wordcount: '1115'
+source-wordcount: '1133'
 ht-degree: 10%
 
 ---
@@ -19,11 +19,11 @@ Das Erstellen und Bereitstellen moderner Marketing-Kampagnen erfordert die Zusam
 >
 >Bevor Benutzende für diese Rollen bereitgestellt werden, muss in der Adobe Admin Console ein Adobe-Systemadministrator ernannt werden, um einmalige Einrichtungsaufgaben durchzuführen. Diese Adobe-Administratorrolle funktioniert nur im Kontext der Adobe Admin Console. In der Benutzeroberfläche der GenStudio for Performance Marketing-Plattform spielt sie keine Rolle. Ein Adobe-Systemadministrator, der Berechtigungen für den System Manager benötigt, muss sich selbst als GenStudio-Systemmanager in der Adobe Admin Console bereitstellen. Siehe [Bereitstellen von GenStudio for Performance Marketing](product-provisioning.md).
 
-## Adobe-Systemadministrator und GenStudio System Manager im Vergleich
+## Adobe-Systemadministrator im Vergleich zu GenStudio System Manager
 
 Diese Benutzerrollentitel mögen ähnlich aussehen, sie identifizieren jedoch eindeutige Rollen, die Berechtigungen in verschiedenen Umgebungen bereitstellen.
 
-**Adobe-Systemadministratoren** verfügen über Power User-Privilegien in der Adobe Admin Console und führen alle User-Management-Aufgaben aus, z. B. das Hinzufügen oder Löschen von Benutzern. Diese Systemadministratorrolle gewährt keine Berechtigungen in der GenStudio for Performance Marketing-Anwendung, was erklärt, warum Adobe-Systemadministratoren keine Lizenz für GenStudio benötigen. Adobe-Systemadministratoren verwenden diese Admin Console normalerweise, um Benutzerkonten aus GenStudio-Bereitstellungen hinzuzufügen und zu löschen und Berechtigungen oder Berechtigungen von einzelnen Benutzenden oder Benutzergruppen zuzuweisen oder zu entfernen.
+**Adobe-Systemadministratoren** verfügen über Hauptbenutzerberechtigungen in der Adobe Admin Console und führen alle Benutzerverwaltungsaufgaben aus, z. B. das Hinzufügen oder Löschen von Benutzern. Diese Systemadministratorrolle gewährt keine Berechtigungen in der GenStudio for Performance Marketing-Anwendung, was erklärt, warum Adobe-Systemadministratoren keine Lizenz für GenStudio benötigen. Adobe-Systemadministratoren verwenden in der Regel die Admin Console, um Benutzerkonten aus GenStudio-Bereitstellungen hinzuzufügen und zu löschen und Berechtigungen oder Berechtigungen von einzelnen Benutzenden oder Benutzergruppen zuzuweisen oder zu entfernen.
 
 **GenStudio-Systemmanager** sind Hauptbenutzer in GenStudio for Performance Marketing, haben jedoch keine Berechtigung zum Ausführen von Aufgaben in Adobe Admin Console. Diese System Manager-Rolle erfordert eine GenStudio-Produktlizenz und entspricht einem Power User in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-Systemmanager verfügen über alle Berechtigungen für GenStudio for Performance Marketing-Funktionen, einschließlich [!DNL Brands], [!DNL Persona] und [!DNL Product] Erstellung, Löschen, Aktualisieren und Veröffentlichen. [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Erläutert, wie GenStudio-Benutzerrollen mit Produktlizenzen zusammenhängen.
 
@@ -73,7 +73,9 @@ GenStudio-System-Manager können Bearbeitern die Berechtigung zum Bearbeiten und
 
 ### GenStudio-Mitarbeiter
 
-_Mitwirkende_ können Assets in GenStudio for Performance Marketing anzeigen, diese Assets jedoch nicht erstellen, bearbeiten oder löschen. Zu den Mitwirkenden gehören Stakeholder, die für den Erfolg des Überprüfungs- und Genehmigungsprozesses für Inhalte von entscheidender Bedeutung sind, aber keine Inhalte erstellen oder direkt bearbeiten müssen. Juristen und Manager von Kreativen sind Beispiele für potenzielle Mitarbeiter. Mitarbeiter von GenStudio for Performance Marketing sind möglicherweise berechtigt, Assets in anderen Creative Cloud-Produkten zu erstellen und anzuzeigen.
+_Mitwirkende_ können Assets in GenStudio for Performance Marketing anzeigen, diese Assets jedoch nicht erstellen, bearbeiten oder löschen. Teilnehmer sehen beispielsweise die Meldung &quot;*Sie haben keinen Zugriff auf diesen Inhalt* wenn sie versuchen, auf [[!DNL Create]](/help/user-guide/create/overview.md) zuzugreifen.
+
+Zu den Mitwirkenden gehören Stakeholder, die für den Erfolg des Überprüfungs- und Genehmigungsprozesses für Inhalte von entscheidender Bedeutung sind, aber keine Inhalte erstellen oder direkt bearbeiten müssen. Juristen und Manager von Kreativen sind Beispiele für potenzielle Mitarbeiter. GenStudio for Performance Marketing-Mitwirkende sind möglicherweise berechtigt, Assets in anderen Creative Cloud-Produkten zu erstellen und anzuzeigen.
 
 In der folgenden Tabelle werden die standardmäßigen Collaborator-Berechtigungen angezeigt:
 
