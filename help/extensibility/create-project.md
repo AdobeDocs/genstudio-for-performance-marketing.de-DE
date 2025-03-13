@@ -1,0 +1,33 @@
+---
+title: Erstellen eines App Builder-Projekts zur Erweiterung von GenStudio for Performance Marketing
+description: Erstellen Sie ein App Builder-Projekt für Ihre App oder Ihr Add-on.
+source-git-commit: 62d29311d02616939634ce09c0ae97f382787c8d
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 1%
+
+---
+
+# Erstellen eines App Builder-Projekts
+
+Entwickelnde, die die nativen Funktionen von Adobe GenStudio for Performance Marketing erweitern, starten die Add-on-Entwicklung, indem sie ein [Adobe App Builder](https://developer.adobe.com/app-builder/)-Projekt erstellen.
+
+>[!BEGINSHADEBOX]
+
+Sie müssen Zugriff auf App Builder und die [Adobe Developer Console](https://developer.adobe.com/developer-console/) haben, um ein Projekt für Ihre App zu erstellen. Siehe [Erstellen eines Projekts in Developer Console](https://developer.adobe.com/app-builder/docs/getting_started/first_app#2-create-a-new-project-on-developer-console).
+
+>[!ENDSHADEBOX]
+
+**So erstellen Sie ein neues Projekt aus einer Vorlage**:
+
+1. Anmelden bei [Adobe Developer Console](https://developer.adobe.com/developer-console/).
+
+1. Verwenden Sie den IMS-Organisationsschalter auf der Landingpage der Konsole oben rechts, um Ihre IMS-Organisation auszuwählen.
+
+1. Klicken _in &quot;_&quot; auf **[!UICONTROL Neues Projekt erstellen]** und wählen Sie **[!UICONTROL Projekt aus Vorlage erstellen]**. Das Bedienfeld _Neues Projekt aus Vorlage erstellen_ wird geöffnet.
+
+1. Wählen Sie _App Builder_ in den Vorlagenoptionen aus.
+
+Wenn die Option **[!UICONTROL Projekt aus Vorlage erstellen]** nicht angezeigt wird, vergewissern Sie sich, dass Sie die richtige IMS-Organisation ausgewählt haben. Bestätigen Sie, dass Sie den Prozess in [So erhalten Sie Zugriff auf App Builder&quot; ](https://developer.adobe.com/app-builder/docs/overview/getting_access/) haben. Wenn Ihre IMS-Organisation korrekt ist, ist App Builder nicht aktiviert. Bitte kontaktieren Sie Adobe wie in [So erhalten Sie Zugriff auf App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/) beschrieben.
+
+Jetzt können Sie &quot;[ App entwickeln](create-app.md).
