@@ -112,3 +112,4 @@ Klicken Sie auf die Sortiersymbole (Raster oder Tabelle), um _Letzte Arbeit_ Ele
 GenStudio for Performance Marketing ermöglicht [umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
 
 Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, die Größe von Assets zu erhöhen und vieles mehr - alles auf der Arbeitsfläche.
+
