@@ -1,13 +1,13 @@
 ---
 user-guide-title: Adobe GenStudio for Performance Marketing-Erweiterbarkeitshandbuch
 breadcrumb-title: Handbuch zur Erweiterbarkeit
-user-guide-description: Erkunden Sie die Funktionen von GenStudio for Performance Marketing und erstellen Sie erweiterbare Anwendungen mit der GenStudio-Benutzeroberfläche SDK.
+user-guide-description: Erkunden Sie die Funktionen des Adobe GenStudio for Performance Marketing-Erweiterbarkeits-Frameworks.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: Developer
-source-git-commit: 2886d806013d044475fc2e81a502a07ba3c7d19c
+source-git-commit: bcf969f599279ba28354837b3949316a1bf7df27
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '52'
 ht-degree: 1%
 
 ---

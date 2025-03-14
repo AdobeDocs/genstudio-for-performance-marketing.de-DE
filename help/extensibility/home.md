@@ -1,9 +1,10 @@
 ---
 title: Adobe GenStudio-Erweiterbarkeitshandbuch
-description: Erkunden Sie die Funktionen des GenStudio for Performance Marketing-Erweiterbarkeits-Frameworks.
-source-git-commit: 6830e345577ca44ef8dee8de6195314a899f4e57
+description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing UI SDK und lernen Sie, wie Sie erweiterbare Anwendungen erstellen.
+exl-id: 4eca9e83-a109-431e-bfaa-9a6f7682e56f
+source-git-commit: bcf969f599279ba28354837b3949316a1bf7df27
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
