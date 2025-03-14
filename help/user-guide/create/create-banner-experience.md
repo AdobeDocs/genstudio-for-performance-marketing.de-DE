@@ -1,42 +1,40 @@
 ---
-title: Erstellen eines Anzeigen-Erlebnisses
-description: Erfahren Sie, wie Sie in Adobe Anzeigen-Erlebnisse  [!DNL GenStudio]  Performance-Marketing erstellen.
+title: Erstellen eines Bannererlebnisses
+description: Erfahren Sie, wie Sie in Adobe Banner-Erlebnisse  [!DNL GenStudio]  Performance-Marketing erstellen.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
 role: User
 level: Beginner
 recommendations: noDisplay
-exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '981'
 ht-degree: 0%
 
 ---
 
-# Erstellen eines Anzeigen-Erlebnisses
+# Erstellen eines Bannererlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich](display-ad-experiences.md) markenspezifische Anzeigenerlebnisse generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Paintbrush](banner-experiences.md)Symbol im linken Navigationsbereich) markenspezifische (Bannererlebnisse) erstellen.
 
-Um ein überzeugendes Anzeigen-Erlebnis zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der ](/help/user-guide/effective-prompts.md) überprüfen, bevor Sie beginnen.
+Um ein ansprechendes Bannererlebnis zu gestalten, wird empfohlen, [GenStudio for Performance Marketing Richtlinien hinzuzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ ](/help/user-guide/effective-prompts.md) lesen, bevor Sie beginnen.
 
 ## Vorlage wählen
 
-Verwenden Sie zum Erstellen einer Anzeige und eines Erlebnisses eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen. Siehe [Best Practices für Vorlagen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) für Informationen zu unterstützten Anzeigendimensionen.
+Verwenden Sie zum Erstellen eines Bannererlebnisses eine verfügbare Vorlage, um das Framework für Ihren Inhalt bereitzustellen. Informationen [ unterstützten Bannerdimensionen finden Sie ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) „Best Practices für Vorlagen“.
 
-**So wählen Sie eine Anzeigenvorlage aus**:
+**So wählen Sie eine Bannervorlage**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Anzeigen]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Anzeige-Anzeigenvorlage zu finden.
-1. Klicken Sie in der _Vorlage auswählen_ auf eine Anzeigenvorlage.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Banner]**in der_ „Was möchten Sie heute erstellen?“_.
+1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Bannervorlage zu finden.
+1. Klicken _in der Ansicht_ Vorlage auswählen“ auf eine Bannervorlage.
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 
-   Die Arbeitsfläche, die als zentraler Hub für die Inhaltserstellung dient, wird angezeigt.
+   Die Arbeitsfläche, die die Basis für die Inhaltserstellung ist, wird angezeigt.
 
 ## Parameter hinzufügen
 
-Das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderungsschublade lädt den Inhaltserstellungsprozess auf und ist ein integraler Vorbereitungsschritt für die Erstellung eines Display-Anzeigenerlebnisses.
-
-Wenn Sie eine Vorlage mit vordefinierten Richtlinien - [!DNL Brands], [!DNL Personas] oder [!DNL Products] - verwenden, gelten diese Richtlinien für Ihre Varianten. Sie können sie bei Bedarf ändern.
+Die Integration [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderungsschublade verbessert den Inhaltserstellungsprozess und ist ein wichtiger Vorbereitungsschritt für die Erstellung eines Bannererlebnisses.
 
 **Hinzufügen von Parametern und Assets**:
 
@@ -57,7 +55,7 @@ Wenn Sie mit dem Hinzufügen von Parametern fertig sind, reduzieren Sie die Eing
 
 ## Eingabeaufforderung eingeben
 
-Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Erstellung von Inhalten für Ihr neues Display- und Erlebnis zu beginnen. Um die Qualität der generierten Anzeigen und Erlebnisse zu verbessern, ist es wichtig, detaillierte und beschreibende Eingabeaufforderungen zu erstellen.
+Nachdem Sie die Richtlinien ausgewählt haben, verwenden Sie die natürliche Sprache, um eine Eingabeaufforderung zu erstellen, um die Inhaltserstellung für Ihr neues Bannererlebnis einzuleiten. Um hochwertige Ergebnisse zu gewährleisten, ist es wichtig, Eingabeaufforderungen zu erstellen, die detailliert und beschreibend sind.
 
 ![Eingabeaufforderung eingeben](/help/assets/prompt-displayad.png){width="650" zoomable="yes"}
 
@@ -70,14 +68,14 @@ Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-promp
 
 Standardmäßig werden vier Varianten - angetrieben von der Eingabeaufforderung, Richtlinien und dem hinzugefügten Inhalt - generiert und auf der Arbeitsfläche angezeigt.
 
-## Überarbeiten generierter Varianten
+## Überarbeiten generierter Banner
 
-Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Content] gesendet werden soll, können Sie Anzeigenabschnitte und Textfelder bearbeiten oder eine generierte Variante löschen.
+Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Content] gesendet werden soll, können Sie Bannerabschnitte und Textfelder bearbeiten oder eine generierte Variante löschen.
 
 **Überarbeiten generierter Varianten**:
 
-* **Um [ Anzeigenamen des Entwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
-* **Um [ Display-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie in einen der Display-Anzeigenbereiche oder -felder (z. B. Betreffzeile, Kopfzeile oder Textkörper-Kopie) und bearbeiten Sie sie nach Bedarf.
+* **Um [ Namen des Bannerentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
+* **Um [ Banner manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie in einen der Bannerbereiche oder -felder (z. B. Überschrift oder CTA) und bearbeiten Sie es nach Bedarf.
 * **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein ] klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
@@ -98,7 +96,7 @@ Um die generierten Varianten zu optimieren und die strikte Einhaltung von Marken
 
 **So führen Sie Inhaltsprüfungen für eine Variante durch**:
 
-1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
+1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen _Überprüfung erforderlich_ und _bestanden_ an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
@@ -108,28 +106,28 @@ Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
 ## Abrufen von Bewertungen und Genehmigungen
 
-Verwenden Sie das Genehmigungsbedienfeld, das als Symbol in der rechten Aktionsleiste der Arbeitsfläche verfügbar ist, um Überprüfungen abzurufen, Kommentare zu Überprüfungen zu verfolgen und Genehmigungen von Stakeholdern zu erhalten.
+Verwenden Sie das _Genehmigungen_-Bedienfeld, das als Symbol in der rechten Aktionsleiste der Arbeitsfläche zugänglich ist, um Bewertungen abzurufen, Überprüfungskommentare zu verfolgen und Genehmigungen von Stakeholdern zu erhalten.
 
 **Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung für entworfene Display-Anzeigenerlebnisse“ ](/help/user-guide/approvals/approve-content.md).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener Bannererlebnisse“ ](/help/user-guide/approvals/approve-content.md).
 1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
 1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
-1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre Display-Anzeigenerlebnisse](#publish-and-export-experience).
+1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre Bannererlebnisse](#publish-and-export-experience).
 
 Siehe [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md).
 
 ## Erlebnis veröffentlichen und exportieren
 
-Um die generierten Display-Anzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
+Um die generierten Banner für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Um Ihre neue(n) Anzeige(** Erlebnis(e) zu veröffentlichen, klicken Sie auf **[!UICONTROL Veröffentlichen]** in der oberen Symbolleiste oder im Genehmigungsfluss.
+1. **Um Ihre neuen Banner-Erlebnisse zu veröffentlichen** klicken Sie in der oberen Symbolleiste oder **[!UICONTROL Genehmigungsfluss auf Veröffentlichen]**.
    1. Wählen Sie _[!UICONTROL [!DNL Campaigns]]_und fügen Sie_[!UICONTROL  Weitere Details ]_hinzu, falls gewünscht.
    1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
-      ![Display-Anzeige veröffentlichen](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+      ![Veröffentlichen eines Banners](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
 
-1. **Um Ihre neue(n) Anzeige(n) Erlebnis(**) zu exportieren, klicken Sie **[!UICONTROL der oberen Symbolleiste auf]** Exportieren.
+1. **Um Ihre neuen Banner zu exportieren** klicken Sie in der oberen Symbolleiste **[!UICONTROL Exportieren]**.
    1. Wählen Sie das Format aus - HTML und Bilder, PNG oder JPG - und klicken Sie auf **[!UICONTROL Exportieren]**.
 
       Exportierte HTML sollten in einer vordefinierten Web-Eigenschaft platziert werden, z. B. einer Vorlage oder `div`. Ohne diese festgelegten Abmessungen können Bilder bei unabhängiger Betrachtung verzerrt erscheinen.

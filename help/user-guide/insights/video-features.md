@@ -2,9 +2,10 @@
 title: Videofunktionen
 description: Erfahren Sie mehr über die Videofunktion der in GenStudio for Performance Marketing verwendeten Attributkategorien.
 feature: Insights, Attributes, Generative AI
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -35,7 +36,7 @@ Die Audioerkennung in GenStudio for Performance Marketing umfasst die Analyse de
 
 1. Schalten Sie die Schaltfläche **Stummschaltung aufheben** (in der linken unteren Ecke einer Videovorschau) um und hören Sie sich das Audio der Videovorschau an.
 
-In der folgenden Tabelle sind die Videofunktionskategorien aufgeführt, die von der GenStudio for Performance Marketing-KI erkannt werden. Die Liste der erkannten Attribute für ein Asset ist nicht vollständig. Assets, die einen umfangreichen Funktionssatz enthalten, kann auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
+In der folgenden Tabelle sind die Videofunktionskategorien aufgeführt, die von der GenStudio for Performance Marketing-KI erkannt werden. Die Liste der erkannten Attribute für einen Medieninhalt ist nicht vollständig. Medien, die einen umfangreichen Satz von Funktionen enthalten, können auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

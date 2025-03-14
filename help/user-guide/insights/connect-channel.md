@@ -1,12 +1,12 @@
 ---
 title: Kanalkonto verbinden
-description: Ein Kanalkonto verbinden, um Ihre Adobe GenStudio for Performance Marketing-Marketing-Kampagnen und die Asset-Leistung zu überwachen.
+description: Ein Kanalkonto verbinden, um Ihre Adobe GenStudio for Performance Marketing-Kampagnen- und Medienleistung zu überwachen.
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 310a6ea3b64e223222e0664750547be1812b8ef6
+source-git-commit: 2ba00288ca55fdb1686f051fc28c8e816a645f2d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Beim ersten Öffnen von [!DNL Insights] wird möglicherweise ein Banner angezeigt, das Sie anleitet, Adobe GenStudio for Performance Marketing mit einem Kanalkonto zu verbinden.
 
-Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistische Daten aus Ihren aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten. Zunächst nimmt GenStudio for Performance Marketing die Daten der letzten 6 Monate auf, damit Sie über die Tools verfügen, um die neuesten Daten zu analysieren und Maßnahmen zu ergreifen.
+Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistische Daten aus Ihren aktiven Marketing-Kampagnen, Medien und Anzeigen zu erhalten. Zunächst nimmt GenStudio for Performance Marketing die Daten der letzten 6 Monate auf, damit Sie über die Tools verfügen, um die neuesten Daten zu analysieren und Maßnahmen zu ergreifen.
 
 >[!BEGINSHADEBOX]
 
@@ -47,7 +47,7 @@ GenStudio for Performance Marketing bewahrt Kanaldaten 13 Monate lang auf. Diese
 
    Möglicherweise müssen Sie die Popup-Blocker entfernen und dann mit &quot;**[!UICONTROL &quot;]**, um es erneut zu versuchen.
 
-1. Adobe Überprüfen _[!UICONTROL im Popup]_ Erneut verbinden) die Kontoinformationen und klicken Sie auf **[!UICONTROL Erneut verbinden]**.
+1. Überprüfen _[!UICONTROL im Popup]_ Erneut verbinden“ (Metasymbol für Adobe) die Kontoinformationen und klicken Sie auf **[!UICONTROL Erneut verbinden]**.
 
    Erneut verbinden bringt GenStudio for Performance Marketing wieder zum Vorschein.
 

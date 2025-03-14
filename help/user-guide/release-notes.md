@@ -2,11 +2,10 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
-last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 0d55b89d550a8e44e7dd354d809f00699fccf468
+source-git-commit: 41fb13b1067851194871a1101f2630de7ca1c008
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '2067'
 ht-degree: 1%
 
 ---
@@ -15,7 +14,50 @@ ht-degree: 1%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2 025,2,13 {#latest}
+## 2 025,03,13 {#latest}
+
+### Verknüpfte Erlebnisse erstellen
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Unterstützung für das Erstellen [ LinkedIn-Erlebnissen ](/help/user-guide/create/create-linkedin.md). Siehe die [LinkedIn-Anzeige](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanalspezifischen Richtlinien.
+
+### Erstellen von Bannererlebnissen
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Es wurde Unterstützung für [Erstellen von Bannererlebnissen](/help/user-guide/create/create-banner-experience.md) hinzugefügt. Siehe die [Banner](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanalspezifischen Richtlinien.
+
+### Compliance
+
+Im Rahmen der Markenvalidierung wurden [Compliance-Standards](/help/user-guide/guidelines/overview.md) in &quot;[&quot; ](/help/user-guide/guidelines/brand-validation.md). Bei diesen Prüfungen wird jede Variante in einem Erlebnis anhand von [!DNL Brand]-, [!DNL Product]- und [!DNL Persona]-Richtlinien, Platform-Richtlinien (z. B. für Meta), ethischen Überlegungen und ADA-Standards überprüft. Dieser Prozess bietet eine umfassende Zusammenfassung der Richtlinien und Standards, die überarbeitet werden müssen, um eine bessere Einhaltung zu gewährleisten.
+
+### Erweiterbarkeit
+
+Das neue GenStudio for Performance Marketing [Erweiterbarkeits-Framework](/help/extensibility/overview.md) bietet Tools für Unternehmen, mit denen sie ihre eigenen anspruchsbezogenen Compliance-Protokolle über Add-ons oder erweiterbare Programme in den Workflow zur Inhaltserstellung und -validierung integrieren können.
+
+### Vorlagen
+
+* **Vorlagen-Code-Editor** - Der neue [Vorlagen-Code-Editor](/help/user-guide/content/code-editor.md) hilft Ihnen, Ihre Vorlage zu überprüfen und einzuengen, damit sie beim Generieren neuer Erlebnisse mit GenStudio for Performance Marketing optimal verwendet werden kann.
+
+  ![Code-Editor-Ansicht](/help/assets/template-detected-fields.png "Überprüfung erkannter Felder"){width="500" zoomable="yes"}
+
+* **Links auf Bild**: Passen Sie Ihre E-Mail-Vorlage an, indem Sie Bild-Links aktivieren. Siehe [Anpassen einer Vorlage: Link auf Bild](/help/user-guide/content/customize-template.md#link-on-image).
+* **AJO- und Marketo-**: Laden Sie eine Vorlage hoch, die Sie in Adobe Journey Optimizer (AJO) oder Marketo erstellt haben. Siehe [Arbeiten mit Vorlagen aus AJO und Marketo](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
+
+### Fehlerbehebungen und Verbesserungen
+
+* Die Funktionen für [Standardkanal](/help/user-guide/guidelines/brands.md#channel-guidelines), [Bild](/help/user-guide/guidelines/brands.md#image-guidelines), [Logo](/help/user-guide/guidelines/brands.md#logos) und [color](/help/user-guide/guidelines/brands.md#colors) Richtlinien für [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
+* Es wurde die Möglichkeit hinzugefügt[ innerhalb einer Variante „Links ](/help/user-guide/create/manage-variants.md#add-image-link) Bildern hinzuzufügen“.
+* Die Funktionen [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md) Überprüfung und Genehmigung wurden in die neue rechte Aktionsleiste verschoben, um Platz auf der Arbeitsfläche zu maximieren und das Benutzererlebnis zu verbessern.
+* Vereinfachte Abläufe beim [ (Hochladen oder manuelles Hinzufügen einer Marke](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Es wurde die Möglichkeit eingeführt[ Bild-Assets innerhalb einer Variante auf ](/help/user-guide/create/manage-variants.md#swap-image) Arbeitsfläche hinzuzufügen oder auszutauschen.
+* Verbessertes Benutzererlebnis und Sichtbarkeit von Kanalkategorien [auf der Startseite erstellen](/help/user-guide/create/overview.md) indem sie in die Abschnitte Eigene Medien, Bezahlte Medien und Inhalte unterteilt werden.
+* Verbesserte Filterung in [!DNL Insights] Tabellen- und Galerieansichten.
+
+## Frühere Versionshinweise
+
++++Anmerkungen vom 2025.02.13
 
 ### Verbesserungen an der Landingpage für [!DNL Create]
 
@@ -23,11 +65,11 @@ Die [!DNL Create] Landingpage in GenStudio for Performance Marketing enthält Ve
 
 ### Insights-Export in CSV
 
-Sie können jetzt die anzeigbare Tabelle aus jeder [!DNL Insights] in eine CSV-Datei herunterladen. Diese Funktion ermöglicht den einfachen Export und die Analyse von Daten aus verschiedenen [!DNL Insights] und erleichtert so die Datenanalyse und Berichterstellung.
+Sie können jetzt die anzeigbare Tabelle aus jeder [!DNL Insights] in eine CSV-Datei herunterladen. Mit dieser Funktion können Sie Daten aus verschiedenen [!DNL Insights] exportieren und analysieren, was die Datenanalyse und Reporting-Optionen erleichtert.
 
-## Frühere Versionshinweise
++++
 
-+++Hinweise aus 2025.1.16
++++Hinweise aus dem 16.01.2025
 
 ### Integration mit Adobe Workfront Proof
 
@@ -45,7 +87,7 @@ Sie können jetzt beim Verwalten von Varianten neue Ausdrücke für Aktionsaufru
 
 * Die Zeichenzahl wird jetzt in allen erzeugten und manuellen Feldern von Display-Anzeigen angezeigt. Siehe _Zeichenanzahl_ in [Meta-](/help/user-guide/create/meta-experiences.md#character-counts)<!-- GS-7732 -->
 
-* _Mitwirkende_ können jetzt Assets anzeigen, diese Assets jedoch nicht erstellen, bearbeiten oder löschen. Zuvor wurden Kollaborateurberechtigungen nicht wie erwartet in erzwungen[!DNL Create]. <!-- GS-7614 -->
+* _Mitwirkende_ können jetzt Assets anzeigen, diese Assets jedoch nicht erstellen, bearbeiten oder löschen. Zuvor wurden Kollaborateurberechtigungen in [!DNL Create] nicht wie erwartet durchgesetzt. <!-- GS-7614 -->
 
 * Inhaltseditoren können jetzt Asset-, Erlebnis- und Vorlagenmetadaten bearbeiten. <!-- GS-4905 -->
 

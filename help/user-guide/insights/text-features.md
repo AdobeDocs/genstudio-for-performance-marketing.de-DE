@@ -5,7 +5,8 @@ feature: Insights, Attributes, Generative AI
 hide: true
 hidefromtoc: true
 recommendations: noDisplay, noCatalog
-source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
+exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -16,7 +17,7 @@ ht-degree: 1%
 
 Zu den Textfunktionen gehören Zählungen für bestimmte Textelemente wie Wörter, Sätze, Emojis und Klassifizierungen für Semantik, Emotion und Ton, die für die Analyse mit [!DNL Insights] verwendet werden. Text kann auch einen Lesbarkeitswert erhalten.
 
-GenStudio for Performance Marketing verwendet die KI- und maschinellen Lernfunktionen von Adobe, um Text zu studieren und [!UICONTROL Asset-Attribute] basierend auf den zugehörigen Texttönen und Marketing-Erzählungen anzuwenden. Der Prozess validiert den Eingabetext, um sicherzustellen, dass er alphanumerische Zeichen enthält, wobei zusätzliche Leerzeichen und nicht druckbare Zeichen entfernt und der Text auf die maximal zulässigen 1500 Wörter gekürzt wird. Vor dem Anwenden erkannter Attribut-Tags sagt die KI den vorherrschenden Ton voraus.
+GenStudio for Performance Marketing verwendet die KI- und maschinellen Lernfunktionen von Adobe, um Text zu studieren und [!UICONTROL Medienattribute] basierend auf den zugehörigen Texttönen und Marketing-Erzählungen anzuwenden. Der Prozess validiert den Eingabetext, um sicherzustellen, dass er alphanumerische Zeichen enthält, wobei zusätzliche Leerzeichen und nicht druckbare Zeichen entfernt und der Text auf die maximal zulässigen 1500 Wörter gekürzt wird. Vor dem Anwenden erkannter Attribut-Tags sagt die KI den vorherrschenden Ton voraus.
 
 ## Tonfall
 
@@ -52,7 +53,7 @@ Weitere sekundäre Werte für den Ton sind: `Enthusiastic`, `Assertive`, `Humoro
 
 ## Erzählung
 
-Die erzählerischen Attribute helfen Ihnen, Assets zu identifizieren, die die Werte, den Zweck oder die Identität kommunizieren, die bei Ihrer Zielgruppe Anklang finden.
+Die erzählerischen Attribute helfen Ihnen, Medien zu identifizieren, die die Werte, den Zweck oder die Identität kommunizieren, die bei Ihrer Zielgruppe Anklang finden.
 
 | Erzählung | Beschreibung | Beispiel |
 | ----------------- | ----------- | ------- |

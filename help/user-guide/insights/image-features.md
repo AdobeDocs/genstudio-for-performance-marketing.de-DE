@@ -2,7 +2,8 @@
 title: Bildfunktionen
 description: Erfahren Sie mehr über die Bildfunktion der in GenStudio for Performance Marketing verwendeten Attributkategorien.
 feature: Insights, Attributes, Generative AI
-source-git-commit: c15140ed3fe3d07e9112e9ad4781cb8fcf65045d
+exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Wenn der Bildstil als `sketch` oder `digital cartoon` identifiziert wird, kann e
 
 1. Auf _Seite „Attributdetails_ werden alle Bilder mit diesem Attribut aufgelistet.
 
-In der folgenden Tabelle sind die Bildfunktionskategorien aufgeführt, die von der GenStudio for Performance Marketing-KI erkannt werden. Die Liste der erkannten Attribute für ein Asset ist nicht vollständig. Assets, die einen umfangreichen Funktionssatz enthalten, kann auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
+In der folgenden Tabelle sind die Bildfunktionskategorien aufgeführt, die von der GenStudio for Performance Marketing-KI erkannt werden. Die Liste der erkannten Attribute für Medieninhalte ist nicht vollständig. Medien, die einen umfangreichen Satz von Funktionen enthalten, können auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

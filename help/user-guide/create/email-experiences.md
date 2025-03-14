@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,9 @@ Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen wird schrittweise in diese
 1. Pre-Header
 1. Überschriften, E-Mail-Textkörper (für E-Mails mit nur einem Abschnitt) und Aktionsaufrufe
 1. Textkörper der E-Mail für nachfolgende Abschnitte (für E-Mails mit mehreren Abschnitten)
-1. Die Markenvalidierung wird durchgeführt und die [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
+1. Markenvalidierung
+
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

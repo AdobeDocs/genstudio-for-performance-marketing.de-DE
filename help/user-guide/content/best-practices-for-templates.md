@@ -4,9 +4,9 @@ description: Befolgen Sie die Best Practices bei der Verwendung von Vorlagen mit
 feature: Templates, Content
 last-substantial-update: 2024-12-13T00:00:00Z
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 9cc284cdb00a204baf6b0a2d9d7f67cf9bc9c81f
+source-git-commit: cdba0ef2cc359a6ed0fd25ce946bcf89f9b712f9
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -50,8 +50,8 @@ Erstellen Sie Vorlagen, die das Layout und die visuellen Anforderungen für jede
 
 Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
 
-- Adobe- oder Google-Schriftarten verwenden
-- Verwenden von sauberem und responsivem HTML und Inline-CSS
+- Verwenden von Adobe- oder Google-Schriftarten
+- Verwenden Sie saubere und responsive HTML und Inline-CSS
 - Verwenden **nicht** JavaScript
 - Verwenden **nicht** eine feste Breite im Textkörper oder Container
 - Verwenden **nicht** die Base64-Kodierung für Bilder, da dadurch die Vorlagengröße erheblich erhöht werden kann
@@ -62,7 +62,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorla
    - Eine einfache Vorlage (nur ein Abschnitt) kann einen einzigen Satz von Vorlagenelementen generieren.
    - Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren.
 - In einer Vorlage sind maximal 20 Felder zulässig
-- Die maximale Größe der HTML-Datei beträgt 102 KB
+- Die maximale Dateigröße für HTML beträgt 102 KB
 
 **Erkannte Feldnamen**:
 
@@ -72,7 +72,7 @@ Für E-Mails wird das `subject` automatisch eingefügt. Verwenden Sie Platzhalte
 - `headline`
 - `body`
 - `cta`
-- `image` (aus Inhalt ausgewählt)
+- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
 - `brand_logo`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
@@ -86,7 +86,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 - Verwenden **nicht** relative Schriftgröße
 - Viewports **nicht**
 - Verwenden **nicht** JavaScript
-- HTML **Element** im CSS nicht überschreiben
+- Überschreiben **nicht** ein HTML-Element in CSS
 - Verwenden Sie die folgenden Einstellungen für Hintergrundbilder:
 
   Fügen Sie `object-fit: cover` Wert `background-image` CSS-Klasse hinzu:
@@ -115,19 +115,17 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 
 Bei Meta-Anzeigen werden die Felder `headline`, `body` und `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
 
-- `image` (aus Inhalt ausgewählt)
-- `on-image-text`
+- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
+- `on_image_text`
 - `brand_logo`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
->[!TAB Anzeige anzeigen]
+>[!TAB Banner- und Display-Anzeige]
 
-[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigenvorlagen für Banner und Anzeigen an GenStudio for Performance Marketing anpassen:
 
-Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Display-Anzeigenvorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
-
-- Adobe- oder Google-Schriftarten verwenden
+- Verwenden von Adobe- oder Google-Schriftarten
 - Vorbereiten von Assets, die in schlanken Dimensionen gut angezeigt werden
 - Verwenden **nicht** eingebettete oder kodierte Hintergrundbilder
 - Verwenden von Hintergrundbildern (`image`), die in das GenStudio for Performance Marketing Content Repository hochgeladen wurden
@@ -159,7 +157,55 @@ Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
 - `headline`
 - `body`
 - `cta`
-- `image` (aus Inhalt ausgewählt)
+- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
+
+Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+
+>[!TAB LinkedIn-Anzeige]
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Befolgen Sie die folgenden Best Practices für das Design, wenn Sie LinkedIn-Anzeigenvorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
+
+**Einschränkungen**:
+
+- Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
+   - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
+- Maximale Bildgröße von 5 MB
+- Maximale Überschrift 70 Zeichen
+- Maximaler Einführungstext 150 Zeichen
+
+**Unterstützte Seitenverhältnisse**:
+
+- Quadrat 1:1
+   - Desktop oder Mobilgerät
+   - Min.: 360 x 360 Pixel
+   - Max.: 4320 x 4320 Pixel
+- Horizontal 1,91:1
+   - Schreibtisch
+   - Min.: 640 x 360 Pixel
+   - Max.: 7680 x 4320 Pixel
+- Vertikal 1:1,91
+   - Mobiltelefon
+   - Min.: 360 x 640 Pixel
+   - Max.: 2430 x 4320 Pixel
+- Vertikel 2.3
+   - Mobiltelefon
+   - Min.: 360 x 640 Pixel
+   - Max.: 2430 x 4320 Pixel
+- Vertikel 4.5 (empfohlen)
+   - Mobiltelefon
+   - Min.: 360 x 640 Pixel
+   - Max.: 2430 x 4320 Pixel
+
+**Erkannte Feldnamen**:
+
+Bei LinkedIn-Anzeigen werden die Felder `headline` und `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
+
+- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
+- `introductory_text`
+- `on_image_text`
+- `brand_logo`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 

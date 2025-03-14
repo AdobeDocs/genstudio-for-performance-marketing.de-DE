@@ -3,9 +3,9 @@ title: Arbeiten mit Vorlagen
 description: Erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihren Kreativprozess in Adobe GenStudio for Performance Marketing zu optimieren.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
+source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '1157'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ GenStudio for Performance Marketing unterstützt zwar nicht die direkte Erstellu
 
 2. **Codieren Sie Ihre Vorlage**: Konvertieren Sie Ihr Design in HTML und Inline-CSS, um sicherzustellen, dass es auf verschiedenen Geräten sauber und responsiv ist. Beachten Sie die [Richtlinien zur Barrierefreiheit](accessibility-for-templates.md) um Ihre maximal vorgesehene Zielgruppe zu erreichen.
 
-3. **Vorbereiten für GenStudio for Performance Marketing**: Passen Sie Ihre HTML-Vorlage mit der Vorlagensprache Handlebars an. Fügen Sie Platzhalter ein, um anzugeben, wo GenStudio for Performance Marketing Inhalte dynamisch generieren soll. Siehe „Anpassen [ Vorlage](customize-template.md) für GenStudio for Performance Marketing.
+3. **Vorbereiten für GenStudio for Performance Marketing**: Passen Sie Ihre HTML-Vorlage mithilfe der Handlebars-Vorlagensprache an. Fügen Sie Platzhalter ein, um anzugeben, wo GenStudio for Performance Marketing Inhalte dynamisch generieren soll. Siehe „Anpassen [ Vorlage](customize-template.md) für GenStudio for Performance Marketing.
 
 Wenn Sie diese Schritte befolgen, können Sie professionelle und effektive Vorlagen erstellen, die für die Verwendung in GenStudio for Performance Marketing bereit sind, sodass Sie Markeninhalte schnell und effizient erstellen können.
 
@@ -30,55 +30,17 @@ Eine Vorlage ist ein Satz von Anweisungen, die mit HTML und Inline-CSS definiert
 
 Im Folgenden finden Sie eine Liste der in Vorlagen verwendeten Elemente und einige Details zu ihren Eigenschaften:
 
-- **Preheader**
-
-   - Dient als sekundäre Betreffzeile in einer E-Mail und erweitert die Hauptbetreffzeile
-   - Zwischen 40 und 50 Zeichen
-   - Im Posteingang neben dem Betreff sichtbar, bevor die E-Mail geöffnet wird
-   - Wird in E-Mail-Vorlagen verwendet
-
-- **Kopfzeile**
-
-   - Oberer Abschnitt der E-Mail, den der Empfänger beim Öffnen der E-Mail sieht
-   - Legt den Ton fest und liefert Kontext für den enthaltenen Inhalt
-   - Wird in E-Mail-Vorlagen verwendet
-
-- **Überschrift**
-
-   - Erster Inhalt, den der Empfänger sieht
-   - Sollte fesselnd sein, Interesse zu wecken
-   - Wird in Meta-Anzeigenvorlagen verwendet
-
-- **body**
-
-   - Hauptinhaltsbereich, in dem die primäre Nachricht übermittelt wird
-   - Kann Text, Bilder und andere Medien enthalten
-   - Wird in E-Mail- und Meta-Anzeigenvorlagen verwendet
-
-- **Aktionsaufforderung**
-
-   - Die Aktionsaufruf-Schaltfläche verwendet einen Satz und einen Link
-   - Ermuntert den Empfänger, eine bestimmte Aktion auszuführen, z. B. auf einen Link zu klicken oder einen Kauf zu tätigen
-   - Wird in E-Mail- und Meta-Anzeigenvorlagen verwendet
-
-- **Bilder**
-
-   - Verbessert die visuelle Attraktivität
-   - Text aufteilen
-   - Unterstützen der Nachricht
-   - Sollte qualitativ hochwertig und auffällig sein
-   - Wird in E-Mail- und Meta-Anzeigenvorlagen verwendet
-
-- **Fußzeile**
-
-   - Unterer Abschnitt, der zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen enthält
-   - Wird in E-Mail-Vorlagen verwendet
-
-- **Textüberlagerung**
-
-   - Text auf einem Bild
-   - Verwenden Sie , um Überschrift und Hauptteil zu unterstützen und zu verbessern
-   - Wird in Meta-Anzeigenvorlagen verwendet
+| **Element** | **Kanal** | **Beschreibung** |
+|----------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Preheader** | E-Mail | Eine sekundäre Betreffzeile in einer E-Mail, die normalerweise zwischen 40 und 50 Zeichen umfasst, wodurch die Haupt-Betreffzeile erweitert wird. Er wird im Posteingang neben dem Betreff angezeigt, bevor die E-Mail geöffnet wird. |
+| **Kopfzeile** | E-Mail | Der obere Abschnitt der E-Mail, den der Empfänger beim Öffnen der E-Mail sieht, gibt den Ton an und liefert Kontext für den enthaltenen Inhalt. |
+| **Überschrift** | Meta-, Banner- und Display-Anzeigen, LinkedIn | Der erste Inhalt, den der Empfänger sieht, sollte verlockend sein, um Interesse zu wecken. |
+| **Einführungstext** | LinkedIn | Die primäre Nachricht überträgt die Kernnachricht, ähnlich wie beim Nachrichtentext. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
+| **body** | E-Mail-, Meta-, Banner- und Display-Anzeigen | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
+| **Aktionsaufforderung** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Eine Aktionsaufruf-Schaltfläche verwendet einen Satz und einen Link, um den Empfänger zu einer bestimmten Aktion zu ermutigen, z. B. auf einen Link zu klicken oder einen Kauf zu tätigen. |
+| **Bilder** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Verbessern Sie die visuelle Attraktivität, teilen Sie Text auf und unterstützen Sie die Botschaft. Bilder sollten von hoher Qualität und auffällig sein. |
+| **Fußzeile** | E-Mail | Der untere Abschnitt der E-Mail enthält zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen. |
+| **Textüberlagerung** | Meta-Anzeige | Text, der auf einem Bild platziert wird, um die Überschrift und den Hauptteil des Inhalts zu unterstützen und zu verbessern. |
 
 >[!TIP]
 >
@@ -94,9 +56,9 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 ## Vorlagen verwalten
 
-Der [!DNL Templates] zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden. Sie können Vorlagen nach Kanaltyp filtern, z. B. E-Mail-, Display-Anzeigen- und Meta-Anzeigen.
+Der _[!DNL Templates]_zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden. Sie können Vorlagen nach Kanaltyp filtern, z. B. E-Mail-, Display-Anzeigen-, Meta-Anzeigen- und LinkedIn-Anzeigen.
 
-![Liste der Inhaltsvorlagen](/help/assets/content-templates.png){width="650" zoomable="yes"}
+![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650" zoomable="yes"}
 
 ### Vorlage hinzufügen
 
@@ -108,24 +70,26 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 1. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
 
-1. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ nach der HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
 
-1. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die erkannten Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
 
    Beispielvorschau für eine E-Mail-Vorlage:
 
-   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650"}
+   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
 
    >[!TIP]
    >
-   >Wenn die Vorlage nicht korrekt ist, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch.
+   >Wenn die Vorlage nicht korrekt ist, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch. Oder verwenden Sie den [Vorlagen-Code](/help/user-guide/content/code-editor.md)Editor, um einfache Korrekturen vorzunehmen.
+
+1. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
 
 1. Benennen _[!UICONTROL im Bereich „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
 
    Vorlagenname und Kanaltyp sind erforderlich. Zusätzliche Anforderungen können Folgendes umfassen:
 
    - **Meta**: erfordert Seitenverhältnis
-   - **Anzeigen anzeigen**: erfordert Dimensionen
+   - **Banner- und Display-Anzeige**: Erfordert Dimensionen
 
 1. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
 
@@ -156,3 +120,23 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 1. Klicken **[!UICONTROL oben rechts auf Erlebnis]** Pinsel erstellen), um die Vorlage zu verwenden.
 
 1. Fahren Sie mit [Erstellen](/help/user-guide/create/overview.md#create-use-cases) fort.
+
+## Vorlagen aus AJO und Marketo
+
+Sie können eine Vorlage hochladen, die Sie in Adobe Journey Optimizer (AJO) oder Marketo erstellt haben. GenStudio for Performance Marketing erkennt anwendungsspezifische Muster und ignoriert sie, wobei das Originalformular für die weitere Verwendung in AJO oder Marketo beibehalten wird. Sie müssen keine Änderungen an der ursprünglichen AJO- oder Marketo-Syntax vornehmen.
+
+Zu den erkannten Anwendungsmustern gehören:
+
+- **AJO**: `{{profile.*}}`, `{{context.*}}`
+- **Marketo**: `{{my.*}}`, `{{lead.*}}`, `{{system.*}}`
+
+>[!BEGINSHADEBOX]
+
+**Voraussetzungen**
+
+- Die Anwendung (AJO, Marketo) und GenStudio for Performance Marketing müssen zur Integration derselben IMS-Organisation angehören
+- Benutzer müssen die Rolle „Mitarbeiter“ (die niedrigste Ebene) oder höher haben
+
+>[!ENDSHADEBOX]
+
+Passen Sie [ Ihre Vorlage mit ](/help/user-guide/content/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.

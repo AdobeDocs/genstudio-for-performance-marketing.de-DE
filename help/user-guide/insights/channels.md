@@ -3,9 +3,9 @@ title: Kanäle - Übersicht
 description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistung, Budget und Ausgaben für Marketing-Kampagnen in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
+source-git-commit: e4507e53896348bca2ebec4ae299be50a0d277a7
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Kanäle]_ zeigt eine Liste der Kampagne
 
 {{connect-insights}}
 
-Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampagne organisiert. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus den Listen [!UICONTROL Konto], [!UICONTROL Status] und [!UICONTROL Ziel] auswählen können, um die Kampagnen in der Tabelle zu filtern.
+Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampagne organisiert. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle aus, um alle Filter zu entfernen.
 
 ![Kanalfilter und -tabelle](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
 {{$include /help/_includes/download-insights.md}}
 
-Wenn Sie eine Kampagne auswählen, wird [[!UICONTROL  Registerkarte ]Erlebnisse](experiences.md) geöffnet, in der eine Liste der mit dieser Kampagne verknüpften Anzeigenamen angezeigt wird. Auf diese Weise können Sie ermitteln, welche Erlebnisse zum Gesamterfolg der Kampagne beigetragen haben.
+Wenn Sie eine Kampagne auswählen, wird die Registerkarte [[!UICONTROL Anzeigen] ](ads.md) mit einer Liste von Anzeigenamen geöffnet, die mit dieser Kampagne verknüpft sind. Auf diese Weise können Sie ermitteln, welche Anzeigen zum Gesamterfolg beigetragen haben.
 
 ## Ziele
 

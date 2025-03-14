@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Content, Assets, Experiences
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 504f556825c5645172c2315877cb6c06f015cf0e
 workflow-type: tm+mt
-source-wordcount: '1335'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -139,18 +139,31 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 
 **So fügen Sie Bilder in einer Variante hinzu oder tauschen sie aus**:
 
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist).
+1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
+1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
+
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
+
+1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
+
+   Das Bild wird hinzugefügt oder durch die entsprechende Variante ersetzt.
+
+## Bild-Link hinzufügen
+
+Ähnlich wie beim Hinzufügen oder Austauschen von Bildern in generierten Varianten können Sie auch einen Link zu Bildern hinzufügen. Die Vorlage, die Sie zum Generieren von Varianten verwendet haben _muss_ einen [Inhalts-Platzhalter für den Link](/help/user-guide/content/customize-template.md#content-placeholders) enthalten, um diese Funktion zu aktivieren.
+
+**So fügen Sie einen Bild-Link in einer Variante hinzu**:
+
 1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein Bild-Asset.
 
    Wenn die Variante derzeit kein platziertes Bild-Asset hat, klicken Sie auf den Bereich Bild-Asset .
 
-1. So wählen Sie ein bereits in [!DNL Content] veröffentlichtes Bild-Asset aus:
-   1. Klicken Sie **[!UICONTROL Aus Inhalt auswählen]**. Verwenden Sie die Filter, um Ihre Suchergebnisse weiter einzugrenzen.
-   1. Klicken Sie auf **[!UICONTROL Verwenden]**
-1. So laden Sie ein Bild-Asset hoch:
-   1. Klicken Sie **[!UICONTROL Neues Bild hochladen]**, um Ihre Dateien zu durchsuchen und die zu verwendenden Assets auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch von Microsoft OneDrive oder Dropbox importieren.
-   1. Klicken Sie **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie auf das Link-Symbol.
+1. Klicken Sie auf **[!UICONTROL Link entfernen]**, um den vorhandenen Standardlink zu entfernen.
+1. Fügen Sie einen Link in das Textfeld ein und klicken Sie auf **[!UICONTROL Übernehmen]**.
 
-   Die Bilder werden hinzugefügt oder in die entsprechende Variante eingetauscht.
+   Der definierte Link wird auf alle Bilder im Variantensatz angewendet.
 
 ## Vorschau für Gerät
 
@@ -176,9 +189,9 @@ Löschen Sie unnötige Varianten, damit auf der Arbeitsfläche nur die Varianten
 
 ## Markenvalidierung pro Variante
 
-Verwenden Sie die _[!UICONTROL Prüfung der Markenrichtlinien]_ und das _[!UICONTROL Bedienfeld Markenvalidierung]_, um eine konsistente Markenidentität und die Ausrichtung von Varianten zu gewährleisten.
+Verwenden Sie das Bedienfeld _Inhaltsüberprüfung_, um eine konsistente Markenidentität, [ADA-Barrierefreiheitsstandards, Plattform-](/help/user-guide/guidelines/overview.md#content-checks) und die Ausrichtung von Varianten zu gewährleisten.
 
-Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
 ## Feedback zur Erzeugung
 

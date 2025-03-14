@@ -3,9 +3,9 @@ title: Überblick über GenStudio for Performance Marketing [!DNL Create]
 description: Schnelles Generieren von leistungsstarken, markeninternen Inhalten mit generativer KI in Adobe GenStudio for Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 11d86ddddd1289c0bd198f21fe75a84b1459253e
+source-git-commit: cccf207ce1cb2773a18ed553e14d1dbe3b77635b
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '708'
 ht-degree: 1%
 
 ---
@@ -14,53 +14,130 @@ ht-degree: 1%
 
 GenStudio for Performance Marketing [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketing-Experten und verteilte Teams in die Lage zu versetzen, leistungsstarke On-Brand-Erlebnisse zu schaffen.
 
-![Dashboard erstellen](/help/assets/create.png){width="600" zoomable="yes"}
+![Startseite erstellen](/help/assets/create-home.png){width="600" zoomable="yes"}
+
+Die [!DNL Create]-Startseite ist in Kanalabschnitte - _Eigene Medien_, _Bezahlte Medien_ und _Inhalte_ - und einen Abschnitt _Zuletzt_ zuletzt erstellte Entwürfe und veröffentlichte Inhalte unterteilt. Jeder Kanalabschnitt ermöglicht die Erstellung von Inhalten für diesen spezifischen Satz von Kanälen. Gehen Sie beispielsweise zum Abschnitt _Eigene Medien_, um mit der Erstellung einer E-Mail oder eines Banners zu beginnen.
 
 Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 
 * [E-Mails](email-experiences.md)
 * [Meta-Anzeigen](meta-experiences.md)
+* [LinkedIn-Anzeigen](linkedin-experiences.md)
 * [Anzeigen anzeigen](display-ad-experiences.md)
+* [Banner](banner-experiences.md)
 
-Neben der Leistungsfähigkeit von [Richtlinien](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products] und [!DNL Personas] - [Content](/help/user-guide/content/overview.md), [Reviews and Approvals](/help/user-guide/approvals/overview.md) und [Insights](/help/user-guide/insights/overview.md) ermöglicht [!DNL Create] die Erstellung wirkungsvoller markenorientierter Marketing-Inhalte.
+Zusammen mit der Leistungsfähigkeit von [Richtlinien](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products] und [!DNL Personas] - [Content](/help/user-guide/content/overview.md), [Kampagnen](/help/user-guide/campaigns/overview.md), [Reviews und Genehmigungen](/help/user-guide/approvals/overview.md), [Activation](/help/user-guide/activation/overview.md) und [Insights](/help/user-guide/insights/overview.md) erleichtert [!DNL Create] die Erstellung wirkungsvoller markenbezogener Marketing-Inhalte.
 
 Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benutzerrollen und Berechtigungen](/help/user-guide/user-roles.md) für detaillierte Informationen zum Rollenzugriff.
 
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>E-Mail-Erlebnis erstellen</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Erstellen eines Meta-Anzeigen-Erlebnisses" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>Erstellen eines Meta-Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/create-display-ad.md">
-      <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
+      <a href="/help/user-guide/create/create-linkedin.md">
+
+      <img alt="Erstellen eines LinkedIn-Anzeigenerlebnisses" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
-         <a href="/help/user-guide/create/create-display-ad.md">
-         <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
+
+         <a href="/help/user-guide/create/create-linkedin.md">
+
+         <strong>Erstellen eines LinkedIn-Anzeigenerlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="/help/user-guide/create/create-display-ad.md">
+
+      <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
+      </a>
+
+      <div>
+
+         <a href="/help/user-guide/create/create-display-ad.md">
+
+         <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
+
+         </a>
+
+      </div>
+
+   </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="/help/user-guide/create/create-banner-experience.md">
+
+      <img alt="Erstellen eines Bannererlebnisses" src="../../assets/icons/icon-search.png" width="35">
+
+      </a>
+
+      <div>
+
+         <a href="/help/user-guide/create/create-banner-experience.md">
+
+         <strong>Erstellen eines Bannererlebnisses</strong>
+
+         </a>
+
+      </div>
+
+   </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue Marketing-Inhalte zu**. In diesem Anwendungsbeispiel verwenden Sie definierte [Richtlinien](/help/user-guide/guidelines/overview.md) und Inspirationsbilder, um die Erstellung von markenorientierten Inhalten zu unterstützen.
@@ -89,9 +166,9 @@ Inhalte - hochgeladene oder hinzugefügte Bild-Assets - in _Parameter_ werden in
 
 Um KI-generierte Inhalte zu erstellen, geben Sie eine [beschreibende Eingabeaufforderung](/help/user-guide/effective-prompts.md), die den Kontext oder das Erlebnis beschreibt, das Sie generieren möchten, zusammen mit [Richtlinien](/help/user-guide/guidelines/overview.md) und [_Parametern_](#parameters), in die Eingabeaufforderungsschublade ein und klicken Sie auf **[!UICONTROL Generieren]**.
 
-### Markenvalidierung
+### Inhaltsprüfungen
 
-GenStudio for Performance Marketing führt eine Markenvalidierung zu verschiedenen Aspekten der Markenidentität durch (wie in [Richtlinien](/help/user-guide/guidelines/overview.md) definiert). [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) Informationen stehen für alle generierten Inhalte zur Verfügung und weisen auf die Einhaltung von Markenrichtlinien und die Kohärenz zwischen Text und Bildern hin. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
+GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) für jede Variante durch, um sicherzustellen, dass sie die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt. [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) Informationen stehen für jeden generierten Inhalt zur Verfügung, was darauf hinweist, dass er mit umfassenden Inhaltsprüfungen und der Kohärenz zwischen Text und Bildern konform ist. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 
@@ -112,4 +189,3 @@ Klicken Sie auf die Sortiersymbole (Raster oder Tabelle), um _Letzte Arbeit_ Ele
 GenStudio for Performance Marketing ermöglicht [umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
 
 Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, die Größe von Assets zu erhöhen und vieles mehr - alles auf der Arbeitsfläche.
-

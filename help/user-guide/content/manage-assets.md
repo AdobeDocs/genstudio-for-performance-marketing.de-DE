@@ -3,9 +3,9 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1361'
 ht-degree: 2%
 
 ---
@@ -18,9 +18,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbess
 
 In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Mit dem Filter-Symbol (Trichter) über der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus vielen Kategorien auswählen können, um den in der Galerie angezeigten Inhalt zu filtern. Assets Klicken Sie in der Ansicht ]_0} auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._[!UICONTROL 
 
-Im Folgenden sehen Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONTROL Assets]:
+Im Folgenden sehen Sie eine Suche nach dem Begriff `space` in der Galerie [!UICONTROL Assets]:
 
-![Assets-Ansicht mit Suche auf Hund](/help/assets/content-assets.png)
+![Assets-Ansicht mit Suche auf Leerzeichen](/help/assets/content-assets-filter.png "Suche nach Assets mit Leerzeichen-Attribut")
 
 ### Durchsuchen von Inhalt
 
@@ -57,7 +57,7 @@ Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create] od
 
 In der **[!UICONTROL Standort]**-Liste über der _[!UICONTROL Assets]_-Galerie auf der rechten Seite können Sie aus verbundenen Adobe Experience Manager (AEM)-[!DNL Assets Content Hub]-Repositorys auswählen.
 
-![Standortliste der Repositorys](../../assets/content-location-selection.png){width="350"}
+![Speicherort-Liste der Repositorys](/help/assets/content-location-selection.png "Wählen Sie ein Inhalts-Repository aus"){width="350"}
 
 Wenn Sie ein AEM-Repository auswählen, zeigt die Galerie ein Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
 
@@ -89,7 +89,7 @@ In der folgenden Tabelle sind die für Assets, Erlebnisse und Vorlagen verfügba
 
 Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `GenStudio assets`-Repository gespeichert. Die Schaltfläche _[!UICONTROL Assets hinzufügen]_ ist nur verfügbar, wenn _[!UICONTROL Speicherort]_ das `GenStudio assets`-Repository ist.
 
-![Standortfeld](../../assets/content-location.png){width="350"}
+![Standortfeld](/help/assets/content-location.png "Standortfeld"){width="350"}
 
 **Hinzufügen von Assets**:
 
@@ -146,7 +146,7 @@ Sie können genehmigte Erlebnisse zur Aktivierung in einem Format exportieren, d
 1. Wählen _im Popup_ Zur Aktivierung exportieren“ eines der verfügbaren Formate aus:
 
    - E-Mail: `HTML`, `CSV`
-   - Meta- und Display-Anzeigen: `HTML`, `JPEG`, `PNG`
+   - Meta-, Banner- und Display-Anzeige: `HTML`, `JPEG`, `PNG`
 
 Siehe [Aktivierung](/help/user-guide/activation/overview.md).
 

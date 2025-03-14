@@ -3,9 +3,9 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und die Leistung zu verfolgen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+source-git-commit: f401f93e7dd08db4837b8709e28acec5571052f7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '726'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ In der folgenden Tabelle sind die Metadaten (Asset-Details) aufgeführt, die Sie
 | [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) wurde zu GenStudio for Performance Marketing hinzugefügt und zur Verwendung veröffentlicht |
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) zur Verwendung zu GenStudio for Performance Marketing hinzugefügt |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zur Verwendung zu GenStudio for Performance Marketing hinzugefügt |
-| Kanäle | Plattformen für die Verteilung bestimmter Inhaltstypen wie E-Mail- und Display-Anzeigen |
+| Kanäle | Plattformen für die Verteilung bestimmter Inhaltstypen wie E-Mail und Banner und Display-Anzeige |
 | [!UICONTROL Zeitraum] | Zeitrahmen, für den das Asset verwendet wird, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` |
 | Region | Regionen, für die das Asset verwendet wird. Beispiele: `North America`, `APAC`, `Italy` |
 | Sprache | Sprachen, für die das Asset verwendet wird. Beispiel: `Spanish` |

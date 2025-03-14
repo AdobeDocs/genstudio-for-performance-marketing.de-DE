@@ -3,98 +3,86 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
 
 # Markenvalidierung
 
-In GenStudio for Performance Marketing ist die Markenvalidierung eine wesentliche Komponente, die mit den generativen KI-Funktionen und -Richtlinien ([[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md)) zusammenarbeitet. Dadurch wird sichergestellt, dass alle Ihre Inhalte mit Ihrer Markenidentität übereinstimmen.
+In GenStudio for Performance Marketing ist die Markenvalidierung eine wesentliche Komponente, die mit den generativen KI-Funktionen und -Richtlinien ([[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md)) zusammenarbeitet. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität, Ihren ADA-Standards und den individuellen Richtlinien zur Kanalplattform übereinstimmt.
 
-GenStudio for Performance Marketing führt eine Markenvalidierung in verschiedenen Bereichen durch, darunter:
+GenStudio for Performance Marketing führt Markenvalidierungen und andere Inhaltsprüfungen zu verschiedenen Aspekten durch, darunter:
 
-* Spezifische Markenrichtlinien für jeden Kunden
-* Richtlinien für verschiedene Kanalplattformen kopieren
+* Definierte oder standardmäßige [!DNL Brand]-, [!DNL Persona]- und [!DNL Product]
+* Platform-Richtlinien
 * Ethische Überlegungen in Bezug auf Geschlecht, Ethnie, Rasse, Behinderungsstatus und Alter in KI-generierten Inhalten
+* Standards des American with Disabilities Act (ADA)
 
-## Prüfung der [!DNL Brand]
+## Zusammenfassung der Inhaltsprüfung
 
-Eine Zusammenfassung der Markenvalidierungsinformationen für jede generierte Inhaltsvariante ist über das Häkchensymbol _[!DNL Brand]Richtlinien_ jede Variante auf der Arbeitsfläche zugänglich.
+Eine Zusammenfassung der Markenvalidierung und andere Informationen zur Inhaltsprüfung für jede generierte Inhaltsvariante ist über das Symbol _Inhaltsprüfung_ Zusammenfassung für jede Variante auf der Arbeitsfläche zugänglich.
 
-Die Prüfung _[!DNL Brand]Richtlinien_ den Prozentsatz der Konformität mit Ihrer [Marke](brands.md). Der Prozentsatz wird als die Anzahl der [Richtlinien) berechnet](overview.md) die die Validierung bestanden haben, im Vergleich zur Anzahl der getesteten Richtlinien.
+Die _Inhaltsüberprüfung_ Zusammenfassung zeigt Folgendes an:
 
-Prüfung der ![[!DNL Brand]-Richtlinien](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
+* Prozentualer Anteil der Konformität mit Ihren [[!DNL Brand]](brands.md), berechnet als Anzahl der [Richtlinien](overview.md) die die Validierung bestanden haben, im Vergleich zur Anzahl der getesteten Richtlinien
+* `Pass` oder `Fail` Ergebnisse für die Plattform-Richtlinien wie Meta oder LinkedIn
+* `Pass` oder `Fail` Ergebnis für ADA-Barrierefreiheitsstandards
 
-Klicken Sie auf das Symbol, um anzuzeigen, wie viele Richtlinien mit Ihrer Marke konform sind und wie viele Richtlinien überprüft werden müssen.
+![Zusammenfassung der Inhaltsprüfung](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
-Siehe [Verbesserung der Markenausrichtung](#improve-brand-alignment).
-
-## Bedienfeld für die Markenvalidierung
-
-Das Bedienfeld _Markenvalidierung_ wird auf der rechten Seite der Arbeitsfläche geöffnet, wenn Sie in der oberen Menüleiste (_._ vom _-_) auf eine Variante klicken. Dieses Bedienfeld bietet detaillierte Informationen zur Markenvalidierung und zeigt Verbesserungsmöglichkeiten für jeden Variantenabschnitt auf.
-
-![[!DNL Brand] Validierungs-Panel](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
-
-Das Bedienfeld _Markenvalidierung_ zeigt Informationen zu folgenden Themen an:
-
-* **email**:
-   * Betreffzeilenabschnitt
-   * Preheader-Abschnitt
-   * Kopfzeilenabschnitt
-   * Hauptteil
-   * Abschnitt &quot;CTA&quot; (Aktionsaufruf)
-   * Richtlinien für Markenvoreinstellungen
-* **Meta-Anzeige**:
-   * Überschriftenabschnitt
-   * Textkörper-Kopierabschnitt
-   * Abschnitt &quot;CTA&quot; (Aktionsaufruf)
-   * On-Image-Textabschnitt
+Klicken Sie auf den Prozentsatz, um zu sehen, wie konform die Variante ist. Die Bewertungen werden automatisch aktualisiert, wenn Sie die Varianten bearbeiten. Sie können auf _Probleme anzeigen und beheben_ klicken, um weitere Kompatibilität sicherzustellen.
 
 Siehe [Verbesserung der Markenausrichtung](#improve-brand-alignment).
 
-### Filter
+## Content-Checkpanel
 
-Im Bedienfeld _Markenvalidierung_ können Sie filtern, welche Richtlinien angezeigt werden. Klicken Sie auf das Filtersymbol oben im Bedienfeld, um Folgendes anzuzeigen:
+Das _Inhaltsüberprüfung_-Bedienfeld wird auf der rechten Seite der Arbeitsfläche geöffnet, wenn Sie in der rechten Aktionsleiste _oder_ dem [_Inhaltsüberprüfung_ Zusammenfassungssymbol](#content-check-summary) für eine Variante klicken. Dieses Bedienfeld bietet eine detaillierte Markenvalidierung. Informationen zu Platform-Richtlinien und Barrierefreiheitsstandards sowie Verbesserungsmöglichkeiten für jeden Variantenabschnitt.
 
-* **Richtlinien, die erfüllt sind** - Zeigt nur die Richtlinien an, die die Markenvalidierung bestanden haben.
-* **Richtlinien, die Aufmerksamkeit erfordern** - Zeigt nur die Richtlinien an, die die Markenvalidierung nicht bestanden haben und weitere Bearbeitungen benötigen, um die Markenkonformität zu verbessern.
-* **Beide** - Zeigt alle Richtlinien an, anhand derer die Varianten gemessen werden.
+![Content-Checkpanel](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
+
+Das _Inhaltsprüfung_-Bedienfeld zeigt Informationen [ Validierung und ](/help/user-guide/guidelines/overview.md#compliance) für jeden Abschnitt der Variante an:
+
+* Darstellung der _Inhaltsüberprüfung_ zusammenfassenden Informationen zu [!DNL Brand], Platform-Richtlinien und Barrierefreiheitsstandards
+* _Überprüfung erforderlich_ Abschnitt mit der Anzahl fehlgeschlagener Richtlinien und detaillierten Informationen zu jeder Richtlinie, die überarbeitet werden muss
+* _Übergeben_ Abschnitt mit der Anzahl der übergebenen Richtlinien und detaillierten Informationen zu den einzelnen Richtlinien
+
+Unter [Verbesserung der Markenausrichtung](#improve-brand-alignment) erfahren Sie, wie Sie die Punktzahlen _Inhaltsprüfung_ des Bedienfelds verbessern können.
+
+### Inhaltstyp
+
+Im Bedienfeld _Inhaltsüberprüfung_ können Sie ein-/ausschalten, welche Richtlinien- und Barrierefreiheitsprüfungen durchgeführt werden. Klicken Sie auf _Symbol_ Content-Typ“ (Ebenensymbol) oben im Bedienfeld, um diese Option zu aktivieren oder zu deaktivieren:
+
+* **[!DNL Brand]** - Führt die mit [!DNL Brand] Richtlinien verbundenen Prüfungen durch
+* **Platform-Richtlinien** - Führt die mit der kanalspezifischen Plattform verbundenen Prüfungen durch, z. B. Meta
+* **Barrierefreiheit** - Führt die Prüfungen durch, die mit den ADA-Barrierefreiheitsstandards verbunden sind
+
+Um **Inhaltstyp festzulegen** für die Prüfungen, die Sie durchführen möchten, klicken Sie auf , um sie zu deaktivieren, oder auf die verfügbaren Typen und klicken Sie auf **Anwenden**.
 
 ## Verbesserung der Markenausrichtung
 
-Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die _Prüfung der Markenrichtlinien_ und das Bedienfeld _Markenvalidierung_. Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [Markenrichtlinien“ ](brands.md).
+Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung ](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
 
-**So verbessern Sie die Markenausrichtung für generierte Inhaltsvarianten**:
+**So verbessern Sie die Markenausrichtung für generierte Varianten**:
 
-1. Klicken Sie für eine einzelne Variante auf ]**Häkchen für die**[!UICONTROL [!DNL Brand]. Die Prüfung [!DNL Brand] Richtlinien zeigt die prozentuale Markenausrichtung für eine Variante an.
+1. Klicken Sie auf das _Inhaltsüberprüfung_ Bedienfeldsymbol in der rechten Aktionsleiste, um Informationen zur Validierung und Barrierefreiheit für eine einzelne Variante anzuzeigen.
 
-   Hier finden Sie eine Zusammenfassung, wie viele Markenrichtlinien der Markenvalidierung entsprachen oder mehr Aufmerksamkeit erfordern.
-
-1. Um Details zu den Abschnitten und Richtlinien zu erhalten, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ auf das Symbol _Markenvalidierung_ in der oberen Menüleiste, um das Bedienfeld _Markenvalidierung_ zu öffnen.
-
-   Sehen Sie sich alle Abschnitte und Markenrichtlinien an, die Ihrer Aufmerksamkeit bedürfen.
+   Sie können eine Zusammenfassung der Prüfungen _Überprüfung erforderlich_ und _bestanden_ anzeigen, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
 
    >[!NOTE]
    >
-   > Die _Markensprache_ Richtlinie im _Bedienfeld Markenvalidierung_ gilt für die gesamte Variante, nicht für einen einzelnen Abschnitt. Die gesamte Inhaltsvariante ist hervorgehoben, um Verbesserungsvorschläge zu erhalten.
+   > Die _Markensprache_ Richtlinie im Bedienfeld _Inhaltsprüfung_ gilt für die gesamte Variante, nicht für einen einzelnen Abschnitt. Die gesamte Inhaltsvariante ist hervorgehoben, um Verbesserungsvorschläge zu erhalten.
 
-1. Klicken Sie sich mithilfe der Schaltflächen **[!UICONTROL Weiter]** und **[!UICONTROL Zurück]** durch alle Richtlinien, die Aufmerksamkeit erfordern.
+1. Klicken Sie hier, um Richtlinien zu korrigieren, die derzeit nicht konform sind.
+1. Klicken Sie hier, um jede Prüfung, die überprüft werden muss, in verfügbaren Abschnitten wie _Überschrift_ und _Markensprache_ zu erweitern und zu überprüfen.
 
-1. Verwenden Sie die für jede Richtlinie angegebenen Argumente, um alle Revisionen von Variantenabschnitten zu informieren, um die stärkste Ausrichtung an Ihrer Marke zu erreichen.
+   Verwenden Sie die für jede Prüfung angegebenen Begründungen, um Sie bei der Überarbeitung der Varianten zu unterstützen.
 
+1. Nachdem Sie die erforderlichen Änderungen vorgenommen haben, klicken Sie auf **[!UICONTROL Punktzahl erneut überprüfen]**, um Ihre Änderungen erneut zu überprüfen und zu validieren, sodass sie mehr an Ihre Markenidentität, Ihre Plattformrichtlinien und Ihre Barrierefreiheitsstandards angepasst sind.
 
-1. Nachdem Sie die erforderlichen Überarbeitungen vorgenommen haben, klicken Sie **[!UICONTROL Erneut überprüfen]**, um Ihre Änderungen erneut zu überprüfen und zu validieren, um sicherzustellen, dass sie enger mit Ihrer Markenidentität übereinstimmen.
+   Der Inhaltsprüfungsprozess wird erneut ausgeführt. Wenn die überarbeiteten Elemente die Validierung bestehen, wird unten auf der Arbeitsfläche ein grünes Banner angezeigt, um zu bestätigen, dass die Bewertung aktualisiert wurde. Wenn es nach einer erneuten Prüfung keine Änderung gab, bestätigt das Banner, dass es keine Änderung am Score gab. Der Prozentsatz im Symbol _Inhaltsprüfung_ Zusammenfassung für die überarbeitete Variante zeigt auch Ihren Fortschritt an.
 
-   Der Markenvalidierungsprozess wird erneut ausgeführt. Wenn die Validierung des Abschnitts/der Richtlinie erfolgreich war, wird unten auf der Arbeitsfläche ein grünes Banner angezeigt, um zu bestätigen, dass die Bewertung der Markenrichtlinien aktualisiert wurde. Falls nach einer erneuten Prüfung keine Änderung erfolgt ist, wird im Banner „Keine Änderung am Markenrichtliniensatz“ angezeigt. Der Prozentsatz des Symbols _Kontrolle der Markenrichtlinie_ für die überarbeitete Variante zeigt auch den Fortschritt an.
+1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um sicherzustellen, dass die gesamte Variante die Validierungs- und Barrierefreiheitsprüfungen besteht. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche.
 
-1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um sicherzustellen, dass die gesamte Variante die Markenvalidierung besteht.
-
-   Navigieren Sie mithilfe der Schaltflächen **[!UICONTROL Weiter _und_Zurück]** zwischen Richtlinien im Bereich „Markenvalidierung ]****[!UICONTROL .
-
-1. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche. Verwenden Sie beispielsweise den Pfeil, um von `Email 1/4` zu `Email 2/4` zu wechseln.
-1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um Ihrer Marke besser gerecht zu werden.
-
-   Weitere Informationen [ berücksichtigten Richtlinien finden Sie ](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) „Richtlinien für Markensprache“.
