@@ -3,9 +3,9 @@ title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 41fb13b1067851194871a1101f2630de7ca1c008
+source-git-commit: 86974fec02bd50fa36ef16bd4d1881794972fc79
 workflow-type: tm+mt
-source-wordcount: '2067'
+source-wordcount: '2112'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
 ## 2 025,03,13 {#latest}
+
+### Meta-Anzeigen aktivieren
+
+Marketing-Fachleute können jetzt [Anzeigen-Erlebnisse](/help/user-guide/activation/overview.md) aus GenStudio for Performance Marketing in Meta Ads Manager veröffentlichen. [!DNL Activate] unterstützt detaillierte Meta-Anzeigenvorschauen vor der Bereitstellung. Über [!DNL Activate] veröffentlichte Meta-Anzeigen werden automatisch nach der Live-Schaltung in die [!DNL Insights] gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
 
 ### Verknüpfte Erlebnisse erstellen
 
