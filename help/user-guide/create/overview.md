@@ -1,9 +1,9 @@
 ---
 title: Überblick über GenStudio for Performance Marketing [!DNL Create]
 description: Schnelles Generieren von leistungsstarken, markeninternen Inhalten mit generativer KI in Adobe GenStudio for Performance Marketing [!DNL Create].
-feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: cccf207ce1cb2773a18ed553e14d1dbe3b77635b
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 1%
@@ -33,58 +33,111 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>E-Mail-Erlebnis erstellen</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Erstellen eines Meta-Anzeigen-Erlebnisses" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>Erstellen eines Meta-Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="Erstellen eines LinkedIn-Anzeigenerlebnisses" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong>Erstellen eines LinkedIn-Anzeigenerlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="Erstellen eines Bannererlebnisses" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong>Erstellen eines Bannererlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue Marketing-Inhalte zu**. In diesem Anwendungsbeispiel verwenden Sie definierte [Richtlinien](/help/user-guide/guidelines/overview.md) und Inspirationsbilder, um die Erstellung von markenorientierten Inhalten zu unterstützen.

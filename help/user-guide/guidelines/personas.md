@@ -1,9 +1,9 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Personas]
 description: GenStudio for Performance Marketing  [!DNL Personas]  eine wahre Darstellung Ihrer Kundensegmente, in der deren Interessen, Probleme, Vorlieben und Verhaltenseigenschaften erfasst werden.
-feature: Personas Service, Guidelines
+feature: Persona Personalization, Variant Generation, Generative AI
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
-source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
+source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
