@@ -1,35 +1,43 @@
 ---
-title: Übersicht über Activation
+title: Übersicht über Activate
 description: Erfahren Sie, wie Sie Inhalte mit Adobe Experience Cloud und Anwendungen von Drittanbietern aktivieren.
-feature: Assets, Approval, Experiences
+feature: Assets, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: c3b8419deccd24cd565627fcb3f7d6376860e84a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio for Performance Marketing Activation
+# Adobe GenStudio for Performance Marketing Activate
 
-_Aktivierung_ ist der Prozess der Bereitstellung von Adobe GenStudio for Performance Marketing-generierten Assets und Erlebnissen über Ihre ausgewählten Kanäle und Adobe Experience Cloud-Produkte. Sie können problemlos genehmigte Inhalte aus GenStudio for Performance Marketing in den optimalen Formaten für die Anwendungen von Drittanbietern exportieren, die Sie in [!DNL Products] eingebunden haben.
+GenStudio for Performance Marketing _[!DNL Activate]_bietet einen zentralen Ort für die Vorbereitung Ihres Anzeigenerlebnisses zur Aktivierung, um bezahlte Anzeigenkanäle auszuwählen._ Activation _ist der Prozess der Bereitstellung von Anzeigen-Erlebnissen an bestimmte Kanäle im inaktiven Status, die zur endgültigen Überprüfung und Bereitstellung im Kanal bereit sind. Werbeanzeigen und -erlebnisse können dann auf ihren jeweiligen Märkten verteilt werden.
 
-Die GenStudio for Performance Marketing Activate-Funktion ist nativ in Adobe-Erlebnisbereitstellungsprodukte integriert: Journey Optimizer, Journey Optimizer B2B edition, Experience Manager, Marketo und Target.
+Content-Editoren und System-Manager können Erlebnisse veröffentlichen, deren Assets entweder in generiert oder in GenStudio for Performance Marketing hochgeladen werden.
 
-**So aktivieren Sie ein genehmigtes Asset**:
+[!DNL Activate] zeigt für jeden Kanal eine Produktkachel an. In dieser Kachel wird der Paid-Media-Kanal identifiziert und die Anzahl der erfolgreichen Anzeigenaktivierungen aufgelistet, die in den letzten 30 Tagen stattgefunden haben. Es bietet außerdem einen Einstiegspunkt für die Verwaltung von Aktivierungen und die Erstellung einer neuen Aktivierung.
 
-1. Wählen Sie das Asset aus [!DNL Content] aus.
+Jedes Paid-Media-Kanalkonto muss mit GenStudio for Performance Marketing verbunden sein, bevor Sie ein Werbeerlebnis aktivieren können.
 
-1. Klicken Sie auf **[!UICONTROL Herunterladen]**-Symbol (Abwärtspfeil) über der Ansicht _Details_.
+## [!DNL Activate]-Anwendungsfälle 
 
-   Das Asset wird als ZIP-Datei in den lokalen Ordner _Downloads_ heruntergeladen.
+* [Erstellen einer Aktivierung](create-activation.md). Sie können ein Anzeigenerlebnis erstellen, indem Sie visuelle Assets auswählen, Text zuweisen und Metadaten definieren, bevor Sie sie an einen gebührenpflichtigen Kanal senden.
 
-**So aktivieren Sie ein genehmigtes Erlebnis**:
+* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
 
-1. Wählen Sie das Erlebnis unter [!DNL Content] > [!DNL Experiences] aus.
+## [!DNL Activate]
 
-1. Klicken Sie in **[!UICONTROL Detailansicht des Erlebnisses auf]** Schaltfläche „Zur Aktivierung exportieren“. GenStudio for Performance Marketing zeigt das Popup **[!UICONTROL Zur Aktivierung exportieren]** an und bietet zwei Download-Formate: CSV und HTML. (Alternativ können Sie auf die Schaltfläche *[!UICONTROL Zur Aktivierung exportieren]* über das Menü _Weitere Optionen_ (dargestellt durch `...`) zugreifen.
+_[!DNL Activate]_erleichtert die Vorbereitung des Anzeigenerlebnisses für die Verteilung an die bezahlten Zielkanäle.
 
-1. Wählen Sie Ihr bevorzugtes Download-Format aus, indem **[!UICONTROL im Popup auf]** CSV exportieren **[!UICONTROL oder]** HTML exportieren“ klicken.
+### Zur Aktivierung vorbereiten
 
-   Der Exportvorgang erstellt ein ZIP-Paket in Ihrem lokalen _Downloads_-Ordner. Dieser Ordnername entspricht dem Erlebnisnamen.
+Auf der Seite _Creative-Setup_ werden die Tools zusammengefasst, die Sie zum Auswählen der visuellen Elemente eines Anzeigenerlebnisses, zum Anpassen des Anzeigentextes (einschließlich des Textes für Aktionsaufrufe) und zum Hinzufügen hilfreicher Metadaten benötigen, um das Erlebnis-Tracking und die Sichtbarkeit zu verbessern.
+
+### Auswählen von Assets für das Anzeigen-Erlebnis
+
+Suchen Sie nach genehmigten visuellen Assets in _[!DNL Content]_und wählen Sie sie aus oder laden Sie Assets aus Dropbox oder OneDrive hoch. Sie können Assets auch direkt von Ihrem Gerät hochladen. Ein Anzeigen-Erlebnis kann in mehreren Platzierungen ausgeführt werden. Assets kann in den Seitenverhältnissen hochgeladen werden, die für Ihre Anzeigenplatzierungen erforderlich sind.
+
+### Vorschau und Aktivierung Ihres Erlebnisses in einem Anzeigenkanal
+
+Bestätigen Sie die mit dieser Anzeigenaktivierung verknüpften Paid-Channel-Konten, Anzeigen-Sets und Meta-Kampagnen. Im Bedienfeld _Vorschau_ können Sie Anzeigenerlebnisse an verschiedenen Platzierungen anzeigen, bevor Sie sie abschließen. (Wenn Sie eine Platzierung im Bedienfeld _Vorschau_ auswählen, ist nur Ihre Ansicht der Anzeige betroffen. Ihre Platzierungsauswahl im Bedienfeld _Vorschau_ wird nicht gespeichert.) Wenn Sie mit Ihrem Anzeigenerlebnis zufrieden sind, klicken Sie auf **[!UICONTROL Veröffentlichen]**, um das Erlebnis und die zugehörigen Metadaten in den gebührenpflichtigen Anzeigenkanal zu übertragen.
