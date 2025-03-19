@@ -2,9 +2,9 @@
 title: Überprüfungen und Genehmigungen anfordern
 description: Anfordern einer Überprüfung der generierten Inhalte mit Adobe GenStudio for Performance Marketing.
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: 1e66e13df8f1d7ddb6b6a11af6f751ba3a9b8a04
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ Nachdem Sie Ihre Inhaltsvarianten generiert haben, können Sie eine Überprüfun
 **Um eine Überprüfung anzufordern**:
 
 1. Klicken Sie auf **[!UICONTROL Schaltfläche „Für genehmigende Person]**&quot; in der oberen Menüleiste der Arbeitsfläche. Das _Zur Genehmigung senden_ wird geöffnet und identifiziert den Entwurf, für den Sie eine Überprüfung anfordern. Wenn Sie mehrere Varianten generieren, wird die gesamte Arbeitsfläche zur Überprüfung gesendet.
+
+1. Vergewissern Sie sich, dass der Entwurfstitel beschreibend und informativ ist und die genehmigenden Personen auf das Überprüfungsziel konzentriert. Wählen Sie das _Titel_, um den Entwurfstitel bei Bedarf zu ändern. Wenn Sie hier den Titel ändern, wird auch der zugrunde liegende Erlebnistitel Entwurf geändert.
 
 1. Wählen Sie die genehmigende Person bzw. die genehmigenden Personen aus, von denen Sie eine Überprüfung anfordern möchten. Wenn Sie mit der Eingabe beginnen **[!UICONTROL vervollständigt]** Feld „Genehmiger“ automatisch den Benutzernamen der genehmigenden Person aus der Liste der Benutzenden mit der Berechtigung &quot;GenStudio for Performance Marketing anzeigen“ und „genehmigen“. Die Schaltfläche **[!UICONTROL Senden]** wird aktiviert, nachdem Sie mindestens einen Namen für die genehmigende Person eingegeben haben.
 
