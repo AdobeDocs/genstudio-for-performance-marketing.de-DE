@@ -2,11 +2,11 @@
 title: Kanalkonto verbinden
 description: Ein Kanalkonto verbinden, um Ihre Adobe GenStudio for Performance Marketing-Kampagnen- und Medienleistung zu überwachen.
 level: Intermediate
-feature: Insights, Channels
+feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 2ba00288ca55fdb1686f051fc28c8e816a645f2d
+source-git-commit: 91b684d27f3205806e5e92ea14db45cee84b806b
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,13 @@ GenStudio for Performance Marketing bewahrt Kanaldaten 13 Monate lang auf. Diese
 
 >[!ENDSHADEBOX]
 
-**So verbinden Sie ein Meta Ads-Konto in GenStudio for Performance Marketing**:
+**So verbinden Sie ein Meta Ads-Konto**:
 
-1. Klicken Sie _[!DNL Insights]_im Banner auf **[!UICONTROL Kanalkonto verbinden]**oder klicken Sie auf die Schaltfläche **[!UICONTROL Konten hinzufügen]**(Personen-Shape mit Pluszeichen) in der oberen rechten Ecke.
+1. Wenn Sie in _[!DNL Insights] zum ersten Mal ein Konto verbinden, klicken Sie im Banner auf **[!UICONTROL Mit Kanalkonto]**.
 
-   Sie werden möglicherweise zur Anmeldung bei Facebook weitergeleitet. Facebook ist derzeit die einzige verfügbare Option.
+   Alternativ können Sie unten links auf das Auslassungszeichen (…) klicken und anschließend auf **[!UICONTROL Einstellungen]**.
+
+1. Klicken _Abschnitt „Data Connectors_ auf **[!UICONTROL Verbinden]** auf der _Meta Ads_-Karte.
 
 1. Melden Sie sich bei Ihrem Facebook-Konto an.
 

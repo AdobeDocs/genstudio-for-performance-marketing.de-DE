@@ -2,9 +2,9 @@
 title: Bereitstellen von Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die Bereitstellung des GenStudio for Performance Marketing-Produkts.
 level: Beginner
-feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+feature: Generative AI
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Innerhalb der Admin Console definiert das Produktprofil Regeln und Benutzerprofi
 
    Nach erfolgreicher Anmeldung sehen Sie die _Übersicht_ der Adobe Admin Console.
 
-1. Navigieren Sie zur Registerkarte _Produkte_. Auf dieser Registerkarte werden alle Adobe-Produkte angezeigt, die Ihr Unternehmen gekauft hat.
+1. Navigieren Sie zur Registerkarte _Produkte_. Auf dieser Registerkarte werden alle Adobe-Produkte angezeigt, die Ihr Unternehmen erworben hat.
 
 1. Wählen Sie **[!UICONTROL GenStudio]** aus der Liste der Produkte aus. Die Konsole zeigt das GenStudio-Produktprofil an, das wichtige Informationen zu den von Ihrem Unternehmen erworbenen Produktlizenzen anzeigt. Darüber hinaus bietet es Optionen zum Verwalten dieser Lizenzen.
 
@@ -43,7 +43,7 @@ Sie können jetzt -Benutzenden Lizenzen zu GenStudio for Performance Marketing z
 
 ## Schritt 2: Bereitstellen von Benutzern
 
-Bei der Benutzerbereitstellung in der Admin Console werden Benutzenden Produktlizenzen zugewiesen. Diese Benutzer müssen zur IMS-Organisation gehören, die im Produktprofil angegeben ist. Sie können Benutzende für Ihr GenStudio for Performance Marketing-Unternehmen auf dieselbe Weise bereitstellen wie Benutzende für andere Adobe-Produkte. Sie können Benutzer manuell hinzufügen oder Benutzer stapelweise importieren.
+Bei der Benutzerbereitstellung in der Admin Console werden Benutzenden Produktlizenzen zugewiesen. Diese Benutzer müssen zur IMS-Organisation gehören, die im Produktprofil angegeben ist. Sie können Benutzende für Ihre GenStudio for Performance Marketing-Organisation auf die gleiche Weise bereitstellen wie Benutzende für andere Adobe-Produkte. Sie können Benutzer manuell hinzufügen oder Benutzer stapelweise importieren.
 
 >[!TIP]
 >
