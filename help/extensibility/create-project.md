@@ -1,8 +1,9 @@
 ---
 title: Erstellen eines App Builder-Projekts zur Erweiterung von GenStudio for Performance Marketing
 description: Erstellen Sie ein App Builder-Projekt für Ihre App oder Ihr Add-on.
+feature: Extensibility
 exl-id: 502b6dd5-68ac-4392-bba3-3ab8cd9eefc2
-source-git-commit: 7cc91ff9260370a164331095101f04ee0ffc1119
+source-git-commit: 52e8e078bc013fe686b5cc2105089f7098cce575
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 1%
