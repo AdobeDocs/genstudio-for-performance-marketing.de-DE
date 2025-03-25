@@ -3,7 +3,7 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 29685c96353703705f3f742e88f3934644bc4282
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Siehe [Verbesserung der Markenausrichtung](#improve-brand-alignment).
 
 Das _Inhaltsüberprüfung_-Bedienfeld wird auf der rechten Seite der Arbeitsfläche geöffnet, wenn Sie in der rechten Aktionsleiste _oder_ dem [_Inhaltsüberprüfung_ Zusammenfassungssymbol](#content-check-summary) für eine Variante klicken. Dieses Bedienfeld bietet eine detaillierte Markenvalidierung. Informationen zu Platform-Richtlinien und Barrierefreiheitsstandards sowie Verbesserungsmöglichkeiten für jeden Variantenabschnitt.
 
-![Content-Checkpanel](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
+![Content-Checkpanel](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
 Das _Inhaltsprüfung_-Bedienfeld zeigt Informationen [ Validierung und ](/help/user-guide/guidelines/overview.md#compliance) für jeden Abschnitt der Variante an:
 
