@@ -1,11 +1,13 @@
 ---
 title: Best Practices für Vorlagen
 description: Befolgen Sie die Best Practices bei der Verwendung von Vorlagen mit Adobe GenStudio for Performance Marketing.
+level: Intermediate
+role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: daada794dd39c9bd2aea7815d887821454d162fc
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -41,7 +43,13 @@ Siehe [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guideline
 
 ## Befolgen der Richtlinien für kanalspezifische Vorlagen
 
-Erstellen Sie Vorlagen, die das Layout und die visuellen Anforderungen für jeden Kanal berücksichtigen. Beachten Sie bei der Arbeit mit jedem Vorlagentyp die folgenden Tipps und Einschränkungen, um eine optimale Leistung und Kompatibilität zu gewährleisten:
+Stellen Sie beim Erstellen von Vorlagen sicher, dass sie die spezifischen Anforderungen des vorgesehenen Kanals erfüllen. Erstellen Sie Vorlagen, die das Layout und die visuellen Anforderungen für jeden Kanal berücksichtigen. Es gibt allgemeine Richtlinien, die für jede Vorlage gelten, z. B.:
+
+- Verwenden Sie saubere und responsive HTML und Inline-CSS
+- Verwenden von Adobe- oder Google-Schriftarten
+- Verwenden **nicht** JavaScript
+
+Beachten Sie bei der Arbeit mit jedem Vorlagentyp die folgenden Tipps und Einschränkungen, um eine optimale Leistung und Kompatibilität zu gewährleisten:
 
 >[!BEGINTABS]
 
@@ -83,20 +91,11 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 - Spaltenlayouts mit einer Breite von 360 Pixel verwenden
 - Verwenden Sie für Bilder eine Mindestauflösung von 1080 x 1080 Pixel
 - Verwenden **nicht** relative Schriftgröße
-- Viewports **nicht**
+- Viewport **nicht**
 - Verwenden **nicht** JavaScript
 - Überschreiben **nicht** ein HTML-Element in CSS
-- Verwenden Sie die folgenden Einstellungen für Hintergrundbilder:
-
-  Fügen Sie `object-fit: cover` Wert `background-image` CSS-Klasse hinzu:
-
-  ```css
-  .background-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  ```
+- Verwenden Sie das `<img>` Tag anstelle von `background-image`
+- Maskieren verwenden, um die Lesbarkeit von Text gegenüber Hintergrundbildern zu verbessern
 
 **Einschränkungen**:
 
@@ -151,11 +150,10 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 
 **Erkannte Feldnamen**:
 
-Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
+Bei Banner- und Display-Anzeigen wird das `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
 
 - `headline`
 - `body`
-- `cta`
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
@@ -188,21 +186,20 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie LinkedIn-Anz
    - Mobiltelefon
    - Min.: 360 x 640 Pixel
    - Max.: 2430 x 4320 Pixel
-- Vertikel 2.3
+- Vertikal 2.3
    - Mobiltelefon
    - Min.: 360 x 640 Pixel
    - Max.: 2430 x 4320 Pixel
-- Vertikel 4.5 (empfohlen)
+- Vertikal 4.5 (empfohlen)
    - Mobiltelefon
    - Min.: 360 x 640 Pixel
    - Max.: 2430 x 4320 Pixel
 
 **Erkannte Feldnamen**:
 
-Bei LinkedIn-Anzeigen werden die Felder `headline` und `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
+Für LinkedIn-Anzeigen werden die Felder `headline`, `introductory_text` und `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
 
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
-- `introductory_text`
 - `on_image_text`
 - `brand_logo`
 
