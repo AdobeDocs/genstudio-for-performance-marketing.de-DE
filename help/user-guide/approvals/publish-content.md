@@ -1,16 +1,16 @@
 ---
-title: Von Publish genehmigte Inhalte
+title: Genehmigte Inhalte veröffentlichen
 description: Erfahren Sie, wie Sie genehmigte Inhalte mit Adobe GenStudio for Performance Marketing veröffentlichen.
-feature: Approval, Content
+feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
 
 ---
 
-# Von Publish genehmigte Inhalte
+# Genehmigte Inhalte veröffentlichen
 
 Der letzte Schritt bei der Erstellung markengerechter, genehmigter Inhalte besteht darin, sie mit den entsprechenden Metadaten in [!DNL Content] zu speichern. Sie (der Inhaltseditor oder der Ersteller) können das genehmigte Asset abschließen, indem Sie es in [!DNL Content] veröffentlichen oder speichern.
 
@@ -20,9 +20,9 @@ Sie können den Entwurf dann abschließen, indem Sie ihn mit den entsprechenden 
 
 **So veröffentlichen Sie genehmigte**:
 
-1. Greifen Sie direkt auf den genehmigten Entwurf zu oder _Sie im Popup_ Genehmigte Varianten bereit zur Veröffentlichung“. Dieses Popup enthält eine Schaltfläche **[!UICONTROL Schließen]**, um die Veröffentlichung des genehmigten Assets zu verschieben, sowie eine Schaltfläche **[!UICONTROL Publish]**, um den Veröffentlichungsprozess zu starten.
+1. Greifen Sie direkt auf den genehmigten Entwurf zu oder _Sie im Popup_ Genehmigte Varianten bereit zur Veröffentlichung“. Dieses Popup enthält eine Schaltfläche **[!UICONTROL Schließen]**, um die Veröffentlichung des genehmigten Assets zu verschieben, sowie eine Schaltfläche **[!UICONTROL Veröffentlichen]**, um den Veröffentlichungsprozess zu starten.
 
-1. Klicken Sie auf **[!UICONTROL Publish]**, um das Asset oder Erlebnis in [!DNL Content] zu speichern. GenStudio for Performance Marketing zeigt das Fenster _Details für genehmigte Inhalte bestätigen_ mit Miniaturansichten der genehmigten Assets an.
+1. Klicken Sie **[!UICONTROL Veröffentlichen]**, um das Asset oder Erlebnis in [!DNL Content] zu speichern. GenStudio for Performance Marketing zeigt das Fenster _Details für genehmigte Inhalte bestätigen_ mit Miniaturansichten der genehmigten Assets an.
 
 1. Fügen Sie Informationen über den Inhalt hinzu, wie von GenStudio for Performance Marketing angefordert. Diese Informationen werden als Metadaten gespeichert, was [!DNL Content] Filter- und Suchvorgängen einen Mehrwert bietet. Das Asset kann zu diesem Zeitpunkt während des Veröffentlichungsprozesses zu einer GenStudio for Performance Marketing-Kampagne hinzugefügt werden.
 

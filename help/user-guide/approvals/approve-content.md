@@ -1,9 +1,9 @@
 ---
 title: Inhalt genehmigen
 description: Erfahren Sie, wie Sie generierte Inhalte mit Adobe GenStudio for Performance Marketing genehmigen.
-feature: Approval
+feature: Content Review, Content Management
 exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Wenn der Inhaltsentwurf den Standards Ihres Unternehmens und Ihren Erwartungen e
 
 1. Wählen Sie **[!UICONTROL Genehmigt]** aus.
 
-Ihre Arbeit als genehmigende Person ist abgeschlossen. Adobe GenStudio for Performance Marketing benachrichtigt den Entwurfsersteller von Ihrer Genehmigung. Unter [Publish-](./publish-content.md) finden Sie einen Überblick über den Prozess des Speicherns in [!DNL Content] oder _Publishing_.
+Ihre Arbeit als genehmigende Person ist abgeschlossen. Adobe GenStudio for Performance Marketing benachrichtigt den Entwurfsersteller von Ihrer Genehmigung. Unter [Inhalt veröffentlichen](./publish-content.md) finden Sie einen Überblick über den Prozess des Speicherns in [!DNL Content] oder _Publishing_.
