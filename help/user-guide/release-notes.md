@@ -2,8 +2,9 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 recommendations: noDisplay
+role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 8a8815d49ce4a950fcfc2f425ca58ae7fbd42c73
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '2109'
 ht-degree: 1%

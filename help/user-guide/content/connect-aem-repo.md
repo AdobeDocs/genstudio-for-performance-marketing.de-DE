@@ -2,9 +2,10 @@
 title: Verbindung zu einem  [!DNL AEM Assets Content Hub] -Repository herstellen
 description: Erfahren Sie, wie Sie Adobe GenStudio for Performance Marketing mit einem Adobe Experience Manager (AEM)- [!DNL Content Hub]  verbinden und vorhandene genehmigte Inhalte nutzen können.
 level: Experienced
+role: Admin, Data Engineer
 feature: Content Management
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%

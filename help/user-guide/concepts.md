@@ -2,8 +2,9 @@
 title: Adobe GenStudio for Performance Marketing-Konzepte
 description: Erfahren Sie mehr über Adobe GenStudio for Performance Marketing-Konzepte und -Terminologie.
 feature: Workflow, Generative AI
+role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: bfe961a06f62e55f3207088f6f390204b12e7142
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Beginnen Sie mit der Aufnahme des Brandings, der Kundenrollen und Produktbeschre
 
 ## Große Sprachmodelle
 
-GenStudio for Performance Marketing nutzt die generative KI-Plattform von Adobe, die grundlegende KI- und maschinelle Lerndienste (ML) bietet. Diese Plattform vereinfacht die Verwendung großer Sprachmodelle (LLMs) und ermöglicht die Erstellung ansprechender Erlebnisse mit Adobe GenAI-Funktionen.
+GenStudio for Performance Marketing nutzt Adobes generative KI-Plattform, die grundlegende KI- und maschinelle Lerndienste (ML) bietet. Diese Plattform vereinfacht die Verwendung umfangreicher Sprachmodelle (LLMs) und ermöglicht mit den GenAI-Funktionen von Adobe die Erstellung ansprechender Erlebnisse.
 
 GenStudio for Performance Marketing verwendet die GPT-Serie von Drittanbieter-LLMs über Azure OpenAI.<!-- Claude, and Gemini models. -->
 
@@ -80,9 +81,9 @@ Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegeben
 
 ## Data Governance
 
-Bei der Arbeit mit KI zum Generieren von Inhalten ist es wichtig, sicherzustellen, dass die Ausgabe sicher und für alle Benutzenden inklusiv ist. Dies erfordert die Auswertung der Inhalte auf potenziell schädliche Vorurteile, Hassreden, beleidigendes Material oder Obszönitäten. Adobe testet die Inhaltserstellungstechnologie gründlich aus verschiedenen Perspektiven, führt umfassende Ethikprüfungen durch und implementiert wirksame Minderungspläne, um zu verhindern, dass schädliche Inhalte in die Ergebnisse gelangen.
+Bei der Arbeit mit KI zum Generieren von Inhalten ist es wichtig, sicherzustellen, dass die Ausgabe sicher und für alle Benutzenden inklusiv ist. Dies erfordert die Auswertung der Inhalte auf potenziell schädliche Vorurteile, Hassreden, beleidigendes Material oder Obszönitäten. Adobe testet die Inhaltserstellungstechnologie aus verschiedenen Perspektiven gründlich, führt umfassende Ethikprüfungen durch und implementiert wirksame Minderungspläne, um zu verhindern, dass schädliche Inhalte in die Ergebnisse gelangen.
 
-Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und stellt die Einhaltung der Richtlinien für Vertrauen und Sicherheit sowie Ethik in der [Adobe sicher](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
+Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und stellt die Einhaltung der Richtlinien für Vertrauen und Sicherheit sowie Ethik von [Adobe ](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
 
 GenStudio for Performance Marketing umfasst Minderungspläne, um die Verwendung identifizierter schädlicher oder verzerrter Inhalte gemäß den Data Governance-Standards und -Richtlinien von Adobe zu verhindern. Wenn solche Inhalte erkannt werden, werden Sie darauf hingewiesen, dass die Asset-Generierung mit der Meldung „Kann nicht generiert werden“ blockiert wird.
 
@@ -90,7 +91,7 @@ Wenn diese Nachricht angezeigt wird, können Sie die Eingabeaufforderung bearbei
 
 ## Inhaltslebenszyklus
 
-Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen schneller. GenStudio for Performance Marketing vereinfacht die Bereitstellung von Inhalten in einem gut organisierten Workflow für Marketing-Fachleute. GenStudio for Performance Marketing nutzt die Adobe-Technologie in jeder Phase des Lebenszyklus.
+Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen schneller. GenStudio for Performance Marketing vereinfacht die Bereitstellung von Inhalten in einem gut organisierten Workflow für Marketing-Fachleute. GenStudio for Performance Marketing nutzt Adobe-Technologie in jeder Phase des Lebenszyklus.
 
 <table style="table-layout:auto">
 
