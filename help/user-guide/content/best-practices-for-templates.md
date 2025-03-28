@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: daada794dd39c9bd2aea7815d887821454d162fc
+source-git-commit: 059c7271bcbe558d41f3df128c6a0681accec826
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -80,7 +80,6 @@ Für E-Mails wird das `subject` automatisch eingefügt. Verwenden Sie Platzhalte
 - `body`
 - `cta`
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
-- `brand_logo`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
@@ -115,7 +114,6 @@ Bei Meta-Anzeigen werden die Felder `headline`, `body` und `CTA` automatisch gen
 
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
 - `on_image_text`
-- `brand_logo`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
@@ -201,7 +199,6 @@ Für LinkedIn-Anzeigen werden die Felder `headline`, `introductory_text` und `CT
 
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
 - `on_image_text`
-- `brand_logo`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 

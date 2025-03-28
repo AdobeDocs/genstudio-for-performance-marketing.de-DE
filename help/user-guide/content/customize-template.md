@@ -1,13 +1,13 @@
 ---
 title: Anpassen einer Vorlage
-description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio for Performance Marketing personalisieren und optimieren können.
+description: Erfahren Sie, wie Sie Ihre HTML-Vorlage mithilfe von Platzhaltern für Inhalte anpassen, die von Adobe GenStudio for Performance Marketing Generative AI erkannt werden.
 level: Intermediate
 role: Developer
-feature: Media Templates, Content Generation
+feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 0a1f13db9a976bac026f49e908b6b8c124bc5df7
+source-git-commit: 81133e4360a9ba7d7fb29f33e418fde8582b0f23
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1391'
 ht-degree: 0%
 
 ---
@@ -46,18 +46,19 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 | `{{headline}}` | Überschrift | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{introductory_text}}` | Einführungstext | LinkedIn-Anzeige |
 | `{{body}}` | Textkörper | E<br>Mail-Anzeige <br>Banner und Display-Anzeige |
-| `{{cta}}` | Handlungsaufforderung | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
+| `{{cta}}` | Aktionsaufruf<br> Siehe [Aktionsaufrufe](#calls-to-action) | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{image}}` | Bild (Image) - Auswahl aus [!DNL Content] | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
-| `{{on_image_text}}` | Bei Bildtext | Meta-Anzeige <br>LinkedIn-Anzeige |
+| `{{on_image_text}}` | Bei Bildtext<br> Siehe [Bei Bildtext](#on-image-text). | Meta-Anzeige <br>LinkedIn-Anzeige |
 | `{{link}}` | Aktionsaufruf für Bild<br> Siehe [Link auf Bild](#link-on-image). | E-Mail |
-| `{{brand_logo}}` | Logo der ausgewählten Marke<br> Siehe [Feldname für das Markenlogo](#brand-logo-field-name). | email<br>Meta-Anzeige <br>LinkedIn-Anzeige |
 
-GenStudio for Performance Marketing füllt bestimmte Felder in den folgenden Vorlagen automatisch:
+<!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
+
+GenStudio for Performance Marketing generiert in den folgenden Vorlagen automatisch bestimmte Felder:
 
 - **E-Mail** Vorlage: Erfordert nicht, dass das `subject` Feld identifiziert wird
 - **Meta-Anzeigenvorlage** erfordert nicht, dass Sie die Felder `headline`, `body` und `CTA` identifizieren
 - **Banner- und Display-Anzeigenvorlage** erfordert keine Identifizierung des `CTA` Felds
-- **LinkedIn** Anzeigenvorlagen erfordern nicht, dass Sie die Felder `headline`, `introductory_text` und `CTA` identifizieren
+- **LinkedIn-Anzeigenvorlage** erfordert nicht, dass Sie die Felder `headline`, `introductory_text` und `CTA` identifizieren
 
 >[!WARNING]
 >
@@ -109,17 +110,19 @@ Beschreibung dieses Beispiels:
 - `src="image-source.jpg"` sollte durch die tatsächliche Bildquellen-URL ersetzt werden.
 - `alt="description"` bietet einen Alternativtext für das Bild, der für Barrierefreiheit und SEO nützlich ist.
 
-### Feldname für das Markenlogo
+<!-- this field does not work in Create canvas 2025/03
 
-Derzeit können Sie das Markenlogo für den Vorlagen-Upload nicht auswählen. Die folgenden Beispiele zeigen zwei Methoden, die das Markenlogo bedingt rendern. Jede Methode überprüft die Quelle, liefert ein Standard- oder Alternativbild für den Fall, dass das Markenlogo nicht verfügbar ist, und wendet einen Stil an:
+### Brand logo field name
 
-**Beispiel 1**: Verwenden [!DNL Handlebars] integrierten Helper-Bedingung direkt im HTML-`img src`:
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
+
+**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
 
 ```html
 <img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-**Beispiel 2**: Verwenden [!DNL Handlebars] integrierten Bedingungsanweisung, um das HTML-`img`-Tag einzuschließen:
+**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
 
 ```html
 {{#if brand_logo}}
@@ -128,6 +131,8 @@ Derzeit können Sie das Markenlogo für den Vorlagen-Upload nicht auswählen. Di
     <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
 {{/if}}
 ```
+
+-->
 
 ### Manuelle Feldnamen
 
@@ -139,10 +144,18 @@ Um einen bearbeitbaren Abschnitt zu erstellen, fügen Sie doppelte Klammern um d
 <tbody>
     <tr>
         <td>
-            <p><span class="s1">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{ footerLegal }}</span></p>
         </td>
     </tr>
 </tbody>
+```
+
+## Bei Bildtext
+
+Der `{{ on_image_text }}` Platzhalter wird verwendet, um eine Textüberlagerung kurzer wirkungsvoller Nachrichten anzugeben, die direkt auf dem Bild in einem Erlebnis platziert werden.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
 ```
 
 ## Abschnitte oder Gruppen
@@ -179,7 +192,6 @@ Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher 
 GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verbunden ist.
 
 Unter [Strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) erfahren Sie, wie Sie eine Eingabeaufforderung erstellen, die für jeden Abschnitt in einer E-Mail mit mehreren Abschnitten unterschiedliche Inhalte generiert.
-
 
 ## Vorlagenvorschau
 

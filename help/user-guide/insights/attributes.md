@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie die Leistung bestimmter Attribute in Adobe Ge
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 4afdde6fd08a9f33ff599f5f85b9c1b9d79870ec
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing erkennt bestimmte Funktionen und wendet das 
 
 Ein Attribut _Kategorie_ ist eine Klassifizierungsgruppe, die verwandte Attribute organisiert, die ein gemeinsames Merkmal aufweisen. Diese Kategorien helfen, die Erkennung, Identifizierung und das Verständnis bestimmter Attribute zu optimieren, indem sie einen größeren Kontext bieten und ihre Anwendung und Verwendung erleichtern.
 
-GenStudio for Performance Marketing nutzt die KI- und maschinellen Lernfunktionen von Adobe zum Untersuchen [Bilder](image-features.md), [Videos](video-features.md) und zum Anwenden von [!UICONTROL Medienattributen] auf der Grundlage einer Korrektheitswahrscheinlichkeit.
+GenStudio for Performance Marketing verwendet die KI- und maschinellen Lernfunktionen von Adobe, um [Bilder](image-features.md), [Videos](video-features.md) und [Text](text-features.md) zu untersuchen und [!UICONTROL Medienattribute] auf der Grundlage einer Korrektheitswahrscheinlichkeit anzuwenden.
 
 Die Liste der erkannten Attribute für Medieninhalte ist nicht vollständig. Medien, die einen umfangreichen Satz von Funktionen enthalten, können auf die drei dominantesten Funktionen beschränkt sein, die von der KI identifiziert werden. Die folgende Abbildung enthält beispielsweise mehrere erkannte Bildattribute, einschließlich mehrerer Objekte, Vordergrund- und Hintergrundfarben.
 
