@@ -2,9 +2,9 @@
 title: ' [!DNL Brand]  zuweisen'
 description: Erfahren Sie mehr über das Zuweisen von Berechtigungen für GenStudio for Performance Marketing [!DNL Brand] Ersteller und Bearbeiter.
 level: Intermediate
-feature: Brands Service, Generative AI
+feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 1%
@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # [!DNL Brand] Berechtigungen zuweisen
 
-Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bearbeiten. Die Rollen „Inhaltseditor“ und „Mitarbeiter“ verfügen über Bearbeitungs- und Erstellungsberechtigungen, erfordern jedoch möglicherweise keine Berechtigungen für die Systemverwaltung. Um Inhaltseditoren und Mitarbeitern diese [!DNL Brand] Berechtigungen zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
+Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bearbeiten. Die Rollen „Inhaltseditor“ und „Mitarbeiter“ verfügen über Bearbeitungs- und Erstellungsberechtigungen, erfordern jedoch möglicherweise keine Berechtigungen für die Systemverwaltung. Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
 
-Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die für alle Adobe-Produkte mit Berechtigungen gelten, die über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung ](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ [Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
+Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung ](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ [Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
 
 ## Schritt 1: Erstellen einer Benutzergruppe
 
 **Erstellen einer Benutzergruppe**:
 
-1. Melden Sie sich bei der Admin Console an und navigieren Sie zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzergruppen]**.
+1. Melden Sie sich bei Admin Console an und navigieren Sie zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzergruppen]**.
 
 1. Klicken Sie **[!UICONTROL Neue Benutzergruppe]**. Das _Erstellen einer neuen Benutzergruppe_ Popup wird geöffnet.
 
@@ -29,7 +29,7 @@ Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, 
 
 1. Fügen Sie optional eine Beschreibung der Gruppe und ihres Zwecks hinzu.
 
-1. Klicken Sie auf **[!UICONTROL Speichern]**. Die Admin Console öffnet das _Neue Gruppe_ Popup mit dem Namen der neu erstellten Gruppe.
+1. Klicken Sie auf **[!UICONTROL Speichern]**. Admin Console öffnet das Popup _Neue Gruppe_ mit dem Namen der neu erstellten Gruppe.
 
 Siehe [Benutzergruppen verwalten](https://helpx.adobe.com/de/enterprise/using/user-groups.html) im _Administrationshandbuch für Unternehmen und Teams_.
 
@@ -45,7 +45,7 @@ Nachdem Sie eine neue Benutzergruppe erstellt und Benutzer hinzugefügt haben, k
 
 1. Wählen Sie `Adobe GenStudio` aus der Liste _Produkte auswählen_ aus.
 
-1. Klicken Sie **[!UICONTROL Apply]**. Das _Produktprofile auswählen_ Popup wird geöffnet und zeigt die mit dem Adobe GenStudio verknüpften Produktprofile an.
+1. Klicken Sie **[!UICONTROL Apply]**. Das _Produktprofile auswählen_ Popup wird geöffnet und zeigt die mit Adobe GenStudio verknüpften Produktprofile an.
 
 1. Wählen Sie `Adobe GenStudio system manager`.
 
@@ -65,7 +65,7 @@ Um Benutzenden die Berechtigung zum Erstellen, Bearbeiten und Veröffentlichen v
 
 **So fügen Sie Benutzer zur Benutzergruppe hinzu**:
 
-1. Navigieren Sie in der _-Admin Console zu **[!UICONTROL Benutzer]**>**[!UICONTROL Benutzergruppen]**._
+1. Admin Console Navigieren Sie in der __ zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzergruppen]**.
 
 1. Wählen Sie den Namen der zuvor erstellten Benutzergruppe aus. Das _Benutzer zu dieser Benutzergruppe hinzufügen_-Popup wird geöffnet.
 
