@@ -5,10 +5,10 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: b53a6aeee056a987064833f1fc99bfd6bfe3556a
+source-git-commit: 1f62546f4fc2381bcc4d8fd3acadd1d6470ed9e8
 workflow-type: tm+mt
 source-wordcount: '1326'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -38,13 +38,12 @@ Im Folgenden finden Sie eine Liste der in Vorlagen verwendeten Elemente und eini
 | **Kopfzeile** | E-Mail | Der obere Abschnitt der E-Mail, den der Empfänger beim Öffnen der E-Mail sieht, gibt den Ton an und liefert Kontext für den enthaltenen Inhalt. |
 | **Überschrift** | Meta-, Banner- und Display-Anzeigen, LinkedIn | Der erste Inhalt, den der Empfänger sieht, sollte verlockend sein, um Interesse zu wecken. |
 | **Unterüberschrift** | E-Mail-, Banner- und Display-Anzeigen | Ein zweites Textelement, das die Überschrift unterstützt. Er ist in der Regel kurz gehalten und so konzipiert, dass er die Hauptüberschrift ergänzt und die Aufmerksamkeit des Lesers weiter in den Inhalt lenkt. |
-
-| **Einführungstext**| LinkedIn                                 | Die primäre Nachricht überträgt die Kernnachricht, ähnlich wie beim Nachrichtentext. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
-| **body**             | E-Mail-, Meta-, Banner- und Display-Anzeigen    | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
-| **CTA**              | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Bei einer call-to-action-Schaltfläche werden eine Phrase und ein Link verwendet, um den Empfänger zu einer bestimmten Aktion zu ermutigen, z. B. zum Klicken auf einen Link oder zum Tätigen eines Kaufs.      |
-| **Bilder**           | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Verbessern Sie die visuelle Attraktivität, teilen Sie Text auf und unterstützen Sie die Botschaft. Bilder sollten von hoher Qualität und auffällig sein.                                                   |
-| **Fußzeile**           | E-Mail                                    | Der untere Abschnitt der E-Mail enthält zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen.            |
-| **Textüberlagerung**     | Meta-Anzeige                                  | Text, der auf einem Bild platziert wird, um die Überschrift und den Hauptteil des Inhalts zu unterstützen und zu verbessern.                                                                                  |
+| **Einführungstext** | LinkedIn | Die primäre Nachricht überträgt die Kernnachricht, ähnlich wie beim Nachrichtentext. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
+| **body** | E-Mail-, Meta-, Banner- und Display-Anzeigen | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
+| **Aktionsaufforderung** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Bei einer call-to-action-Schaltfläche werden eine Phrase und ein Link verwendet, um den Empfänger zu einer bestimmten Aktion zu ermutigen, z. B. zum Klicken auf einen Link oder zum Tätigen eines Kaufs. |
+| **Bilder** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Verbessern Sie die visuelle Attraktivität, teilen Sie Text auf und unterstützen Sie die Botschaft. Bilder sollten von hoher Qualität und auffällig sein. |
+| **Fußzeile** | E-Mail | Der untere Abschnitt der E-Mail enthält zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen. |
+| **Textüberlagerung** | Meta-Anzeige | Text, der auf einem Bild platziert wird, um die Überschrift und den Hauptteil des Inhalts zu unterstützen und zu verbessern. |
 
 >[!TIP]
 >
