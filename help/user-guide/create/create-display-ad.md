@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Verwenden Sie zum Erstellen einer Anzeige und eines Erlebnisses eine verfügbare
 **So wählen Sie eine Anzeigenvorlage aus**:
 
 1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Anzeigen]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Anzeige-Anzeigenvorlage zu finden.
+1. Verwenden Sie die [Suche und _Filter_-Optionen](/help/user-guide/content/use-templates.md#search-templates) um eine bestimmte Vorlage zu finden.
 1. Klicken Sie in der _Vorlage auswählen_ auf eine Anzeigenvorlage.
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 
@@ -73,6 +73,8 @@ Standardmäßig werden vier Varianten - angetrieben von der Eingabeaufforderung,
 ## Überarbeiten generierter Varianten
 
 Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Content] gesendet werden soll, können Sie Anzeigenabschnitte und Textfelder bearbeiten oder eine generierte Variante löschen.
+
+Um eine einzelne zu überarbeitende Ebene zu markieren, klicken Sie auf ein bearbeitbares Feld oder Bild und klicken Sie auf _[!UICONTROL Ebenen anzeigen]_.
 
 **Überarbeiten generierter Varianten**:
 

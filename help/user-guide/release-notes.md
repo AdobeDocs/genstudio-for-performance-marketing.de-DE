@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 2f5c79c8a339b10305a8c06f7036dd7182937cc5
 workflow-type: tm+mt
-source-wordcount: '2109'
+source-wordcount: '2198'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,17 @@ ht-degree: 1%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2 025,03,13 {#latest}
+## 2 025,04,10 {#latest}
+
+### Fehlerbehebungen und Verbesserungen
+
+* Neue Filteroptionen für Vorlagen! Jetzt können Sie Ihre Liste _[!UICONTROL Vorlagen auswählen]_ in [!DNL Create] und in _[!UICONTROL Inhalt]_ > _[!UICONTROL Vorlagen]_ verfeinern. Siehe [Suchvorlagen](/help/user-guide/content/use-templates.md#search-templates). Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
+* Mit dieser Funktion [ einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt ](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
+* Es wurde `sub-headline` ein [neues Vorlagenfeld](/help/user-guide/content/use-templates.md#template-elements) hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
+
+## Frühere Versionshinweise
+
++++Anmerkungen vom 03.2025.13
 
 ### Meta-Anzeigen aktivieren
 
@@ -60,7 +70,7 @@ Das neue GenStudio for Performance Marketing [Erweiterbarkeits-Framework](/help/
 * Verbessertes Benutzererlebnis und Sichtbarkeit von Kanalkategorien [auf der Startseite erstellen](/help/user-guide/create/overview.md) indem sie in die Abschnitte Eigene Medien, Bezahlte Medien und Inhalte unterteilt werden.
 * Verbesserte Filterung in [!DNL Insights] Tabellen- und Galerieansichten.
 
-## Frühere Versionshinweise
++++
 
 +++Anmerkungen vom 2025.02.13
 
@@ -86,7 +96,7 @@ Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und
 
 ### Neue Aktionsaufrufe generieren
 
-Sie können jetzt beim Verwalten von Varianten neue Ausdrücke für Aktionsaufrufe (CTA) generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+Sie können jetzt beim Verwalten von Varianten neue call-to-action (CTA)-Phrasen generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -244,7 +254,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Die [!DNL Create]-Eingabeaufforderungsschublade wird jetzt erwartungsgemäß geschlossen, wenn ein Benutzer wegklickt. <!-- GS-5254 -->
 
-* Der Export von Meta-Anzeigen enthält jetzt wie erwartet die ausgewählte Beschriftung für Aktionsaufrufe. <!-- GS-6504 -->
+* Der Export von Meta-Anzeigen enthält jetzt erwartungsgemäß die ausgewählte call-to-action-Kennzeichnung. <!-- GS-6504 -->
 
 * Die Markenbewertung wird jetzt aktualisiert und wie erwartet für neu generierte Erlebnisse beibehalten. <!-- GS-6535 -->
 

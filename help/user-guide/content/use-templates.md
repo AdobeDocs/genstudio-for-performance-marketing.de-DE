@@ -5,10 +5,10 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: b53a6aeee056a987064833f1fc99bfd6bfe3556a
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 1%
+source-wordcount: '1326'
+ht-degree: 0%
 
 ---
 
@@ -37,12 +37,14 @@ Im Folgenden finden Sie eine Liste der in Vorlagen verwendeten Elemente und eini
 | **Preheader** | E-Mail | Eine sekundäre Betreffzeile in einer E-Mail, die normalerweise zwischen 40 und 50 Zeichen umfasst, wodurch die Haupt-Betreffzeile erweitert wird. Er wird im Posteingang neben dem Betreff angezeigt, bevor die E-Mail geöffnet wird. |
 | **Kopfzeile** | E-Mail | Der obere Abschnitt der E-Mail, den der Empfänger beim Öffnen der E-Mail sieht, gibt den Ton an und liefert Kontext für den enthaltenen Inhalt. |
 | **Überschrift** | Meta-, Banner- und Display-Anzeigen, LinkedIn | Der erste Inhalt, den der Empfänger sieht, sollte verlockend sein, um Interesse zu wecken. |
-| **Einführungstext** | LinkedIn | Die primäre Nachricht überträgt die Kernnachricht, ähnlich wie beim Nachrichtentext. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
-| **body** | E-Mail-, Meta-, Banner- und Display-Anzeigen | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
-| **Aktionsaufforderung** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Eine Aktionsaufruf-Schaltfläche verwendet einen Satz und einen Link, um den Empfänger zu einer bestimmten Aktion zu ermutigen, z. B. auf einen Link zu klicken oder einen Kauf zu tätigen. |
-| **Bilder** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Verbessern Sie die visuelle Attraktivität, teilen Sie Text auf und unterstützen Sie die Botschaft. Bilder sollten von hoher Qualität und auffällig sein. |
-| **Fußzeile** | E-Mail | Der untere Abschnitt der E-Mail enthält zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen. |
-| **Textüberlagerung** | Meta-Anzeige | Text, der auf einem Bild platziert wird, um die Überschrift und den Hauptteil des Inhalts zu unterstützen und zu verbessern. |
+| **Unterüberschrift** | E-Mail-, Banner- und Display-Anzeigen | Ein zweites Textelement, das die Überschrift unterstützt. Er ist in der Regel kurz gehalten und so konzipiert, dass er die Hauptüberschrift ergänzt und die Aufmerksamkeit des Lesers weiter in den Inhalt lenkt. |
+
+| **Einführungstext**| LinkedIn                                 | Die primäre Nachricht überträgt die Kernnachricht, ähnlich wie beim Nachrichtentext. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
+| **body**             | E-Mail-, Meta-, Banner- und Display-Anzeigen    | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
+| **CTA**              | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Bei einer call-to-action-Schaltfläche werden eine Phrase und ein Link verwendet, um den Empfänger zu einer bestimmten Aktion zu ermutigen, z. B. zum Klicken auf einen Link oder zum Tätigen eines Kaufs.      |
+| **Bilder**           | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Verbessern Sie die visuelle Attraktivität, teilen Sie Text auf und unterstützen Sie die Botschaft. Bilder sollten von hoher Qualität und auffällig sein.                                                   |
+| **Fußzeile**           | E-Mail                                    | Der untere Abschnitt der E-Mail enthält zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen.            |
+| **Textüberlagerung**     | Meta-Anzeige                                  | Text, der auf einem Bild platziert wird, um die Überschrift und den Hauptteil des Inhalts zu unterstützen und zu verbessern.                                                                                  |
 
 >[!TIP]
 >
@@ -58,13 +60,26 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 ## Vorlagen verwalten
 
-Der _[!DNL Templates]_zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden. Sie können Vorlagen nach Kanaltyp filtern, z. B. E-Mail-, Display-Anzeigen-, Meta-Anzeigen- und LinkedIn-Anzeigen.
+Der _[!DNL Templates]_zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
+
+### Vorlagen suchen
+
+Jede [!DNL Content] bietet Filteroptionen, mit denen Sie Ihre Suche nach dem idealen Asset, Erlebnis oder einer Vorlage eingrenzen können. Es gibt Filter, die auf [Richtlinien](/help/user-guide/guidelines/overview.md), [Schlüsselwörtern](asset-details.md#user-defined-metadata) und [Attributkategorien](/help/user-guide/insights/attributes.md#categories) basieren, um Suchergebnisse einzugrenzen.
+
+Beispielsweise können Sie eine Vorlage eines bestimmten Kanaltyps oder Seitenverhältnisses suchen, der von Ihnen erstellt wurde:
+
+- **[!UICONTROL Erstellt von]**: begrenzt die Liste _[!UICONTROL Vorlagen]_ so, dass nur die von Ihnen oder einer bestimmten Person erstellten Vorlagen angezeigt werden.
+- **[!UICONTROL Seitenverhältnis]**: Begrenzt die Liste _[!UICONTROL Vorlagen]_, um Vorlagen anzuzeigen, die für ein bestimmtes Seitenverhältnis entwickelt wurden.
+
+Im folgenden Beispiel werden Filter nach Kanaltyp angezeigt, z. B. E-Mail, Display-Anzeigen, Meta-Anzeigen und LinkedIn-Anzeigen.
 
 ![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650" zoomable="yes"}
 
+Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL  Vorlage für eigene oder bezahlte ] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
+
 ### Vorlage hinzufügen
 
-Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorbereitet und für die Verwendung in GenStudio for Performance Marketing bereit ist, indem Sie die Anleitung [Anpassen von Vorlagen](customize-template.md) befolgen.
+Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorbereitet und für die Verwendung in GenStudio for Performance Marketing bereit ist, indem Sie die Anleitung in [Anpassen von Vorlagen](customize-template.md) befolgen.
 
 **So fügen Sie eine Vorlage**:
 
@@ -86,7 +101,7 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 1. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
 
-1. Benennen _[!UICONTROL im Bereich „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
+1. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
 
    Vorlagenname und Kanaltyp sind erforderlich. Zusätzliche Anforderungen können Folgendes umfassen:
 

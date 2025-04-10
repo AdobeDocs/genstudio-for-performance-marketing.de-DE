@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 8d4442a3eb9aaf500b3a0a249031214337caf0ff
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,18 @@ Sie können die Textfelder in generierten Varianten bearbeiten. Verfeinern Sie d
 1. Neuen Text eingeben.
 1. Klicken Sie zum Speichern auf das Textfeld.
 
+## Ebenen anzeigen
+
+Sie können schnell eine einzelne Ebene einer Variante auswählen und Änderungen vornehmen, z. B. Abschnitte neu generieren oder Bilder zuschneiden. Wenn Sie eine einzelne Ebene auswählen, werden die bearbeitbaren Felder oder Bilder innerhalb der Ebene hervorgehoben.
+
+**Anzeigen der Ebenen einer Variante**:
+
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein bearbeitbares Feld oder Bild in einer Variante.
+1. Klicken Sie _[!UICONTROL Ebenen anzeigen]_.
+1. Klicken Sie, um eine Ebene aus der Liste auszuwählen. Die ausgewählte Ebene wird für die Variante hervorgehoben.
+
+   Nehmen Sie die erforderlichen Änderungen an der ausgewählten Ebene vor.
+
 ## Abschnitte neu generieren
 
 GenStudio for Performance Marketing verfügt über integrierte Funktionen zum Generieren von Abschnitten generierter Varianten. Sie können Text umformulieren, kürzen oder verlängern oder neue Eingabeaufforderungen hinzufügen, um neue Inhalte zu generieren.
@@ -59,7 +71,7 @@ Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvarian
 
 ## Handlungsaufforderung überarbeiten
 
-Nachdem Sie einen Variantensatz generiert haben, können Sie den Text und den Link des Aktionsaufrufs (CTA) überarbeiten.
+Nachdem Sie einen Variantensatz generiert haben, können Sie den Text und den Link für call-to-action (CTA) überarbeiten.
 
 >[!NOTE]
 >

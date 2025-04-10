@@ -3,10 +3,10 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  eine umfassende Sammlung von Marken-Assets - Marketing-Kopien, Bilder, Erlebnisse und mehr -, die als Grundlage für die Erstellung markenbezogener Inhalte dienen.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
 workflow-type: tm+mt
-source-wordcount: '1544'
-ht-degree: 2%
+source-wordcount: '1554'
+ht-degree: 1%
 
 ---
 
@@ -72,15 +72,15 @@ Die folgende Tabelle zeigt jeden Kanalabschnitt, die Kanäle, für die er verfü
 
 | Abschnitte | Kanäle | Beschreibung | Best Practices |
 | ------------------| --------- | --------- | -------- |
-| Allgemein | E-Mail, Meta, Anzeigen anzeigen | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Definieren Sie den allgemeinen Ton/die Emotionen, um in allen E-Mails konsistent zu sein (2-5 Richtlinien).<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechenden Tons“, „Vermeidung übermäßig formaler Sprache“<br><br> |
+| Allgemein | E-Mail-, Meta-, Banner- und Display-Anzeigen | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Definieren Sie den allgemeinen Ton/die Emotionen, um in allen E-Mails konsistent zu sein (2-5 Richtlinien).<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechenden Tons“, „Vermeidung übermäßig formaler Sprache“<br><br> |
 | Betreff | E-Mail | Ein überzeugender und interessanter Titel, um den Inhalt einer E-Mail zusammenzufassen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) zu Ton, Länge usw. an. Fügen Sie zuvor erfolgreiche Betreffzeilen im Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiel_: „Betreff an E-Mail-Textkörper ausrichten“ |
 | Preheader | E-Mail | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Preheader im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiel_: „Beschränkung auf 60-80 Zeichen“ |
-| Überschrift | E-Mail, Meta, Anzeigen anzeigen, LinkedIn | Ein Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Überschriften im Abschnitt _Beispiele_ hinzu, um die Qualität der Ergebnisse zu verbessern.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
-| Unterüberschrift | E-Mail, Anzeigen anzeigen | Ein zweiter oder dritter Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) an, die den Ton, die ideale Länge usw. definieren. Fügen Sie zuvor erfolgreiche Unterüberschriften im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ergebnisse zu erzielen.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
+| Überschrift | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Ein Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Überschriften im Abschnitt _Beispiele_ hinzu, um die Qualität der Ergebnisse zu verbessern.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
+| Unterüberschrift | E-Mail-, Banner- und Display-Anzeigen | Ein zweiter oder dritter Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) an, die den Ton, die ideale Länge usw. definieren. Fügen Sie zuvor erfolgreiche Unterüberschriften im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ergebnisse zu erzielen.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
 | Beschreibung | LinkedIn | Beschreibende Phrasen, die allgemeine Tonemotionen definieren | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Beschreibungen im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechbaren Tons“ |
-| Textkörper | E-Mail, Meta, Anzeigen anzeigen, LinkedIn | Marketing-Inhalte, einschließlich Nachrichten, Links und Bildern | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beschränkung auf 80-100 Zeichen“, „Vermeidung übermäßiger Akronyme“ |
+| Textkörper | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Marketing-Inhalte, einschließlich Nachrichten, Links und Bildern | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beschränkung auf 80-100 Zeichen“, „Vermeidung übermäßiger Akronyme“ |
 | Text auf dem Bild | Meta, LinkedIn | Spezifische Führung auf den Ton, ideale Länge, etc. Für Text, der über Bildern angezeigt wird | Geben Sie eine spezifische Anleitung (1-2 Sätze) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreichen Text zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Fokussiere dich auf den Moment“ |
-| Aktionsaufruf (CTA) | E-Mail, Meta, Anzeigen anzeigen | (Aktionsaufruf) Eine Anweisung an den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche CTAs zum Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiele_: „Verwenden Sie keine Satzzeichen für Enden“ |
+| Aktionsaufruf (CTA) | E-Mail-, Meta-, Banner- und Display-Anzeigen | (Aktionsaufruf) Eine Anweisung an den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche CTAs zum Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiele_: „Verwenden Sie keine Satzzeichen für Enden“ |
 
 #### Richtlinien für Standardkanäle
 

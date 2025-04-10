@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 81133e4360a9ba7d7fb29f33e418fde8582b0f23
+source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}` | Preheader | E-Mail |
 | `{{headline}}` | Überschrift | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
+| `{{sub_headline}}` | Unterüberschrift | email<br>banner und Display-Anzeige |
 | `{{introductory_text}}` | Einführungstext | LinkedIn-Anzeige |
 | `{{body}}` | Textkörper | E<br>Mail-Anzeige <br>Banner und Display-Anzeige |
 | `{{cta}}` | Aktionsaufruf<br> Siehe [Aktionsaufrufe](#calls-to-action) | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
@@ -101,14 +102,14 @@ GenStudio for Performance Marketing kann auch Ausdrücke mit varianten Aktionsau
 Sie können Ihre E-Mail-Vorlage anpassen, damit Kreative einem Bild einen Link hinzufügen können. Ähnlich wie beim CTA-Link können Sie mithilfe der folgenden Anleitung einen `link` Platzhalter auf ein Bild-Tag anwenden:
 
 ```html
-<a href="{{link}}"><img src="image-source.jpg" alt="description"></a>
+<a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
 Beschreibung dieses Beispiels:
 
 - `{{link}}` ist ein Platzhalter für die tatsächliche URL.
 - `src="image-source.jpg"` sollte durch die tatsächliche Bildquellen-URL ersetzt werden.
-- `alt="description"` bietet einen Alternativtext für das Bild, der für Barrierefreiheit und SEO nützlich ist.
+- `{{imageDescription}}` ist ein benutzerdefinierter Feldname, der einen Platzhalter für den Alternativtext des Bildes bereitstellt, was für Barrierefreiheit und SEO nützlich ist.
 
 <!-- this field does not work in Create canvas 2025/03
 
@@ -136,7 +137,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 ### Manuelle Feldnamen
 
-Alle anderen Feldnamen werden als manuell ausgefüllte Felder behandelt. Beispielsweise können Sie einen Abschnitt für den Inhalt der Fußzeile reservieren.
+Alle anderen Feldnamen sind benutzerdefiniert und werden als manuell ausgefüllte Felder behandelt. Beispielsweise können Sie einen Abschnitt für den Inhalt der Fußzeile reservieren.
 
 Um einen bearbeitbaren Abschnitt zu erstellen, fügen Sie doppelte Klammern um den Abschnittsnamen hinzu:
 

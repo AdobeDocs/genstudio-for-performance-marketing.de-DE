@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 059c7271bcbe558d41f3df128c6a0681accec826
+source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -77,6 +77,7 @@ Für E-Mails wird das `subject` automatisch eingefügt. Verwenden Sie Platzhalte
 
 - `pre_header`
 - `headline`
+- `sub_headline`
 - `body`
 - `cta`
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
@@ -151,6 +152,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 Bei Banner- und Display-Anzeigen wird das `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
 
 - `headline`
+- `sub_headline`
 - `body`
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
 

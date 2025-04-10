@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte berei
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
 1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
+1. Verwenden Sie die [Suche und _Filter_-Optionen](/help/user-guide/content/use-templates.md#search-templates) um eine bestimmte Vorlage zu finden.
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Diese Aktion öffnet die Arbeitsfläche, die den zentralen Hub für die Inhaltserstellung darstellt.
@@ -85,12 +85,14 @@ Bei [Überarbeitung der Meta-Anzeigen](#revise-generated-variants) können Sie d
 
 Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Content] gesendet werden soll, können Sie die Meta-Anzeigen bearbeiten oder eine Variante aus dem Satz der generierten Anzeigen löschen.
 
+Um eine einzelne zu überarbeitende Ebene zu markieren, klicken Sie auf ein bearbeitbares Feld oder Bild und klicken Sie auf _[!UICONTROL Ebenen anzeigen]_.
+
 **Überarbeiten generierter Varianten**:
 
 * **Um [ Meta-Anzeigenentwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [eine Meta-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile,
 Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf.
-* **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche für den Aktionsaufruf und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ Link“ eine URL für den Text der Aktionsaufforderung ein.
+* **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
 * **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
@@ -144,6 +146,6 @@ Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content
 
 ## Connect Meta
 
-Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Content-Performance zu erhalten.
+Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und Einblicke in die Content-Performance zu erhalten.
 
-Weitere Informationen finden [ unter &quot;](/help/user-guide/insights/connect-channel.md)-Kanalkonto verbinden“.
+Siehe [Meta-Anzeigen verbinden](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
