@@ -3,9 +3,9 @@ title: Meta-Anzeige aktivieren
 description: Erfahren Sie, wie Sie ein Meta-Anzeigenerlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1372'
 ht-degree: 2%
 
 ---
@@ -33,29 +33,23 @@ Sie müssen über die Berechtigung zum Posten von Inhalten in Meta Ads Manager v
 
 Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanager Ihre Metakonten mit GenStudio for Performance Marketing verbinden. Diese Verbindung ermöglicht den Datenfluss zwischen GenStudio und externen Marketing-Tools wie Meta und ermöglicht so Aktivierungsprozesse.
 
-**So verbinden Sie GenStudio for Performance Marketing mit Ihren Meta-Konten**:
+Siehe [Mit einem Meta-Konto (Facebook) verbinden](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
 
-1. Klicken _in „Einstellungen_ auf **[!UICONTROL Verbinden]** auf der Kachel Meta-Anzeigen . Die Ansicht _Meta-Anzeigen_ Konto wird geöffnet.
+Nach Abschluss der Synchronisation können Sie die hinzugefügten Konten Ansicht. Groß Synchronisation von Datenmengen dauert länger.
 
-1. Wählen Sie **[!UICONTROL Popups zulassen]** aus Ihrem Browser aus, wenn Sie dazu aufgefordert werden.
+## Schritt 3: Bereiten Sie Ihre Erlebnis auf Aktivierung vor
 
-1. Wählen Sie mindestens ein zu verbindendes Werbekonto aus und klicken Sie auf **[!UICONTROL Auswählen]**.
+Systemmanager und Redakteure von GenStudio können Anzeige Erlebnisse aktivieren.
 
-Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeigen. Die Synchronisierung großer Datenmengen dauert länger.
+**So bereiten Sie Ihre Erlebnis für Aktivierung vor:**
 
-## Schritt 3: Bereiten Sie Ihr Erlebnis für die Aktivierung vor
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kachel Meta-Produkt . Der_ Ansicht Creative Einrichtung _wird geöffnet.
 
-GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
+   Die Creative Setup-Seite bietet einen zentralen Ort für die Vorbereitung deiner Meta Anzeige Aktivierung. Die Vorbereitung Ihrer Anzeige umfasst diese drei Aufgaben:
 
-**So bereiten Sie Ihr Erlebnis für die Aktivierung vor**:
-
-1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kachel Meta-Produkt . Die Ansicht_ Creative Setup _wird geöffnet.
-
-   Die Creative-Setup-Seite bietet einen zentralen Speicherort für die Vorbereitung der Meta-Anzeigenaktivierung. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
-
-1. Weisen Sie Ihrem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
-1. Wählen Sie Medien-Assets aus. Sie können Assets aus Inhalten verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
-1. [Text hinzufügen](#add-ad-text).
+1. Vergeben Sie einen Namen für Ihre Erlebnis. Nach Aktivierung können Sie diesen Namen verwenden, um für diese Erlebnis in der Tabelle &quot; _Aktivierte Erlebnisse_ &quot; zu suchen.
+1. Wählen Sie Medien Assets. Sie können Assets aus Content oder Upload externen Assets (z. B. aus OneDrive oder Dropbox) verwenden.
+1. [hinzufügen Text](#add-ad-text).
 1. [Metadaten hinzufügen](#assign-metadata).
 
    Das _Vorschaufenster_ unterstützt eine interaktive Ansicht Ihres Textes und Ihrer Assets im Kontext einer bestimmten Anzeigenplatzierung. Verwenden Sie das _Platzierung auswählen_ Dropdown-Menü, um zwischen unterstützten Anzeigenplatzierungen zu wechseln. In der Vorschau können Entscheidungen über Anzeigenelemente für bestimmte Platzierungen abgeschlossen werden. Wenn Sie eine Platzierung im Bedienfeld _Vorschau_ auswählen, wird nur Ihre Ansicht der Anzeige beeinflusst. Ihre Platzierungsauswahl im Bedienfeld _Vorschau_ wird nicht gespeichert.
@@ -109,11 +103,11 @@ Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlic
 | Überschrift | ja | 255 |
 | Beschreibung | nein | 125 |
 | Handlungsaufforderung | ja | Nur Dropdown-Menüoptionen |
-| URL anzeigen | nein | 1000 |
+| Anzeigen URL | nein | 1000 |
 | Website-URL | ja | 1000 |
-| Bild | Mindestens ein erforderliches |                                 |
+| Bild | Mindestens eines erforderlich |                                 |
 
-_Primärer_ und _Überschrift_ sind nur für GenStudio for Performance Marketing erforderlich, nicht für Meta.
+_Primärtext_ und _Überschrift_ werden von GenStudio nur für das Performance-Marketing benötigt, nicht von Meta.
 
 ### Zuweisen von Metadaten
 
@@ -121,11 +115,11 @@ Erlebnisdetails werden als Metadaten gespeichert und helfen Benutzern bei der Su
 
 | Detail | Beschreibung |
 |------------|-------------|
-| Kampagnen | Alle GenStudio for Performance Marketing-Kampagnen, zu denen das Anzeigen-Erlebnis gehört |
-| Marke | Benutzerdefinierte oder standardmäßige Richtlinien, mit denen Benutzende Markenrichtlinien erstellen können, die die Essenz der Identität einer Marke erfassen. |
-| Produkte | Mit Ihrer Organisation verknüpfte und in GenStudio for Performance Marketing identifizierte Produkte |
-| Personen | Mit Ihrem Unternehmen verknüpfte und in GenStudio for Performance Marketing identifizierte Rollen |
-| Zeitrahmen | Das Quartal, die Staffel, das Jahr oder eine andere organisatorisch definierte Zeiteinheit, in der das Anzeigen-Erlebnis aktiv ist |
+| Kampagnen | Alle GenStudio for Performance Marketing-Kampagnen, zu denen der Anzeige Erlebnis gehört |
+| Marke | Richtlinien, User definiert oder voreingestellt, die es Benutzern ermöglichen, Werbetreibender Richtlinien festzulegen, die die Essenz der Identität eines Werbetreibender erfassen. |
+| Produkte | Produkte, die mit Ihrer Organisation verknüpft sind und in GenStudio for Performance Marketing identifiziert werden |
+| Personen | Personen, die mit Ihrer Organisation verknüpft sind und in GenStudio für Performance Marketing identifiziert wurden |
+| Zeitrahmen | Das Quartal, die Saison, das Jahr oder eine andere organisatorisch definierte Zeiteinheit, in der die Anzeige Erlebnis aktiv ist |
 | Region | Geografische Region, in der das Erlebnis gestartet wird |
 | Sprache | Sprachen, für die das Anzeigen-Erlebnis verwendet wird |
 | Keywords | Benutzerdefinierte Keywords, die die Suche und Kategorisierung des Anzeigenerlebnisses erleichtern |

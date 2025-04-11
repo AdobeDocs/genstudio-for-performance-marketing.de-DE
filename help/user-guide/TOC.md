@@ -5,9 +5,9 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: f3fe4228b089ec71d0568b5e39830f2c1d7ae4d8
+source-git-commit: beeaa7e9b434321b99c58827ea0ca62e31e114a5
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 21%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 21%
    + [Konfigurieren [!DNL Brand] Berechtigungen](configure-brand-permissions.md)
    + [Benutzerrollen](user-roles.md)
    + [Effektive Eingabeaufforderungen](effective-prompts.md)
++ Einstellungen {#settings}
+   + [Paid Media verbinden](connectors/connect-channel.md)
 + Richtlinien-{#guidelines}
    + [Richtlinien - Übersicht](guidelines/overview.md)
    + [Marken](guidelines/brands.md)
@@ -71,7 +73,6 @@ ht-degree: 21%
    + [Optimieren von Aktivierungen](activation/troubleshooting.md)
 + Insights {#insights}
    + [Insights-Überblick](insights/overview.md)
-   + [Kanalkonto verbinden](insights/connect-channel.md)
    + [Kanäle](insights/channels.md)
    + [Anzeigen und Anzeigenplatzierung](insights/ads.md)
    + [Media](insights/media.md)

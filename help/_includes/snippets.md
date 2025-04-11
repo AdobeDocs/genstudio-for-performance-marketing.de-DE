@@ -1,26 +1,26 @@
 ---
-source-git-commit: f2850d3f535cc06dd8da4e744c081dda299e27f4
+source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-# GenStudio for Performance Marketing Snippets
+# Snippets aus GenStudio für Performance-Marketing
 
-## Connect Insights {#connect-insights}
+## Einblicke verknüpfen {#connect-insights}
 
 >[!TIP]
 >
->GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanalkonto herstellen, um Daten zu erhalten. Siehe [Connect-Kanalkonto](/help/user-guide/insights/connect-channel.md).
+>GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanal Konto herstellen, um mit dem Empfang von Daten zu beginnen. Weitere Informationen finden Sie unter [Verbinden Kanal Konto](/help/user-guide/connectors/connect-channel.md).
 
-## Notiz AEM Assets {#note-aem-assets}
+## Hinweis AEM Assets {#note-aem-assets}
 
 >[!INFO]
 >
->Wenn beim Anzeigen oder Arbeiten mit Assets aus einem [!DNL AEM Assets Content Hub]-Repository Probleme auftreten, wenden Sie sich an Ihren Systemadministrator und stellen Sie sicher, dass Sie Zugriff auf das richtige Unternehmen oder Produktprofil haben. Siehe [Verbindung zu einem [!DNL AEM Assets Content Hub] Repository herstellen](/help/user-guide/content/connect-aem-repo.md).
+>Wenn Probleme beim Anzeigen oder Arbeiten mit Assets aus einem [!DNL AEM Assets Content Hub] Repository auftreten, wenden Sie sich an Ihren Systemadministrator, und stellen Sie sicher, dass Sie Zugriff auf die richtige Organisation oder das richtige Produkt Profil. Weitere Informationen finden Sie unter [Herstellen einer Verbindung mit einer [!DNL AEM Assets Content Hub] Repository](/help/user-guide/content/connect-aem-repo.md).
 
-## Tipp zu Academy-Inhalten {#in-academy}
+## Tipp auf Academy Inhalte {#in-academy}
 
 >[!TIP]
 >
->Bereichern Sie Ihre Kenntnisse zu diesem Thema mit [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
+>Erweitern Sie Ihre Fähigkeiten zu diesem Thema mit [Adobe Systems GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
