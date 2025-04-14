@@ -35,21 +35,21 @@ Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanag
 
 Siehe [Mit einem Meta-Konto (Facebook) verbinden](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
 
-Nach Abschluss der Synchronisation können Sie die hinzugefügten Konten Ansicht. Groß Synchronisation von Datenmengen dauert länger.
+Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeigen. Die Synchronisierung großer Datenmengen dauert länger.
 
-## Schritt 3: Bereiten Sie Ihre Erlebnis auf Aktivierung vor
+## Schritt 3: Bereiten Sie Ihr Erlebnis für die Aktivierung vor
 
-Systemmanager und Redakteure von GenStudio können Anzeige Erlebnisse aktivieren.
+GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
-**So bereiten Sie Ihre Erlebnis für Aktivierung vor:**
+**So bereiten Sie Ihr Erlebnis für die Aktivierung vor**:
 
-1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kachel Meta-Produkt . Der_ Ansicht Creative Einrichtung _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kachel Meta-Produkt . Die Ansicht_ Creative Setup _wird geöffnet.
 
-   Die Creative Setup-Seite bietet einen zentralen Ort für die Vorbereitung deiner Meta Anzeige Aktivierung. Die Vorbereitung Ihrer Anzeige umfasst diese drei Aufgaben:
+   Die Creative-Setup-Seite bietet einen zentralen Speicherort für die Vorbereitung der Meta-Anzeigenaktivierung. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
 
-1. Vergeben Sie einen Namen für Ihre Erlebnis. Nach Aktivierung können Sie diesen Namen verwenden, um für diese Erlebnis in der Tabelle &quot; _Aktivierte Erlebnisse_ &quot; zu suchen.
-1. Wählen Sie Medien Assets. Sie können Assets aus Content oder Upload externen Assets (z. B. aus OneDrive oder Dropbox) verwenden.
-1. [hinzufügen Text](#add-ad-text).
+1. Weisen Sie Ihrem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
+1. Wählen Sie Medien-Assets aus. Sie können Assets aus Inhalten verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
+1. [Text hinzufügen](#add-ad-text).
 1. [Metadaten hinzufügen](#assign-metadata).
 
    Das _Vorschaufenster_ unterstützt eine interaktive Ansicht Ihres Textes und Ihrer Assets im Kontext einer bestimmten Anzeigenplatzierung. Verwenden Sie das _Platzierung auswählen_ Dropdown-Menü, um zwischen unterstützten Anzeigenplatzierungen zu wechseln. In der Vorschau können Entscheidungen über Anzeigenelemente für bestimmte Platzierungen abgeschlossen werden. Wenn Sie eine Platzierung im Bedienfeld _Vorschau_ auswählen, wird nur Ihre Ansicht der Anzeige beeinflusst. Ihre Platzierungsauswahl im Bedienfeld _Vorschau_ wird nicht gespeichert.
@@ -103,11 +103,11 @@ Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlic
 | Überschrift | ja | 255 |
 | Beschreibung | nein | 125 |
 | Handlungsaufforderung | ja | Nur Dropdown-Menüoptionen |
-| Anzeigen URL | nein | 1000 |
+| URL anzeigen | nein | 1000 |
 | Website-URL | ja | 1000 |
-| Bild | Mindestens eines erforderlich |                                 |
+| Bild | Mindestens ein erforderliches |                                 |
 
-_Primärtext_ und _Überschrift_ werden von GenStudio nur für das Performance-Marketing benötigt, nicht von Meta.
+_Primärer_ und _Überschrift_ sind nur für GenStudio for Performance Marketing erforderlich, nicht für Meta.
 
 ### Zuweisen von Metadaten
 
@@ -115,11 +115,11 @@ Erlebnisdetails werden als Metadaten gespeichert und helfen Benutzern bei der Su
 
 | Detail | Beschreibung |
 |------------|-------------|
-| Kampagnen | Alle GenStudio for Performance Marketing-Kampagnen, zu denen der Anzeige Erlebnis gehört |
-| Marke | Richtlinien, User definiert oder voreingestellt, die es Benutzern ermöglichen, Werbetreibender Richtlinien festzulegen, die die Essenz der Identität eines Werbetreibender erfassen. |
-| Produkte | Produkte, die mit Ihrer Organisation verknüpft sind und in GenStudio for Performance Marketing identifiziert werden |
-| Personen | Personen, die mit Ihrer Organisation verknüpft sind und in GenStudio für Performance Marketing identifiziert wurden |
-| Zeitrahmen | Das Quartal, die Saison, das Jahr oder eine andere organisatorisch definierte Zeiteinheit, in der die Anzeige Erlebnis aktiv ist |
+| Kampagnen | Alle GenStudio for Performance Marketing-Kampagnen, zu denen das Anzeigen-Erlebnis gehört |
+| Marke | Benutzerdefinierte oder standardmäßige Richtlinien, mit denen Benutzende Markenrichtlinien erstellen können, die die Essenz der Identität einer Marke erfassen. |
+| Produkte | Mit Ihrer Organisation verknüpfte und in GenStudio for Performance Marketing identifizierte Produkte |
+| Personen | Mit Ihrem Unternehmen verknüpfte und in GenStudio for Performance Marketing identifizierte Rollen |
+| Zeitrahmen | Das Quartal, die Staffel, das Jahr oder eine andere organisatorisch definierte Zeiteinheit, in der das Anzeigen-Erlebnis aktiv ist |
 | Region | Geografische Region, in der das Erlebnis gestartet wird |
 | Sprache | Sprachen, für die das Anzeigen-Erlebnis verwendet wird |
 | Keywords | Benutzerdefinierte Keywords, die die Suche und Kategorisierung des Anzeigenerlebnisses erleichtern |
