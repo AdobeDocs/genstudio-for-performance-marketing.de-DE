@@ -7,9 +7,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,8 @@ Verwenden Sie zum Erstellen eines Bannererlebnisses eine verfügbare Vorlage, um
 
 **So wählen Sie eine Bannervorlage**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Banner]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die [Suche und _Filter_-Optionen](/help/user-guide/content/use-templates.md#search-templates) um eine bestimmte Vorlage zu finden.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Banner]**.
+1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Bannervorlage zu finden.
 1. Klicken _in der Ansicht_ Vorlage auswählen“ auf eine Bannervorlage.
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 

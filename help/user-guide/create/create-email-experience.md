@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlag
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die [Suche und _Filter_-Optionen](/help/user-guide/content/use-templates.md#search-templates) um eine bestimmte Vorlage zu finden.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**.
+1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte E-Mail-Vorlage zu finden.
 1. Wählen Sie eine E-Mail-Vorlage aus und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Die Arbeitsfläche, das Epizentrum der Inhaltserstellung, wird angezeigt.

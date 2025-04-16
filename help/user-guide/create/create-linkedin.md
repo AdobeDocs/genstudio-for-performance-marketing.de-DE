@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,8 @@ Um ein neues LinkedIn-Erlebnis zu generieren, benötigen Sie eine Vorlage, die d
 
 **So wählen Sie eine LinkedIn-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL LinkedIn]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die [Suche und _Filter_-Optionen](/help/user-guide/content/use-templates.md#search-templates) um eine bestimmte Vorlage zu finden.
+1. In _[!DNL Create]_, click **[!UICONTROL LinkedIn]**.
+1. Use the search option, adjacent to _Filter_, to find a specific template.
 1. Klicken Sie auf eine Vorlage, um sie auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Diese Aktion öffnet die Arbeitsfläche, die den zentralen Hub für die Inhaltserstellung darstellt.

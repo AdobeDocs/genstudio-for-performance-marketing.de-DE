@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: beeaa7e9b434321b99c58827ea0ca62e31e114a5
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 21%
+source-wordcount: '202'
+ht-degree: 23%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 21%
    + [Effektive Eingabeaufforderungen](effective-prompts.md)
 + Einstellungen {#settings}
    + [Paid Media verbinden](connectors/connect-channel.md)
-+ Richtlinien-{#guidelines}
++ Richtlinien {#guidelines}
    + [Richtlinien - Übersicht](guidelines/overview.md)
    + [Marken](guidelines/brands.md)
    + [Personas](guidelines/personas.md)
@@ -46,13 +46,14 @@ ht-degree: 21%
    + [Erstellen eines LinkedIn-Erlebnisses](create/create-linkedin.md)
    + [Erstellen eines Anzeigen-Erlebnisses](create/create-display-ad.md)
    + [Erstellen eines Bannererlebnisses](create/create-banner-experience.md)
-+ Reviews &amp; Approvals {#approve}
+   + [Bild erstellen](create/generate-assets.md)
++ Überprüfungen und Genehmigungen {#approve}
    + [Übersicht über Prüfungen und Genehmigungen](approvals/overview.md)
    + [Überprüfung und Genehmigung von Inhalten anfordern](approvals/request-review.md)
    + [Inhalt überprüfen und bearbeiten](approvals/review-and-edit.md)
    + [Inhalt genehmigen](approvals/approve-content.md)
    + [Genehmigte Inhalte veröffentlichen](approvals/publish-content.md)
-+ {#content}
++ Inhalt {#content}
    + [Inhaltsübersicht](content/overview.md)
    + [Verwalten von Assets und Erlebnissen](content/manage-assets.md)
    + [Verbinden eines AEM-Repositorys](content/connect-aem-repo.md)
@@ -65,13 +66,13 @@ ht-degree: 21%
       + [Best Practices für Vorlagen](content/best-practices-for-templates.md)
 + Kampagnen {#campaigns}
    + [Kampagnen - Übersicht](campaigns/overview.md)
-+ {#activation}
++ Aktivierung {#activation}
    + [Aktivierung - Übersicht](activation/overview.md)
    + [Aktivierungs-Workflow](activation/create-activation.md)
    + [Aktivieren einer Meta-Anzeige](activation/activate-meta-ad.md)
    + [Aktivierungen verwalten](activation/manage-activations.md)
    + [Optimieren von Aktivierungen](activation/troubleshooting.md)
-+ Insights {#insights}
++ Einblicke {#insights}
    + [Insights-Überblick](insights/overview.md)
    + [Kanäle](insights/channels.md)
    + [Anzeigen und Anzeigenplatzierung](insights/ads.md)

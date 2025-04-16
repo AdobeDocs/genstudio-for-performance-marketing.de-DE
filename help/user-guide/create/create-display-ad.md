@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Verwenden Sie zum Erstellen einer Anzeige und eines Erlebnisses eine verfügbare
 
 **So wählen Sie eine Anzeigenvorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Anzeigen]**in der_ „Was möchten Sie heute erstellen?“_.
-1. Verwenden Sie die [Suche und _Filter_-Optionen](/help/user-guide/content/use-templates.md#search-templates) um eine bestimmte Vorlage zu finden.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Anzeigen anzeigen]**.
+1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Anzeige-Anzeigenvorlage zu finden.
 1. Klicken Sie in der _Vorlage auswählen_ auf eine Anzeigenvorlage.
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 
