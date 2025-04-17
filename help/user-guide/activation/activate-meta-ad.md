@@ -3,9 +3,9 @@ title: Meta-Anzeige aktivieren
 description: Erfahren Sie, wie Sie ein Meta-Anzeigenerlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
+source-git-commit: 19f36badd66a5dc90585b4399b87230847474a81
 workflow-type: tm+mt
-source-wordcount: '1372'
+source-wordcount: '1356'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von Meta-
 
 Sie können [ein Meta-Erlebnis](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
 
-Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen gebührenpflichtigen Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihrer Anzeigenerlebnisse auf die spezifischen Anforderungen von Meta. Nachdem Sie ein Meta-Erlebnis oder ein Kreativ-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie [Meta Ads Manager](https://adsmanager.facebook.com/) verwenden, um das Erlebnis vor der endgültigen Veröffentlichung für bestimmte Platzierungen von Meta-Anzeigen zu optimieren.
+Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen gebührenpflichtigen Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihrer Kreativ-Formulare aus den Anzeigenerlebnissen für die spezifischen Anforderungen von Meta. Nachdem Sie ein Meta-Erlebnis oder ein Kreativ-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie [Meta Ads Manager](https://adsmanager.facebook.com/) verwenden, um das Erlebnis vor der endgültigen Veröffentlichung für bestimmte Platzierungen von Meta-Anzeigen zu optimieren.
 
 ## Schritt 1: Einrichten Ihrer Meta-Konten
 
@@ -107,7 +107,7 @@ Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlic
 | Website-URL | ja | 1000 |
 | Bild | Mindestens ein erforderliches |                                 |
 
-_Primärer_ und _Überschrift_ sind nur für GenStudio for Performance Marketing erforderlich, nicht für Meta.
+GenStudio for Performance Marketing erfordert _Primären_ und _Überschrift_, nicht Meta.
 
 ### Zuweisen von Metadaten
 
@@ -148,10 +148,10 @@ Klicken Sie **[!UICONTROL oben]** auf „Weiter“, um eine Vorschau Ihres Anzei
 
 Auf _Seite „Überprüfen_ wird Ihr Anzeigen-Erlebnis so angezeigt, wie es im _Creative-_ zusammengestellt wurde, und bietet eine letzte Möglichkeit, Ihr Erlebnis anzuzeigen und zu bearbeiten. Klicken Sie **[!UICONTROL Abschnitt bearbeiten]** neben der Beschriftung _Creative-Setup_, um Ihre Änderungen vorzunehmen. Sie können auch oben **[!UICONTROL auf „Zurück]** klicken, um zur Seite _Creative-Einrichtung“_.
 
-### Vollständige Aktivierung Ihres Werbereignisses
+### Schritt 6: Vollständige Aktivierung Ihres Anzeigenerlebnisses
 
-Klicken Sie auf **[!UICONTROL Veröffentlichen]**. Das gesamte Meta Ad-Erlebnis und die zugehörigen Metadaten werden direkt in den ausgewählten Meta Ads Manager-Anzeigensatz übertragen. Erlebnisse werden inaktiviert an Meta Ads Manager bereitgestellt. Über den Meta Ads Manager können Sie die letzten Schritte zur Bereitstellung des Ad-Erlebnisses und der Meta-Kampagne verwalten.
+1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
-### Melden Sie sich bei Meta Ads Manager an, um die Aktivierung abzuschließen
+   Das gesamte Meta Ad-Erlebnis und die zugehörigen Metadaten werden direkt in den ausgewählten Meta Ads Manager-Anzeigensatz übertragen. Erlebnisse werden Meta Ads Manager in einem inaktiven Status bereitgestellt. Über den Meta Ads Manager können Sie die letzten Schritte zur Bereitstellung des Ad-Erlebnisses und der Meta-Kampagne verwalten.
 
-Nach Abschluss der Aktivierung müssen Sie sich bei Meta Ads Manager anmelden. In [Meta Ads Manager](https://adsmanager.facebook.com/) können Sie Ihr Anzeigen-Erlebnis überprüfen und die Veröffentlichung für bestimmte Meta-Kanäle abschließen.
+1. [Melden Sie sich bei Meta Ads Manager an](https://adsmanager.facebook.com/) um Ihr Anzeigenerlebnis zu überprüfen und die Veröffentlichung für bestimmte Meta-Kanäle abzuschließen.

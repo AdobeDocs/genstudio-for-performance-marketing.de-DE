@@ -1,9 +1,9 @@
 ---
 title: Verwalten von Aktivierungen
-description: Erfahren Sie, wie Sie aktivierte Erlebnisse mit Adobe Genstudio für Performance Marketing verwalten.
+description: Erfahren Sie, wie Sie aktivierte Erlebnisse mit Adobe GenStudio for Performance Marketing verwalten.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: f6e0d0138f30527a1fdf7bef6fc4c30884316e0e
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 _[!DNL Activate]_bietet eine zentralisierte Ansicht des Aktivierungsstatus jedes Anzeigenkanals, einschließlich der Aktivierungen Veröffentlicht (erfolgreich), Fehlgeschlagen (nicht erfolgreich) und Veröffentlichung (ausstehend). Die_ Aktivierte Erlebnisse _zeigt alle Aktivierungen für ein verbundenes Kanal-Werbekonto an.
 
-Aktivierte Erlebnisse sind nach Anzeigenkanal organisiert. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Ansicht]**auf der Kanalkachel. Die_ Aktivierte Erlebnisse _für den ausgewählten Kanal wird geöffnet. Erlebnisse werden nach Erlebnisname aufgeführt und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
+_[!DNL Activate]_organisiert aktivierte Erlebnisse nach Anzeigenkanal. Klicken Sie **[!UICONTROL der]**auf „Anzeigen“. Die_ Aktivierte Erlebnisse _für den ausgewählten Kanal wird geöffnet. In dieser Ansicht werden Erlebnisse nach Namen aufgelistet und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
 
 ## Aktivierte Erlebnisansicht
 
-Aktivierungen werden nach Erlebnisnamen in absteigender chronologischer Reihenfolge aufgelistet (zuletzt aufgelistet).
+In dieser Ansicht werden Aktivierungen nach Erlebnisnamen in absteigender chronologischer Reihenfolge aufgelistet (zuletzt aufgelistet).
 
 In der folgenden Tabelle sind die Attribute aufgeführt, die die einzelnen Erlebnisse definieren.
 
