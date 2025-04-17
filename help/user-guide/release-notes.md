@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 2f5c79c8a339b10305a8c06f7036dd7182937cc5
+source-git-commit: c51afb3decac43f3a71d5859ba4296a8c09730d7
 workflow-type: tm+mt
-source-wordcount: '2198'
+source-wordcount: '2252'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for
 * Neue Filteroptionen für Vorlagen! Jetzt können Sie Ihre Liste _[!UICONTROL Vorlagen auswählen]_ in [!DNL Create] und in _[!UICONTROL Inhalt]_ > _[!UICONTROL Vorlagen]_ verfeinern. Siehe [Suchvorlagen](/help/user-guide/content/use-templates.md#search-templates). Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 * Mit dieser Funktion [ einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt ](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
 * Es wurde `sub-headline` ein [neues Vorlagenfeld](/help/user-guide/content/use-templates.md#template-elements) hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
+* Unterstützung für das [ von Anzeigenerlebnissen ](/help/user-guide/activation/overview.md) GenStudio for Performance Marketing in Google Campaign Manager 360 hinzugefügt. Activate unterstützt detaillierte Vorschauen von Google Campaign Manager 360-Anzeigen, bevor sie auf einem Campaign Manager 360-Advertiser veröffentlicht werden. Über Activate veröffentlichte Anzeigen werden automatisch nach der Live-Schaltung in die Insights gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
 
 ## Frühere Versionshinweise
 
