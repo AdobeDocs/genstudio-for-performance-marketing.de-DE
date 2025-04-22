@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über die Videofunktion der in GenStudio for Perf
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: c742fb33a04b36da35036a4554a475141fce8b01
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 1%
@@ -44,9 +44,9 @@ In der folgenden Tabelle sind die Videofunktionskategorien aufgeführt, die von 
 | Kategorie | Beschreibung | Beispiel |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | Audiomodus | Bestimmt den emotionalen Gesamtton oder die Atmosphäre der Audiospur, z. B. `calm`, `upbeat` oder `tense`. | `Energetic`, `Happy`, `Emotional Ambient/atmospheric`, `Relaxing`, `Dramatic`, `Expressive/characterful`, `Intense`, `Slow`, `Neutral` |
-| Audiotypen | Taggt das Video mit einem oder mehreren vorhandenen Audiotypen, z. B. `music` oder `speech`. | `Music`, `Speech`, `Silence`, `Special effects`, `Ambience` |
+| Audiotypen | Taggt das Video mit einem oder mehreren vorhandenen Audio-Inhaltstypen, z. B. `music` oder `speech`. | `Music`, `Speech`, `Silence`, `Special effects`, `Ambience` |
 | Kategorien | Klassifiziert das Video in eine oder mehrere Kategorien. | `Entertainment`, `Sports`, `Music`, `Gaming`, `Howto tutorials`, `Fashion and style`, `Film and animation`, `Science and technology`, `Autos and vehicles`, `Pets and animals`, `People and blogs`, `News and politics`, `Social causes and activism`, `Travel and events`, `Education`, `Sales and offers` |
-| Musikkategorie | Grobe Klassifizierung des Musikgenres, wenn Musik im Video vorhanden ist. Dies hilft bei der Identifizierung des allgemeinen Musiktyps, wie `contemporary` oder `traditional`. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
+| Musikkategorie | Grobe Klassifizierung des Musikgenres, wenn Musik im Video vorhanden ist. Das Genre hilft bei der Identifizierung des allgemeinen Musiktyps, z. B. `contemporary` oder `traditional`. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
 | Musikgenre | Spezifische Klassifizierung des Musikstils, wenn Musik im Video vorhanden ist, die eine detailliertere Identifizierung der Musik ermöglicht, z. B. `electronic` oder `jazz`. | `electronic`, `hip-hop`, `dance`, `novelty`, `rock`, `world`, `reggae`, `pop`, `film`, `jazz`, `background`, `latin` |
 | Objekte | Identifiziert ein oder mehrere Elemente, Entitäten und Elemente, die im Video angezeigt werden. | Werte sind zu zahlreich, aber einige Beispiele sind: `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` |
 | Ausrichtung | Die Ausrichtung des Videos in Bezug auf seine Breite und Höhe. Ermittelt, ob er breiter ist als er hoch ist (Querformat), größer als er breit ist (Hochformat) oder gleich in Breite und Höhe (Quadrat). | `landscape`, `portrait`, `square` |
