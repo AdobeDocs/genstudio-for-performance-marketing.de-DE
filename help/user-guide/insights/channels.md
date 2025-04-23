@@ -4,7 +4,7 @@ description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistun
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -20,6 +20,8 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Kanäle]_ zeigt eine Liste der Kampagne
 Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampagne organisiert. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle aus, um alle Filter zu entfernen.
 
 ![Kanalfilter und -tabelle](/help/assets/insights-channels-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 
@@ -44,12 +46,12 @@ Wenn beispielsweise die Sensibilisierung Ihr Ziel ist, kann eine erhöhte `impre
 
 Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Marketing-Metriken in der Kanalansicht. Jede Metrik enthält eine kurze Definition, wie sie sich auf Kanäle bezieht, wie die Metrik berechnet wird, und ein oder mehrere Einblicke, die dabei helfen, ihre Bedeutung und Auswirkungen auf Marketing-Kampagnen zu verstehen.
 
-| Metrik | Definition | Einblick |
+| Metrik | Definition | Insight |
 | ----------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Meta-Kampagnenname]** | Eine Liste der Kampagnennamen für das verbundene Kanalkonto. Der Kampagnenstatus kann `Active`, `Paused`, `Deleted` oder `Archived` sein. Filtern Sie Kampagnen nach Status und Ziel. | Sortieren Sie die Tabelle, indem Sie auf die Spaltenüberschrift für eine der Schlüsselmetriken klicken. |
 | **[!UICONTROL Starten]** | Das Datum, an dem die Kampagne veröffentlicht wurde. | Eine hohe Anzahl an Impressionen kann darauf hindeuten, dass die Anzeige die beabsichtigte Zielgruppe erreicht. |
-| **[!UICONTROL Impressions]** | Eine Zählung, mit der angezeigt wird, wann Inhalte im Kanal geladen werden, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber um echte Leistungseinblicke zu erhalten, sollten Sie sie zusammen mit anderen Interaktionsmetriken berücksichtigen. |
-| **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende innerhalb der Anzeigenkampagne mit einem anklickbaren Element interagieren, z. B. einem Link oder einer Aktionsaufruf-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
+| **[!UICONTROL Impressions]** | Eine Zählung, mit der angezeigt wird, wann Inhalte im Kanal geladen werden, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für eine echte Leistung von insight sollten Sie sie zusammen mit anderen Interaktionsmetriken berücksichtigen. |
+| **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende innerhalb einer Anzeigenkampagne mit einem anklickbaren Element interagieren, z. B. mit einem Link oder einer call-to-action-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
 | **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die innerhalb eines Kanals zu Kampagnenklicks geführt haben.<br>**Berechnung**: (`clicks` geteilt durch `impressions`) x 100 = % | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
 | **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten pro tausend Anzeigen-Impressions für die Anzeigenkampagne. <br>**Berechnung**: (Gesamtbetrag `spent` geteilt durch `impressions`) x 1000 | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
 | **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten für jeden Klick in einer Anzeigenkampagne.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` = $ | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |

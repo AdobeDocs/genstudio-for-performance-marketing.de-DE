@@ -1,26 +1,32 @@
 ---
-source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
+source-git-commit: 9362ed03a54d5cbd661a2f278096b3a1fd692e36
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
-# Snippets aus GenStudio für Performance-Marketing
+# GenStudio for Performance Marketing Snippets
 
-## Einblicke verknüpfen {#connect-insights}
+## Connect Insights {#connect-insights}
 
 >[!TIP]
 >
->GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanal Konto herstellen, um mit dem Empfang von Daten zu beginnen. Weitere Informationen finden Sie unter [Verbinden Kanal Konto](/help/user-guide/connectors/connect-channel.md).
+>GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanalkonto herstellen, um Daten zu erhalten. Siehe [Connect-Kanalkonto](/help/user-guide/connectors/connect-channel.md).
 
-## Hinweis AEM Assets {#note-aem-assets}
+## Notiz AEM Assets {#note-aem-assets}
 
 >[!INFO]
 >
->Wenn Probleme beim Anzeigen oder Arbeiten mit Assets aus einem [!DNL AEM Assets Content Hub] Repository auftreten, wenden Sie sich an Ihren Systemadministrator, und stellen Sie sicher, dass Sie Zugriff auf die richtige Organisation oder das richtige Produkt Profil. Weitere Informationen finden Sie unter [Herstellen einer Verbindung mit einer [!DNL AEM Assets Content Hub] Repository](/help/user-guide/content/connect-aem-repo.md).
+>Wenn beim Anzeigen oder Arbeiten mit Assets aus einem [!DNL AEM Assets Content Hub]-Repository Probleme auftreten, wenden Sie sich an Ihren Systemadministrator und stellen Sie sicher, dass Sie Zugriff auf das richtige Unternehmen oder Produktprofil haben. Siehe [Verbindung zu einem [!DNL AEM Assets Content Hub] Repository herstellen](/help/user-guide/content/connect-aem-repo.md).
 
-## Tipp auf Academy Inhalte {#in-academy}
+## Tipp zu Academy-Inhalten {#in-academy}
 
 >[!TIP]
 >
->Erweitern Sie Ihre Fähigkeiten zu diesem Thema mit [Adobe Systems GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
+>Bereichern Sie Ihre Kenntnisse zu diesem Thema mit [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
+
+## Tipp zu leeren Tabellen {#empty-table}
+
+>[!TIP]
+>
+>Wird eine `No results found` Nachricht angezeigt? Anpassen von Filtern durch Ändern der Auswahl, Deaktivieren aller Filter oder Erweitern des Datumsbereichs.

@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie die Medienleistung in Adobe GenStudio for Per
 level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: a7241193b38a45dbd927269d65c1edac05cab002
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -20,6 +20,8 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Medien]_ zeigt eine Liste der Medien, d
 Die _[!UICONTROL Media]_-Tabelle ist nach **[!UICONTROL Medien-ID]** organisiert. Sie können zwischen den Ansichten wechseln, indem Sie das Symbol Liste anzeigen (Tabelle) und das Symbol Galerieansicht (Raster) verwenden. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle aus, um alle Filter zu entfernen.
 
 ![Medienfilter und -tabelle](/help/assets/insights-media-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 
