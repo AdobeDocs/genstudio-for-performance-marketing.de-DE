@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Leistung bestimmter Attribute in Adobe Ge
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
+source-git-commit: c619f092d0f64ca6d847f058e343578d0b22a3d6
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '876'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,20 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Attribute]_ zeigt eine Liste der Attrib
 
 Die _[!UICONTROL Attribute]_ ist unter Verwendung des Namens [!UICONTROL Attribut] organisiert. Sie können mithilfe der Schaltfläche (Bilder **[!UICONTROL und der Schaltfläche (Video]** zwischen **[!UICONTROL Listentypen]**. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
 
-Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle aus, um alle Filter zu entfernen.
-
 ![Attributfilter und -tabelle](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
 {{empty-table}}
+
+## Attribute filtern
+
+Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Unter [Medien filtern](/help/user-guide/insights/media.md#filter-media) erfahren Sie mehr über Keyword-Filter für Kampagnen und Anzeigen.
+
+
+>[!NOTE]
+>
+>Der angewendete Filter bleibt für alle Ansichten in [!DNL Insights] bestehen. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle oder der Galerie für Werbeanzeigen aus, um alle ausgewählten Filter zu entfernen.
+
+### Herunterladen von Tabellenergebnissen
 
 {{$include /help/_includes/download-insights.md}}
 

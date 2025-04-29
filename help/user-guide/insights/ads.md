@@ -4,24 +4,58 @@ description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget 
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
+source-git-commit: e053c91ebb40a9625ce22281a89feaa9cccab956
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1536'
 ht-degree: 0%
 
 ---
 
 # Übersicht über Anzeigen und Anzeigenplatzierung
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Anzeigen]_ zeigt eine Liste der Anzeigen für das verbundene Kanal-Werbekonto an. Eine _Anzeige_ ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen. Bei Facebook sind die Anzeigen Meta-Anzeigenamen.
+Die Ansicht [!DNL Insights] _[!UICONTROL Anzeigen]_ zeigt eine Liste der Anzeigen für das verbundene Kanal-Werbekonto an. Eine _Anzeige_ ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen.
 
 {{connect-insights}}
 
-Die _[!UICONTROL Anzeigen]_-Tabelle ist nach &quot;[!UICONTROL -Namen“ ]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle aus, um alle Filter zu entfernen.
+Die _[!UICONTROL Anzeigen]_-Tabelle ist nach &quot;[!UICONTROL -Namen“ ]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
 
 ![Anzeigenfilter und -tabelle](/help/assets/insights-ads-filter.png){zoomable="yes"}
 
+Die _[!UICONTROL Anzeige]_-Galerieansicht zeigt eine Collage aus Anzeigenvorschauen und einer Metrik, wie z. B. Klickrate. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oben rechts in der Galerie, um **[!UICONTROL Karteneinstellungen]** zu öffnen und eine der drei sichtbaren Metriken umzuschalten:
+
+- CPA (Kosten pro Aktion)
+- CTR (Clickthrough-Rate)
+- CPC (Kosten pro Klick)
+- Ausgaben
+
 {{empty-table}}
+
+## Anzeigen filtern
+
+Mit dem Filtersymbol (Trichter) oben links wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Bei einigen Filtern können Sie präzise Keywords verwenden, um die Kriterienliste zu verfeinern. Keyword-Filter sind besonders nützlich für Kampagnen, die einer komplexen Namenskonvention mit mehreren eindeutigen Kennungen folgen, wie z. B. den folgenden:
+
+- Spezifischer Regionenname oder Code: `NA`, `EMEA`
+- Content-Typ-Akronyme: `EB`, `CHT` oder `DSP`
+- Angebotscodes oder Akronyme: `OFFER2023`, `PROMO`
+
+**Filtern nach Kampagnen**:
+
+1. Erweitern Sie den Filter **[!UICONTROL Kampagnen]** und klicken Sie auf **[!UICONTROL Auswählen]**.
+1. Geben Sie im Suchfeld durch Kommas getrennte Schlüsselwörter ein.
+
+   Verwenden Sie so viele Keywords wie nötig, um die Liste zu verfeinern:
+
+   ![Kampagnen auswählen](/help/assets/insights-select-campaign.png){width=400}
+
+1. Wählen Sie in der angezeigten Suche mindestens eine Kampagne aus und klicken Sie auf **[!UICONTROL Anwenden]**.
+
+   Ihre ausgewählten Kampagnen werden jetzt in der Liste _[!UICONTROL Filtern nach]_ über der Tabelle oder Galerie der Anzeigen angezeigt, sodass Sie sich auf die mit den ausgewählten Kampagnen verknüpften Anzeigen konzentrieren können.
+
+>[!NOTE]
+>
+>Der angewendete Filter bleibt für alle Ansichten in [!DNL Insights] bestehen. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle oder der Galerie für Werbeanzeigen aus, um alle ausgewählten Filter zu entfernen.
+
+### Herunterladen von Tabellenergebnissen
 
 {{$include /help/_includes/download-insights.md}}
 
@@ -39,21 +73,27 @@ Unter der Anzeigenvorschau finden Sie eine Liste mit Attributen, die mit der Anz
 
 ### Anzeigenformate
 
+Anzeigenformate beziehen sich auf die verschiedenen kreativen Elemente und Layouts, die zur Ausrichtung an Ihren Kampagnenzielen, zur Interaktion mit Ihrer Zielgruppe und zur Verfolgung von Leistungsmetriken verwendet werden.
+
 [!DNL Insights] in GenStudio for Performance Marketing unterstützt derzeit die folgenden verfügbaren Anzeigenformate.
 
 | Unterstützt | Nicht unterstützt |
 |-----------|-------------|
-| Asset-Feed-Spezifikation (Platzierungsoptimierung)<br>Einzelbild oder Video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image/video)<br>App (image/video)<br>Messaging<br>Lead (image/video)<br>Diashow (video)<br>Collection (image/video hero asset)<br>Shop (image/video)<br>Foto oder Video von Page Post/Instagram Post/media<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
+| Asset-Feed-Spezifikation (Platzierungsoptimierung)<br>Einzelbild oder Video<br>Link | Carousel<br>Collaborative<br>Catalog<br>Instant Experience<br>Asset Feed Spec (other than placement optimization)<br>Call (image and video)<br>App (image and video)<br>Messaging<br>Lead (image and video)<br>Diashow (video)<br>Collection (image and video hero asset)<br>Shop (image and video)<br>Foto oder Video von Page Post, Instagram Post<br>Branded Content<br>Flexible<br>Advantage+ Catalog |
 
 ### Platzierungen hinzufügen
 
-Wenn Sie eine Kampagne mit Meta-Anzeigen erstellen, haben Sie möglicherweise anhand des Kampagnenziels ausgewählt[ wo Ihre Anzeigen geschaltet ](channels.md#objectives). Anzeigenplatzierungen erweitern die Reichweite der Zielgruppe für Ihre Anzeige.
+Anzeigenplatzierungen beziehen sich auf die spezifischen Orte oder Plattformen, an denen Ihre Anzeigen innerhalb einer Kampagne erscheinen. Diese Platzierungen bestimmen, wie und wo Ihre Zielgruppe mit Ihren Inhalten interagiert. Anzeigenplatzierungen erweitern die Reichweite der Zielgruppe, was zur Maximierung der Sichtbarkeit, Interaktion und der allgemeinen Effektivität der Kampagne beiträgt.
+
+Wenn Sie eine Kampagne mit Meta-Anzeigen erstellen, haben Sie möglicherweise anhand des Kampagnenziels ausgewählt[ wo Ihre Anzeigen geschaltet ](channels.md#objectives).
 
 Im Folgenden finden Sie eine Liste der unterstützten Anzeigenplatzierungen:
 
-| Zielgruppennetzwerk | [Facebook/Meta](https://www.facebook.com/business/help/407108559393196?id=369787570424415) | Instagram | Überbringerin |
+| Zielgruppennetzwerk | Facebook/Meta \* | Instagram | Überbringerin |
 |--------------------|--------------------|-------------------------|---------------------|
 | Belohntes Video | feed<br>video feeds<br>storys<br>marketplace<br>right column<br>reels<br>reels overlay<br>In-stream video<br>search<br>Business disco feed<br>profile feed | storys<br>feed<br>explore<br>reels<br>Explore grid Home<br>Profile feed<br>search<br>stream | storys<br>inbox |
+
+\* Siehe [Über Anzeigenplatzierungen in verschiedenen Meta](https://www.facebook.com/business/help/407108559393196?id=369787570424415)Technologien im _Meta Business Help Center_.
 
 ## Anzeigenleistung
 
@@ -70,11 +110,11 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen digitalen 
 | **[!UICONTROL Impressions]** | Eine Zählung, mit der jedes Mal, wenn die Anzeigenplatzierung oder -anzeige im Kanal geladen wird, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für eine echte Leistung von insight sollten Sie sie im Zusammenhang mit anderen Interaktionsmetriken berücksichtigen. |
 | **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende in einer Anzeigenplatzierung mit einem anklickbaren Element interagieren, z. B. mit einem Link oder einer Aktionsaufruf-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
 | **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die innerhalb einer Kampagne zu Klicks auf die Anzeige geführt haben.<br>**Berechnung**: `clicks` geteilt durch `impressions` | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
-| **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten pro tausend Anzeigen-Impressionen.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
-| **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Verwenden Sie , um die Ausgaben für Anzeigen zu überwachen, die zu wertvollen Kundenaktionen führen. |
-| **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten, die mit jedem Klick in einer Anzeigenplatzierung verbunden sind.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
+| **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Die durchschnittlichen Kosten für jede tausend Anzeigen-Impressionen.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
+| **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Die durchschnittlichen Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Verwenden Sie , um die Ausgaben für Anzeigen zu überwachen, die zu wertvollen Kundenaktionen führen. |
+| **[!UICONTROL CPC ]**<br>_Cost per click_ | Die durchschnittlichen Kosten, die mit jedem Klick in einer Anzeigenplatzierung verbunden sind.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
 | **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Kampagnenbudget für die Platzierung dieser Anzeige ausgegeben wurde. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |
-| **Attribute** | Liste der in dieser Anzeige vorhandenen inhärenten Funktionen. | Kann dazu beitragen, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |
+| **Attribute** | Liste der in dieser Anzeige vorhandenen inhärenten Funktionen. | Attribute helfen dabei, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |
 
 ## Platzierungsleistung
 
@@ -88,4 +128,4 @@ Die folgende Tabelle enthält Definitionen für Leistungsmetriken zur Anzeigenpl
 | **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Die durchschnittlichen Kosten, die für eine einzelne Anzeigenplatzierung aufgewendet werden, um eine gewünschte Kundenaktion zu erzielen, z. B. einen Kauf oder ein Abonnement.<p>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen<p>Diese Metrik hilft bei der Bewertung der Kosteneffizienz der Anzeigenplatzierung bei der Förderung wertvoller Aktionen. | Ein niedrigerer CPA legt nahe, dass die Anzeigenplatzierung Zielgruppeninteraktionen mit geringeren Kosten in gewünschte Aktionen umwandelt. |
 | **[!UICONTROL CPC ]**<br>_Cost per click_ | Die durchschnittlichen Kosten, die mit jedem Klick in einer einzelnen Anzeigenplatzierung verbunden sind.<p>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks`<p>Diese Metrik hilft bei der Bewertung der Kosteneffizienz der Anzeigenplatzierung bei der Generierung von Klicks. | Ein niedrigerer CPC zeigt an, dass die Anzeigenplatzierung Klicks zu niedrigeren Kosten generiert, was für die Maximierung des ROI von Vorteil sein kann. |
 | **[!UICONTROL Ausgaben]** | Der Betrag, der für eine einzelne Anzeigenplatzierung ausgegeben wird und einen Bruchteil der Gesamtsumme darstellt, die für die gesamte Anzeige ausgegeben wird. Diese Metrik hilft, die Budgetzuweisung und die Ausgabeneffizienz für jede Anzeigenplatzierung zu verfolgen. | Die Überwachung der Ausgaben kann dazu beitragen, sicherzustellen, dass Ressourcen auf verschiedenen Platzierungen effektiv verwendet werden. |
-| **Attribute** | Liste der in dieser Anzeigenplatzierung vorhandenen inhärenten Funktionen. | Kann dazu beitragen, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |
+| **Attribute** | Liste der in dieser Anzeigenplatzierung vorhandenen inhärenten Funktionen. | Attribute helfen dabei, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |

@@ -4,9 +4,9 @@ description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistun
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
+source-git-commit: 997bd2ce2243bbfe59567c5dd3b389408446f5e7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '762'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,21 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Kanäle]_ zeigt eine Liste der Kampagne
 
 {{connect-insights}}
 
-Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampagne organisiert. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle aus, um alle Filter zu entfernen.
+Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampagne organisiert. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
 
 ![Kanalfilter und -tabelle](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
+Wenn Sie eine Kampagne auswählen, wird die Registerkarte [[!UICONTROL Anzeigen] ](ads.md) mit einer Liste von Anzeigenamen geöffnet, die mit dieser Kampagne verknüpft sind. Auf diese Weise können Sie ermitteln, welche Anzeigen zum Gesamterfolg beigetragen haben.
+
 {{empty-table}}
 
-{{$include /help/_includes/download-insights.md}}
+## Kanäle filtern
 
-Wenn Sie eine Kampagne auswählen, wird die Registerkarte [[!UICONTROL Anzeigen] ](ads.md) mit einer Liste von Anzeigenamen geöffnet, die mit dieser Kampagne verknüpft sind. Auf diese Weise können Sie ermitteln, welche Anzeigen zum Gesamterfolg beigetragen haben.
+Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet, in dem Sie aus mehreren Listen auswählen können. Der angewendete Filter bleibt für alle Ansichten in [!DNL Insights] bestehen. Wählen Sie **[!UICONTROL Alle löschen]** über der Tabelle oder der Galerie für Werbeanzeigen aus, um alle ausgewählten Filter zu entfernen.
+
+### Herunterladen von Tabellenergebnissen
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Ziele
 
@@ -57,4 +63,4 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Ma
 | **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten für jeden Klick in einer Anzeigenkampagne.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` = $ | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
 | **[!UICONTROL Videowiedergaben]** | Die Häufigkeit, mit der ein Video in einer Anzeigenkampagne wiedergegeben wird, ohne Wiederholungen. Ein Video wird abgespielt, wenn ein Benutzer auf Abspielen klickt oder das Video automatisch abgespielt wird. | Eine hohe Anzahl von Videowiedergaben kann darauf hinweisen, dass das Video Aufmerksamkeit erregt, und kann bedeuten, dass die Miniaturansicht, der Titel oder die Platzierung effektiv in Viewern gezeichnet wird. |
 | **[!UICONTROL Budget]** | Gesamtmittel, die für eine Anzeigenkampagne zum Erreichen der Kampagnenziele zugewiesen wurden. | Ein hoher Haushalt bedeutet mehr Ressourcen für eine breitere Reichweite und potenziell größere Wirkung. |
-| **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Budget ausgegeben wurde, um Anzeigen auf verschiedenen Plattformen zu platzieren. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie den Ausgabenbetrag anhand wichtiger Leistungsmetriken, um den Gesamtrendite zu überwachen. |
+| **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Budget ausgegeben wurde, um Anzeigen auf verschiedenen Plattformen zu platzieren. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |
