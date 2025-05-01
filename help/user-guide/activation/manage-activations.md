@@ -3,7 +3,7 @@ title: Verwalten von Aktivierungen
 description: Erfahren Sie, wie Sie aktivierte Erlebnisse mit Adobe GenStudio for Performance Marketing verwalten.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: f6e0d0138f30527a1fdf7bef6fc4c30884316e0e
+source-git-commit: 9efa42bac9e5623ace963d0de19eeb24467b69d8
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
