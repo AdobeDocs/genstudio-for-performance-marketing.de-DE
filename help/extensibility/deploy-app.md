@@ -3,7 +3,7 @@ title: Bereitstellen der App Builder-App
 description: Stellen Sie Ihre App Builder-App oder Ihr Add-on für GenStudio for Performance Marketing bereit.
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
-source-git-commit: 52e8e078bc013fe686b5cc2105089f7098cce575
+source-git-commit: 6fef5933421a56cf9f77c19bc198f017ee6c117e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Bereitstellen der App
 
 Beim Ausführen der App erhalten Sie einen vorläufigen Schnappschuss des Add-on-Verhaltens, bevor Sie sie bereitstellen. Diese Informationen können das Debugging erleichtern. Sie können die Erstellung und Bereitstellung einer in Ihrer App bereitgestellten erzwingen, ohne sie erneut zur Genehmigung einzureichen.
-
 
 **So führen Sie die App aus**:
 
