@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adobe GenStudio for Performance Marketing Activate
 
-GenStudio for Performance Marketing _[!DNL Activate]_bietet einen zentralen Ort für die Vorbereitung Ihres Anzeigenerlebnisses zur Aktivierung, um bezahlte Anzeigenkanäle auszuwählen._ Activation _ist der Prozess der Vorbereitung von Anzeigen-Erlebnissen, Assets und Text als Kreativ, der speziell auf die Platzierung in einem bestimmten gebührenpflichtigen Kanal zugeschnitten ist. Activation übergibt das Kreativ-Asset an bestimmte Kanäle im inaktiven Zustand, die zur endgültigen Überprüfung und Bereitstellung im Kanal bereit sind. Werbeanzeigen und -erlebnisse können dann auf ihren jeweiligen Märkten verteilt werden.
+GenStudio for Performance Marketing _[!DNL Activate]_&#x200B;bietet einen zentralen Ort für die Vorbereitung Ihres Anzeigenerlebnisses zur Aktivierung, um bezahlte Anzeigenkanäle auszuwählen._ Activation _ist der Prozess der Vorbereitung von Anzeigen-Erlebnissen, Assets und Text als Kreativ, der speziell auf die Platzierung in einem bestimmten gebührenpflichtigen Kanal zugeschnitten ist. Activation übergibt das Kreativ-Asset an bestimmte Kanäle im inaktiven Zustand, die zur endgültigen Überprüfung und Bereitstellung im Kanal bereit sind. Werbeanzeigen und -erlebnisse können dann auf ihren jeweiligen Märkten verteilt werden.
 
 Content-Editoren und System-Manager können Erlebnisse veröffentlichen, deren Assets entweder in generiert oder in GenStudio for Performance Marketing hochgeladen werden.
 
@@ -25,11 +25,11 @@ Jedes Paid-Media-Kanalkonto muss mit GenStudio for Performance Marketing verbund
 
 * [Erstellen einer Aktivierung](create-activation.md). Sie können ein Anzeigenerlebnis erstellen, indem Sie visuelle Assets auswählen, Text zuweisen und Metadaten definieren, bevor Sie sie an einen gebührenpflichtigen Kanal senden.
 
-* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
+* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_&#x200B;bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
 
 ## Funktionen aktivieren
 
-_[!DNL Activate]_erleichtert die Vorbereitung des Anzeigenerlebnisses für die Verteilung an die bezahlten Zielkanäle.
+_[!DNL Activate]_&#x200B;erleichtert die Vorbereitung des Anzeigenerlebnisses für die Verteilung an die bezahlten Zielkanäle.
 
 ### Zur Aktivierung vorbereiten
 
@@ -37,7 +37,7 @@ Auf der Seite _Creative-Setup_ werden die Tools zusammengefasst, die Sie zum Aus
 
 ### Auswählen von Assets für das Anzeigen-Erlebnis
 
-Suchen Sie nach genehmigten visuellen Assets in _[!DNL Content]_und wählen Sie sie aus oder laden Sie Assets aus Dropbox oder OneDrive hoch. Sie können Assets direkt von Ihrem Gerät hochladen. Ein Anzeigen-Erlebnis oder Kreativität kann in mehreren Platzierungen ausgeführt werden. Assets kann in den Seitenverhältnissen hochgeladen werden, die für Ihre Anzeigenplatzierungen erforderlich sind.
+Suchen Sie nach genehmigten visuellen Assets in _[!DNL Content]_&#x200B;und wählen Sie sie aus oder laden Sie Assets aus Dropbox oder OneDrive hoch. Sie können Assets direkt von Ihrem Gerät hochladen. Ein Anzeigen-Erlebnis oder Kreativität kann in mehreren Platzierungen ausgeführt werden. Assets kann in den Seitenverhältnissen hochgeladen werden, die für Ihre Anzeigenplatzierungen erforderlich sind.
 
 ### Vorschau und Aktivierung Ihres Erlebnisses in einem Anzeigenkanal
 

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Erstellen von Bildern
 
-Mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol) können Sie _[!DNL On-brand images]_generieren - generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und allgemeine Ästhetik einfangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
+Mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol) können Sie _[!DNL On-brand images]_&#x200B;generieren - generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und allgemeine Ästhetik einfangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
 
 Um ein ansprechendes und effektives Bild zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ ](/help/user-guide/effective-prompts.md).
 
 ## Bildtypen
 
-_[!DNL On-brand images]_sind generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und Gesamtästhetik einfangen. Diese Bilder werden mithilfe von Bildern erstellt, die bereits in [!DNL Content] verfügbar sind, sowie anhand einer sorgfältig gestalteten Eingabeaufforderung, die das Design steuert. Sie halten sich strikt an die Markenrichtlinien und Parameter, die während des Generierungsprozesses ausgewählt wurden.
+_[!DNL On-brand images]_&#x200B;sind generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und Gesamtästhetik einfangen. Diese Bilder werden mithilfe von Bildern erstellt, die bereits in [!DNL Content] verfügbar sind, sowie anhand einer sorgfältig gestalteten Eingabeaufforderung, die das Design steuert. Sie halten sich strikt an die Markenrichtlinien und Parameter, die während des Generierungsprozesses ausgewählt wurden.
 
 _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ --> Richtlinien, Parameter und eine [sorgfältig gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) enthalten, um ansprechende Bild-Assets bereitzustellen.
 
@@ -33,11 +33,11 @@ Sie können [!DNL On-brand images] mithilfe definierter Richtlinien, Parameter u
 
 ### Referenzbild auswählen
 
-Um ein _[!DNL On-brand images]_zu erstellen, wählen Sie ein vorhandenes Bild aus, das in [!DNL Content] gespeichert ist. Informationen [ unterstützten [!DNL on-brand image]-Dimensionen finden Sie ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) „Best Practices für Vorlagen“.
+Um ein _[!DNL On-brand images]_&#x200B;zu erstellen, wählen Sie ein vorhandenes Bild aus, das in [!DNL Content] gespeichert ist. Informationen [ unterstützten [!DNL on-brand image]-Dimensionen finden Sie ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) „Best Practices für Vorlagen“.
 
 **So wählen Sie ein Referenzbild aus**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Markeninternes Bild]**.
+1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Markeninternes Bild]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um ein bestimmtes Bild zu finden.
 
    ![Referenzbild auswählen](/help/assets/select-img.png){width="400" zoomable="yes"}

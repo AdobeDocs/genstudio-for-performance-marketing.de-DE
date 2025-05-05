@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Aktivierungs-Workflow
 
-_[!DNL Activate]_unterstützt die Aktivierung von Anzeigenerlebnissen in Form von Kreativen in kanalspezifischen Formaten, wie z. B. einem Meta- oder Google Campaign Manager 360-Anzeigenerlebnis.
+_[!DNL Activate]_&#x200B;unterstützt die Aktivierung von Anzeigenerlebnissen in Form von Kreativen in kanalspezifischen Formaten, wie z. B. einem Meta- oder Google Campaign Manager 360-Anzeigenerlebnis.
 
 Ein GenStudio for Performance Marketing-Erlebnis ist eine Marketing-Kampagnenkomponente (z. B. eine Anzeige), die als Kreativ für eine bestimmte Zielgruppe in einem gebührenpflichtigen Anzeigenkanal oder einer gebührenpflichtigen E-Mail vorbereitet wird. Kreative bestehen aus drei Hauptkomponenten:
 
@@ -36,11 +36,11 @@ Obwohl die individuellen Platzierungsanforderungen jeden gebührenpflichtigen Ka
 
   >[!TIP]
   >
-  >Sie können genehmigte Anzeigenerlebnisse direkt aus der _[!DNL Content]_Experience Gallery auswählen, um sie als Kreative von Google Campaign Manager 360 vorzubereiten. Nachdem Sie ein Erlebnis aus der_[!DNL Content]_-Galerie ausgewählt haben, können Sie keine Assets mehr bearbeiten oder zu Ihrem Kreativen hinzufügen.
+  >Sie können genehmigte Anzeigenerlebnisse direkt aus der _[!DNL Content]_&#x200B;Experience Gallery auswählen, um sie als Kreative von Google Campaign Manager 360 vorzubereiten. Nachdem Sie ein Erlebnis aus der&#x200B;_[!DNL Content]_-Galerie ausgewählt haben, können Sie keine Assets mehr bearbeiten oder zu Ihrem Kreativen hinzufügen.
 
 * **Überprüfen und veröffentlichen Sie Ihr Erlebnis im Zielkanal**. Verwenden Sie das _Vorschau_-Bedienfeld während der kreativen Einrichtung, um Ihre Auswahl von Anzeigenplatzierungs- und Textelementen zu bewerten, bevor Sie Ihre Aktivierung abschließen. Ihre endgültige Prüfung vor der Veröffentlichung erfolgt in der Anzeigenverwaltungs-App des Zielkanals. Nachdem Sie beispielsweise ein Meta-Ad-Erlebnis in GenStudio for Performance Marketing aktiviert haben, müssen Sie sich bei Meta Ads Manager anmelden, Ihre Kreativen überprüfen und dann die spezifischen Attribute auswählen, bevor Sie es veröffentlichen.
 
-Sobald ein Kreativprofi über seinen bezahlten Medien-Zielkanal live ist, können _[!DNL Insights]_seine Leistungsdaten verfolgen und analysieren.
+Sobald ein Kreativprofi über seinen bezahlten Medien-Zielkanal live ist, können _[!DNL Insights]_&#x200B;seine Leistungsdaten verfolgen und analysieren.
 
 ## Unterstützte Kanäle
 

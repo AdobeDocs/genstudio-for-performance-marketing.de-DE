@@ -23,4 +23,4 @@ ht-degree: 57%
    + [Entwickeln einer App Builder-App](create-app.md)
    + [Bereitstellen der App](deploy-app.md)
    + [Verteilen der App](distribute-app.md)
-   + {#ui} der Benutzeroberflächenerweiterungen
+   + der Benutzeroberflächenerweiterungen{#ui}

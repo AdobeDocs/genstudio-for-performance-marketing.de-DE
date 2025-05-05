@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Paid-Media-Konten verbinden
 
-_[!DNL Data connectors]_ermöglichen die nahtlose Integration zwischen GenStudio for Performance Marketing und Ihren Paid-Media-Netzwerkkonten. Durch die Verbindung mit Kanalkonten von Drittanbietern können Sie wichtige Daten wie Kampagnenleistungsmetriken in [[!DNL Insights]](/help/user-guide/insights/overview.md) austauschen und neue Anzeigenplatzierungen mit [[!DNL Activate]](/help/user-guide/activation/overview.md) bereitstellen. Durch diese Integration kann GenStudio for Performance Marketing Ihre Medien und Anzeigen verwalten und gleichzeitig wertvolle Einblicke, einschließlich Impressionen, Klicks und Konversionen, aus Ihren aktiven Kampagnen erhalten.
+_[!DNL Data connectors]_&#x200B;ermöglichen die nahtlose Integration zwischen GenStudio for Performance Marketing und Ihren Paid-Media-Netzwerkkonten. Durch die Verbindung mit Kanalkonten von Drittanbietern können Sie wichtige Daten wie Kampagnenleistungsmetriken in [[!DNL Insights]](/help/user-guide/insights/overview.md) austauschen und neue Anzeigenplatzierungen mit [[!DNL Activate]](/help/user-guide/activation/overview.md) bereitstellen. Durch diese Integration kann GenStudio for Performance Marketing Ihre Medien und Anzeigen verwalten und gleichzeitig wertvolle Einblicke, einschließlich Impressionen, Klicks und Konversionen, aus Ihren aktiven Kampagnen erhalten.
 
 **So stellen Sie eine Verbindung zu einem Paid-Media-Konto her**:
 

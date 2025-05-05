@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bearbeiten. Die Rollen „Inhaltseditor“ und „Mitarbeiter“ verfügen über Bearbeitungs- und Erstellungsberechtigungen, erfordern jedoch möglicherweise keine Berechtigungen für die Systemverwaltung. Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
 
-Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung ](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ [Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
+Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung [&#128279;](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
 
 ## Schritt 1: Erstellen einer Benutzergruppe
 

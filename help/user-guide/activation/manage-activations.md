@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Verwalten von Aktivierungen
 
-_[!DNL Activate]_bietet eine zentralisierte Ansicht des Aktivierungsstatus jedes Anzeigenkanals, einschließlich der Aktivierungen Veröffentlicht (erfolgreich), Fehlgeschlagen (nicht erfolgreich) und Veröffentlichung (ausstehend). Die_ Aktivierte Erlebnisse _zeigt alle Aktivierungen für ein verbundenes Kanal-Werbekonto an.
+_[!DNL Activate]_&#x200B;bietet eine zentralisierte Ansicht des Aktivierungsstatus jedes Anzeigenkanals, einschließlich der Aktivierungen Veröffentlicht (erfolgreich), Fehlgeschlagen (nicht erfolgreich) und Veröffentlichung (ausstehend). Die_ Aktivierte Erlebnisse _zeigt alle Aktivierungen für ein verbundenes Kanal-Werbekonto an.
 
-_[!DNL Activate]_organisiert aktivierte Erlebnisse nach Anzeigenkanal. Klicken Sie **[!UICONTROL der]**auf „Anzeigen“. Die_ Aktivierte Erlebnisse _für den ausgewählten Kanal wird geöffnet. In dieser Ansicht werden Erlebnisse nach Namen aufgelistet und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
+_[!DNL Activate]_&#x200B;organisiert aktivierte Erlebnisse nach Anzeigenkanal. Klicken Sie **[!UICONTROL der]**&#x200B;auf „Anzeigen“. Die_ Aktivierte Erlebnisse _für den ausgewählten Kanal wird geöffnet. In dieser Ansicht werden Erlebnisse nach Namen aufgelistet und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
 
 ## Aktivierte Erlebnisansicht
 

@@ -28,7 +28,7 @@ Die Erstellung von Add-ons umfasst die folgenden allgemeinen Aufgaben:
 
 ## Einrichten Ihrer Arbeitsumgebung
 
-Entwickler verwenden Adobe App Builder, um benutzerdefinierte Add-ons für GenStudio for Performance Marketing zu erstellen. Wenn Sie zum ersten Mal eine benutzerdefinierte App für ein Adobe Creative Experience-Produkt entwickeln, machen Sie sich mit dem Adobe App Builder-Framework vertraut. Tutorials und Diskussionen finden ](https://developer.adobe.com/app-builder/docs/overview/) in der Dokumentation zu [App Builder .
+Entwickler verwenden Adobe App Builder, um benutzerdefinierte Add-ons für GenStudio for Performance Marketing zu erstellen. Wenn Sie zum ersten Mal eine benutzerdefinierte App für ein Adobe Creative Experience-Produkt entwickeln, machen Sie sich mit dem Adobe App Builder-Framework vertraut. Tutorials und Diskussionen finden [&#128279;](https://developer.adobe.com/app-builder/docs/overview/) in der Dokumentation zu App Builder .
 
 ### Tools für die Entwicklung
 
