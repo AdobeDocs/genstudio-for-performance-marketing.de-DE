@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Bereitstellen von Adobe GenStudio for Performance Marketing
 
-Ein Adobe-Systemadministrator führt die anfänglichen Bereitstellungsaufgaben in der [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) aus. Über die Admin Console kann ein Adobe-Systemadministrator auf das GenStudio-Produktprofil zugreifen und Benutzenden verfügbare Produktlizenzen zuweisen.
+Ein Adobe-Systemadministrator führt die anfänglichen Bereitstellungsaufgaben in der [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview) aus. Über die Admin Console kann ein Adobe-Systemadministrator auf das GenStudio-Produktprofil zugreifen und Benutzenden verfügbare Produktlizenzen zuweisen.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Innerhalb der Admin Console definiert das Produktprofil Regeln und Benutzerprofi
 
 **Zugriff auf das GenStudio-Produktprofil**
 
-1. Klicken Sie in Ihrer Begrüßungs **E-Mail auf den Link** Erste Schritte“, um zur [Adobe Admin Console zu ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview).
+1. Klicken Sie in Ihrer Begrüßungs **E-Mail auf den Link** Erste Schritte“, um zur [Adobe Admin Console zu ](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview).
 
 1. Melden Sie sich mit Ihrer Adobe ID bei der Admin Console an.
 
@@ -62,8 +62,8 @@ Siehe [Benutzerrollen und Berechtigungen](user-roles.md) für Anleitungen zum Zu
 
 Sie können Benutzer einzeln hinzufügen oder Kontoinformationen für mehrere Benutzer importieren:
 
-* [Benutzer einzeln verwalten](https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users)
+* [Benutzer einzeln verwalten](https://helpx.adobe.com/de/enterprise/using/manage-users-individually.html#add-users)
 
-* [Mehrere Benutzer verwalten/CSV-Massen-Upload](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+* [Mehrere Benutzer verwalten/CSV-Massen-Upload](https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html)
 
 Nachdem Sie Benutzer zur GenStudio for Performance Marketing Ihres Unternehmens hinzugefügt haben, kann ein GenStudio-Systemmanager [die Marken- und Medienrichtlinien Ihres Unternehmens einrichten](get-started.md).
