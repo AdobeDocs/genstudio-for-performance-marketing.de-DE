@@ -42,7 +42,7 @@ Einige Tabellen können sich über mehrere Seiten erstrecken, wie unten in der T
 
 ### Schieberegler
 
-Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
+Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_&#x200B;**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
 
 ## Erweiterte Filter
 
@@ -56,7 +56,7 @@ Im Laufe der Zeit wächst die Liste der Kampagnen und Anzeigen exponentiell. Bet
 
 **So verfeinern Sie die Tabelle Anzeigen mithilfe des Filters Kampagnen**:
 
-1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Anzeigen]**aus.
+1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Anzeigen]**&#x200B;aus.
 
    ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filterliste"){zoomable="yes"}
 
