@@ -3,9 +3,10 @@ title: Filtern von Insights-Ansichten
 description: Erfahren Sie, wie Sie die erweiterten Filterfunktionen mit Einblicken verwenden.
 level: Intermediate
 feature: Reporting and Insights
-source-git-commit: 656395e517fcb334b64865dcdbde09d8d982dc0a
+exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
+source-git-commit: 04bc6f911394d0f4c324abc347ce125203011960
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Das [!DNL Insights]-Dashboard bietet einen umfassenden Satz von Filtern für ein
 
 ## Grundlagen zum Filtern
 
-Jede Ansicht in [!DNL Insights] bietet eine Liste von Filteroptionen. Mit dem Filtersymbol (Trichter) oberhalb der linken Seite der Tabelle wird das Menü **[!UICONTROL Filter]** geöffnet. Unabhängig davon, ob Sie die Tabelle oder die Galerie anzeigen, werden angewendete Filter in der Liste **[!UICONTROL Filtern nach]** oberhalb der Tabelle oder der Galerie angezeigt. Standardmäßig werden ein Kanal und ein Konto ausgewählt.
+Jede Ansicht in [!DNL Insights] bietet eine Liste von Filteroptionen. Der Umschalter Filter (Trichter) auf der linken Seite öffnet das Menü **[!UICONTROL Filter]**. Unabhängig davon, ob Sie die Tabelle oder die Galerie anzeigen, werden angewendete Filter in der Liste **[!UICONTROL Filtern nach]** oberhalb der Tabelle oder der Galerie angezeigt. Standardmäßig werden ein Kanal und ein Konto ausgewählt.
 
 ![Filtern nach](/help/assets/insights-filter-by.png "Filtern nach"){width=600 zoomable="yes"}
 
@@ -24,9 +25,9 @@ Angewendete Filter bleiben über alle Ansichten hinweg erhalten. Wählen Sie **[
 
 ### Suchfeld
 
-Klicken Sie auf das Suchsymbol (Lupe), um einen Suchbegriff zu verwenden und bestimmte Elemente in der Tabelle oder Galerie zu finden. Wenn Sie beispielsweise den Begriff `pink` in die Tabelle [!UICONTROL Anzeigen] eingeben, werden die Ergebnisse so gefiltert, dass nur Anzeigen angezeigt werden, die den im Namen `pink` Begriff verwenden.
+Klicken Sie auf das Suchsymbol (Lupe), um einen Suchbegriff einzugeben, um bestimmte Elemente in der Tabelle oder im Katalog zu finden. Wenn Sie beispielsweise den Begriff `Gear` in die Tabelle [!UICONTROL Anzeigen] eingeben, werden die Ergebnisse so gefiltert, dass nur Anzeigen angezeigt werden, die den im Namen `Gear` Begriff verwenden.
 
-![Suchfeldbeispiel](/help/assets/insights-search.png "Suche nach Anzeigen mit Pink"){width=600 zoomable="yes"}
+![Suchfeldbeispiel](/help/assets/insights-search.png "Suche nach Anzeigen mit Gear im Namen"){width=600 zoomable="yes"}
 
 ### Datumsbereich
 
@@ -42,7 +43,7 @@ Einige Tabellen können sich über mehrere Seiten erstrecken, wie unten in der T
 
 ### Schieberegler
 
-Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_&#x200B;**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
+Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
 
 ## Erweiterte Filter
 
@@ -52,15 +53,15 @@ Mit _[!UICONTROL Kampagnen]_ und _[!UICONTROL Anzeigen]_-Filtern können Sie pr�
 - Content-Typ-Akronyme: `EB`, `CHT` oder `DSP`
 - Angebotscodes oder Akronyme: `OFFER2023`, `PROMO`
 
-Im Laufe der Zeit wächst die Liste der Kampagnen und Anzeigen exponentiell. Betrachten Sie das folgende Szenario, um den Filter _[!UICONTROL Kampagnen]_ zur Verfeinerung der Tabelle [!UICONTROL Anzeigen] zu verwenden.
+Im Laufe der Zeit kann Ihre Liste von Kampagnen und Anzeigen exponentiell wachsen. Betrachten Sie das folgende Szenario, um den Filter _[!UICONTROL Kampagnen]_ zur Verfeinerung der Tabelle [!UICONTROL Anzeigen] zu verwenden.
 
 **So verfeinern Sie die Tabelle Anzeigen mithilfe des Filters Kampagnen**:
 
-1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Anzeigen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Anzeigen]**aus.
 
-   ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filterliste"){zoomable="yes"}
+   ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
 
-1. Klicken Sie auf das Symbol „Filter“ (Trichter) über der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
+1. Klicken Sie auf den Umschalter Filter (Trichter) oberhalb der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
 
 1. Überprüfen Sie, ob der richtige `Filter by` Kanal und das richtige Konto ausgewählt sind.
 
@@ -70,11 +71,17 @@ Im Laufe der Zeit wächst die Liste der Kampagnen und Anzeigen exponentiell. Bet
 
 1. Geben _[!UICONTROL im Suchfeld]_ Kampagnen auswählen“ Schlüsselwörter durch Kommas getrennt ein.
 
-   - Verwenden Sie so viele Keywords wie nötig, um die Liste einzugrenzen. Im folgenden Beispiel wird nach Kampagnen gesucht, deren Name `evergreen`, `ROI` und `Meta` enthält:
+   Verwenden Sie Keywords, um Ihre Suche mit logischer und präziser Filterung zu verfeinern.
 
-     ![Keyword-Suche](/help/assets/insights-select-campaigns-keywords.png " Geben Sie Keywords ein, um nach Kampagnennamen zu suchen"){width=500}
+   - Um Kampagnennamen zu finden, die sowohl `adventure`- als auch **-**-`ready` enthalten, geben Sie beide Schlüsselwörter durch ein Komma getrennt ein:
 
-   - Sie können einen weiteren Satz von Keywords hinzufügen, um Ihre Suche zu erweitern. Durch die Verwendung mehrerer Keyword-Sätze können Sie Kampagnen einbeziehen, die entweder mit dem ersten Satz von Keywords oder dem zweiten Satz von Keywords übereinstimmen. Sie können beispielsweise nach Kampagnen mit den Bezeichnungen `evergreen` und `web` Kampagnen _ODER_ mit den Bezeichnungen `photoshop` und `roi` suchen:
+     ![Alle Keywords durchsuchen](/help/assets/insights-select-campaigns-and.png "Nach Kampagnennamen suchen, die beide Keywords enthalten"){width=500}
+
+   - Um Kampagnennamen zu finden, die entweder `adventure`- **ODER**-`ready` enthalten, geben Sie jedes Keyword separat ein:
+
+     ![Entweder Keywords suchen](/help/assets/insights-select-campaigns-or.png "Nach Kampagnennamen suchen, die mindestens ein Keyword enthalten"){width=500}
+
+   - Um erweiterte Suchvorgänge durchzuführen, kombinieren Sie mehrere Keyword-Sätze. Suchen Sie beispielsweise nach Kampagnennamen mit `adventure` und `apparel` **OR** `sun` und `gear`:
 
      ![Suche mit mehreren Keyword-Sätzen](/help/assets/insights-advanced-or.png "Suche nach Kampagnennamen mit mehreren Keyword-Sätzen"){width=500}
 
@@ -82,7 +89,7 @@ Im Laufe der Zeit wächst die Liste der Kampagnen und Anzeigen exponentiell. Bet
 
    ![Liste der Kampagnen](/help/assets/insights-select-campaigns-list.png "Wählen Sie die einzuschließenden Kampagnen aus")
 
-Ihre ausgewählten Kampagnen werden jetzt in der Liste _[!UICONTROL Filtern nach]_ über der Tabelle oder der Galerie für Werbeanzeigen angezeigt. Sie können sich ausschließlich auf die Anzeigen konzentrieren, die mit den ausgewählten Kampagnen verknüpft sind. In diesem Beispiel enthalten die gefilterten Ergebnisse 28 Anzeigen, die eine zielgerichtetere Ansicht für die Analyse bieten.
+Ihre ausgewählten Kampagnen werden jetzt in der Liste _[!UICONTROL Filtern nach]_ über der Tabelle oder der Galerie für Werbeanzeigen angezeigt. Sie können sich ausschließlich auf die Anzeigen konzentrieren, die mit den ausgewählten Kampagnen verknüpft sind. In diesem Beispiel enthalten die gefilterten Ergebnisse 6 Anzeigen, die eine zielgerichtetere Ansicht für die Analyse bieten.
 
 ![Tabelle gefiltert nach Kampagnen](/help/assets/insights-filter-by-campaigns.png "Tabelle mit Kampagnenfilter"){zoomable="yes"}
 
