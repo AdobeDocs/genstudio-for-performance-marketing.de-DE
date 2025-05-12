@@ -1,7 +1,7 @@
 ---
-source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
+source-git-commit: e46f074381e76c48827bcf12b46ed8f063a3cd52
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanalkonto herstellen, um Daten zu erhalten. Siehe [Connect-Kanalkonto](/help/user-guide/connectors/connect-channel.md).
+>GenStudio for Performance Marketing erfordert, dass Sie eine Verbindung zu einem Kanalkonto herstellen, um Daten zu erhalten. Siehe [Verbinden von Paid Media-Konten](/help/user-guide/connectors/connect-channel.md).
 
 ## Notiz AEM Assets {#note-aem-assets}
 
@@ -25,8 +25,8 @@ ht-degree: 0%
 >
 >Bereichern Sie Ihre Kenntnisse zu diesem Thema mit [Adobe GenStudio Academy](https://learningmanager.adobe.com/genstudioacademy).
 
-## Tip on filtering tables {#filter-table}
+## Tipp zum Filtern von Tabellen {#filter-table}
 
 >[!TIP]
 >
->Seeing too many results or a `No results found` message? Adjust filters by modifying selections, clearing all filters, or adjusting the date range. See [Filter for Insights views](/help/user-guide/insights/filter-views.md) to learn about the dynamic and versatile filter capabilities.
+>Sind zu viele Ergebnisse oder eine `No results found` Nachricht zu sehen? Anpassen von Filtern durch Ändern von Auswahlen, Deaktivieren aller Filter oder Anpassen des Datumsbereichs. Unter [Filter für Einblicke](/help/user-guide/insights/filter-views.md) erfahren Sie mehr über die dynamischen und vielseitigen Filterfunktionen.

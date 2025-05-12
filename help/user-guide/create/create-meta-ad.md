@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
+source-git-commit: b24ec61c6c8b5e359364d23d0e152b3a5b72dacf
 workflow-type: tm+mt
 source-wordcount: '1102'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
 Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
@@ -25,7 +25,7 @@ Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte berei
 
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -148,4 +148,4 @@ Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content
 
 Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und Einblicke in die Content-Performance zu erhalten.
 
-Siehe [Meta-Anzeigen verbinden](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
+Siehe [Meta-Anzeigen verbinden](/help/user-guide/connectors/meta-ads.md).

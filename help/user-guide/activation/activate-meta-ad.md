@@ -3,9 +3,9 @@ title: Meta-Anzeige aktivieren
 description: Erfahren Sie, wie Sie ein Meta-Anzeigenerlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 19f36badd66a5dc90585b4399b87230847474a81
+source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1354'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Sie müssen über die Berechtigung zum Posten von Inhalten in Meta Ads Manager v
 
 Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanager Ihre Metakonten mit GenStudio for Performance Marketing verbinden. Diese Verbindung ermöglicht den Datenfluss zwischen GenStudio und externen Marketing-Tools wie Meta und ermöglicht so Aktivierungsprozesse.
 
-Siehe [Mit einem Meta-Konto (Facebook) verbinden](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
+Siehe [Verbinden mit Meta-Anzeigen](/help/user-guide/connectors/meta-ads.md).
 
 Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeigen. Die Synchronisierung großer Datenmengen dauert länger.
 
@@ -43,7 +43,7 @@ GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
 **So bereiten Sie Ihr Erlebnis für die Aktivierung vor**:
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Kachel Meta-Produkt . Die Ansicht_ Creative Setup _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kachel Meta-Produkt . Die Ansicht_ Creative Setup _wird geöffnet.
 
    Die Creative-Setup-Seite bietet einen zentralen Speicherort für die Vorbereitung der Meta-Anzeigenaktivierung. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
 
@@ -58,27 +58,27 @@ GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
 Verwenden Sie den _Media_-Abschnitt, um mindestens ein Bild-Asset auszuwählen, das in Ihr Erlebnis aufgenommen werden soll. Anzeigenplatzierungen sind mit unterstützten Bildseitenverhältnissen verknüpft, die als Optionen im Dropdown _Menü_ Platzierungen“ aufgeführt sind. In diesem Menü werden die unterstützten Anzeigenplatzierungen für Facebook-Posts oder Instagram-Storys nach Seitenverhältnis geordnet angezeigt.
 
-Nach dem Hochladen werden die Assets in _[!DNL Content]_&#x200B;gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
+Nach dem Hochladen werden die Assets in _[!DNL Content]_gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
 
 **Hochladen eines Assets aus Inhalten**:
 
-_[!DNL Content]_&#x200B;bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
+_[!DNL Content]_bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Kachel Meta-Anzeigen . Die Ansicht_ Creative Setup _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kachel Meta-Anzeigen . Die Ansicht_ Creative Setup _wird geöffnet.
 
 1. Klicken Sie **[!UICONTROL Auswählen]** und wählen Sie dann **[!UICONTROL Aus Inhalt auswählen]** aus. Die Ansicht _Inhalt auswählen_ wird geöffnet und zeigt eine Galerie mit Bild-Assets an, die Sie durchsuchen oder filtern können.
 
-1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_&#x200B;Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
+1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
 
 1. Klicken Sie auf **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Kreativ-Asset aufzunehmen. Das Creative-Setup _-Fenster_ enthält das Asset im _Media_-Bereich in seinem Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
 
-Wenn der Upload nicht erfolgreich ist, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_&#x200B;geöffnet.
+Wenn der Upload nicht erfolgreich ist, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_geöffnet.
 
 **Hochladen eines externen Assets**:
 
 Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galerie von Microsoft OneDrive oder Dropbox hochladen.
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Meta-Kachel. Das Fenster_ Creative-Setup _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Meta-Kachel. Das Fenster_ Creative-Setup _wird geöffnet.
 
 1. Klicken Sie im Abschnitt _Medien_ auf **[!UICONTROL Auswählen]**. In einem Dropdown-Menü werden Optionen für _Aus Inhalt auswählen_ oder _Hochladen_ angezeigt.
 
@@ -88,7 +88,7 @@ Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galeri
 
 1. (Optional) Um Assets von Ihrem Gerät hochzuladen, klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie dann _Dateien durchsuchen_ oder _Ordner durchsuchen_, um Assets zum Hochladen zu identifizieren.
 
-1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_&#x200B;zu erleichtern. Diese Details werden als Metadaten gespeichert.
+1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_zu erleichtern. Diese Details werden als Metadaten gespeichert.
 
 1. Wenn Sie Ihre Assets und zugewiesenen Details hochgeladen haben, klicken Sie auf **[!UICONTROL Assets hinzufügen]** unten rechts.
 
