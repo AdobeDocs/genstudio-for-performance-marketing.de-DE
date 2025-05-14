@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
+source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -48,6 +48,8 @@ Stellen Sie beim Erstellen von Vorlagen sicher, dass sie die spezifischen Anford
 - Verwenden Sie saubere und responsive HTML und Inline-CSS
 - Verwenden von Adobe- oder Google-Schriftarten
 - Verwenden **nicht** JavaScript
+
+{{note-css-effects}}
 
 Beachten Sie bei der Arbeit mit jedem Vorlagentyp die folgenden Tipps und Einschränkungen, um eine optimale Leistung und Kompatibilität zu gewährleisten:
 
