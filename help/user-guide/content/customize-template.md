@@ -190,7 +190,7 @@ Jeder Abschnitt kann nur einen der Feldtypen verwenden. Beispielsweise gehören 
 
 Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
 
-Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) im Thema _Best Practices für die Verwendung von Vorlagen_.
+Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) im Thema _Best Practices für die Verwendung von Vorlagen_.
 
 Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher können Sie drei Überschriften- und Hauptteilabschnitte haben:
 
