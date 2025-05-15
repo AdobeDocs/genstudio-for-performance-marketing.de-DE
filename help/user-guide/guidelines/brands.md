@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  eine umfassende Sammlung von Marken-Assets - Marketing-Kopien, Bilder, Erlebnisse und mehr -, die als Grundlage für die Erstellung markenbezogener Inhalte dienen.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '1554'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -80,38 +80,13 @@ Die folgende Tabelle zeigt jeden Kanalabschnitt, die Kanäle, für die er verfü
 | Beschreibung | LinkedIn | Beschreibende Phrasen, die allgemeine Tonemotionen definieren | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Beschreibungen im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechbaren Tons“ |
 | Textkörper | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Marketing-Inhalte, einschließlich Nachrichten, Links und Bildern | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beschränkung auf 80-100 Zeichen“, „Vermeidung übermäßiger Akronyme“ |
 | Text auf dem Bild | Meta, LinkedIn | Spezifische Führung auf den Ton, ideale Länge, etc. Für Text, der über Bildern angezeigt wird | Geben Sie eine spezifische Anleitung (1-2 Sätze) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreichen Text zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Fokussiere dich auf den Moment“ |
-| Aktionsaufruf (CTA) | E-Mail-, Meta-, Banner- und Display-Anzeigen | (Aktionsaufruf) Eine Anweisung an den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche CTAs zum Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiele_: „Verwenden Sie keine Satzzeichen für Enden“ |
+| Call-to-action (CTA) | E-Mail-, Meta-, Banner- und Display-Anzeigen | (Call to action) Eine Anleitung für den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche CTAs zum Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiele_: „Verwenden Sie keine Satzzeichen für Enden“ |
 
 #### Richtlinien für Standardkanäle
 
 Die folgenden Standardkanalrichtlinien für [!DNL Brands] werden pro Kanal angewendet, basierend auf branchenüblichen Best Practices und einzelnen Plattformspezifikationen.
 
 >[!BEGINTABS]
-
->[!TAB E-Mail]
-
-| Abschnitt | Standardrichtlinie |
-|-----------|-------------------------------|
-| Betreff | Maximal 2 Zeilen |
-| Preheader | Maximal 2 Zeilen |
-| Überschrift | Limit auf 8 Wörter oder weniger |
-| Textkörper | Beschränkung auf 3-4 Zeilen |
-| CTA | Auf maximal 2 Wörter beschränken |
-
->[!TAB Bezahlte Social]
-
-| Abschnitt | Standardrichtlinie |
-|-----------|-------------------------------|
-| Überschrift | Maximal 40 Zeichen |
-| Textkörper | Limit auf 125 Zeichen oder weniger |
-
->[!TAB Anzeigen anzeigen]
-
-| Abschnitt | Standardrichtlinie |
-|-----------|-------------------------------|
-| Überschrift | Auf maximal 6 Wörter beschränken |
-| Textkörper | Auf maximal 6 Wörter beschränken |
-| CTA | Auf maximal 2 Wörter beschränken |
 
 >[!TAB Meta]
 

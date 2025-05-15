@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: c51afb3decac43f3a71d5859ba4296a8c09730d7
+source-git-commit: c3c3ca28d31539383863cf7c8ad11a24aed0965f
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,18 @@ ht-degree: 1%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2 025,04,10 {#latest}
+## 2 025,05,15 {#latest}
+
+### Fehlerbehebungen und Verbesserungen
+
+* Funktion zum [ (Hinzufügen von alternativem Text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) zu einem Bild für eine einzelne Variante aktiviert.
+* Es wurde ein [neues Meta-Seitenverhältnis](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) hinzugefügt - Querformat 1,19:1 (1080 Pixel Breite).
+* Jetzt können Sie mehr als ein Erlebnis für den Export oder Download auswählen. Siehe [Exportieren von Erlebnissen](/help/user-guide/content/manage-assets.md#export-experiences).
+<!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
+
+## Frühere Versionshinweise
+
++++Hinweise aus dem 15.5.2025
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -23,8 +34,6 @@ Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for
 * Mit dieser Funktion [ einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt ](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
 * Es wurde `sub-headline` ein [neues Vorlagenfeld](/help/user-guide/content/use-templates.md#template-elements) hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
 * Unterstützung für das [ von Anzeigenerlebnissen ](/help/user-guide/activation/overview.md) GenStudio for Performance Marketing in Google Campaign Manager 360 hinzugefügt. Activate unterstützt detaillierte Vorschauen von Google Campaign Manager 360-Anzeigen, bevor sie auf einem Campaign Manager 360-Advertiser veröffentlicht werden. Über Activate veröffentlichte Anzeigen werden automatisch nach der Live-Schaltung in die Insights gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
-
-## Frühere Versionshinweise
 
 +++Anmerkungen vom 03.2025.13
 
@@ -199,7 +208,7 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
 
-* Verbesserte Leistung der Schaltfläche [!DNL Create]&#x200B;**[!UICONTROL Zurück]**. <!-- GS-6767 -->
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 +++
 
@@ -293,7 +302,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 

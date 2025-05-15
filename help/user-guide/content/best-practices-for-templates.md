@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
+source-git-commit: f7913f4df1ae0f8d86bdaca778d102d21b0b6c3f
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -107,8 +107,9 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 **Unterstützte Seitenverhältnisse**:
 
 - Quadrat 1:1 (1080 x 1080 Pixel)
-- Vertikal 4:5 (1080 x 1350 Pixel)
+- Hochformat 4:5 (1080 x 1350 Pixel)
 - Story 9:16 (1080 x 1920 Pixel)
+- Querformat: 1,91:1 (1080 Pixel Breite)
 - Benutzerdefinierte Bildgröße: (Mindestbildbreite von 50 x 50 Pixeln)
 
 **Erkannte Feldnamen**:
@@ -137,17 +138,17 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 
 **Unterstützte Dimensionen**:
 
-- Vertikal: (Pixel)
+- Breite x Höhe (Pixel)
+- Vertikal:
    - 300 x 600
    - 160 x 600 &#x200B;
-- Horizontal: (Pixel)
+- Horizontal:
    - 300 x 250
    - 728 x 90
    - 336 x 280
    - 320 x 50
    - 970 x 250 &#x200B;
-- Benutzerdefiniert: (Pixel)
-   - 50 x 50 bis 2000 x 2000
+- Benutzerdefiniert: 50 x 50 bis 2000 x 2000
 
 **Erkannte Feldnamen**:
 

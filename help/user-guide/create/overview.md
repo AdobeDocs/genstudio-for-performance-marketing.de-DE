@@ -4,9 +4,9 @@ description: Schnelles Generieren von leistungsstarken, markeninternen Inhalten 
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 4eb45ec7e845847ebac86986924bbc39aaed42c0
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '710'
 ht-degree: 1%
 
 ---
@@ -35,68 +35,131 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>E-Mail-Erlebnis erstellen</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Erstellen eines Meta-Anzeigen-Erlebnisses" src="../../assets/icons/icon-addContent.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>Erstellen eines Meta-Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="Erstellen eines LinkedIn-Anzeigenerlebnisses" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong>Erstellen eines LinkedIn-Anzeigenerlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="Erstellen eines Bannererlebnisses" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong>Erstellen eines Bannererlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/generate-assets.md">
+
       <img alt="Erstellen von Bildern" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/generate-assets.md">
+
          <strong>Erstellen von Bildern</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue Marketing-Inhalte zu**. In diesem Anwendungsbeispiel verwenden Sie definierte [Richtlinien](/help/user-guide/guidelines/overview.md) und Inspirationsbilder, um die Erstellung von markenorientierten Inhalten zu unterstützen.
@@ -137,11 +200,11 @@ Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie
 
 ### Entwürfe
 
-Greifen Sie im _Letzte Arbeit_ des [!DNL Create] auf alle aktuellen Entwürfe zu und verwalten Sie sie. Zeigen Sie Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) oder den Export zur Verwendung vorzubereiten.
+Im Abschnitt _Zuletzt verwendet_ von [!DNL Create] können Sie auf alle aktuellen Entwürfe zugreifen und sie verwalten. Zeigen Sie Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) oder den Export zur Verwendung vorzubereiten. Klicken Sie auf das Optionssymbol (drei Punkte), um einen Entwurf zu löschen.
 
-In Bearbeitung befindliche Entwürfe werden automatisch gespeichert. Wenn Sie zurück zur [!DNL Create]-Startseite navigieren, wird der Abschnitt _Letzte Arbeit_ mit Ihren letzten Entwürfen aktualisiert. Jeder Entwurf in diesem Abschnitt zeigt einen Status an, wie _Entwurf_ oder _Genehmigt_.
+Entwürfe werden automatisch gespeichert und im Abschnitt _Zuletzt_&quot; [!DNL Create] Startseite angezeigt. Jeder Entwurf in diesem Abschnitt zeigt einen Status an, wie _Entwurf_ oder _Genehmigt_.
 
-Klicken Sie auf die Sortiersymbole (Raster oder Tabelle), um _Letzte Arbeit_ Elemente in einer Raster- oder Tabellenansicht anzuzeigen.
+Klicken Sie auf das Symbol Galerieansicht (Raster), um _Zuletzt verwendet_ Elemente entweder in einer Raster- oder Tabellenansicht anzuzeigen.
 
 ### Verwalten von Varianten
 

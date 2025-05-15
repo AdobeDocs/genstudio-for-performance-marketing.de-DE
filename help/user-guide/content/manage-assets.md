@@ -3,10 +3,10 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 67a760051b513dfd2bd6e69c886598efd7142090
+source-git-commit: 1df977edbca284e67a5d28a6835bf5fc5608aa33
 workflow-type: tm+mt
-source-wordcount: '1409'
-ht-degree: 2%
+source-wordcount: '1489'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbess
 
 ## [!DNL Content]
 
-In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Assets Klicken Sie in der Ansicht _0&rbrace; auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._
+In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Assets Klicken Sie in der Ansicht ]_0} auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._[!UICONTROL 
 
 Im Folgenden sehen Sie eine Suche nach dem Begriff `space` in der Galerie [!UICONTROL Assets]:
 
@@ -36,7 +36,7 @@ Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vor
 
 **So suchen Sie nach wiederzuverwendenden Inhalten**:
 
-1. Wählen Sie in _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Assets]**&#x200B;aus.
+1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Assets]**aus.
 
 1. Wählen Sie ein Asset-Repository aus der **[!UICONTROL Speicherort]**-Liste aus oder stellen Sie sicher, dass Sie das richtige Asset-Repository verwenden. `GenStudio assets` ist das Standard-Repository.
 
@@ -83,7 +83,7 @@ In der folgenden Tabelle sind die für Assets, Erlebnisse und Vorlagen verfügba
 | [Details anzeigen](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
 | [Erlebnis erstellen](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [Bearbeiten in Adobe Express](#edit-in-express) | ✓ |             |           |
-| [Zur Aktivierung exportieren](#export-for-activation) |        | ✓ |           |
+| [Exportieren von Erlebnissen](#export-experiences) |        | ✓ |           |
 | [Aktualisieren](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
 | [Download](#download-assets) | ✓ |             | ✓ |
 | [Löschen](#delete-assets) | ✓ | ✓ | ✓ |
@@ -96,7 +96,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Hinzufügen von Assets**:
 
-1. Klicken Sie _[!DNL Content]_&#x200B;auf **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
 
 1. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** aus Dropbox oder Microsoft OneDrive importieren.
 
@@ -120,7 +120,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Herunterladen eines Assets**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf das Symbol]** Herunterladen“ (Pfeil nach unten).
 
@@ -130,28 +130,34 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **So löschen Sie ein Asset**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben]** auf „Löschen“ (Papierkorb).
 
 1. Überprüfen Sie im Popup _Asset löschen_ das Asset und klicken Sie auf **[!UICONTROL Löschen]**.
 
-## Zur Aktivierung exportieren
+## Exportieren von Erlebnissen
 
-Sie können genehmigte Erlebnisse zur Aktivierung in einem Format exportieren, das mit Ihrem Zielkanal kompatibel ist.
+Sie können ein oder mehrere genehmigte Erlebnisse zum Herunterladen in einem mit Ihrem Zielkanal kompatiblen Format auswählen. Die heruntergeladene Datei wird nach dem Exportdatum benannt: `2025-06-15-export.zip`. Wenn Sie die Datei entpacken, gibt es einen Ordner für jeden Kanaltyp, der die exportierten Assets in den ausgewählten Formaten enthält. Jedes exportierte Asset behält seinen ursprünglichen Asset-Namen als Dateinamen bei.
 
-**Ein Erlebnis exportieren**:
+**Exportieren oder Herunterladen von Erlebnissen**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;ein Erlebnis aus. Durch Klicken auf ein Erlebnis wird die Detailansicht geöffnet oder auf das Kontextmenü (`...`) geklickt.
+1. Wählen Sie _[!DNL Content]_ein oder mehrere Erlebnisse aus.
 
-1. Klicken Sie auf **[!UICONTROL Zur Aktivierung exportieren]** (Feld mit einem Pfeil nach oben).
+   Es wird ein Banner mit der links ausgewählten Anzahl von Erlebnissen und rechts Optionen [!UICONTROL Aktivieren], [!UICONTROL Herunterladen] oder [!UICONTROL Löschen] angezeigt.
 
-1. Wählen _im Popup_ Zur Aktivierung exportieren“ eines der verfügbaren Formate aus:
+1. (Optional) Wenn Sie eine Aktivierung durchführen möchten, werden Sie möglicherweise aufgefordert, eine Plattform auszuwählen und dann mit dem [!DNL Activate] Workflow fortzufahren. Siehe [Aktivieren](/help/user-guide/activation/overview.md).
 
-   - E-Mail: `HTML`, `CSV`
+1. Klicken Sie auf **[!UICONTROL Herunterladen]**.
+
+1. Wählen _im Pop_ Download“ aus den verfügbaren Formaten aus.
+
+   Wenn Sie mehrere Erlebnisse aus verschiedenen Kanälen ausgewählt haben, können Sie das Format für jeden Kanaltyp auswählen.
+
+   - E-Mail, LinkedIn: `HTML`, `CSV`
    - Meta-, Banner- und Display-Anzeige: `HTML`, `JPEG`, `PNG`
 
-Siehe [Aktivierung](/help/user-guide/activation/overview.md).
+   ![Erlebnisse herunterladen](/help/assets/content-bulk-export.png "Mehrere Erlebnisse herunterladen"){width=350}
 
 ## In Express bearbeiten
 
@@ -170,7 +176,7 @@ Kriterien für die Optimierung von Bildern mit der [!DNL Edit in Adobe Express]:
 
 **So bearbeiten Sie ein Asset mit Express**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset-Ansicht **[!UICONTROL oben rechts auf]** Symbol „Bearbeiten in Adobe Express&quot;.
 

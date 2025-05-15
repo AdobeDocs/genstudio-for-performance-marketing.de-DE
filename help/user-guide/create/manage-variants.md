@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 8d4442a3eb9aaf500b3a0a249031214337caf0ff
+source-git-commit: 09a8af603945686ad58e3edc6a5c77d79fdf2956
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1659'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvarian
 
    Die Variante wird mit dem überarbeiteten Text aktualisiert.
 
-## Handlungsaufforderung überarbeiten
+## Call to action überarbeiten
 
 Nachdem Sie einen Variantensatz generiert haben, können Sie den Text und den Link für call-to-action (CTA) überarbeiten.
 
@@ -155,7 +155,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -176,6 +176,25 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Fügen Sie einen Link in das Textfeld ein und klicken Sie auf **[!UICONTROL Übernehmen]**.
 
    Der definierte Link wird auf alle Bilder im Variantensatz angewendet.
+
+## Alten Text für Bilder hinzufügen
+
+Wenn Sie während des Erstellungsprozesses Inhalte (Bilder) hinzufügen, können Sie Alt-Text für jedes Bild definieren. Das Hinzufügen von Alternativtext zu Bildern verbessert die Barrierefreiheit, die Suchmaschinenoptimierung und das Benutzererlebnis.
+
+Um die ALT-Text-Funktion zu aktivieren[ fügen Sie in ](/help/user-guide/content/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
+
+**So fügen Sie Bildern in generierten Varianten Alternativtext hinzu**:
+
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein Bild in einer einzelnen Variante.
+1. Klicken Sie auf **[!UICONTROL Alt-Text]** (Symbol für Bild und Papier).
+1. So fügen Sie alternativen Text manuell hinzu:
+   1. Klicken Sie in das Textfeld und fügen Sie alternativen Text hinzu.
+   1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
+1. So generieren Sie alternativen Text für das Bild:
+   1. Lassen Sie das Textfeld leer und klicken Sie auf **[!UICONTROL Generieren]**.
+   1. Klicken **[!UICONTROL erneut auf]** Generieren“, wenn Sie mit dem ursprünglichen Ergebnis nicht zufrieden sind.
+   1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
+1. Wiederholen Sie diesen Vorgang für jedes Bild in Ihrem Variantensatz.
 
 ## Vorschau für Gerät
 

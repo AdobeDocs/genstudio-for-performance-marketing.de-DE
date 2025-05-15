@@ -6,16 +6,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '1010'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/email-experiences.md) GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich markenspezifische E-Mail-Erlebnisse generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich](/help/user-guide/create/email-experiences.md) markenspezifische E-Mail-Erlebnisse generieren können.
 
 Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) ](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
 
@@ -25,7 +25,7 @@ Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlag
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL E-Mail]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte E-Mail-Vorlage zu finden.
 1. Wählen Sie eine E-Mail-Vorlage aus und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -89,6 +89,7 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 * **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
+* **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
 * **Um [E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. „E-Mail 1/4„), und klicken Sie dann auf **[!UICONTROL Variante löschen]**.
 
 ## Feedback zur Senden-Generierung

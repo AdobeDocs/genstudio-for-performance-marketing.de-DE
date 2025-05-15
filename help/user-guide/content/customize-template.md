@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
+source-git-commit: d0fd0bd2ac98149ec4d6449a7490d55cc48d9ae2
 workflow-type: tm+mt
-source-wordcount: '1406'
+source-wordcount: '1480'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sie können eine Vorlage für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die die generative KI zum Einfügen von Inhalten verwendet.
 
-In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_&#x200B;anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
+In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
 
 Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing hochladen](use-templates.md#upload-a-template) und mit der Erstellung personalisierter E-Mails beginnen, die auf Ihrer benutzerdefinierten Vorlage basieren.
 
@@ -50,7 +50,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 | `{{cta}}` | Aktionsaufruf<br> Siehe [Aktionsaufrufe](#calls-to-action) | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{image}}` | Bild (Image) - Auswahl aus [!DNL Content] | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{on_image_text}}` | Bei Bildtext<br> Siehe [Bei Bildtext](#on-image-text). | Meta-Anzeige <br>LinkedIn-Anzeige |
-| `{{link}}` | Aktionsaufruf für Bild<br> Siehe [Link auf Bild](#link-on-image). | E-Mail |
+| `{{link}}` | Call to action on image<br>Siehe [Link on image](#link-on-image). | E-Mail |
 
 <!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
 
@@ -111,6 +111,27 @@ Beschreibung dieses Beispiels:
 - `src="image-source.jpg"` sollte durch die tatsächliche Bildquellen-URL ersetzt werden.
 - `{{imageDescription}}` ist ein benutzerdefinierter Feldname, der einen Platzhalter für den Alternativtext des Bildes bereitstellt, was für Barrierefreiheit und SEO nützlich ist.
 
+### Alternativtext
+
+Verwenden Sie einen benutzerdefinierten Feldnamen als Platzhalter, um eine Alternativtextbeschreibung (HTML-`alt="text"`) für ein Bild zu generieren. Der folgende `{{imageDescription}}`-Platzhalter wird mit dem Feld `{{image}}` innerhalb desselben `<img>`-Tags verwendet, um sicherzustellen, dass die Beziehung zwischen dem Bild und seiner Beschreibung bestehen bleibt.
+
+```html
+<img src="{{image}}" alt="{{imageDescription}}">
+```
+
+Beschreibung dieses Beispiels:
+
+- `{{image}}` ist der Platzhalter für die Bildquellen-URL.
+- `{{imageDescription}}` ist der Platzhalter für den Alternativtext, der eine Beschreibung des Bildes für Barrierefreiheits- und SEO-Zwecke bereitstellt.
+
+### Bei Bildtext
+
+Der `{{ on_image_text }}` Platzhalter wird verwendet, um eine Textüberlagerung kurzer wirkungsvoller Nachrichten anzugeben, die direkt auf dem Bild in einem Erlebnis platziert werden.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
+```
+
 <!-- this field does not work in Create canvas 2025/03
 
 ### Brand logo field name
@@ -151,22 +172,14 @@ Um einen bearbeitbaren Abschnitt zu erstellen, fügen Sie doppelte Klammern um d
 </tbody>
 ```
 
-## Bei Bildtext
-
-Der `{{ on_image_text }}` Platzhalter wird verwendet, um eine Textüberlagerung kurzer wirkungsvoller Nachrichten anzugeben, die direkt auf dem Bild in einem Erlebnis platziert werden.
-
-```html
-<div class="image-text">{{ on_image_text }}</div>
-```
-
 ## Abschnitte oder Gruppen
 
 _Abschnitte_ informieren GenStudio for Performance Marketing, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
 
-Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Verwenden Sie einen Feldnamen (`headline`, `body`, `image` oder `cta`) nach dem Unterstrich (`_`).
+Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Verwenden Sie einen Feldnamen (z. B. `headline`, `body`, `image` oder `cta`) nach dem Unterstrich (`_`).
 
-- _Richtig_ (??): `pod1_body`
-- _Falsch_ (❌): `pod1_link`
+- _Richtig_ (👍): `pod1_body`
+- _Falsch_ (❌): `pod1body`
 
 Jeder Abschnitt kann nur einen der Feldtypen verwenden. Beispielsweise gehören die folgenden Felder zum Abschnitt `pod1` :
 
@@ -177,9 +190,10 @@ Jeder Abschnitt kann nur einen der Feldtypen verwenden. Beispielsweise gehören 
 
 Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
 
-Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) im Thema _Best Practices für die Verwendung von Vorlagen_.
+Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) im Thema _Best Practices für die Verwendung von Vorlagen_.
 
 Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher können Sie drei Überschriften- und Hauptteilabschnitte haben:
+
 
 - `pre_header`
 - `pod1_headline`
@@ -192,7 +206,9 @@ Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher 
 
 GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verbunden ist.
 
-Unter [Strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) erfahren Sie, wie Sie eine Eingabeaufforderung erstellen, die für jeden Abschnitt in einer E-Mail mit mehreren Abschnitten unterschiedliche Inhalte generiert.
+>[!TIP]
+>
+>Unter [Strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) erfahren Sie, wie Sie eine Eingabeaufforderung erstellen, die für jeden Abschnitt in einer E-Mail mit mehreren Abschnitten unterschiedliche Inhalte generiert.
 
 ## Vorlagenvorschau
 

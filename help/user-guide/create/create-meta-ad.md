@@ -6,16 +6,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b24ec61c6c8b5e359364d23d0e152b3a5b72dacf
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1130'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
 Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
@@ -25,7 +25,7 @@ Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte berei
 
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -98,6 +98,7 @@ Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf.
 * **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
 * **Um Bilder [zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)** bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittssymbol und passen Sie die Bildgröße und -platzierung an.
+* **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
 * **Um [Meta-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf das Optionsmenü für eine Variante und anschließend auf **[!UICONTROL Variante löschen]**.
 
 ## Feedback zur Senden-Generierung
