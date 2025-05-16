@@ -6,9 +6,9 @@ badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, s
 role: User
 level: Beginner
 exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 8d79c2bd2347bebb18ecb432a7087fb3d1ac1356
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,8 @@ Zu den bearbeitbaren Abschnitten eines LinkedIn-Erlebnisses gehören:
 * Überschrift
 * Einführungstext
 * Beschreibung
-* Aktionsaufruf (CTA)
+* Call to action (CTA)
 * Bild
-* Markenlogo
 
 Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).
 
@@ -41,7 +40,7 @@ Wenn Sie auf **[!UICONTROL Generieren]** klicken, wird unten auf der Arbeitsflä
 Jedes Feld und jeder Abschnitt der LinkedIn-Erlebnisse wird schrittweise in dieser Sequenz geladen:
 
 1. Primärer Text für alle Varianten
-1. Aktionsaufruf und zugehörige URLs
+1. Call-to-action und zugehörige URLs
 1. Überschriften
 1. Text auf dem Bild
 1. Markenvalidierung
