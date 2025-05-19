@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing ermöglicht es GenStudio-Systemmanagern und -Editoren, Anzeigenerlebnisse auf der Google Campaign Manager 360-Plattform zu veröffentlichen.
 
-Sie können die Veröffentlichung einer Google Campaign Manager 360-Anzeigenerfahrung entweder über die _[!DNL Content]_Galerie oder_[!DNL Activate]_ Startseite starten.
+Sie können die Veröffentlichung einer Google Campaign Manager 360-Anzeigenerfahrung entweder über die _[!DNL Content]_&#x200B;Galerie oder&#x200B;_[!DNL Activate]_ Startseite starten.
 
 ## Schritt 1: Google Campaign Manager 360-Konten einrichten
 
@@ -30,11 +30,11 @@ Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeig
 
 ## Schritt 3: Auswählen des Inhalts für Ihr Anzeigenerlebnis
 
-Sie können den Veröffentlichungsprozess entweder über die Galerie _[!DNL Content]_Erlebnisse oder die Startseite der_[!DNL Activate]_ starten. Genehmigte Erlebnisse können nicht bearbeitet werden. Jedes Erlebnis kann nur ein Asset enthalten.
+Sie können den Veröffentlichungsprozess entweder über die Galerie _[!DNL Content]_&#x200B;Erlebnisse oder die Startseite der&#x200B;_[!DNL Activate]_ starten. Genehmigte Erlebnisse können nicht bearbeitet werden. Jedes Erlebnis kann nur ein Asset enthalten.
 
 **So wählen Sie Erlebnisse**:
 
-1. Verwenden Sie die Such- und Filterwerkzeuge des _[!DNL Content]_, um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Verwenden]**. (Alternativ können Sie ein Erlebnis aus_[!DNL Activate]_ auswählen, indem Sie auf **[!UICONTROL Neu]** auf der Google Campaign Manager 360-Produktkarte klicken.)
+1. Verwenden Sie die Such- und Filterwerkzeuge des _[!DNL Content]_, um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Verwenden]**. (Alternativ können Sie ein Erlebnis aus&#x200B;_[!DNL Activate]_ auswählen, indem Sie auf **[!UICONTROL Neu]** auf der Google Campaign Manager 360-Produktkarte klicken.)
 
    Die Seite Google Campaign Manager 360 _Erlebnis-Setup_ wird für dieses Erlebnis geöffnet. Es wird vorab mit den Details des Erlebnisses ausgefüllt, die Sie nicht überarbeiten können. Sie werden möglicherweise aufgefordert, eine Plattform auszuwählen, bevor Sie mit der Aktivierung fortfahren.
 
@@ -49,7 +49,7 @@ Die Ansicht _Platform-Setup_ wird geöffnet. Diese Ansicht enthält Optionen, di
 
    Ihre Kreativität wird nach Abschluss der Aktivierung dieser Advertiser-Bibliothek in Google Campaign Manager 360 bereitgestellt.
 
-1. Fügen Sie dem Feld **[!UICONTROL Creative-Name}]** Namen hinzu. Google Campaign Manager 360 identifiziert das Erlebnis anhand dieses Namens.
+1. Fügen Sie dem Feld **[!UICONTROL Creative-Name&rbrace;]** Namen hinzu. Google Campaign Manager 360 identifiziert das Erlebnis anhand dieses Namens.
 Wiederholen Sie diesen Vorgang für jedes ausgewählte Erlebnis.
 
 1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung von Google Campaign Manager 360 zu bestätigen.

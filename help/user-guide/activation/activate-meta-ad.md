@@ -51,7 +51,7 @@ Sie haben zwei Möglichkeiten, eine Aktivierung zu starten:
 
 * **Direkt über [!DNL Content]_** aktivieren. Die Auswahl eines genehmigten Erlebnisses mit vordefinierten Einstellungen ist die optimierte Methode, um eine Aktivierung für einen einzelnen Kanal zu starten.
 
-* **Assemblieren Ihres Anzeigen-Erlebnisses über [!DNL Activate] > _Erlebnis-Setup_**Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus_[!DNL Content]_ auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
+* **Assemblieren Ihres Anzeigen-Erlebnisses über [!DNL Activate] > _Erlebnis-Setup_**&#x200B;Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus&#x200B;_[!DNL Content]_ auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
 
 ### Aktivieren eines genehmigten Erlebnisses aus Inhalten
 
@@ -73,16 +73,16 @@ Wenn Sie mehr als ein Erlebnis zur Aktivierung als Gruppe ausgewählt haben, ver
 
 ### Zusammenführen von Erlebniskomponenten
 
-Wenn Sie ein genehmigtes Erlebnis nicht direkt aus _[!DNL Content]_aktivieren möchten, können Sie Assets auswählen, Seitenverhältnisse zuweisen und Textelemente entwerfen.
+Wenn Sie ein genehmigtes Erlebnis nicht direkt aus _[!DNL Content]_&#x200B;aktivieren möchten, können Sie Assets auswählen, Seitenverhältnisse zuweisen und Textelemente entwerfen.
 
 **So bereiten Sie Ihr Erlebnis für die Aktivierung vor**:
 
-1. Klicken Sie _[!DNL Activate]_auf **[!UICONTROL Neu]**auf dem Symbol für den ausgewählten gebührenpflichtigen Kanal. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
+1. Klicken Sie _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf dem Symbol für den ausgewählten gebührenpflichtigen Kanal. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
 
    Auf _Seite „Erlebniseinrichtung_ können Sie die Anzeigenaktivierung zentral vorbereiten. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
 
 1. Weisen Sie Ihrem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
-1. Wählen Sie Medien-Assets aus. Sie können Assets aus _[!DNL Content]_verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
+1. Wählen Sie Medien-Assets aus. Sie können Assets aus _[!DNL Content]_&#x200B;verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
 1. [Text hinzufügen](#add-ad-text).
 1. [Metadaten hinzufügen](#assign-metadata).
 
@@ -92,27 +92,27 @@ Wenn Sie ein genehmigtes Erlebnis nicht direkt aus _[!DNL Content]_aktivieren m�
 
 Verwenden Sie den _Media_-Abschnitt, um mindestens ein Bild-Asset auszuwählen, das in Ihr Erlebnis aufgenommen werden soll. Anzeigenplatzierungen sind mit unterstützten Bildseitenverhältnissen verknüpft, die als Optionen im Dropdown _Menü_ Platzierungen“ aufgeführt sind. In diesem Menü werden die unterstützten Anzeigenplatzierungen für Facebook-Posts oder Instagram-Storys nach Seitenverhältnis geordnet angezeigt.
 
-Nach dem Hochladen werden die Assets in _[!DNL Content]_gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
+Nach dem Hochladen werden die Assets in _[!DNL Content]_&#x200B;gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
 
 **Hochladen eines Assets aus Inhalten**:
 
-_[!DNL Content]_bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
+_[!DNL Content]_&#x200B;bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
 
-1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kanalkarte. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Kanalkarte. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
 
 1. Klicken Sie **[!UICONTROL Auswählen]** und wählen Sie dann **[!UICONTROL Aus Inhalt auswählen]** aus. Die Ansicht _Inhalt auswählen_ wird geöffnet und zeigt eine Galerie mit Bild-Assets an, die Sie durchsuchen oder filtern können.
 
-1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
+1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_&#x200B;Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
 
 1. Klicken Sie **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Anzeigenerlebnis aufzunehmen. Das Fenster _Erlebniseinrichtung_ enthält das Asset im Bereich _Medien_ im Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
 
-Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_geöffnet.
+Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_&#x200B;geöffnet.
 
 **Hochladen eines externen Assets**:
 
 Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galerie von Microsoft OneDrive oder Dropbox hochladen.
 
-1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Meta-Kachel. Das Fenster_ Erlebnis-Setup _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Meta-Kachel. Das Fenster_ Erlebnis-Setup _wird geöffnet.
 
 1. Klicken Sie im Abschnitt _Medien_ auf **[!UICONTROL Auswählen]**. In einem Dropdown-Menü werden Optionen für _Aus Inhalt auswählen_ oder _Hochladen_ angezeigt.
 
@@ -122,7 +122,7 @@ Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galeri
 
 1. (Optional) Um Assets von Ihrem Gerät hochzuladen, klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie dann _Dateien durchsuchen_ oder _Ordner durchsuchen_, um Assets zum Hochladen zu identifizieren.
 
-1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_zu erleichtern. Diese Details werden als Metadaten gespeichert.
+1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_&#x200B;zu erleichtern. Diese Details werden als Metadaten gespeichert.
 
 1. Wenn Sie Ihre Assets und zugewiesenen Details hochgeladen haben, klicken Sie auf **[!UICONTROL Assets hinzufügen]** unten rechts.
 
