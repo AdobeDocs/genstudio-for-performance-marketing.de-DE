@@ -3,35 +3,43 @@ title: Meta-Anzeige aktivieren
 description: Erfahren Sie, wie Sie ein Meta-Anzeigenerlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
+source-git-commit: 09450c99dfc6bc283519b068a3b34c0551e45fc8
 workflow-type: tm+mt
-source-wordcount: '1354'
-ht-degree: 2%
+source-wordcount: '1670'
+ht-degree: 1%
 
 ---
 
 # Meta-Anzeige aktivieren
 
-Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von Meta-Anzeigen oder Kreativen auf Instagram und Facebook.
+Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von Meta-Anzeigen-Erlebnissen auf Instagram und Facebook.
 
 Sie können [ein Meta-Erlebnis](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
 
-Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen gebührenpflichtigen Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihrer Kreativ-Formulare aus den Anzeigenerlebnissen für die spezifischen Anforderungen von Meta. Nachdem Sie ein Meta-Erlebnis oder ein Kreativ-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie [Meta Ads Manager](https://adsmanager.facebook.com/) verwenden, um das Erlebnis vor der endgültigen Veröffentlichung für bestimmte Platzierungen von Meta-Anzeigen zu optimieren.
+Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen gebührenpflichtigen Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihres Anzeigen-Erlebnisses auf die spezifischen Anforderungen von Meta. Nachdem Sie ein Meta-Erlebnis in GenStudio for Performance Marketing aktiviert haben, verwenden Sie [Meta Ads Manager](https://adsmanager.facebook.com/), um das Erlebnis vor der endgültigen Veröffentlichung für bestimmte Platzierungen von Meta-Anzeigen zu optimieren.
+
+GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
 ## Schritt 1: Einrichten Ihrer Meta-Konten
 
-Bevor Sie eine Aktivierung starten, [ Sie sich bei Meta](https://adsmanager.facebook.com/) an, um auf Ihr Meta Ads Manager-Konto zuzugreifen. Vergewissern Sie sich, dass Ihre verbundenen Meta-Anzeigenkonten Folgendes enthalten:
+Bevor Sie eine Aktivierung starten, [ Sie sich bei Meta](https://adsmanager.facebook.com/) an, um auf Ihr Meta Ads Manager-Konto zuzugreifen.
+
+>[!BEGINSHADEBOX]
+
+**Voraussetzungen**:
+
+Vergewissern Sie sich, dass Ihre verbundenen Meta-Werbekonten über die vollständige Berechtigung zum Verwalten von Anzeigen in diesen Komponenten der Meta-Werbeplattform verfügen:
 
 * Facebook-Seite
 * Meta-Kampagne
 * Meta-Anzeigensatz
 * Instagram-Profil (optional)
 
-Sie müssen über die Berechtigung zum Posten von Inhalten in Meta Ads Manager verfügen.
+>[!ENDSHADEBOX]
 
 ## Schritt 2: Verbinden mit Ihren Meta-Konten
 
-Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanager Ihre Metakonten mit GenStudio for Performance Marketing verbinden. Diese Verbindung ermöglicht den Datenfluss zwischen GenStudio und externen Marketing-Tools wie Meta und ermöglicht so Aktivierungsprozesse.
+Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanager Ihre Metakonten mit GenStudio for Performance Marketing verbinden. Diese Verbindung ermöglicht den Datenfluss zwischen GenStudio und externen Marketing-Tools wie Meta und ermöglicht so den Aktivierungsprozess.
 
 Siehe [Verbinden mit Meta-Anzeigen](/help/user-guide/connectors/meta-ads.md).
 
@@ -39,16 +47,42 @@ Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeig
 
 ## Schritt 3: Bereiten Sie Ihr Erlebnis für die Aktivierung vor
 
-GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
+Sie haben zwei Möglichkeiten, eine Aktivierung zu starten:
+
+* **Direkt über [!DNL Content]_** aktivieren. Die Auswahl eines genehmigten Erlebnisses mit vordefinierten Einstellungen ist die optimierte Methode, um eine Aktivierung für einen einzelnen Kanal zu starten.
+
+* **Assemblieren Ihres Anzeigen-Erlebnisses über [!DNL Activate] > _Erlebnis-Setup_**Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus_[!DNL Content]_ auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
+
+### Aktivieren eines genehmigten Erlebnisses aus Inhalten
+
+Sie können mehrere Erlebnisse auswählen, die für einen einzelnen gebührenpflichtigen Kanal aktiviert werden sollen. Sie werden möglicherweise aufgefordert, eine Plattform auszuwählen, bevor Sie mit der Aktivierung fortfahren.
+
+Wenn Sie mehr als ein Erlebnis zur Aktivierung als Gruppe ausgewählt haben, verwenden Sie die linke Seitenleiste, um den Fokus der Ansicht _Erlebniseinrichtung_ auf die Details des ausgewählten Erlebnisses zu legen.
+
+1. Verwenden Sie die Such- und Filterwerkzeuge des _[!DNL Content]_, um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**.
+
+   Die Meta Ads _Erlebnis-Setup_-Seite wird für dieses Erlebnis geöffnet. Es wird vorab mit Details aus dem ausgewählten Erlebnis ausgefüllt. Sie können die Felder **[!UICONTROL Call-to-action]**, **[!UICONTROL Website-URL]** und **[!UICONTROL Link anzeigen]** bearbeiten. Wenn Sie mehr als ein Erlebnis zur Aktivierung auswählen _enthält die Ansicht_ Erlebniseinrichtung“ eine linke Seitenleiste, in der Miniaturansichten aller ausgewählten Erlebnisse angezeigt werden. Verwenden Sie diese linke Seitenleiste, um die Ansicht _Erlebniseinrichtung_ auf die Details des ausgewählten Erlebnisses zu fokussieren.
+
+1. Wählen Sie eine Kampagne aus **[!UICONTROL Dropdown]** Menü „Kampagnen“.
+
+   Wenn Sie mit mehreren Erlebnissen arbeiten, können Sie die Erlebnisse in der linken Seitenleiste umschalten, bis die Vorbereitung der einzelnen Erlebnisse abgeschlossen ist.
+
+1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung der Meta-Anzeigen zu bestätigen.
+
+1. Weisen Sie jedem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
+
+### Zusammenführen von Erlebniskomponenten
+
+Wenn Sie ein genehmigtes Erlebnis nicht direkt aus _[!DNL Content]_aktivieren möchten, können Sie Assets auswählen, Seitenverhältnisse zuweisen und Textelemente entwerfen.
 
 **So bereiten Sie Ihr Erlebnis für die Aktivierung vor**:
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Kachel Meta-Produkt . Die Ansicht_ Creative Setup _wird geöffnet.
+1. Klicken Sie _[!DNL Activate]_auf **[!UICONTROL Neu]**auf dem Symbol für den ausgewählten gebührenpflichtigen Kanal. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
 
-   Die Creative-Setup-Seite bietet einen zentralen Speicherort für die Vorbereitung der Meta-Anzeigenaktivierung. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
+   Auf _Seite „Erlebniseinrichtung_ können Sie die Anzeigenaktivierung zentral vorbereiten. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
 
 1. Weisen Sie Ihrem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
-1. Wählen Sie Medien-Assets aus. Sie können Assets aus Inhalten verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
+1. Wählen Sie Medien-Assets aus. Sie können Assets aus _[!DNL Content]_verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
 1. [Text hinzufügen](#add-ad-text).
 1. [Metadaten hinzufügen](#assign-metadata).
 
@@ -58,27 +92,27 @@ GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
 Verwenden Sie den _Media_-Abschnitt, um mindestens ein Bild-Asset auszuwählen, das in Ihr Erlebnis aufgenommen werden soll. Anzeigenplatzierungen sind mit unterstützten Bildseitenverhältnissen verknüpft, die als Optionen im Dropdown _Menü_ Platzierungen“ aufgeführt sind. In diesem Menü werden die unterstützten Anzeigenplatzierungen für Facebook-Posts oder Instagram-Storys nach Seitenverhältnis geordnet angezeigt.
 
-Nach dem Hochladen werden die Assets in _[!DNL Content]_&#x200B;gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
+Nach dem Hochladen werden die Assets in _[!DNL Content]_gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
 
 **Hochladen eines Assets aus Inhalten**:
 
-_[!DNL Content]_&#x200B;bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
+_[!DNL Content]_bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Kachel Meta-Anzeigen . Die Ansicht_ Creative Setup _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Kanalkarte. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
 
 1. Klicken Sie **[!UICONTROL Auswählen]** und wählen Sie dann **[!UICONTROL Aus Inhalt auswählen]** aus. Die Ansicht _Inhalt auswählen_ wird geöffnet und zeigt eine Galerie mit Bild-Assets an, die Sie durchsuchen oder filtern können.
 
-1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_&#x200B;Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
+1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
 
-1. Klicken Sie auf **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Kreativ-Asset aufzunehmen. Das Creative-Setup _-Fenster_ enthält das Asset im _Media_-Bereich in seinem Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
+1. Klicken Sie **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Anzeigenerlebnis aufzunehmen. Das Fenster _Erlebniseinrichtung_ enthält das Asset im Bereich _Medien_ im Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
 
-Wenn der Upload nicht erfolgreich ist, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_&#x200B;geöffnet.
+Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_geöffnet.
 
 **Hochladen eines externen Assets**:
 
 Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galerie von Microsoft OneDrive oder Dropbox hochladen.
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Meta-Kachel. Das Fenster_ Creative-Setup _wird geöffnet.
+1. Klicken Sie in _[!DNL Activate]_auf **[!UICONTROL Neu]**auf der Meta-Kachel. Das Fenster_ Erlebnis-Setup _wird geöffnet.
 
 1. Klicken Sie im Abschnitt _Medien_ auf **[!UICONTROL Auswählen]**. In einem Dropdown-Menü werden Optionen für _Aus Inhalt auswählen_ oder _Hochladen_ angezeigt.
 
@@ -88,13 +122,13 @@ Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galeri
 
 1. (Optional) Um Assets von Ihrem Gerät hochzuladen, klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie dann _Dateien durchsuchen_ oder _Ordner durchsuchen_, um Assets zum Hochladen zu identifizieren.
 
-1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_&#x200B;zu erleichtern. Diese Details werden als Metadaten gespeichert.
+1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_zu erleichtern. Diese Details werden als Metadaten gespeichert.
 
 1. Wenn Sie Ihre Assets und zugewiesenen Details hochgeladen haben, klicken Sie auf **[!UICONTROL Assets hinzufügen]** unten rechts.
 
 ### Hinzufügen von Anzeigentext
 
-Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlichen Textfeldern überzeugenden, markenspezifischen Text hinzuzufügen. Der Text enthält den primären Text (Haupttext) für die Anzeige und den Text für Aktionsaufrufe.
+Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlichen Textfeldern überzeugenden, markenspezifischen Text hinzuzufügen. Der Text enthält den primären Text (Haupttext) für die Anzeige und den Text für Aktionsaufrufe. Die Felder _Primärer Text_, _Überschriften_ und _Beschreibung_ können nicht bearbeitet werden. Sie können die Felder _Call-to-action_, _Link anzeigen_ und _Website-URL_ bearbeiten.
 
 | Feld | Erforderlich | Zeichenbeschränkung (max.) |
 |-----------------|---------------------------|---------------------------------|
@@ -124,11 +158,11 @@ Erlebnisdetails werden als Metadaten gespeichert und helfen Benutzern bei der Su
 | Sprache | Sprachen, für die das Anzeigen-Erlebnis verwendet wird |
 | Keywords | Benutzerdefinierte Keywords, die die Suche und Kategorisierung des Anzeigenerlebnisses erleichtern |
 
-Klicken Sie nach dem Zusammenstellen Ihres Kreativs auf **[!UICONTROL Weiter]** um Ihr Meta-Setup zu bestätigen.
+Klicken Sie nach dem Zusammenstellen oder Auswählen Ihres Erlebnisses auf **[!UICONTROL Weiter]**, um Ihr Meta-Setup zu bestätigen.
 
 ## Schritt 4: Bestätigen der Einrichtung des Meta-Kontos
 
-Nach der Vorbereitung Ihres Kreativprofis müssen Sie Ihre Meta-Kontoinformationen bestätigen und dem Anzeigenerlebnis eine Tracking-ID zuweisen. Die _Meta-Anzeige einrichten_-Ansicht enthält Optionen, die von den konfigurierten Meta-Konten abgeleitet sind.
+Nachdem Sie Ihre Anzeigenerlebnisse vorbereitet haben, müssen Sie Ihre Meta-Kontoinformationen bestätigen. Die _Meta-Anzeige einrichten_-Ansicht enthält Optionen, die von den konfigurierten Meta-Konten abgeleitet sind.
 
 | Detail | Beschreibung |
 |------------|-------------|
@@ -146,7 +180,7 @@ Klicken Sie **[!UICONTROL oben]** auf „Weiter“, um eine Vorschau Ihres Anzei
 
 ## Schritt 5: Vorschau anzeigen und aktivieren
 
-Auf _Seite „Überprüfen_ wird Ihr Anzeigen-Erlebnis so angezeigt, wie es im _Creative-_ zusammengestellt wurde, und bietet eine letzte Möglichkeit, Ihr Erlebnis anzuzeigen und zu bearbeiten. Klicken Sie **[!UICONTROL Abschnitt bearbeiten]** neben der Beschriftung _Creative-Setup_, um Ihre Änderungen vorzunehmen. Sie können auch oben **[!UICONTROL auf „Zurück]** klicken, um zur Seite _Creative-Einrichtung“_.
+Auf _Seite_&#x200B;Überprüfen“ wird Ihr Anzeigenerlebnis so angezeigt, wie es im _Erlebnis-Setup_ zusammengestellt wurde, und bietet eine letzte Möglichkeit, Ihr Erlebnis anzuzeigen und zu bearbeiten. Klicken Sie **[!UICONTROL Abschnitt]** neben der Beschriftung _Erlebniseinrichtung_ , um Ihre Änderungen vorzunehmen. Sie können auch oben **[!UICONTROL auf „Zurück]** klicken, um zur Seite _Experience Setup“_.
 
 ### Schritt 6: Vollständige Aktivierung Ihres Anzeigenerlebnisses
 
