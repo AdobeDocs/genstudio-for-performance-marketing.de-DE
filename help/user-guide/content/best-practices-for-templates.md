@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: f7913f4df1ae0f8d86bdaca778d102d21b0b6c3f
+source-git-commit: dc958a831e3fa26cfc18f7c1a5febd0662102d43
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,9 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorla
 
 **Einschränkungen**:
 
-- Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
-   - Eine einfache Vorlage (nur ein Abschnitt) kann einen einzigen Satz von Vorlagenelementen generieren.
-   - Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren.
+- Marketing-E-Mails können 0, 2 oder 3 ([) ](customize-template.md#sections-or-groups):
+   - Eine einfache Vorlage (null Abschnitte) kann einen einzigen Satz von Vorlagenelementen generieren, wofür keine Namenskonvention für Gruppen erforderlich ist.
+   - Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren, wozu die Einhaltung der Gruppennamen-Konvention erforderlich ist: (`groupname_fieldname`)
 - In einer Vorlage sind maximal 20 Felder zulässig
 - Die maximale Dateigröße für HTML beträgt 102 KB
 
@@ -77,7 +77,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorla
 
 Für E-Mails wird das `subject` automatisch eingefügt. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
 
-- `pre_header`
+- `pre_header` (Rich-Text nicht aktiviert)
 - `headline`
 - `sub_headline`
 - `body`
@@ -103,8 +103,11 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 
 - Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
    - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
+- Es ist genau ein Bildfeld erforderlich.
 
 **Unterstützte Seitenverhältnisse**:
+
+Das Seitenverhältnis muss wie folgt festgelegt werden:
 
 - Quadrat 1:1 (1080 x 1080 Pixel)
 - Hochformat 4:5 (1080 x 1350 Pixel)
@@ -135,10 +138,11 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 
 - Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
    - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
+- Es ist genau ein Bildfeld erforderlich.
 
 **Unterstützte Dimensionen**:
 
-- Breite x Höhe (Pixel)
+- Breite x Höhe (Pixel) müssen festgelegt sein
 - Vertikal:
    - 300 x 600
    - 160 x 600 &#x200B;
@@ -171,6 +175,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie LinkedIn-Anz
 
 - Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
    - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
+- Es ist genau ein Bildfeld erforderlich.
 - Maximale Bildgröße von 5 MB
 - Maximale Überschrift 70 Zeichen
 - Maximaler Einführungstext 150 Zeichen

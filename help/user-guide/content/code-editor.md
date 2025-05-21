@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 3739a218ce67749d0038059e3504ab9a4df8f065
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,18 @@ Wenn Ihre Vorlage Fehler enthält, wird möglicherweise eine `Template is invali
 ![Ungültige Vorlage korrigieren](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
 
 Der _[!UICONTROL Überprüfen erkannter Felder]_ wird aktualisiert und zeigt die von Ihnen vorgenommenen Änderungen an. Wenn Sie sich vergewissert haben, dass die Felder korrekt und vollständig sind, klicken Sie auf **[!UICONTROL Weiter]**, um mit dem [ (Hochladen der Vorlage) ](/help/user-guide/content/use-templates.md#add-a-template).
+
+## Häufige Probleme mit Vorlagen und Lösungen
+
+| **Fehler** | **Beschreibung** | **Lösung** |
+|-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Parsen fehlgeschlagen | Der Vorlageninhalt konnte nicht als gültige Handlebars geparst werden. | Überprüfen Sie Ihre Vorlage auf HTML- und Handlebars-Syntaxfehler und korrigieren Sie diese, um eine gültige Formatierung für [Inhalts-Platzhalter“ ](/help/user-guide/content/customize-template.md#content-placeholders). |
+| Gruppe nicht zugewiesen | Ein Bildfeld in einer E-Mail-Vorlage mit mehreren Gruppen ist keiner Gruppe zugewiesen. | Prüfen Sie, ob Abschnittspräfixe konsistent verwendet werden. Jeder [Abschnitt](/help/user-guide/content/customize-template.md#sections-or-groups) kann nur einen Feldtyp (`headline`, `body`, `image` `cta`) verwenden. Weisen Sie das Feld `image` einer gültigen Gruppe in Ihrer Vorlage zu. |
+| Bild fehlt | Ein erforderliches Bildfeld fehlt. | Für bestimmte Vorlagentypen ist genau ein `image` erforderlich, z. B. Meta-, Display- oder Banneranzeige. Fügen Sie das erforderliche `image` Feld zu Ihrer Vorlage hinzu. |
+| Ungültige einzelne Gruppe | Die E-Mail-Vorlage enthält genau eine Gruppe, die ungültig ist. | Eine einfache E-Mail-Vorlage enthält einen einzigen Satz von Vorlagenelementen, für die keine Namenskonvention für Gruppen gemäß der Definition in [Abschnitte oder Gruppen](/help/user-guide/content/customize-template.md#sections-or-groups) erforderlich ist. Passen Sie Ihre Vorlage so an, dass sie null Abschnitte enthält, indem Sie eine beliebige Gruppensyntax entfernen. |
+| Keine Felder | Die Vorlage enthält keine Felder. | Fügen Sie [erkannte Feldnamen](/help/user-guide/content/customize-template.md#recognized-field-names) mithilfe der Handlebars-Syntax zu Ihrer Vorlage hinzu, für die GenStudio for Performance Marketing einen bestimmten Inhaltstyp generieren muss. |
+| Erforderliche Eigenschaften fehlen | Einige erforderliche Metadateneigenschaften fehlen. | Jeder Vorlagentyp verfügt über Anforderungen und Einschränkungen, die auf den Kanalrichtlinien basieren. Beispielsweise erfordert Meta ein Seitenverhältnis und Display-Anzeigen erfordern Dimensionen. [Befolgen Sie die Richtlinien für kanalspezifische Vorlagen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines). |
+| Verwendeter reservierter Name | Ein unzulässiger oder reservierter Feldname wird verwendet. | Bestimmte [Feldnamen](/help/user-guide/content/customize-template.md#recognized-field-names) wie `subject` oder `introductory_text` sind reserviert. Umbenennen von Feldern, die reservierte oder verbotene Namen verwenden. |
+| Zu viele Felder | Die Anzahl der Felder überschreitet die globale Beschränkung von 20. | Entfernen Sie unnötige Felder, um sicherzustellen, dass die Gesamtanzahl 20 nicht überschreitet. |
+| Zu viele Gruppen | Die Anzahl der Gruppen überschreitet das zulässige Maximum des Kanals. | Meta-, Anzeige- und LinkedIn-Vorlagen lassen mehrere Abschnitte nicht zu. E-Mail erfordert beim Definieren von zwei oder drei Abschnitten eine Gruppenbenennung. Verringern Sie die Anzahl der Gruppen in Ihrer Vorlage, um die [Anforderungen des Kanals“ zu ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines). |
+| Nicht unterstütztes Feld | Die Vorlage verwendet ein Feld, das der Kanal nicht unterstützt. | Ersetzen oder entfernen Sie nicht unterstützte Felder gemäß den [erkannten Feldnamen](/help/user-guide/content/customize-template.md#recognized-field-names). |
