@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 654adf4f774b5e4915a67e0c0c3e5d07268d1a89
+source-git-commit: 3060aa0a75dd39fe5b73f246d57666e8a62fd42b
 workflow-type: tm+mt
-source-wordcount: '1720'
+source-wordcount: '1699'
 ht-degree: 0%
 
 ---
@@ -114,18 +114,11 @@ Sie können Bild-Assets in einzelnen generierten Varianten manuell zuschneiden u
 
 ## Seitenverhältnis ändern
 
-Sie können das Seitenverhältnis von Meta-Anzeigen schnell ändern, um die gewünschte Anzeigengröße zu berücksichtigen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1:1-Quadrat-Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
-
-Verfügbare Größen-/Seitenverhältnisse sind:
-
-* 1:1-Quadrat (Meta)
-* Vertikal 4:5 (Meta)
-* 9:16 Vertikal (Meta)
-* 250 x 980 (Display-Anzeige)
+Sie können das Seitenverhältnis [ Meta-Anzeigen schnell ändern, ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1:1-Quadrat-Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
 
 >[!NOTE]
 >
->Je nach verfügbaren Vorlagen sind möglicherweise auch andere Seitenverhältnisse und Größen verfügbar.
+>Je nach verfügbaren Vorlagen können unterschiedliche Seitenverhältnisse und Größen verfügbar sein.
 
 **So ändern Sie das Seitenverhältnis generierter Meta-Anzeigen**:
 
@@ -135,7 +128,7 @@ Verfügbare Größen-/Seitenverhältnisse sind:
 
    Die Anzahl der von dieser Revision betroffenen Varianten ist in der oberen rechten Ecke des Fensters angegeben. _Beispiel_: „4 von 4 Varianten“
 
-1. Auswählen eines verfügbaren Seitenverhältnisses.
+1. Wählen Sie ein [verfügbares Seitenverhältnis](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) aus.
 
    Es können nur Seitenverhältnisgrößen ausgewählt werden, die derzeit nicht auf der Arbeitsfläche dargestellt werden.
 
@@ -155,7 +148,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
