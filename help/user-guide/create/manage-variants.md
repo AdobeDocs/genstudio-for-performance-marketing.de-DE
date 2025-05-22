@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 09a8af603945686ad58e3edc6a5c77d79fdf2956
+source-git-commit: 654adf4f774b5e4915a67e0c0c3e5d07268d1a89
 workflow-type: tm+mt
-source-wordcount: '1659'
+source-wordcount: '1720'
 ht-degree: 0%
 
 ---
@@ -114,7 +114,7 @@ Sie können Bild-Assets in einzelnen generierten Varianten manuell zuschneiden u
 
 ## Seitenverhältnis ändern
 
-Sie können das Seitenverhältnis von Meta-Anzeigen schnell ändern, um die gewünschte Anzeigengröße zu berücksichtigen.
+Sie können das Seitenverhältnis von Meta-Anzeigen schnell ändern, um die gewünschte Anzeigengröße zu berücksichtigen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1:1-Quadrat-Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
 
 Verfügbare Größen-/Seitenverhältnisse sind:
 
@@ -155,7 +155,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
