@@ -3,9 +3,9 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 29685c96353703705f3f742e88f3934644bc4282
+source-git-commit: 8f8d10db351f440ccd64f4ef5a54b6ace9f9db85
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ GenStudio for Performance Marketing führt Markenvalidierungen und andere Inhalt
 
 ## Zusammenfassung der Inhaltsprüfung
 
-Eine Zusammenfassung der Markenvalidierung und andere Informationen zur Inhaltsprüfung für jede generierte Inhaltsvariante ist über das Symbol _Inhaltsprüfung_ Zusammenfassung für jede Variante auf der Arbeitsfläche zugänglich.
+Eine Zusammenfassung der Markenvalidierung und andere Informationen zur Inhaltsprüfung für jedes Element des generierten Inhalts sind über das Symbol _Inhaltsprüfung_ Zusammenfassung für jede Variante auf der Arbeitsfläche zugänglich.
 
 Die _Inhaltsüberprüfung_ Zusammenfassung zeigt Folgendes an:
 
@@ -33,17 +33,17 @@ Die _Inhaltsüberprüfung_ Zusammenfassung zeigt Folgendes an:
 
 ![Zusammenfassung der Inhaltsprüfung](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
-Klicken Sie auf den Prozentsatz, um zu sehen, wie konform die Variante ist. Die Bewertungen werden automatisch aktualisiert, wenn Sie die Varianten bearbeiten. Sie können auf _Probleme anzeigen und beheben_ klicken, um weitere Kompatibilität sicherzustellen.
+Klicken Sie auf den Prozentsatz, um zu sehen, wie konform die Variante ist. Die Bewertungen werden automatisch aktualisiert, wenn Sie Änderungen an den Varianten oder anderen Inhalten vornehmen. Sie können auf _Probleme anzeigen und beheben_ klicken, um weitere Kompatibilität sicherzustellen.
 
 Siehe [Verbesserung der Markenausrichtung](#improve-brand-alignment).
 
 ## Content-Checkpanel
 
-Das _Inhaltsüberprüfung_-Bedienfeld wird auf der rechten Seite der Arbeitsfläche geöffnet, wenn Sie in der rechten Aktionsleiste _oder_ dem [_Inhaltsüberprüfung_ Zusammenfassungssymbol](#content-check-summary) für eine Variante klicken. Dieses Bedienfeld bietet eine detaillierte Markenvalidierung. Informationen zu Platform-Richtlinien und Barrierefreiheitsstandards sowie Verbesserungsmöglichkeiten für jeden Variantenabschnitt.
+Das _Inhaltsüberprüfung_-Bedienfeld wird auf der rechten Seite der Arbeitsfläche geöffnet, wenn Sie in der rechten Aktionsleiste _oder_ über das [_Inhaltsüberprüfung_ Zusammenfassungssymbol klicken](#content-check-summary). Dieses Bedienfeld bietet detaillierte Informationen zur Markenvalidierung, zu Plattform-Richtlinien und zu Barrierefreiheitsstandards sowie Möglichkeiten zur Verbesserung.
 
 ![Content-Checkpanel](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
-Das _Inhaltsprüfung_-Bedienfeld zeigt Informationen [ Validierung und ](/help/user-guide/guidelines/overview.md#compliance) für jeden Abschnitt der Variante an:
+Das Bedienfeld _Inhaltsüberprüfung_ zeigt Informationen zur Validierung und [Compliance](/help/user-guide/guidelines/overview.md#compliance) für Bilder und Variantenabschnitte an:
 
 * Darstellung der _Inhaltsüberprüfung_ zusammenfassenden Informationen zu [!DNL Brand], Platform-Richtlinien und Barrierefreiheitsstandards
 * _Überprüfung erforderlich_ Abschnitt mit der Anzahl fehlgeschlagener Richtlinien und detaillierten Informationen zu jeder Richtlinie, die überarbeitet werden muss
@@ -67,22 +67,21 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 
 **So verbessern Sie die Markenausrichtung für generierte Varianten**:
 
-1. Klicken Sie auf das _Inhaltsüberprüfung_ Bedienfeldsymbol in der rechten Aktionsleiste, um Informationen zur Validierung und Barrierefreiheit für eine einzelne Variante anzuzeigen.
+1. Klicken Sie auf das _Inhaltsüberprüfung_ Bedienfeldsymbol in der rechten Aktionsleiste, um Informationen zu Validierung und Barrierefreiheit anzuzeigen.
 
-   Sie können eine Zusammenfassung der Prüfungen _Überprüfung erforderlich_ und _bestanden_ anzeigen, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
+   Sie können eine Zusammenfassung der Prüfungen _Überprüfung erforderlich_ und _bestanden_ sehen, um zu sehen, was verbessert werden muss.
 
    >[!NOTE]
    >
    > Die _Markensprache_ Richtlinie im Bedienfeld _Inhaltsprüfung_ gilt für die gesamte Variante, nicht für einen einzelnen Abschnitt. Die gesamte Inhaltsvariante ist hervorgehoben, um Verbesserungsvorschläge zu erhalten.
 
 1. Klicken Sie hier, um Richtlinien zu korrigieren, die derzeit nicht konform sind.
-1. Klicken Sie hier, um jede Prüfung, die überprüft werden muss, in verfügbaren Abschnitten wie _Überschrift_ und _Markensprache_ zu erweitern und zu überprüfen.
+1. Klicken Sie hier, um alle Prüfungen zu erweitern und zu überprüfen, die in verfügbaren Abschnitten wie _Überschrift_, _Farbe_ und _Markenstimme_ überprüft werden müssen.
 
-   Verwenden Sie die für jede Prüfung angegebenen Begründungen, um Sie bei der Überarbeitung der Varianten zu unterstützen.
+   Verwenden Sie die für jede Prüfung angegebenen Begründungen, um Sie bei der Überarbeitung von Bildern und Varianten zu unterstützen.
 
 1. Nachdem Sie die erforderlichen Änderungen vorgenommen haben, klicken Sie auf **[!UICONTROL Punktzahl erneut überprüfen]**, um Ihre Änderungen erneut zu überprüfen und zu validieren, sodass sie mehr an Ihre Markenidentität, Ihre Plattformrichtlinien und Ihre Barrierefreiheitsstandards angepasst sind.
 
    Der Inhaltsprüfungsprozess wird erneut ausgeführt. Wenn die überarbeiteten Elemente die Validierung bestehen, wird unten auf der Arbeitsfläche ein grünes Banner angezeigt, um zu bestätigen, dass die Bewertung aktualisiert wurde. Wenn es nach einer erneuten Prüfung keine Änderung gab, bestätigt das Banner, dass es keine Änderung am Score gab. Der Prozentsatz im Symbol _Inhaltsprüfung_ Zusammenfassung für die überarbeitete Variante zeigt auch Ihren Fortschritt an.
 
 1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um sicherzustellen, dass die gesamte Variante die Validierungs- und Barrierefreiheitsprüfungen besteht. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche.
-
