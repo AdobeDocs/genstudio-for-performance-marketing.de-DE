@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 2745df9f67c1af4261bfdbf096b721e9bb97bc4b
+source-git-commit: 7ac97f040917ee737cd29ba8f5c7d8c72a75e577
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 21%
+source-wordcount: '237'
+ht-degree: 20%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 21%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] ](create/overview.md)
+   + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -61,12 +61,18 @@ ht-degree: 21%
    + [Verwalten von Assets und Erlebnissen](content/manage-assets.md)
    + [Verbinden eines AEM-Repositorys](content/connect-aem-repo.md)
    + [Asset-Details](content/asset-details.md)
-   + Vorlagen {#templates}
-      + [Arbeiten mit Vorlagen](content/use-templates.md)
-      + [Anpassen einer Vorlage](content/customize-template.md)
-      + [Vorlagen-Code-Editor](content/code-editor.md)
-      + [Erstellen barrierefreier Vorlagen](content/accessibility-for-templates.md)
-      + [Best Practices für Vorlagen](content/best-practices-for-templates.md)
++ Vorlagen {#templates}
+   + [Arbeiten mit Vorlagen](content/use-templates.md)
+   + [Starter-Vorlagen](templates/starter-templates.md)
+   + [Anpassen einer Vorlage](content/customize-template.md)
+   + [Vorlagen-Code-Editor](content/code-editor.md)
+   + [Erstellen barrierefreier Vorlagen](content/accessibility-for-templates.md)
+   + [Best Practices für Vorlagen](content/best-practices-for-templates.md)
+   + Best Practice für Kanäle {#channel-best-practice}
+      + [Anleitung zur Anzeige von Anzeigen](templates/display-template.md)
+      + [E-Mail-Handbuch](templates/email-template.md)
+      + [LinkedIn-Werbeanzeigen-Handbuch](templates/linkedin-template.md)
+      + [Meta-Werbeanzeigen-Handbuch](templates/meta-template.md)
 + Kampagnen {#campaigns}
    + [Kampagnen - Übersicht](campaigns/overview.md)
    + [Erstellen von Kampagnen](campaigns/create-campaign.md)

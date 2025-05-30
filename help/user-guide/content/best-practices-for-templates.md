@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: dc958a831e3fa26cfc18f7c1a5febd0662102d43
+source-git-commit: adf987b016825861b5522b44b61263000eb63859
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -35,11 +35,13 @@ Siehe [Vorlagenelemente](use-templates.md#template-elements).
 
 ## Konfigurieren von Kanalrichtlinien
 
-Konfigurieren Sie die Kanalrichtlinien für jede Marke, bevor Sie Vorlagen in GenStudio for Performance Marketing verwenden. Die Kanalrichtlinien beeinflussen direkt den Inhaltstyp, der bei Verwendung der Vorlage generiert wird. Sie können beispielsweise Zeichenbeschränkungen für den Textkörper einer E-Mail festlegen.
+Die Definition klarer Kanal-Richtlinien ist wichtig, um sicherzustellen, dass Ihre generierten Inhalte mit den Anforderungen und Zielen Ihrer Marke übereinstimmen. Mit Kanalrichtlinien können Sie Regeln für Elemente wie Ton, Länge und Stil angeben, die in Ihrer Vorlage verwendet werden. Sie können beispielsweise eine maximale Zeichenanzahl für den Textkörper festlegen oder einen bestimmten call-to-action-Stil erfordern. Indem Sie diese Richtlinien im Voraus festlegen, müssen Sie in jeder KI-Eingabeaufforderung keine detaillierten Anweisungen mehr schreiben, den Prozess der Inhaltserstellung optimieren und die Konsistenz Ihrer E-Mails sicherstellen.
+
+Überprüfen und definieren Sie die [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines) Ihrer Marke für alle Schlüsselfelder in Ihrer Vorlage. Wenn Sie keine Richtlinien definieren, werden die [Standardkanalrichtlinien](/help/user-guide/guidelines/brands.md#default-channel-guidelines) angewendet, die möglicherweise Ihre Markenanforderungen nicht vollständig widerspiegeln.
 
 ![Technische Daten des Textkörpers](/help/assets/channel-email-body.png)
 
-Siehe [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines).
+Erfahren Sie, wie [Richtlinien für Marken, Produkte und Personas](/help/user-guide/guidelines/overview.md) generierte Inhalte beeinflussen und wie Sie sie an Ihre Marketing-Ziele anpassen können.
 
 ## Befolgen der Richtlinien für kanalspezifische Vorlagen
 
@@ -51,165 +53,9 @@ Stellen Sie beim Erstellen von Vorlagen sicher, dass sie die spezifischen Anford
 
 {{note-css-effects}}
 
-Beachten Sie bei der Arbeit mit jedem Vorlagentyp die folgenden Tipps und Einschränkungen, um eine optimale Leistung und Kompatibilität zu gewährleisten:
+Weitere Tipps und Einschränkungen beim Arbeiten mit jedem Vorlagentyp finden Sie, um eine optimale Leistung und Kompatibilität sicherzustellen:
 
->[!BEGINTABS]
-
->[!TAB E-Mail]
-
-Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
-
-- Verwenden von Adobe- oder Google-Schriftarten
-- Verwenden Sie saubere und responsive HTML und Inline-CSS
-- Verwenden **nicht** JavaScript
-- Verwenden **nicht** eine feste Breite im Textkörper oder Container
-- Verwenden **nicht** die Base64-Kodierung für Bilder, da dadurch die Vorlagengröße erheblich erhöht werden kann
-
-**Einschränkungen**:
-
-- Marketing-E-Mails können 0, 2 oder 3 ([) ](customize-template.md#sections-or-groups):
-   - Eine einfache Vorlage (null Abschnitte) kann einen einzigen Satz von Vorlagenelementen generieren, wofür keine Namenskonvention für Gruppen erforderlich ist.
-   - Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren, wozu die Einhaltung der Gruppennamen-Konvention erforderlich ist: (`groupname_fieldname`)
-- In einer Vorlage sind maximal 20 Felder zulässig
-- Die maximale Dateigröße für HTML beträgt 102 KB
-
-**Erkannte Feldnamen**:
-
-Für E-Mails wird das `subject` automatisch eingefügt. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
-
-- `pre_header` (Rich-Text nicht aktiviert)
-- `headline`
-- `sub_headline`
-- `body`
-- `cta`
-- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
-
-Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
-
->[!TAB Meta-Anzeige]
-
-Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeigenvorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
-
-- Spaltenlayouts mit einer Breite von 360 Pixel verwenden
-- Verwenden Sie für Bilder eine Mindestauflösung von 1080 x 1080 Pixel
-- Verwenden **nicht** relative Schriftgröße
-- Viewport **nicht**
-- Verwenden **nicht** JavaScript
-- Überschreiben **nicht** ein HTML-Element in CSS
-- Verwenden Sie das `<img>` Tag anstelle von `background-image`
-- Maskieren verwenden, um die Lesbarkeit von Text gegenüber Hintergrundbildern zu verbessern
-
-**Einschränkungen**:
-
-- Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
-   - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
-- Es ist genau ein Bildfeld erforderlich.
-
-**Unterstützte Seitenverhältnisse**:
-
-Das Seitenverhältnis muss wie folgt festgelegt werden:
-
-- Quadrat 1:1 (1080 x 1080 Pixel)
-- Hochformat 4:5 (1080 x 1350 Pixel)
-- Story 9:16 (1080 x 1920 Pixel)
-- Querformat: 1,91:1 (1080 Pixel Breite)
-- Benutzerdefinierte Bildgröße: (Mindestbildbreite von 50 x 50 Pixeln)
-
-**Erkannte Feldnamen**:
-
-Bei Meta-Anzeigen werden die Felder `headline`, `body` und `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
-
-- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
-- `on_image_text`
-
-Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
-
->[!TAB Banner- und Display-Anzeige]
-
-Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigenvorlagen für Banner und Anzeigen an GenStudio for Performance Marketing anpassen:
-
-- Verwenden von Adobe- oder Google-Schriftarten
-- Vorbereiten von Assets, die in schlanken Dimensionen gut angezeigt werden
-- Verwenden **nicht** eingebettete oder kodierte Hintergrundbilder
-- Verwenden von Hintergrundbildern (`image`), die in das GenStudio for Performance Marketing Content Repository hochgeladen wurden
-- Verwenden **nicht** JavaScript
-
-**Einschränkungen**:
-
-- Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
-   - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
-- Es ist genau ein Bildfeld erforderlich.
-
-**Unterstützte Dimensionen**:
-
-- Breite x Höhe (Pixel) müssen festgelegt sein
-- Vertikal:
-   - 300 x 600
-   - 160 x 600 &#x200B;
-- Horizontal:
-   - 300 x 250
-   - 728 x 90
-   - 336 x 280
-   - 320 x 50
-   - 970 x 250 &#x200B;
-- Benutzerdefiniert: 50 x 50 bis 2000 x 2000
-
-**Erkannte Feldnamen**:
-
-Bei Banner- und Display-Anzeigen wird das `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
-
-- `headline`
-- `sub_headline`
-- `body`
-- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
-
-Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
-
->[!TAB LinkedIn-Anzeige]
-
-[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
-
-Befolgen Sie die folgenden Best Practices für das Design, wenn Sie LinkedIn-Anzeigenvorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
-
-**Einschränkungen**:
-
-- Verwendung von [Abschnitten](customize-template.md#sections-or-groups):
-   - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird.
-- Es ist genau ein Bildfeld erforderlich.
-- Maximale Bildgröße von 5 MB
-- Maximale Überschrift 70 Zeichen
-- Maximaler Einführungstext 150 Zeichen
-
-**Unterstützte Seitenverhältnisse**:
-
-- Quadrat 1:1
-   - Desktop oder Mobilgerät
-   - Min.: 360 x 360 Pixel
-   - Max.: 4320 x 4320 Pixel
-- Horizontal 1,91:1
-   - Schreibtisch
-   - Min.: 640 x 360 Pixel
-   - Max.: 7680 x 4320 Pixel
-- Vertikal 1:1,91
-   - Mobiltelefon
-   - Min.: 360 x 640 Pixel
-   - Max.: 2430 x 4320 Pixel
-- Vertikal 2.3
-   - Mobiltelefon
-   - Min.: 360 x 640 Pixel
-   - Max.: 2430 x 4320 Pixel
-- Vertikal 4.5 (empfohlen)
-   - Mobiltelefon
-   - Min.: 360 x 640 Pixel
-   - Max.: 2430 x 4320 Pixel
-
-**Erkannte Feldnamen**:
-
-Für LinkedIn-Anzeigen werden die Felder `headline`, `introductory_text` und `CTA` automatisch generiert. Verwenden Sie Platzhalter für Inhalte für die folgenden Felder:
-
-- `image` (ausgewählt aus Content JPEG, PNG oder GIF)
-- `on_image_text`
-
-Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
-
->[!ENDTABS]
+- [E-Mails](/help/user-guide/templates/email-template.md)
+- [Anzeigen und Banner](/help/user-guide/templates/display-template.md)
+- [LinkedIn](/help/user-guide/templates/linkedin-template.md)
+- [Meta-Anzeigen](/help/user-guide/templates/meta-template.md)

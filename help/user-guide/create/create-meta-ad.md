@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
 Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
 ## Vorlage wählen
 
-Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen, um mit der Erstellung eines neuen Meta-Anzeigenerlebnisses zu beginnen. Unter [Best Practices für Vorlagen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) finden Sie Informationen zu unterstützten Seitenverhältnissen für Meta-Anzeigen.
+Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen, um mit der Erstellung eines neuen Meta-Anzeigenerlebnisses zu beginnen. Informationen [ unterstützten Seitenverhältnisse für Meta](/help/user-guide/templates/meta-template.md)Anzeigenvorlagen finden Sie unter Richtlinien für Meta-Anzeigenvorlagen .
 
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 

@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '941'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Bevor Sie mit der Erstellung einer LinkedIn-Anzeige beginnen, ist es wichtig, [R
 
 ## Vorlage wählen
 
-Um ein neues LinkedIn-Erlebnis zu generieren, benötigen Sie eine Vorlage, die das Framework für Ihre Inhalte bereitstellt. Informationen [ unterstützten LinkedIn-Seitenverhältnissen finden Sie ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) „Best Practices für Vorlagen“.
+Um ein neues LinkedIn-Erlebnis zu generieren, benötigen Sie eine Vorlage, die das Framework für Ihre Inhalte bereitstellt. Informationen [ unterstützten LinkedIn](/help/user-guide/templates/linkedin-template.md)Seitenverhältnisse finden Sie unter „LinkedIn-Vorlagenrichtlinien“.
 
 **So wählen Sie eine LinkedIn-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL LinkedIn]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL LinkedIn]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Vorlage zu finden.
 1. Klicken Sie auf eine Vorlage, um sie auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -81,7 +81,7 @@ Bevor Sie Varianten zur Genehmigung oder Veröffentlichung an [!DNL Content] sen
 * **Um [ Namen des LinkedIn-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [ LinkedIn-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile, die Kopfzeile oder die Textkörper-Kopie) und bearbeiten Sie ihn nach Bedarf.
 * **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
-* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein &#x200B;] klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein ] klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um Bilder [zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)** bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittssymbol und passen Sie die Bildgröße und -platzierung an.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
 * **Um [ LinkedIn-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf das Optionsmenü für eine Variante und anschließend auf **[!UICONTROL Variante löschen]**.

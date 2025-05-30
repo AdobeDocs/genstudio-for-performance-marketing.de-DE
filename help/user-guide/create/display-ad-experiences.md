@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -20,14 +20,14 @@ Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwende
 
 Beim Generieren von Anzeige-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
-Informationen [ unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) für kanalspezifische Vorlagen .
+Informationen [ unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter ](/help/user-guide/templates/display-template.md) für Anzeigenvorlagen .
 
 Zu den bearbeitbaren Abschnitten eines Displays und Erlebnisses gehören:
 
 * Überschrift
 * Unterüberschrift
 * Textkörper
-* Aktionsaufruf (CTA)
+* Call to action (CTA)
 * Bild
 
 Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).
