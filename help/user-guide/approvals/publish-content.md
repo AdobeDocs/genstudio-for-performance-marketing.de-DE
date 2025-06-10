@@ -3,16 +3,16 @@ title: Genehmigte Inhalte veröffentlichen
 description: Erfahren Sie, wie Sie genehmigte Inhalte mit Adobe GenStudio for Performance Marketing veröffentlichen.
 feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
-source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
+source-git-commit: 82a29250b1a054c91f144c4e9c431324c5e61afa
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
 # Genehmigte Inhalte veröffentlichen
 
-Der letzte Schritt bei der Erstellung markengerechter, genehmigter Inhalte besteht darin, sie mit den entsprechenden Metadaten in [!DNL Content] zu speichern. Sie (der Inhaltseditor oder der Ersteller) können das genehmigte Asset abschließen, indem Sie es in [!DNL Content] veröffentlichen oder speichern.
+Der letzte Schritt bei der Erstellung markengerechter, genehmigter Inhalte besteht darin, sie mit den entsprechenden Metadaten in [!DNL Content] zu speichern. Sie (der Inhaltseditor oder der Ersteller) können das genehmigte Asset abschließen, indem Sie es in [!DNL Content] veröffentlichen.
 
 Wenn alle designierten genehmigenden Personen einen Entwurf genehmigen, ändert sich der Entwurfsstatus in **Genehmigt**. Adobe GenStudio for Performance Marketing zeigt auf _Arbeitsfläche des Editors das Popup_ Genehmigte Varianten bereit zur Veröffentlichung“ an.
 
@@ -34,9 +34,11 @@ Sie können den Entwurf dann abschließen, indem Sie ihn mit den entsprechenden 
 
 ## Nach der Veröffentlichung
 
-Alle GenStudio for Performance Marketing-Benutzer können in [!DNL Content] auf genehmigte Assets oder Erlebnisse zugreifen. Das Bedienfeld „Asset-Details“ identifiziert den Upload- und Validierungsverlauf des Assets. Diese Attribute identifizieren gespeicherte Inhalte:
+Alle GenStudio for Performance Marketing-Benutzer können in [!DNL Content] auf genehmigte Assets oder Erlebnisse zugreifen. Das _Asset-Details_-Bedienfeld identifiziert den Upload- und Validierungsverlauf des Assets. Diese Attribute identifizieren gespeicherte Inhalte:
 
 * **[!UICONTROL Erstellt von]**: Gibt den GenStudio-Benutzer an, der das Asset oder Erlebnis hochgeladen hat.
 * **[!UICONTROL Validierungsverlauf]**: Gibt das Validierungsdatum und die Validierungszeit sowie die genehmigende Person an.
 
 Entwurfs-URLs sind nach dem Speichern eines Entwurfs-Assets oder Erlebnisses in [!DNL Content] ungültig.
+
+Wenn Sie die Workfront Proof-Integration aktiviert haben, werden Kommentare und Versionen zu Korrekturabzügen nach der Veröffentlichung des Assets oder Erlebnisses gespeichert.

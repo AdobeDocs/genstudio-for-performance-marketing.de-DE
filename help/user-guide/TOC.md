@@ -5,9 +5,9 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 7ac97f040917ee737cd29ba8f5c7d8c72a75e577
+source-git-commit: ecb6a410e26339ca295dad10e0c8dda2d73ae5a4
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '238'
 ht-degree: 20%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 20%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] ](create/overview.md)
+   + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -52,7 +52,8 @@ ht-degree: 20%
    + [Bild erstellen](create/generate-assets.md)
 + Überprüfungen und Genehmigungen {#approve}
    + [Übersicht über Prüfungen und Genehmigungen](approvals/overview.md)
-   + [Überprüfung und Genehmigung von Inhalten anfordern](approvals/request-review.md)
+   + [Workfront Proof-Integration](approvals/proof-integration.md)
+   + [Überprüfung und Genehmigung anfordern](approvals/request-review.md)
    + [Inhalt überprüfen und bearbeiten](approvals/review-and-edit.md)
    + [Inhalt genehmigen](approvals/approve-content.md)
    + [Genehmigte Inhalte veröffentlichen](approvals/publish-content.md)
