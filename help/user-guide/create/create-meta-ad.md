@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
 Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
@@ -27,7 +27,7 @@ Bei der Auswahl einer Vorlage haben Sie die Möglichkeit, eine der hochgeladenen
 
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**.
+1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**.
 1. Wählen Sie **[!UICONTROL Benutzerdefinierte Vorlagen]** aus, um Ihre hochgeladenen Vorlagen zu durchsuchen, oder **[!UICONTROL Startervorlagen]**, um die vordefinierten Vorlagen zu durchsuchen.
 
    Wenn Sie Video-Assets zu Ihren Meta-Varianten hinzufügen möchten, müssen Sie eine Einstiegsvorlage auswählen. Sie sind mit systemdefinierten Inhaltsbereichen vorgeladen, die die Verwendung von Videos erleichtern.

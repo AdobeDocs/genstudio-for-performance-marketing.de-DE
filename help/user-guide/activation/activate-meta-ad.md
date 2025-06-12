@@ -51,7 +51,7 @@ Sie haben zwei Möglichkeiten, eine Aktivierung zu starten:
 
 * **Direkt über[!DNL Content]** aktivieren. Die Auswahl eines genehmigten Erlebnisses mit vordefinierten Einstellungen ist die optimierte Methode, um eine Aktivierung für einen einzelnen Kanal zu starten.
 
-* **Stellen Sie Ihr Anzeigen-Erlebnis über [!DNL Activate] > _Erlebnis-Setup_**zusammen. Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
+* **Stellen Sie Ihr Anzeigen-Erlebnis über [!DNL Activate] > _Erlebnis-Setup_**&#x200B;zusammen. Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
 
 ### Aktivieren eines genehmigten Erlebnisses aus Inhalten
 
@@ -106,7 +106,7 @@ Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im Bereich _
 
 1. Klicken Sie **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Anzeigenerlebnis aufzunehmen. Das Fenster _Erlebniseinrichtung_ enthält das Asset im Bereich _Medien_ im Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
 
-Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_geöffnet.
+Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_&#x200B;geöffnet.
 
 **Hochladen eines externen Assets**:
 
@@ -122,7 +122,7 @@ Sie können bis zu sechs statische Bilder außerhalb der [!DNL Content]-Galerie 
 
 1. (Optional) Um Assets von Ihrem Gerät hochzuladen, klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie dann _Dateien durchsuchen_ oder _Ordner durchsuchen_, um Assets zum Hochladen zu identifizieren.
 
-1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_zu erleichtern. Diese Details werden als Metadaten gespeichert.
+1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_&#x200B;zu erleichtern. Diese Details werden als Metadaten gespeichert.
 
 1. Wenn Sie Ihre Assets und zugewiesenen Details hochgeladen haben, klicken Sie auf **[!UICONTROL Assets hinzufügen]** unten rechts.
 

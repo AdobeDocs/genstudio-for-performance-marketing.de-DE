@@ -27,7 +27,7 @@ Jedes Paid-Media-Kanalkonto muss mit GenStudio for Performance Marketing verbund
 
 * [Erstellen einer Aktivierung](create-activation.md). Sie können ein Anzeigenerlebnis erstellen, indem Sie visuelle Assets auswählen, Text zuweisen und Metadaten definieren, bevor Sie sie an einen gebührenpflichtigen Kanal senden.
 
-* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
+* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_&#x200B;bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
 
 ## Funktionen aktivieren
 
