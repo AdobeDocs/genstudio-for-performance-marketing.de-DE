@@ -5,16 +5,16 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 1f62546f4fc2381bcc4d8fd3acadd1d6470ed9e8
+source-git-commit: 7dfd915ebcc001b12357cfa334346e6698436d7d
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1366'
 ht-degree: 1%
 
 ---
 
 # Arbeiten mit Vorlagen
 
-GenStudio for Performance Marketing ermöglicht es Inhaltserstellern, konsistente markeninterne Marketing-Inhalte schnell mithilfe von _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bereitstellt, der vorkonfigurierte Layouts und Design-Elemente umfasst.
+GenStudio for Performance Marketing ermöglicht es Inhaltserstellern, konsistente markeninterne Marketing-Inhalte schnell mithilfe von _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bereitstellt, der vorkonfigurierte Layouts und Design-Elemente umfasst. Laden Sie zunächst eine benutzerdefinierte Vorlage in [!DNL Content] hoch oder verwenden Sie eine erste Vorlage in [!DNL Create]. [Einstiegsvorlagen](/help/user-guide/templates/starter-templates.md) bieten eine schnelle Möglichkeit, mit einem Standarddesign zu beginnen, während eine benutzerdefinierte Vorlage es Ihnen ermöglicht, Ihre einzigartigen Designs und Layouts zu verwenden.
 
 GenStudio for Performance Marketing unterstützt zwar nicht die direkte Erstellung von Vorlagen innerhalb des Programms, aber Sie können Vorlagen einfach mit gängigen Design-Tools wie Adobe InDesign, Illustrator oder Express entwerfen und vorbereiten. Sobald Ihr Design abgeschlossen ist, können Sie es für die Verwendung in GenStudio for Performance Marketing anpassen. Beginnen Sie mit der Verwendung von Vorlagen, indem Sie die folgenden Schritte ausführen:
 
@@ -38,8 +38,8 @@ Im Folgenden finden Sie eine Liste der in Vorlagen verwendeten Elemente und eini
 | **Kopfzeile** | E-Mail | Der obere Abschnitt der E-Mail, den der Empfänger beim Öffnen der E-Mail sieht, gibt den Ton an und liefert Kontext für den enthaltenen Inhalt. |
 | **Überschrift** | Meta-, Banner- und Display-Anzeigen, LinkedIn | Der erste Inhalt, den der Empfänger sieht, sollte verlockend sein, um Interesse zu wecken. |
 | **Unterüberschrift** | E-Mail-, Banner- und Display-Anzeigen | Ein zweites Textelement, das die Überschrift unterstützt. Er ist in der Regel kurz gehalten und so konzipiert, dass er die Hauptüberschrift ergänzt und die Aufmerksamkeit des Lesers weiter in den Inhalt lenkt. |
-| **Einführungstext** | LinkedIn | Die primäre Nachricht überträgt die Kernnachricht, ähnlich wie beim Nachrichtentext. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
-| **body** | E-Mail-, Meta-, Banner- und Display-Anzeigen | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
+| **Einführungstext** | LinkedIn | Die primäre Nachricht übermittelt die Kernnachricht, ähnlich der Textkörper-Kopie. Es kann bis zu 150 Zeichen verwenden, einschließlich Leerzeichen, maximal vier Emojis und Satzzeichen. |
+| **Text** | E-Mail-, Meta-, Banner- und Display-Anzeigen | Der Haupttext der Anzeige vermittelt die Kernbotschaft. Es sollte ansprechend, informativ und überzeugend sein, um die gewünschte Aktion aus dem Publikum zu fördern. |
 | **Aktionsaufforderung** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Bei einer call-to-action-Schaltfläche werden eine Phrase und ein Link verwendet, um den Empfänger zu einer bestimmten Aktion zu ermutigen, z. B. zum Klicken auf einen Link oder zum Tätigen eines Kaufs. |
 | **Bilder** | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Verbessern Sie die visuelle Attraktivität, teilen Sie Text auf und unterstützen Sie die Botschaft. Bilder sollten von hoher Qualität und auffällig sein. |
 | **Fußzeile** | E-Mail | Der untere Abschnitt der E-Mail enthält zusätzliche Inhalte wie Kontaktdaten, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen. |
@@ -59,7 +59,7 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 ## Vorlagen verwalten
 
-Der _[!DNL Templates]_&#x200B;zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
+Der _[!DNL Templates]_zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
 
 ### Vorlagen suchen
 
@@ -74,7 +74,7 @@ Im folgenden Beispiel werden Filter nach Kanaltyp angezeigt, z. B. E-Mail, Displ
 
 ![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650" zoomable="yes"}
 
-Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL &#x200B; Vorlage für eigene oder bezahlte &#x200B;] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
+Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL  Vorlage für eigene oder bezahlte ] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 
 ### Vorlage hinzufügen
 
@@ -82,7 +82,7 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 **So fügen Sie eine Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
 1. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
 
@@ -117,7 +117,7 @@ Vorlagen können statische Dateien wie Symbole oder Logos enthalten. [Statischer
 
 **Aktualisieren der Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
 1. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
 
@@ -129,7 +129,7 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 **So erstellen Sie ein Erlebnis mit einer Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
 1. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
 

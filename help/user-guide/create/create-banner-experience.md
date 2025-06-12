@@ -7,16 +7,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1078'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Bannererlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](banner-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (PaintbrushSymbol im linken Navigationsbereich) markenspezifische (Bannererlebnisse) erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Paintbrush](banner-experiences.md)Symbol im linken Navigationsbereich) markenspezifische (Bannererlebnisse) erstellen.
 
 Um ein ansprechendes Bannererlebnis zu gestalten, wird empfohlen, [GenStudio for Performance Marketing Richtlinien hinzuzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ ](/help/user-guide/effective-prompts.md) lesen, bevor Sie beginnen.
 
@@ -26,7 +26,7 @@ Verwenden Sie zum Erstellen eines Bannererlebnisses eine verfügbare Vorlage, um
 
 **So wählen Sie eine Bannervorlage**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Banner]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Banner]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Bannervorlage zu finden.
 1. Klicken _in der Ansicht_ Vorlage auswählen“ auf eine Bannervorlage.
 1. Klicken Sie **[!UICONTROL Verwenden]**.
@@ -77,12 +77,15 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 
 * **Um [ Namen des Bannerentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [ Banner manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie in einen der Bannerbereiche oder -felder (z. B. Überschrift oder CTA) und bearbeiten Sie es nach Bedarf.
-* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein &#x200B;] klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den On-Image-Text oder Inline-Link für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
+* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein ] klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
+* **Um [Barrierefreiheitsbeschriftungen](/help/user-guide/create/manage-variants.md#add-accessibility-labels) zu Ihren Varianten hinzuzufügen,** Sie auf ein Bild oder einen call-to-action-Link und geben Sie dann eine kurze Beschreibung ein, die erklärt, was der Link oder die Schaltfläche bewirkt.
 * **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
-* **Um [ Bilder zuzuschneiden oder neu](/help/user-guide/create/manage-variants.md#crop-assets)** positionieren, bewegen Sie den Mauszeiger über das Bild, klicken Sie auf das angezeigte Zuschnittsymbol und passen Sie die Bildgröße und -platzierung an. Klicken Sie auf **[!UICONTROL Übernehmen]**.
+* **Um [Bilder zuzuschneiden oder neu](/help/user-guide/create/manage-variants.md#crop-assets)**, klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Stiftsymbol) und dann auf **[!UICONTROL Zuschneiden]**. Anpassen der Bildgröße und -platzierung.
+* **Um [Generative Erweitern zu verwenden, um Bilder zu ](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
 
 <!-- # Preview for device
 When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
@@ -102,7 +105,7 @@ Um die generierten Varianten zu optimieren und die strikte Einhaltung von Marken
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Varianten manuell überarbeiten](#revise-generated-variants) um sicherzustellen, dass Ihre Varianten eng mit den durchgeführten Inhaltsprüfungen abgestimmt sind.
+1. [Varianten manuell überarbeiten](#revise-generated-banners) um sicherzustellen, dass Ihre Varianten eng mit den durchgeführten Inhaltsprüfungen abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
@@ -124,7 +127,7 @@ Siehe [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md
 Um die generierten Banner für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
 1. **Um Ihre neuen Banner-Erlebnisse zu veröffentlichen** klicken Sie in der oberen Symbolleiste oder **[!UICONTROL Genehmigungsfluss auf Veröffentlichen]**.
-   1. Wählen Sie _[!UICONTROL [!DNL Campaigns]]_&#x200B;und fügen Sie&#x200B;_[!UICONTROL &#x200B; Weitere Details &#x200B;]_&#x200B;hinzu, falls gewünscht.
+   1. Wählen Sie _[!UICONTROL [!DNL Campaigns]]_und fügen Sie_[!UICONTROL  Weitere Details ]_hinzu, falls gewünscht.
    1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
       ![Veröffentlichen eines Banners](/help/assets/publish-displayad.png){width="450" zoomable="yes"}

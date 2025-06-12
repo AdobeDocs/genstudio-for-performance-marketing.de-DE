@@ -5,9 +5,9 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1ff6a3ecf0a0773c3a6f13d6993042b0620c6dd2
+source-git-commit: 7495891b58d7830453ba81048df3373820823136
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '638'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,14 @@ System-Manager richten Adobe GenStudio for Performance Marketing ein, indem sie 
 
 ### Schritt 1: Richtlinien hinzufügen
 
-Die Einrichtung der wichtigsten Bausteine für die Markenidentität Ihres Unternehmens ist eine wesentliche Voraussetzung für die Arbeit von Inhaltseditoren und Mitarbeitern. [Richtlinien](/help/user-guide/guidelines/overview.md) Erfassen von Markenmerkmalen wie Logos, Tonfall und Farbpaletten. Sie können entweder [[!DNL Brands] Richtlinien“-](/help/user-guide/guidelines/brands.md) hochladen oder Markeninformationen manuell eingeben. [[!DNL Personas] Richtlinien](/help/user-guide/guidelines/personas.md) und [[!DNL Products] Richtlinien](/help/user-guide/guidelines/products.md) sind ebenfalls wichtig. Die zugrunde liegenden generativen KI-Funktionen von GenStudio for Performance Marketing verwenden diese Richtlinien, um Schutzmaßnahmen für die Inhaltserstellung festzulegen.
+Markenrichtlinien [Richtlinien](/help/user-guide/guidelines/overview.md) erfassen Markeneigenschaften. Die zugrunde liegenden generativen KI-Funktionen von GenStudio for Performance Marketing verwenden diese Richtlinien, um Schutzmaßnahmen für die Inhaltserstellung festzulegen. Sie können entweder [[!DNL Brands] Richtlinie](/help/user-guide/guidelines/brands.md)-Dokumente hochladen oder Markeninformationen manuell eingeben.
+
+Redakteure und Mitarbeiter von Inhalten können ihre Arbeit erst beginnen, wenn die grundlegenden Elemente der (Marken[Identität Ihres Unternehmens ](/help/user-guide/guidelines/brands.md) sind. Zu diesen Markenkomponenten gehören:
+
+* Immaterielle Elemente, z. B. Tonfall
+* Sachgüter wie Logos, Farbpaletten und Typografie.
+
+Bevor Sie Richtlinien erstellen, erfahren Sie mehr darüber, wie GenStudio for Performance Marketing [Markenkomponenten](/help/user-guide/guidelines/brands.md)
 
 #### Vorbereiten von Richtliniendokumenten
 

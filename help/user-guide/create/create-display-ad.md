@@ -6,16 +6,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1131'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](display-ad-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich markenspezifische Anzeigenerlebnisse generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich](display-ad-experiences.md) markenspezifische Anzeigenerlebnisse generieren können.
 
 Um ein überzeugendes Anzeigen-Erlebnis zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der ](/help/user-guide/effective-prompts.md) überprüfen, bevor Sie beginnen.
 
@@ -25,7 +25,7 @@ Verwenden Sie zum Erstellen einer Anzeige und eines Erlebnisses eine verfügbare
 
 **So wählen Sie eine Anzeigenvorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Anzeigen anzeigen]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Anzeigen anzeigen]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Anzeige-Anzeigenvorlage zu finden.
 1. Klicken Sie in der _Vorlage auswählen_ auf eine Anzeigenvorlage.
 1. Klicken Sie **[!UICONTROL Verwenden]**.
@@ -80,12 +80,15 @@ Um eine einzelne zu überarbeitende Ebene zu markieren, klicken Sie auf ein bear
 
 * **Um [ Anzeigenamen des Entwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [ Display-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie in einen der Display-Anzeigenbereiche oder -felder (z. B. Betreffzeile, Kopfzeile oder Textkörper-Kopie) und bearbeiten Sie sie nach Bedarf.
-* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein &#x200B;] klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den On-Image-Text oder Inline-Link für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
+* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein ] klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
+* **Um [Barrierefreiheitsbeschriftungen](/help/user-guide/create/manage-variants.md#add-accessibility-labels) zu Ihren Varianten hinzuzufügen,** Sie auf ein Bild oder einen call-to-action-Link und geben Sie dann eine kurze Beschreibung ein, die erklärt, was der Link oder die Schaltfläche bewirkt.
 * **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
-* **Um [ Bilder zuzuschneiden oder neu](/help/user-guide/create/manage-variants.md#crop-assets)** positionieren, bewegen Sie den Mauszeiger über das Bild, klicken Sie auf das angezeigte Zuschnittsymbol und passen Sie die Bildgröße und -platzierung an. Klicken Sie auf **[!UICONTROL Übernehmen]**.
+* **Um [Bilder zuzuschneiden oder neu](/help/user-guide/create/manage-variants.md#crop-assets)**, klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Stiftsymbol) und dann auf **[!UICONTROL Zuschneiden]**. Anpassen der Bildgröße und -platzierung.
+* **Um [Generative Erweitern zu verwenden, um Bilder zu ](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
 
 <!-- # Preview for device
 When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
@@ -127,7 +130,7 @@ Siehe [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md
 Um die generierten Display-Anzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
 1. **Um Ihre neue(n) Anzeige(** Erlebnis(e) zu veröffentlichen, klicken Sie auf **[!UICONTROL Veröffentlichen]** in der oberen Symbolleiste oder im Genehmigungsfluss.
-   1. Wählen Sie _[!UICONTROL [!DNL Campaigns]]_&#x200B;und fügen Sie&#x200B;_[!UICONTROL &#x200B; Weitere Details &#x200B;]_&#x200B;hinzu, falls gewünscht.
+   1. Wählen Sie _[!UICONTROL [!DNL Campaigns]]_und fügen Sie_[!UICONTROL  Weitere Details ]_hinzu, falls gewünscht.
    1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
       ![Display-Anzeige veröffentlichen](/help/assets/publish-displayad.png){width="450" zoomable="yes"}

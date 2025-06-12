@@ -6,16 +6,16 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1392'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
 Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
@@ -23,10 +23,15 @@ Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wic
 
 Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen, um mit der Erstellung eines neuen Meta-Anzeigenerlebnisses zu beginnen. Informationen [ unterstützten Seitenverhältnisse für Meta](/help/user-guide/templates/meta-template.md)Anzeigenvorlagen finden Sie unter Richtlinien für Meta-Anzeigenvorlagen .
 
+Bei der Auswahl einer Vorlage haben Sie die Möglichkeit, eine der hochgeladenen Vorlagen oder eine Einstiegsvorlage zu verwenden.
+
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**.
-1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**.
+1. Wählen Sie **[!UICONTROL Benutzerdefinierte Vorlagen]** aus, um Ihre hochgeladenen Vorlagen zu durchsuchen, oder **[!UICONTROL Startervorlagen]**, um die vordefinierten Vorlagen zu durchsuchen.
+
+   Wenn Sie Video-Assets zu Ihren Meta-Varianten hinzufügen möchten, müssen Sie eine Einstiegsvorlage auswählen. Sie sind mit systemdefinierten Inhaltsbereichen vorgeladen, die die Verwendung von Videos erleichtern.
+
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Diese Aktion öffnet die Arbeitsfläche, die den zentralen Hub für die Inhaltserstellung darstellt.
@@ -46,14 +51,17 @@ Wenn Sie eine Vorlage mit vordefinierten Richtlinien - [!DNL Brands], [!DNL Pers
 
    Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, [fügen Sie Ihrer GenStudio for Performance Marketing Richtlinien hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Fügen Sie Inhalte für die Verwendung in der -Version *und* hinzu, um die Inhaltserstellung zu beeinflussen:
-   * Klicken Sie **[!UICONTROL Aus Inhalt auswählen]**, um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, zu filtern und ein oder mehrere Bilder auszuwählen.
+1. Fügen Sie Inhalte (Bilder oder Videos) für die Verwendung im -Erlebnis *und* hinzu, um die Inhaltserstellung zu beeinflussen:
+   * Klicken Sie **[!UICONTROL Aus Inhalt auswählen]**, um Assets aus Ihrem [!DNL Content]-Repository auszuwählen, zu filtern und ein oder mehrere Bilder auszuwählen.
+
+     Wenn Sie eine Vorlage mit einem Abschnitt für Videos verwenden, werden Videoinhalte (.mp4) vorausgewählt und für Sie gefiltert. Bewegen Sie den Mauszeiger über ein Video, um eine automatisch wiedergegebene Vorschau anzuzeigen.
 
      ![Auswählen visueller Inhalte](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
      Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Speicherort_ aus. Filtern Sie ein oder mehrere Bilder und wählen Sie sie aus.
 
-   * Oder ziehen Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]**, um ein oder mehrere neue Assets hochzuladen.
+   * Oder ziehen Sie Bilder per Drag-and-Drop in den **[!UICONTROL Aus Inhalt auswählen]**, um ein oder mehrere neue Assets hochzuladen.
+
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 
 Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie die Eingabeaufforderungsschublade reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
@@ -68,6 +76,8 @@ Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-promp
 
 1. Geben Sie in das _„Beschreiben der Erlebnisse, die Sie generieren möchten“ eine Eingabeaufforderung_.
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
+
+   Unter [Verwalten von Videos](#manage-videos) erfahren Sie, wie sie generiert werden und wie Sie sie verwalten.
 
 Standardmäßig werden vier Varianten - alle basierend auf der Eingabeaufforderung, Richtlinien und hinzugefügten Inhalten - generiert und auf der Arbeitsfläche angezeigt.
 
@@ -93,13 +103,23 @@ Um eine einzelne zu überarbeitende Ebene zu markieren, klicken Sie auf ein bear
 * **Um [eine Meta-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile,
 Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf.
 * **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
+* **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den On-Image-Text oder Inline-Link für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
+* **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
 * **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
-* **Um Bilder [zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)** bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittssymbol und passen Sie die Bildgröße und -platzierung an.
+* **Um [Bilder zuzuschneiden oder neu](/help/user-guide/create/manage-variants.md#crop-assets)**, klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Stiftsymbol) und dann auf **[!UICONTROL Zuschneiden]**. Anpassen der Bildgröße und -platzierung.
+* **Um [Generative Erweitern zu verwenden, um Bilder zu ](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
+* **Um [Barrierefreiheitsbeschriftungen](/help/user-guide/create/manage-variants.md#add-accessibility-labels) zu Ihren Varianten hinzuzufügen,** Sie auf ein Bild oder einen call-to-action-Link und geben Sie dann eine kurze Beschreibung ein, die erklärt, was der Link oder die Schaltfläche bewirkt.
 * **Um [Meta-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf das Optionsmenü für eine Variante und anschließend auf **[!UICONTROL Variante löschen]**.
+
+### Videos verwalten
+
+Bewegen Sie den Mauszeiger über die einzelnen Videos, um die schleifenförmige automatische Wiedergabe anzuzeigen.
+
+Die Videos werden umrahmt, damit sie während der Erstellung dem ausgewählten Seitenverhältnis entsprechen. Kehren Sie zum ursprünglichen, nicht umrahmten Video zurück, indem Sie auf **[!UICONTROL Video umrahmen]** klicken und es deaktivieren.
 
 ## Feedback zur Senden-Generierung
 

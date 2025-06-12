@@ -3,10 +3,10 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  eine umfassende Sammlung von Marken-Assets - Marketing-Kopien, Bilder, Erlebnisse und mehr -, die als Grundlage für die Erstellung markenbezogener Inhalte dienen.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: a67efc3bc517ffe2d130efd4e577ef652e07d462
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 1%
+source-wordcount: '1522'
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,13 @@ Veröffentlichte Marken können bearbeitet (Änderungen sind sofort verfügbar),
 
 Gelöschte [!DNL Brands] werden 30 Tage lang archiviert und können innerhalb dieses Zeitraums wiederhergestellt werden.
 
-## [!DNL Brands]
+## Markenrichtlinien
 
 Richtlinien geben GenStudio for Performance Marketing ein klares Bild von Ihrem markenspezifischen Ansatz, Ihrem Ton, Ihrer visuellen Wahrnehmung und mehr.
+
+>[!NOTE]
+>
+>Wenn Sie Markenrichtlinien hochladen, die in einer anderen Sprache als Englisch verfasst sind, oder manuell eine Marke in einer anderen Sprache erstellen, zeigt GenStudio for Performance Marketing diese Richtlinien in derselben Sprache an.
 
 Einige Kanalrichtlinien, die von [Platform-Richtlinien und ADA-Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) abstrahiert werden, werden als Standardwerte vorausgefüllt.
 
@@ -137,7 +141,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ### Logos
 
-[!DNL Brand] Logos dienen als visuelle Symbole für die Identität, Werte und Produkte eines Unternehmens. Sie können ein oder mehrere Logos (maximal 1 GB pro Datei) für ein [!DNL Brand] in den Formaten JPG, JPEG, SVG oder PNG hochladen. Logos können bei der [!DNL Brand] oder in der individuellen _[!DNL Brands]hinzugefügt_.
+[!DNL Brand] Logos dienen als visuelle Symbole für die Identität, Werte und Produkte eines Unternehmens. Sie können ein oder mehrere Logos (maximal 1 GB pro Datei) für ein [!DNL Brand] in den Formaten JPG, JPEG, SVG oder PNG hochladen. Logos können bei der [!DNL Brand] oder in der individuellen _[!DNL Brands]hinzugefügt_. Logos können als Miniaturbild für eine bestimmte [!DNL Brand] verwendet werden.
 
 Jedes hochgeladene Logo enthält die folgenden Details in der Logo-Kachel:
 
@@ -145,7 +149,13 @@ Jedes hochgeladene Logo enthält die folgenden Details in der Logo-Kachel:
 - Dateigröße
 - Auflösung
 
-Über das Aktionsmenü (drei Punkte) für eine Farbe können Sie eine Farbe **[!UICONTROL Herunterladen]**, **[!UICONTROL Umbenennen]** oder **[!UICONTROL Löschen]**.
+Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [ einzelne Logo anzeigen und ](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
+
+- **[!UICONTROL Details anzeigen]**
+- **[!UICONTROL Download]**
+- [**[!UICONTROL Als Miniaturansicht der Marke verwenden]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)
+- **[!UICONTROL Umbenennen]**
+- **[!UICONTROL Löschen]**
 
 ### Farben
 

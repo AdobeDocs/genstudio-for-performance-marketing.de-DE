@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 4a82431c0f6a0f2f16c80160a46241dfa702195b
+source-git-commit: 2c5a16f0767958d09cfe5bbaa7a5538ca1b4fe75
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1613'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sie können eine Vorlage für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die die generative KI zum Einfügen von Inhalten verwendet.
 
-In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_&#x200B;anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
+In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
 
 Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing hochladen](use-templates.md#upload-a-template) und mit der Erstellung personalisierter E-Mails beginnen, die auf Ihrer benutzerdefinierten Vorlage basieren.
 
@@ -26,7 +26,7 @@ Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Ma
 
 ## Platzhalter für Inhalte
 
-GenStudio for Performance Marketing erkennt bestimmte [Elemente](use-templates.md#template-elements) innerhalb einer Vorlage, jedoch nur, wenn Sie sie mit einem [erkannten Feldnamen](#recognized-field-names) identifizieren.
+GenStudio for Performance Marketing erkennt bestimmte Inhaltstypen oder [Elemente](use-templates.md#template-elements) innerhalb einer Vorlage, jedoch nur, wenn Sie sie mit einem [erkannten Feldnamen](#recognized-field-names) identifizieren.
 
 Im Kopf oder Text einer HTML-Vorlage können Sie die [!DNL Handlebars] verwenden, um einen Platzhalter für Inhalte einzufügen, bei dem GenStudio for Performance Marketing die Vorlage mit tatsächlichem Inhalt füllen muss. GenStudio for Performance Marketing erkennt und interpretiert diese Platzhalter anhand des [erkannten _Feldnamens_](#recognized-field-names). Jeder Feldname ist mit bestimmten Regeln und Verhaltensweisen verknüpft, die bestimmen, wie Inhalte generiert und in Ihre Vorlage eingefügt werden.
 
@@ -124,6 +124,14 @@ Beschreibung dieses Beispiels:
 - `{{image}}` ist der Platzhalter für die Bildquellen-URL.
 - `{{imageDescription}}` ist der Platzhalter für den Alternativtext, der eine Beschreibung des Bildes für Barrierefreiheits- und SEO-Zwecke bereitstellt.
 
+### Barrierefreiheits-Kennzeichnung
+
+Das Attribut `aria-label` wird verwendet, um einen barrierefreien Namen für Elemente zu definieren, die keine sichtbaren Beschriftungen haben. Dieses Attribut ist besonders nützlich in Vorlagen, in denen es wichtig ist, Kontext für interaktive Elemente bereitzustellen, z. B. eine CTA-Schaltfläche.
+
+```html
+<a class="button" href="{{link}}" aria-label="{{CTAAriaLabel}}">{{cta}}</a>
+```
+
 ### Bei Bildtext
 
 Der `{{on_image_text}}` Platzhalter wird verwendet, um eine Textüberlagerung kurzer wirkungsvoller Nachrichten anzugeben, die direkt auf dem Bild in einem Erlebnis platziert werden.
@@ -172,9 +180,38 @@ Um einen bearbeitbaren Abschnitt zu erstellen, fügen Sie doppelte Klammern um d
 </tbody>
 ```
 
+### Rich-Text-Bearbeitung
+
+Verbessern Sie Ihre kreativen Inhalte während des [!DNL Create]-Prozesses mit Rich-Text-Bearbeitung. Die Arbeitsfläche bestimmt die Rich-Text-Funktion anhand des Speicherorts des Inhalts-Platzhalters. Die Rich-Text-Funktion ist nur verfügbar, wenn Sie Platzhalter für Inhalte als eigenständige Elemente oder in HTML-Tags auf Blockebene wie `<p>`, `<div>` oder `<span>` verwenden.
+
+Die Rich-Text-Bearbeitung ist für eigenständige Inhalte in einem Absatz verfügbar:
+
+```html
+<p>{{body}}</p>
+```
+
+Wenn Sie einen Platzhalter für Inhalte in einem HTML-Attribut verwenden (z. B. `alt`, `href` oder `src`), wird die Rich-Text-Bearbeitung für dieses Feld nicht unterstützt.
+
+Rich-Text-Bearbeitung **nicht** für `alt` Inhalte verfügbar:
+
+```html
+<img src="image.jpg" alt="{{image_description}}">
+```
+
+Wenn ein Feld mehrmals angezeigt wird, wird die Rich-Text-Funktion davon abhängig bestimmt, ob es in einer der Instanzen als HTML-Attribut verwendet wird. Wenn die Überschrift beispielsweise als Überschrift und als Alternativtext für ein Bild verwendet wird, hat das `alt`-Tag Vorrang.
+
+Die Rich-Text-Bearbeitung **nicht** für `headline` verfügbar, da sie als `alt`-Inhalt verwendet wird:
+
+```html
+<h1>{{headline}}</h1>
+<img src="image.jpg" alt="{{headline}}">
+```
+
+Rich-Text-Bearbeitung kann für bestimmte Felder innerhalb bestimmter Kanäle verfügbar sein, z. B. `on_image_text` in Social Media (Meta, LinkedIn).
+
 ## Abschnitte oder Gruppen
 
-Abschnitte in einer Marketing-E-Mail-Vorlage können verwendet werden, wenn zwei oder drei Feldergruppen vorhanden sind. _Abschnitte_ informieren GenStudio for Performance Marketing, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
+Wenn für Ihre E-Mail-Vorlage mehrere Inhaltsbereiche erforderlich sind, z. B. mehrere Angebote oder Geschichten, können Sie diese mithilfe von Abschnitten oder Gruppen organisieren. _Abschnitte_ informieren GenStudio for Performance Marketing, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
 
 Verwenden Sie einen Gruppennamen Ihrer Wahl als Präfix, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Verwenden Sie einen Feldnamen (z. B. `headline`, `body`, `image` oder `cta`) nach dem Unterstrich (`_`).
 
@@ -192,7 +229,7 @@ Jeder Abschnitt kann nur einen der Feldtypen verwenden. Beispielsweise gehören 
 
 Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
 
-Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) im Thema _Best Practices für die Verwendung von Vorlagen_.
+Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](/help/user-guide/content/best-practices-for-templates.md) im Thema _Best Practices für die Verwendung von Vorlagen_.
 
 Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher können Sie drei Überschriften- und Hauptteilabschnitte haben:
 

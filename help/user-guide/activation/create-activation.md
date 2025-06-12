@@ -3,16 +3,16 @@ title: Aktivierungs-Workflow
 description: Erfahren Sie mehr über den Aktivierungs-Workflow für Werbeanzeigen.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-source-git-commit: c622b86ae2977026207edb8919102620ef582d39
+source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
 
 # Aktivierungs-Workflow
 
-_[!DNL Activate]_&#x200B;unterstützt die Aktivierung von Anzeigenerlebnissen in kanalspezifischen Formaten, wie z. B. einem Meta- oder Google Campaign Manager 360-Anzeigenerlebnis.
+[!DNL Activate] unterstützt die Aktivierung von Anzeigenerlebnissen in kanalspezifischen Formaten, wie z. B. einem Meta- oder Google Campaign Manager 360-Anzeigenerlebnis.
 
 Ein GenStudio for Performance Marketing-Erlebnis ist eine Marketing-Kampagnenkomponente (z. B. eine Anzeige), die als Anzeigenerlebnis für eine bestimmte Zielgruppe in einem gebührenpflichtigen Anzeigenkanal oder einer gebührenpflichtigen E-Mail vorbereitet wird. Die zu aktivierenden Erlebnisse umfassen drei Hauptkomponenten:
 
@@ -34,17 +34,18 @@ Obwohl die individuellen Platzierungsanforderungen jeden gebührenpflichtigen Ka
 
 1. **Bereiten Sie Ihr Erlebnis für die Aktivierung**. Es gibt zwei Möglichkeiten, Erlebnisse für die Aktivierung vorzubereiten:
 
-   * Aktivieren eines genehmigten Erlebnisses mit vordefinierten Einstellungen direkt aus _[!DNL Content]_. Diese optimierte Methode zur Aktivierung eines oder mehrerer Anzeigenerlebnisse auf einem einzelnen Kanal. Nachdem Sie ein Erlebnis aus der&#x200B;_[!DNL Content]_-Galerie ausgewählt haben, können Sie keine Assets mehr bearbeiten oder zu Ihrem Anzeigenerlebnis hinzufügen. Activate from _[!DNL Content]_&#x200B;ist für Meta- und Google Campaign Manager 360-Anzeigen-Erlebnisse verfügbar.
+   * Aktivieren eines genehmigten Erlebnisses mit vordefinierten Einstellungen direkt aus [!DNL Content]. Diese optimierte Methode zur Aktivierung eines oder mehrerer Anzeigenerlebnisse auf einem einzelnen Kanal. Nachdem Sie ein Erlebnis aus der [!DNL Content]-Galerie ausgewählt haben, können Sie keine Assets mehr bearbeiten oder zu Ihrem Anzeigenerlebnis hinzufügen. Activate from [!DNL Content] ist für Meta- und Google Campaign Manager 360-Anzeigen-Erlebnisse verfügbar.
 
-   * Stellen Sie Ihr Anzeigenerlebnis zusammen, indem Sie visuelle Assets aus _[!DNL Content]_&#x200B;auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Diese Methode umfasst mehr Schritte, bietet jedoch eine größere kreative Flexibilität. Die Vorbereitung umfasst die Auswahl der Medien-Assets im entsprechenden Seitenverhältnis für Ihre spezifische Anzeigenplatzierung und die Zuweisung von Text zu call-to-action-Elementen und Textkörpern. Sie können informative Metadaten hinzufügen, die Benutzende bei der Suche nach dem Erlebnis nach der Aktivierung unterstützen. Jede Anzeigenkanalplatzierung legt gültige Seitenverhältnisse für visuelle Assets fest, die in der Platzierung enthalten sind.
+   * Stellen Sie Ihr Anzeigenerlebnis zusammen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Diese Methode umfasst mehr Schritte, bietet jedoch eine größere kreative Flexibilität. Die Vorbereitung umfasst die Auswahl der Medien-Assets im entsprechenden Seitenverhältnis für Ihre spezifische Anzeigenplatzierung und die Zuweisung von Text zu call-to-action-Elementen und Textkörpern. Sie können informative Metadaten hinzufügen, die Benutzende bei der Suche nach dem Erlebnis nach der Aktivierung unterstützen. Jede Anzeigenkanalplatzierung legt gültige Seitenverhältnisse für visuelle Assets fest, die in der Platzierung enthalten sind.
 
 1. **Überprüfen und veröffentlichen Sie Ihr Erlebnis im Zielkanal**. Verwenden Sie das _Vorschau_-Bedienfeld während der Einrichtung des Erlebnisses, um Ihre Auswahl von Anzeigenplatzierungs- und Textelementen zu bewerten, bevor Sie Ihre Aktivierung abschließen. Ihre endgültige Prüfung vor der Veröffentlichung erfolgt in der Anzeigenverwaltungs-App des Zielkanals. Nachdem Sie beispielsweise ein Meta-Anzeigenerlebnis in GenStudio for Performance Marketing aktiviert haben, müssen Sie sich bei Meta Ads Manager anmelden, Ihr Anzeigenerlebnis überprüfen und dann vor der Veröffentlichung seine spezifischen Attribute auswählen.
 
-Sobald ein Anzeigenerlebnis auf seinem Ziel-Kanal für bezahlte Medien live ist, können _[!DNL Insights]_&#x200B;dessen Leistungsdaten verfolgen und analysieren.
+Sobald ein Anzeigenerlebnis auf seinem Ziel-Kanal für bezahlte Medien live ist, können [!DNL Insights] dessen Leistungsdaten verfolgen und analysieren.
 
 ## Unterstützte Kanäle
 
 Jeder Paid-Media-Kanal verfügt über einen eindeutigen Aktivierungs-Workflow. Wählen Sie den gebührenpflichtigen Kanal für Aktivierungsrichtlinien aus:
 
-* [Meta](/help/user-guide/activation/activate-meta-ad.md)
-* [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md)
+* [Google Campaign Manager 360](activate-cm360-ad.md)
+* [LinkedIn](activate-linkedin-ad.md)
+* [Meta](activate-meta-ad.md)

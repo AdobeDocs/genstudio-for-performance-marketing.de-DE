@@ -5,9 +5,9 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: ecb6a410e26339ca295dad10e0c8dda2d73ae5a4
+source-git-commit: 69915cf03785c3a916bab75cbc34d0126749cddc
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 20%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 20%
    + [Paid Media verbinden](connectors/connect-channel.md)
    + Paid-Media-Konten {#connect-account}
       + [Google Campaign Manager 360](connectors/google-cm360.md)
+      + [LinkedIn](connectors/linkedin-ads.md)
       + [Meta-Anzeigen](connectors/meta-ads.md)
 + Richtlinien {#guidelines}
    + [Richtlinien - Übersicht](guidelines/overview.md)
@@ -37,7 +38,7 @@ ht-degree: 20%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] ](create/overview.md)
+   + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -85,6 +86,7 @@ ht-degree: 20%
    + [Optimieren von Aktivierungen](activation/troubleshooting.md)
    + Paid Media-Anzeigen {#paid-media-ads}
       + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
+      + [LinkedIn](activation/activate-linkedin-ad.md)
       + [Meta](activation/activate-meta-ad.md)
 + Einblicke {#insights}
    + [Insights-Überblick](insights/overview.md)

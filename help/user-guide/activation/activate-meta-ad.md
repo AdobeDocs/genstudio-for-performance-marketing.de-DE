@@ -3,9 +3,9 @@ title: Meta-Anzeige aktivieren
 description: Erfahren Sie, wie Sie ein Meta-Anzeigenerlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 09450c99dfc6bc283519b068a3b34c0551e45fc8
+source-git-commit: 2d43b1b3373c5ed0b80d9740906d372955816831
 workflow-type: tm+mt
-source-wordcount: '1670'
+source-wordcount: '1908'
 ht-degree: 1%
 
 ---
@@ -49,9 +49,9 @@ Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeig
 
 Sie haben zwei Möglichkeiten, eine Aktivierung zu starten:
 
-* **Direkt über [!DNL Content]_** aktivieren. Die Auswahl eines genehmigten Erlebnisses mit vordefinierten Einstellungen ist die optimierte Methode, um eine Aktivierung für einen einzelnen Kanal zu starten.
+* **Direkt über[!DNL Content]** aktivieren. Die Auswahl eines genehmigten Erlebnisses mit vordefinierten Einstellungen ist die optimierte Methode, um eine Aktivierung für einen einzelnen Kanal zu starten.
 
-* **Assemblieren Ihres Anzeigen-Erlebnisses über [!DNL Activate] > _Erlebnis-Setup_**&#x200B;Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus&#x200B;_[!DNL Content]_ auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
+* **Stellen Sie Ihr Anzeigen-Erlebnis über [!DNL Activate] > _Erlebnis-Setup_**zusammen. Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
 
 ### Aktivieren eines genehmigten Erlebnisses aus Inhalten
 
@@ -59,7 +59,7 @@ Sie können mehrere Erlebnisse auswählen, die für einen einzelnen gebührenpfl
 
 Wenn Sie mehr als ein Erlebnis zur Aktivierung als Gruppe ausgewählt haben, verwenden Sie die linke Seitenleiste, um den Fokus der Ansicht _Erlebniseinrichtung_ auf die Details des ausgewählten Erlebnisses zu legen.
 
-1. Verwenden Sie die Such- und Filterwerkzeuge des _[!DNL Content]_, um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**.
+1. Verwenden Sie die Such- und Filterwerkzeuge des [!DNL Content], um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**.
 
    Die Meta Ads _Erlebnis-Setup_-Seite wird für dieses Erlebnis geöffnet. Es wird vorab mit Details aus dem ausgewählten Erlebnis ausgefüllt. Sie können die Felder **[!UICONTROL Call-to-action]**, **[!UICONTROL Website-URL]** und **[!UICONTROL Link anzeigen]** bearbeiten. Wenn Sie mehr als ein Erlebnis zur Aktivierung auswählen _enthält die Ansicht_ Erlebniseinrichtung“ eine linke Seitenleiste, in der Miniaturansichten aller ausgewählten Erlebnisse angezeigt werden. Verwenden Sie diese linke Seitenleiste, um die Ansicht _Erlebniseinrichtung_ auf die Details des ausgewählten Erlebnisses zu fokussieren.
 
@@ -73,16 +73,16 @@ Wenn Sie mehr als ein Erlebnis zur Aktivierung als Gruppe ausgewählt haben, ver
 
 ### Zusammenführen von Erlebniskomponenten
 
-Wenn Sie ein genehmigtes Erlebnis nicht direkt aus _[!DNL Content]_&#x200B;aktivieren möchten, können Sie Assets auswählen, Seitenverhältnisse zuweisen und Textelemente entwerfen.
+Wenn Sie ein genehmigtes Erlebnis nicht direkt aus [!DNL Content] aktivieren möchten, können Sie Assets auswählen, Seitenverhältnisse zuweisen und Textelemente entwerfen.
 
 **So bereiten Sie Ihr Erlebnis für die Aktivierung vor**:
 
-1. Klicken Sie _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf dem Symbol für den ausgewählten gebührenpflichtigen Kanal. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
+1. Klicken Sie [!DNL Activate] auf **[!UICONTROL Neu]** auf dem Symbol für den ausgewählten gebührenpflichtigen Kanal. Die _Erlebnis-Setup_ Ansicht wird geöffnet.
 
    Auf _Seite „Erlebniseinrichtung_ können Sie die Anzeigenaktivierung zentral vorbereiten. Die Vorbereitung Ihrer Anzeige umfasst die folgenden drei Aufgaben:
 
 1. Weisen Sie Ihrem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
-1. Wählen Sie Medien-Assets aus. Sie können Assets aus _[!DNL Content]_&#x200B;verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
+1. Wählen Sie Medien-Assets aus. Sie können Assets aus [!DNL Content] verwenden oder externe Assets hochladen (z. B. von OneDrive oder Dropbox).
 1. [Text hinzufügen](#add-ad-text).
 1. [Metadaten hinzufügen](#assign-metadata).
 
@@ -92,27 +92,27 @@ Wenn Sie ein genehmigtes Erlebnis nicht direkt aus _[!DNL Content]_&#x200B;aktiv
 
 Verwenden Sie den _Media_-Abschnitt, um mindestens ein Bild-Asset auszuwählen, das in Ihr Erlebnis aufgenommen werden soll. Anzeigenplatzierungen sind mit unterstützten Bildseitenverhältnissen verknüpft, die als Optionen im Dropdown _Menü_ Platzierungen“ aufgeführt sind. In diesem Menü werden die unterstützten Anzeigenplatzierungen für Facebook-Posts oder Instagram-Storys nach Seitenverhältnis geordnet angezeigt.
 
-Nach dem Hochladen werden die Assets in _[!DNL Content]_&#x200B;gespeichert. Im Bereich_ Medien _wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
+Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im Bereich _Medien_ wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
 
 **Hochladen eines Assets aus Inhalten**:
 
-_[!DNL Content]_&#x200B;bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den[_[!DNL Content]_, den ](/help/user-guide/content/manage-assets.md) Inventar der Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
+[!DNL Content] bietet eine zentrale Ansicht der genehmigten Assets und Erlebnisse Ihres Unternehmens. Sie können den [[!DNL Content] Galerie](/help/user-guide/content/manage-assets.md) angezeigten Bestand an Assets mithilfe der Menüoptionen **[!UICONTROL Suche]** (Lupe) und _Filter_ fokussieren.
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Kanalkarte. Die_ Erlebnis-Setup _Ansicht wird geöffnet.
+1. Klicken Sie in [!DNL Activate] auf **[!UICONTROL Neu]** auf der Kanalkarte. Die _Erlebnis-Setup_ Ansicht wird geöffnet.
 
 1. Klicken Sie **[!UICONTROL Auswählen]** und wählen Sie dann **[!UICONTROL Aus Inhalt auswählen]** aus. Die Ansicht _Inhalt auswählen_ wird geöffnet und zeigt eine Galerie mit Bild-Assets an, die Sie durchsuchen oder filtern können.
 
-1. Verwenden Sie die Such- und Filterwerkzeuge _[!DNL Content]_&#x200B;Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
+1. Verwenden Sie die Such- und Filterwerkzeuge [!DNL Content] Galerie, um mindestens ein Asset zum Hochladen auszuwählen.
 
 1. Klicken Sie **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Anzeigenerlebnis aufzunehmen. Das Fenster _Erlebniseinrichtung_ enthält das Asset im Bereich _Medien_ im Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
 
-Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_&#x200B;geöffnet.
+Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_geöffnet.
 
 **Hochladen eines externen Assets**:
 
-Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galerie von Microsoft OneDrive oder Dropbox hochladen.
+Sie können bis zu sechs statische Bilder außerhalb der [!DNL Content]-Galerie von Microsoft OneDrive oder Dropbox hochladen.
 
-1. Klicken Sie in _[!DNL Activate]_&#x200B;auf **[!UICONTROL Neu]**&#x200B;auf der Meta-Kachel. Das Fenster_ Erlebnis-Setup _wird geöffnet.
+1. Klicken Sie in [!DNL Activate] auf **[!UICONTROL Neu]** auf der Meta-Kachel. Das Fenster _Erlebnis-Setup_ wird geöffnet.
 
 1. Klicken Sie im Abschnitt _Medien_ auf **[!UICONTROL Auswählen]**. In einem Dropdown-Menü werden Optionen für _Aus Inhalt auswählen_ oder _Hochladen_ angezeigt.
 
@@ -122,7 +122,7 @@ Sie können bis zu sechs statische Bilder außerhalb der _[!DNL Content]_-Galeri
 
 1. (Optional) Um Assets von Ihrem Gerät hochzuladen, klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie dann _Dateien durchsuchen_ oder _Ordner durchsuchen_, um Assets zum Hochladen zu identifizieren.
 
-1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_&#x200B;zu erleichtern. Diese Details werden als Metadaten gespeichert.
+1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_zu erleichtern. Diese Details werden als Metadaten gespeichert.
 
 1. Wenn Sie Ihre Assets und zugewiesenen Details hochgeladen haben, klicken Sie auf **[!UICONTROL Assets hinzufügen]** unten rechts.
 
@@ -171,6 +171,34 @@ Nachdem Sie Ihre Anzeigenerlebnisse vorbereitet haben, müssen Sie Ihre Meta-Kon
 | Instagram-Konto | Instagram-Konten, die mit GenStudio for Performance Marketing verbunden wurden |
 | Kampagnen | Meta-Kampagnen, zu denen das Anzeigen-Erlebnis gehört |
 | Anzeigen-Sets | Metadaten-Anzeigensets, zu denen das aktivierte Anzeigenerlebnis gehört. Die Einstellungen bestimmen die endgültigen Platzierungen der Anzeige. |
+
+### Erstellen eines neuen Anzeigensatzes
+
+Sie können während des Platform-Setups einen neuen Anzeigensatz erstellen, indem Sie während des Platform-Setups einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensets definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
+
+**So erstellen Sie einen neuen Anzeigensatz**:
+
+1. Wählen Sie eine Kampagne aus _Dropdown-Menü_ Meta-Kampagnen“.
+
+   Die ausgewählte Kampagne bestimmt die Anzeigensätze, die als Optionen im Dropdown-Menü _Anzeigensätze_ verfügbar sind.
+
+1. Klicken Sie auf **[!UICONTROL + Neuen Anzeigensatz erstellen]**.
+
+   Das _Erstellen eines neuen_&quot; wird geöffnet, in dem die Meta-Kampagne angegeben wird, in der der neue Anzeigensatz erstellt wird.
+
+1. Wählen Sie das zu klonende Anzeigenset aus dem Dropdown _Menü „Konfiguration verwenden von_ aus.
+
+   GenStudio for Performance Marketing weist dem ausgewählten Anzeigensatznamen einen Standardnamen zu, indem `- Copy` an diesen angehängt wird.
+
+1. (Optional, aber empfohlen) Geben Sie einen eindeutigen Anzeigenamen in das Feld **[!UICONTROL Neuer Anzeigensatzname]** ein, um den Standardwert zu ersetzen.
+
+1. Klicken Sie **[!UICONTROL Anzeigen-Set erstellen]**.
+
+   Sie kehren zur Ansicht _Platform-Setup_ zurück, in der der neue Anzeigensatz vorausgewählt ist. Es wird eine Erfolgsmeldung angezeigt, die einen Link zur in Meta Ads Manager festgelegten Anzeige enthält. Dieser Anzeigensatz ist für zukünftige Aktivierungen verfügbar.
+
+>[!NOTE]
+>
+>Wenn der Anzeigensatz erfolgreich erstellt wurde, der Name des Anzeigensatzes jedoch nicht gespeichert werden konnte, wird der Anzeigensatz im Meta Ads Manager unter seinem Standardnamen (_Name des ursprünglichen Anzeigensatzes - Kopieren_) gespeichert.
 
 ### Tracking-ID
 

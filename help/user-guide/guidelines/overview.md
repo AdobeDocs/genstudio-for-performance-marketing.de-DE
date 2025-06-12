@@ -4,7 +4,7 @@ description: Fügen Sie  [!DNL Brands], [!DNL Products], and [!DNL Personas]  Ge
 level: Beginner
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: f08e92fd8d71fb8e918d8c8167d1e62ed86e35cb
+source-git-commit: dcd347dedd17497a080989df9e92dbf175cd2b2e
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 0%
@@ -37,17 +37,17 @@ GenStudio for Performance Marketing-Richtlinien:
 * Definieren der Komplexität Ihrer Markenidentität
 * Erstellen Sie das Basis-Repository mit Informationen für diskrete Elemente wie Logos und Schriftarten, Pixelabstände und die Feinheit der Messaging-Richtlinien, die die generative KI zum Erstellen von Inhalten verwendet
 * Stellen Sie sicher, dass Ihre definierte Markenidentität über die Erstellung jedes Inhaltselements informiert.
-* Sie fungieren als Marken-Identitäts-Framework, das mit jedem generierten oder (validierten) [ verglichen ](#brand-validation)
+* Sie fungieren als Marken-Identitäts-Framework, das mit jedem generierten oder (validierten) [ verglichen ](#content-checks)
 * Implementiert ADA-Barrierefreiheits- und -Plattform-Richtlinien für generierte Varianten
 
 Durch die Integration von Marken-, Produkt- und Personendaten in GenStudio for Performance Marketing können Sie die Qualität von KI-generierten Inhalten verbessern und so eine umfassende und maßgeschneiderte Markenidentität sicherstellen.
 
-## Anwendungsfälle
+## Anwendungsszenarien
 
 [!DNL Brands]-, [!DNL Products]- und [!DNL Personas] ermöglichen zwei Hauptanwendungsfälle, um sicherzustellen, dass alle generierten Inhalte der gewünschten Darstellung einer Marke entsprechen:
 
 * **Inhaltserstellung** in [[!DNL Create]](/help/user-guide/create/overview.md) oder [Inhalt](/help/user-guide/content/overview.md)
-* [**Markenvalidierung**](#brand-validation) die im Rahmen der Inhaltserstellung stattfindet
+* [**Markenvalidierung**](#content-checks) die im Rahmen der Inhaltserstellung stattfindet
 
 ## Inhaltsprüfungen
 
@@ -63,5 +63,5 @@ Adobe GenStudio for Performance Marketing integriert externe Plattformrichtlinie
 
 Zu diesen kumulativen Konformitätsprüfungen gehören:
 
-* **ADA Accessibility** - Unerlässlich für die Entwicklung von inklusiven Inhalten und digitalen Erlebnissen, die für Benutzende mit unterschiedlichen Fähigkeiten geeignet sind. Diese gewährleisten die Abstimmung mit Web-Barrierefreiheitsfunktionen und bieten allen Benutzern fairen Zugriff. GenStudio for Performance Marketing verweist derzeit auf die Barrierefreiheitsstandards für ADA Level A Copy (Text).
+* **ADA Accessibility** - Unerlässlich für die Entwicklung von inklusiven Inhalten und digitalen Erlebnissen, die für Benutzende mit unterschiedlichen Fähigkeiten geeignet sind. Diese gewährleisten die Abstimmung mit Web-Barrierefreiheitsfunktionen und bieten allen Benutzern fairen Zugriff. GenStudio for Performance Marketing verweist derzeit auf die ADA Level AA Copy (Text)-Barrierefreiheitsstandards.
 * **Platform-Compliance**: Dies ist wichtig für die Einhaltung der spezifischen Richtlinien jeder Plattform - wie Meta oder LinkedIn - und der Best Practices der Branche. Dies sind im System vorhandene und vorausgefüllte Standardrichtlinien in [[!DNL Brand] Richtlinien](/help/user-guide/guidelines/brands.md#brands-guidelines).

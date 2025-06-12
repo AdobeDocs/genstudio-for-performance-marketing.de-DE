@@ -3,9 +3,9 @@ title: Erstellen barrierefreier Vorlagen
 description: Erstellen Sie Vorlagen in Adobe GenStudio for Performance Marketing, die mehr Zielgruppen erreichen und ein optimales Erlebnis bieten.
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 28c128ad6f3d173b7516a6b1309555c12e6a4e2d
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,11 @@ Bieten Sie Textalternativen für nicht-textliche Inhalte wie Bilder.
 ```
 
 ![Collage von Ideen, Bücher, Mann mit Riesenstift, Computer](/help/assets/card-create-assets.png){width="400"}
+
+Verwenden Sie beim Anpassen Ihrer Vorlage Platzhalter für Inhalte für die Attribute `alt` und `aria-label`:
+
+- [Alternativtext](/help/user-guide/content/customize-template.md#alternative-text)
+- [Barrierefreiheits-Kennzeichnung](/help/user-guide/content/customize-template.md#accessibility-label)
 
 ## Schriften
 

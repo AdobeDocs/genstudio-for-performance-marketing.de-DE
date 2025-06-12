@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,15 @@ Bevor Sie mit der Erstellung einer LinkedIn-Anzeige beginnen, ist es wichtig, [R
 
 Um ein neues LinkedIn-Erlebnis zu generieren, benötigen Sie eine Vorlage, die das Framework für Ihre Inhalte bereitstellt. Informationen [ unterstützten LinkedIn](/help/user-guide/templates/linkedin-template.md)Seitenverhältnisse finden Sie unter „LinkedIn-Vorlagenrichtlinien“.
 
+Sie können aus Ihrer Liste benutzerdefinierter Vorlagen auswählen oder eine erste Vorlage auswählen.
+
 **So wählen Sie eine LinkedIn-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL LinkedIn]**.
-1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Vorlage zu finden.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL LinkedIn]**.
+1. Wählen Sie **[!UICONTROL Benutzerdefinierte Vorlagen]** aus, um Ihre hochgeladenen Vorlagen zu durchsuchen, oder **[!UICONTROL Startervorlagen]**, um die vordefinierten Vorlagen zu durchsuchen.
+
+   Wenn Sie Video-Assets zu Ihren Meta-Varianten hinzufügen möchten, müssen Sie eine Einstiegsvorlage auswählen. Sie sind mit systemdefinierten Inhaltsbereichen vorgeladen, die die Verwendung von Videos erleichtern.
+
 1. Klicken Sie auf eine Vorlage, um sie auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Diese Aktion öffnet die Arbeitsfläche, die den zentralen Hub für die Inhaltserstellung darstellt.
@@ -45,14 +50,16 @@ Das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Asset
 
    Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, [fügen Sie Ihrer GenStudio for Performance Marketing Richtlinien hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Fügen Sie Inhalte für die Verwendung in der -Version *und* hinzu, um die Inhaltserstellung zu beeinflussen:
-   * Klicken Sie **[!UICONTROL Aus Inhalt auswählen]**, um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, zu filtern und ein oder mehrere Bilder auszuwählen.
+1. Fügen Sie Inhalte (Bilder oder Videos) für die Verwendung im Erlebnis hinzu *und* um die Inhaltserstellung zu beeinflussen, indem Sie auf **[!UICONTROL Aus Inhalt auswählen]** klicken. Oder ziehen Sie Bilder per Drag-and-Drop in den **[!UICONTROL Aus Inhalt auswählen]**, um ein oder mehrere neue Assets hochzuladen.
 
-     ![Auswählen visueller Inhalte](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
+   Verwenden Sie den Filter, um nach Inhalten zu suchen und ein oder mehrere Bilder auszuwählen.
 
-     Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Speicherort_ aus. Filtern Sie ein oder mehrere Bilder und wählen Sie sie aus.
+   Wenn Sie eine Vorlage mit einem Abschnitt für Videos verwenden, werden Videoinhalte (.mp4) vorausgewählt und für Sie gefiltert. Bewegen Sie den Mauszeiger über ein Video, um eine automatisch wiedergegebene Vorschau anzuzeigen.
 
-   * Oder ziehen Sie Assets per Drag-and-Drop in den Abschnitt **[!UICONTROL Aus Inhalt auswählen]**, um ein oder mehrere neue Assets hochzuladen.
+   ![Auswählen visueller Inhalte](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
+
+   Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Speicherort_ aus. Filtern Sie ein oder mehrere Bilder und wählen Sie sie aus.
+
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 
 Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie die Eingabeaufforderungsschublade reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
@@ -68,6 +75,8 @@ Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-promp
 1. Geben Sie in das _„Beschreiben der Erlebnisse, die Sie generieren möchten“ eine Eingabeaufforderung_.
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
+   Unter [Verwalten von Videos](#manage-videos) erfahren Sie, wie sie generiert werden und wie Sie sie verwalten.
+
 Standardmäßig werden vier Varianten - alle basierend auf der Eingabeaufforderung, Richtlinien und hinzugefügten Inhalten - generiert und auf der Arbeitsfläche angezeigt.
 
 Erzeugte Inhalte werden progressiv geladen : Wenn jeder Abschnitt der LinkedIn-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [LinkedIn-Erlebnisse](/help/user-guide/create/linkedin-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf die Arbeitsfläche geladen werden.
@@ -81,10 +90,21 @@ Bevor Sie Varianten zur Genehmigung oder Veröffentlichung an [!DNL Content] sen
 * **Um [ Namen des LinkedIn-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [ LinkedIn-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile, die Kopfzeile oder die Textkörper-Kopie) und bearbeiten Sie ihn nach Bedarf.
 * **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
-* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein &#x200B;] klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
+* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein ] klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [Generative Erweitern zu verwenden, um Bilder zu ](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
 * **Um Bilder [zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)** bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittssymbol und passen Sie die Bildgröße und -platzierung an.
+* **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
+* **Um Assets (Bild oder Video) in einer Variante [hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Asset (oder den Asset-Bereich) und klicken Sie auf das Symbol **[!UICONTROL Aus Inhalt austauschen]**.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
+* **Um [Barrierefreiheitsbeschriftungen](/help/user-guide/create/manage-variants.md#add-accessibility-labels) zu Ihren Varianten hinzuzufügen,** Sie auf ein Bild oder einen call-to-action-Link und geben Sie dann eine kurze Beschreibung ein, die erklärt, was der Link oder die Schaltfläche bewirkt.
 * **Um [ LinkedIn-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf das Optionsmenü für eine Variante und anschließend auf **[!UICONTROL Variante löschen]**.
+
+### Videos verwalten
+
+Bewegen Sie den Mauszeiger über die einzelnen Videos, um die schleifenförmige automatische Wiedergabe anzuzeigen.
+
+Die Videos werden umrahmt, damit sie während der Erstellung dem ausgewählten Seitenverhältnis entsprechen. Kehren Sie zum ursprünglichen, nicht umrahmten Video zurück, indem Sie auf **[!UICONTROL Video umrahmen]** klicken und es deaktivieren.
 
 ## Feedback zur Senden-Generierung
 
@@ -100,7 +120,7 @@ Um die generierten Varianten zu optimieren und die strikte Einhaltung von Marken
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [Varianten manuell überarbeiten](#revise-generated-variants) um sicherzustellen, dass Ihre Varianten eng mit den durchgeführten Inhaltsprüfungen abgestimmt sind.
+1. [Varianten manuell überarbeiten](#revise-generated-linkedin-ads) um sicherzustellen, dass Ihre Varianten eng mit den dann abgeschlossenen Inhaltsprüfungen abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 

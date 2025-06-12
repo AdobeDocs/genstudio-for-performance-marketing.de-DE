@@ -3,12 +3,12 @@ title: Vorbereiten einer E-Mail-Vorlage für GenStudio for Performance Marketing
 description: Erfahren Sie, wie Sie eine E-Mail-Vorlage für die Verwendung in Adobe GenStudio for Performance Marketing vorbereiten.
 level: Beginner
 feature: Media Templates
-hide: true
-hidefromtoc: true
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay, noCatalog
-source-git-commit: 35a519a8d28e260bfa6d9ed671bd5bf1cfeda931
+exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
+source-git-commit: a7c69659c348fad3e067a84c1d242809a83b42fb
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '410'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 2%
 _Einstiegsvorlagen_ sind vordefinierte Vorlagenoptionen, die Ihnen den schnellen Einstieg in GenStudio for Performance Marketing und das Erstellen effektiver Medien erleichtern. Wählen Sie [!DNL Create] einen Medientyp aus. Wenn erste Vorlagen verfügbar sind, wechseln Sie zur Registerkarte **[!UICONTROL erste Vorlagen]**, um eine Vorlage zu suchen und auszuwählen, die Ihren Anforderungen entspricht.
 
 ![Registerkarte „Starter-Vorlagen](/help/assets/starter-templates.png "Vorlagenregisterkarten auswählen"){width="350"}
-
-## Auswählen des richtigen Seitenverhältnisses
 
 Die Auswahl des geeigneten Seitenverhältnisses für Ihre Anzeige ist wichtig, um die Wirkung zu maximieren und sicherzustellen, dass Ihre Inhalte auf verschiedenen Plattformen und Platzierungen korrekt angezeigt werden. Beachten Sie bei der Auswahl eines Seitenverhältnisses Folgendes:
 

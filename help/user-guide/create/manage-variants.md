@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
 workflow-type: tm+mt
-source-wordcount: '1697'
+source-wordcount: '2126'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,27 @@ Generierte Variantenentwürfe haben einen Standardnamen, der oben auf der Arbeit
 
 ## Text manuell bearbeiten
 
-Sie können die Textfelder in generierten Varianten bearbeiten. Verfeinern Sie den Text für Ihre Zielgruppe, indem Sie mit verschiedenen Sätzen und Ausdrücken experimentieren. Beispielsweise können Sie Text in Varianten manuell überarbeiten, um das Erscheinungsbild einer Überschrift mit einem ausgewählten Bild in der Vorschau anzuzeigen.
+Sie können die Textfelder in generierten Varianten bearbeiten. Verfeinern Sie den Text für Ihre Zielgruppe, indem Sie mit verschiedenen Sätzen und Ausdrücken experimentieren und Formatierungen anwenden. Sie können beispielsweise den Text für eine Variante fett formatieren und mit der rechten Maustaste ausrichten, um das Layout eines Bildes zu berücksichtigen.
+
+Die verfügbare Textformatierung umfasst:
+
+* Fett, Kursiv und Unterstrichen
+* Links, Mitte und rechts ausrichten
+* Aufzählungslisten und geordnete Listen
+* Textfarbe
+* Textgröße
+* Link
+
+Die Optionen zur Textformatierung variieren je nach Kanal (Meta, E-Mail usw.)
 
 **So bearbeiten Sie Text in generierten Varianten manuell**:
 
 1. Doppelklicken Sie nach dem Generieren eines Variantensatzes auf bearbeitbaren Text in einer Variante.
 1. Neuen Text eingeben.
+1. Um den Text zu formatieren, markieren Sie den entsprechenden Text und klicken Sie auf [!UICONTROL Text formatieren**].
+
+   Wenden Sie eine (oder alle!) der verfügbaren Formatierungsoptionen auf Ihren Text an.
+
 1. Klicken Sie zum Speichern auf das Textfeld.
 
 ## Ebenen anzeigen
@@ -101,16 +116,49 @@ Der hinzugefügte oder überarbeitete Link wird auf alle CTAs im Variantensatz a
 
 ## Assets zuschneiden
 
-Sie können Bild-Assets in einzelnen generierten Varianten manuell zuschneiden und neu positionieren.
+Sie können Bild-Assets in einzelnen generierten Varianten mit dem Tool Zuschneiden manuell zuschneiden und neu positionieren.
 
 **So schneiden Sie Bilder in Varianten zu und positionieren sie neu**:
 
-1. Nachdem Sie einen Variantensatz generiert haben, bewegen Sie den Mauszeiger über ein Bild innerhalb einer Variante.
-1. Klicken Sie auf das Zuschnittssymbol in der linken Ecke des Bildes.
+1. Nachdem Sie einen Variantensatz generiert haben, bewegen Sie den Mauszeiger über ein Bild innerhalb einer Variante und klicken Sie darauf.
+1. Klicken Sie **[!UICONTROL Bearbeiten]** (Bleistiftsymbol).
+1. Klicken Sie **[!UICONTROL Zuschneiden]**.
 1. Passen Sie den Begrenzungsrahmen für das Bild an und ziehen Sie das Bild an die gewünschte Position.
 1. Klicken Sie **[!UICONTROL Anwenden]**, um den Zuschnitt auf ein einzelnes Bild anzuwenden, oder **[!UICONTROL Auf alle Bilder anwenden]** um ihn auf alle Bilder in den Varianten anzuwenden.
 
    Das zugeschnittene Bild wird gespeichert und für die Varianten angezeigt.
+
+## Generatives Erweitern verwenden
+
+Erweitern Sie die Dimensionen Ihrer Bilder und fügen Sie generative Inhalte mit Generative Erweitern hinzu. Mit Generative Expand können Sie schlecht passende Bilder in das am besten geeignete Seitenverhältnis für Banner, Meta-Anzeigen, LinkedIn-Anzeigen oder Display-Anzeigenvorlagen umwandeln.
+
+Diese generative Erweiterungsfunktion ist mit dem Zuschneide-Tool kombiniert, um Ihnen die volle Kontrolle über Assets in verschiedenen Seitenverhältnissen für bezahlte Medienkanäle zu geben.
+
+**So verwenden Sie Generative Expand , um Ihre Bilder an Ihre Kanalvorlage anzupassen**:
+
+1. Nachdem Sie einen Variantensatz generiert haben, bewegen Sie den Mauszeiger über ein Bild innerhalb einer Variante und klicken Sie darauf.
+1. Klicken Sie **[!UICONTROL Bearbeiten]** (Bleistiftsymbol).
+1. Klicken Sie **[!UICONTROL Erweitern]**.
+
+   Das Bild wird in der _Arbeitsfläche Bild bearbeiten_ mit einem Begrenzungsrahmen geöffnet, der dem Seitenverhältnis Ihrer Arbeitsvorlage entspricht.
+
+1. Verschieben Sie das Bild, um die ideale Position zu erreichen.
+1. _Optional_ Fügen Sie eine Eingabeaufforderung in das Eingabeaufforderungsfeld ein, die Details dazu enthält, wie Sie das Bild erweitern möchten.
+
+   Wenn Sie zum Beispiel ein Bild eines karierten Hemdes erweitern, das an einer Wäscheleine über einem Feuer auf einem Campingplatz hängt, können Sie „Nebelgebirge mit knisterndem Feuer beim Campen in den Bergen“ hinzufügen.
+
+   Vor der Verwendung von Generative Expand:
+
+   ![Vor der generativen Erweiterung](/help/assets/before-genexpand.png){width="300" zoomable="yes"}
+
+   Nach Verwendung von Generative Expand:
+
+   ![Nach generativer Erweiterung](/help/assets/after-genexpand.png){width="300" zoomable="yes"}
+
+1. Klicken Sie auf **[!UICONTROL Generieren]**.
+1. Klicken Sie auf „Durchklicken“ und wählen Sie eine generierte Option aus oder klicken Sie **[!UICONTROL Mehr]** (Plussymbol), um eine Liste der generierten Optionen anzuzeigen.
+1. Klicken Sie **[!UICONTROL Behalten]**, um das Ergebnis Generative Erweiterung zu speichern.
+1. Um dieses Ergebnis auf das einzelne Bild anzuwenden, klicken Sie auf **[!UICONTROL Anwenden]**. Klicken Sie **[!UICONTROL Auf alle Bilder anwenden]**, um das Ergebnis auf alle relevanten Bilder in Ihrem Variantensatz anzuwenden.
 
 ## Seitenverhältnis ändern
 
@@ -148,7 +196,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -188,6 +236,19 @@ Um die ALT-Text-Funktion zu aktivieren[ fügen Sie in ](/help/user-guide/content
    1. Klicken **[!UICONTROL erneut auf]** Generieren“, wenn Sie mit dem ursprünglichen Ergebnis nicht zufrieden sind.
    1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 1. Wiederholen Sie diesen Vorgang für jedes Bild in Ihrem Variantensatz.
+
+## Hinzufügen von Barrierefreiheitsbeschriftungen
+
+Geben Sie einen barrierefreien Namen für Bild- und call-to-action-Links in Ihren Varianten an, indem Sie Barrierefreiheitsbeschriftungen (ARIA-Labels) hinzufügen. Barrierefreiheitsbeschriftungen ergänzen den sichtbaren Text, um Benutzern den Zweck des Links oder der Schaltfläche verständlich zu machen.
+
+**So fügen Sie Links zu Bildern oder call-to-action in Ihren Varianten Barrierefreiheitsbeschriftungen hinzu**:
+
+1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein Bild oder eine call-to-action innerhalb einer Variante.
+1. Klicken Sie auf die **[!UICONTROL ARIA-label]**-Schaltfläche.
+1. Klicken Sie in das Textfeld und fügen Sie eine kurze Beschreibung hinzu, die erklärt, was der Link oder die Schaltfläche bewirkt. Sie können beispielsweise „Auf der offiziellen WKND-Website einkaufen“ für einen call to action-Button-Link verwenden.
+1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
+
+Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [ Sie in der Vorlage ](/help/user-guide/content/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
 
 ## Vorschau für Gerät
 

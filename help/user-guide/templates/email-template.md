@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: d9d774f727b69b18af6114965fdb8ffb450f797b
+source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,18 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorla
 
 ## Erkannte Feldnamen
 
-GenStudio for Performance Marketing generiert automatisch das `subject` für E-Mails. Verwenden Sie beim Anpassen Ihrer Vorlage Platzhalter für Inhalte für die folgenden erforderlichen Felder:
+Verwenden Sie beim Anpassen Ihrer E-Mail-Vorlage Platzhalter für Inhalte für die folgenden erforderlichen Felder:
 
-- `pre_header` (Rich-Text nicht aktiviert)
 - `headline`
 - `sub_headline`
 - `body`
 - `cta`
 - `image` (ausgewählt aus Content JPEG, PNG oder GIF)
+
+GenStudio for Performance Marketing generiert automatisch die folgenden Felder. Rich-Text ist nicht aktiviert. Sie müssen keine Platzhalter für Inhalte anwenden für:
+
+- `pre_header`
+- `subject`
 
 Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/content/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
@@ -56,30 +60,46 @@ Beispielfeldnamen für zwei Abschnitte:
 
 +++Beispiel: E-Mail-Vorlage mit einem Abschnitt
 
-Im Folgenden finden Sie ein einfaches Beispiel für eine HTML-Vorlage für eine E-Mail, die einen Abschnitt enthält. Der Kopf enthält einfaches Inline-CSS für die Formatierung. Der Textkörper enthält einen `pre_header`, einen `headline` und `image`[ Platzhalter](#content-placeholders), der von GenStudio for Performance Marketing verwendet wird, um während des E-Mail-Generierungsprozesses Inhalte einzufügen.
+Im Folgenden finden Sie ein einfaches Beispiel für eine HTML-E-Mail-Vorlage mit einem Abschnitt. Die `<head>` enthält einfaches Inline-CSS für die Formatierung, und die `<body>` verwendet Platzhalter für Inhalte wie `pre_header`, `headline`, `sub_headline`, `body`, `cta` und `image` mit Link und . Diese Platzhalter ermöglichen es GenStudio for Performance Marketing, dynamische Inhalte während der E-Mail-Generierung einzufügen.
 
-```html {line-numbers="true" highlight="13"}
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Adobe</title>
+        <title>Marketing Email</title>
         <style>
             .container {
-            width: 100%;
-            padding: 20px;
-            font-family: Arial, sans-serif;
+                width: 100%;
+                padding: 20px;
+                font-family: Arial, sans-serif;
+            }
+            .cta-button {
+                display: inline-block;
+                background-color: #fff;
+                color: #000;
+                border: 2px solid #000;
+                padding: 10px 20px;
+                text-decoration: none;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-weight: 600;
+                font-size: 14px;
+                margin-top: 20px;
+                text-align: center;
             }
         </style>
     </head>
-    <body>{{pre_header}}
+    <body>
         <div class="container">
+            {{pre_header}}
             <h1>{{headline}}</h1>
-            <p><a href="{{link}}">
-            <img alt="{{headline}}"
-                    src="{{image}}"
-                    width="600" height="600"
-                    border="0"/></a></p>
+            <p>
+                <a href="{{link}}">
+                    <img alt="banner headline" src="{{image}}" width="600" height="600">
+                </a>
+            </p>
+            <h2>{{sub_headline}}</h2>
             <p>{{body}}</p>
+            <a href="#" class="cta-button">{{cta}}</a>
         </div>
     </body>
 </html>
@@ -114,6 +134,19 @@ Im Folgenden sehen Sie dieselbe HTML-Vorlage wie im obigen Beispiel, jedoch mit 
             .pod p {
                 color: #666;
             }
+            .cta-button {
+            display: inline-block;
+            background-color: #fff; /* Background color to white */
+            color: #000; /* Text color to black */
+            border: 2px solid #000; /* Border color to black */
+            padding: 10px 20px;
+            text-decoration: none;            
+            font-family: 'Source Sans Pro', Arial, sans-serif;
+            font-weight: 600; /* Semibold */
+            font-size: 14px;
+            margin-top: 20px;
+            text-align: center;
+            }
         </style>
     </head>
     <body>{{pre_header}}
@@ -123,17 +156,18 @@ Im Folgenden sehen Sie dieselbe HTML-Vorlage wie im obigen Beispiel, jedoch mit 
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
-                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
+                <p><img alt="pic1" src="{{pod1_image}}" width="200" height="200" border="0"></p>
                 <p>{{pod1_body}}</p>
             </div>
             <!-- End of Pod1 -->
             <!-- Pod2 -->
             <div class="pod">
                 <h2>{{pod2_headline}}</h2>
-                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
+                <p><img alt="pic2" src="{{pod2_image}}" width="200" height="200" border="0"></p>
                 <p>{{pod2_body}}</p>
             </div>
             <!-- End of Pod2 -->
+            <a href="#" class="cta-button">{{cta}}</a>
         </div>
     </body>
 </html>

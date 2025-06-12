@@ -4,9 +4,10 @@ description: Befolgen Sie die Best Practices bei der Verwendung von Anzeigen- un
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 78313c2a2177a2ccb39e37a87ca3c657e7906d0a
+exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
+source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
@@ -27,12 +28,16 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 
 ## Erkannte Feldnamen
 
-Für Banner- und Display-Anzeigen generiert GenStudio for Performance Marketing automatisch das `cta`. Verwenden Sie beim Anpassen Ihrer Vorlage Platzhalter für Inhalte für die folgenden erforderlichen Felder:
+Verwenden Sie beim Anpassen Ihres Banners oder Ihrer Anzeigenvorlage Platzhalter für Inhalte für die folgenden erforderlichen Felder:
 
 - `headline`
 - `sub_headline`
 - `body`
 - `image` (erforderlich, ausgewählt aus Content JPEG, PNG oder GIF)
+
+GenStudio for Performance Marketing generiert automatisch die folgenden Felder. Sie müssen keine Platzhalter für Inhalte anwenden für:
+
+- `cta`
 
 Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/content/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 

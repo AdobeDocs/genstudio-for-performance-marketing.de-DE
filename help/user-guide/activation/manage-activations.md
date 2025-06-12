@@ -3,7 +3,7 @@ title: Verwalten von Aktivierungen
 description: Erfahren Sie, wie Sie aktivierte Erlebnisse mit Adobe GenStudio for Performance Marketing verwalten.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: 65bf96b7b2871e0c28dbe341b71f4e8584de9f3e
+source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Verwalten von Aktivierungen
 
-_[!DNL Activate]_&#x200B;bietet eine zentralisierte Ansicht des Aktivierungsstatus jedes Anzeigenkanals, einschließlich der Aktivierungen Veröffentlicht (erfolgreich), Fehlgeschlagen (nicht erfolgreich) und Veröffentlichung (ausstehend). Die_ Aktivierte Erlebnisse _zeigt alle Aktivierungen für ein verbundenes Kanal-Werbekonto an.
+[!DNL Activate] bietet eine zentralisierte Ansicht des Aktivierungsstatus jedes Anzeigenkanals, einschließlich der Aktivierungen Veröffentlicht (erfolgreich), Fehlgeschlagen (nicht erfolgreich) und Veröffentlichung (ausstehend). Die _Aktivierte Erlebnisse_ zeigt alle Aktivierungen für ein verbundenes Kanal-Werbekonto an.
 
-_[!DNL Activate]_&#x200B;organisiert aktivierte Erlebnisse nach Anzeigenkanal. Klicken Sie **[!UICONTROL der]**&#x200B;auf „Anzeigen“. Die_ Aktivierte Erlebnisse _für den ausgewählten Kanal wird geöffnet. In dieser Ansicht werden Erlebnisse nach Namen aufgelistet und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
+[!DNL Activate] organisiert aktivierte Erlebnisse nach Anzeigenkanal. Klicken Sie **[!UICONTROL der]** auf „Anzeigen“. Die _Aktivierte Erlebnisse_ für den ausgewählten Kanal wird geöffnet. In dieser Ansicht werden Erlebnisse nach Namen aufgelistet und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
 
 ## Aktivierte Erlebnisansicht
 

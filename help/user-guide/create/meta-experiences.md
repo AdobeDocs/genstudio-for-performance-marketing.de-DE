@@ -5,18 +5,18 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: 0344e43bc9cd417ea7b3ecd3a394bbcd6b104303
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
 
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/user-guide/create/create-meta-ad.md).
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
 
-[!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
+Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt. GenStudio for Performance Marketing unterstützt sowohl [Standard- als auch benutzerdefinierte Meta-Anzeigen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
@@ -28,13 +28,9 @@ Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 * Textkörper
 * Call to action (CTA)
 * Text auf dem Bild
-* Bild
+* Bild/Video
 
 Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).
-
-<!-- ## Meta ad capabilities
-
-Content creators and marketers can produce brand-consistent Meta ad experiences in GenStudio for Performance Marketing. -->
 
 ## Meta-Anzeigen-Kanäle
 
