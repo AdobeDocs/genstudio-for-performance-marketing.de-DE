@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
+source-git-commit: ab4bc7eddf0ef4c514a64338ca4e68814c4616a5
 workflow-type: tm+mt
-source-wordcount: '2126'
+source-wordcount: '2106'
 ht-degree: 0%
 
 ---
@@ -196,27 +196,26 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Das Bild wird hinzugefügt oder durch die entsprechende Variante ersetzt.
 
-## Bild-Link hinzufügen
+## Links hinzufügen
 
-Ähnlich wie beim Hinzufügen oder Austauschen von Bildern in generierten Varianten können Sie auch einen Link zu Bildern hinzufügen. Die Vorlage, die Sie zum Generieren von Varianten verwendet haben _muss_ einen [Inhalts-Platzhalter für den Link](/help/user-guide/content/customize-template.md#content-placeholders) enthalten, um diese Funktion zu aktivieren.
+Sie können in Ihren Varianten einen Link zu Text, Bildern und CTA-Schaltflächen hinzufügen. Die Vorlage, die Sie zum Generieren von Varianten verwendet haben _muss_ einen [Inhalts-Platzhalter für den Link](/help/user-guide/content/customize-template.md#content-placeholders) enthalten, um diese Funktion zu aktivieren.
 
-**So fügen Sie einen Bild-Link in einer Variante hinzu**:
+**So fügen Sie einen Link in einer Variante hinzu**:
 
-1. Nachdem Sie einen Variantensatz generiert haben, klicken Sie auf ein Bild-Asset.
-
-   Wenn die Variante derzeit kein platziertes Bild-Asset hat, klicken Sie auf den Bereich Bild-Asset .
-
-1. Klicken Sie auf das Link-Symbol.
-1. Klicken Sie auf **[!UICONTROL Link entfernen]**, um den vorhandenen Standardlink zu entfernen.
-1. Fügen Sie einen Link in das Textfeld ein und klicken Sie auf **[!UICONTROL Übernehmen]**.
-
-   Der definierte Link wird auf alle Bilder im Variantensatz angewendet.
+1. Klicken Sie beim Bearbeiten einer Anzeige auf die Elementvariable und suchen Sie das Symbol **[!UICONTROL Link hinzufügen]** oder **[!UICONTROL Link bearbeiten]** .
+2. Klicken Sie auf das Symbol, um das Fenster zum Textfeld zu öffnen.
+3. Geben Sie das Ziel ein. Links, die URL-Adressen, E-Mail-Adressen oder Telefonnummern enthalten, werden akzeptiert:
+   * `https://`
+   * `mailto:`
+   * `tel:`
+   * `sms:`
+   * `https://wa.me/` oder `whatsapp://`
 
 ## Alten Text für Bilder hinzufügen
 
