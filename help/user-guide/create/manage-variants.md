@@ -3,9 +3,9 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: ab4bc7eddf0ef4c514a64338ca4e68814c4616a5
+source-git-commit: 2cf3bd4cb01f75dbff9fcf0cca7239256fc81129
 workflow-type: tm+mt
-source-wordcount: '2106'
+source-wordcount: '2101'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Si
 
 Generierte Variantenentwürfe haben einen Standardnamen, der oben auf der Arbeitsfläche angezeigt wird. Standardmäßige Entwurfsnamen verwenden die folgende Konvention, die den Kanaltyp, das Datum und die Uhrzeit der Generierung enthält.
 
-*Beispiel*: „Meta: Unbenannter Entwurf - 09.5.24, 9:56“
+*Beispiel*: „Meta: Unbenannter Entwurf - 09.5.24, :56 Uhr“
 
 **Den Standardnamen ändern**:
 
@@ -162,7 +162,7 @@ Diese generative Erweiterungsfunktion ist mit dem Zuschneide-Tool kombiniert, um
 
 ## Seitenverhältnis ändern
 
-Sie können das Seitenverhältnis [ Meta-Anzeigen schnell ändern, ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1:1-Quadrat-Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
+Sie können das Seitenverhältnis [ Meta-Anzeigen schnell ändern, ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1::1 quadratisches Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
 
 >[!NOTE]
 >
@@ -170,7 +170,7 @@ Sie können das Seitenverhältnis [ Meta-Anzeigen schnell ändern, ](/help/user-
 
 **So ändern Sie das Seitenverhältnis generierter Meta-Anzeigen**:
 
-1. Nachdem Sie einen Variantensatz erstellt haben, wählen Sie das Symbol zur Größenänderung des Seitenverhältnisses (Pfeil, der auf die Ecke des Feldes zeigt) auf der linken Seite der Arbeitsfläche aus.
+1. Klicken Sie nach dem Erzeugen eines Variantensatzes auf **[!UICONTROL Seitenverhältnis-Größe]** (Pfeil, der auf die Ecke des Feldes zeigt) auf der linken Seite der Arbeitsfläche.
 
    Das Seitenverhältnis, das derzeit für Ihre Anzeigen verwendet wird, wird im oberen Bereich des Fensters _[!UICONTROL Größe ändern]_ angezeigt.
 
@@ -184,7 +184,7 @@ Sie können das Seitenverhältnis [ Meta-Anzeigen schnell ändern, ](/help/user-
 
    [!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neu ausgewählten Seitenverhältnis. Alle Varianten, einschließlich derjenigen im anfänglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
 
-   Wenn Sie beispielsweise zunächst vier Varianten im Seitenverhältnis 1:1 generieren und dann das Seitenverhältnis in 4:5 ändern, sind jetzt insgesamt _8_ Varianten auf der Arbeitsfläche verfügbar.
+   Wenn Sie beispielsweise anfänglich vier Varianten in einem Seitenverhältnis von 1::1 generieren und dann das Seitenverhältnis in 4::5 ändern, sind jetzt insgesamt _8_ Varianten auf der Arbeitsfläche verfügbar.
 
 ## Bild tauschen
 
@@ -196,7 +196,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
