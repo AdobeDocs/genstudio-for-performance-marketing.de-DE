@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 13687f4ac6c558a419c0bb7b83aa4f6d174aabbc
+source-git-commit: 09dea200babd7bdd20a3372c91aca9918117897e
 workflow-type: tm+mt
-source-wordcount: '2694'
+source-wordcount: '3052'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,40 @@ ht-degree: 0%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2025,06 {#latest}
+## 2 025,07,25 {#latest}
+
+### Filter für kompatible Assets
+
+Ein neuer Filter im [!DNL Insights]-Modul blendet automatisch [nicht unterstützte Bild- und Video-Assets](/help/user-guide/insights/ads.md#ad-formats) aus der Vorschau aus, sodass visuelles Durcheinander und kaputte Kacheln vermieden werden. Diese Verbesserung stellt sicher, dass Benutzende nur Medien sehen, die tatsächlich verfügbar und einsatzbereit sind, wodurch ein saubereres und zuverlässigeres Erlebnis entsteht. Der Filter funktioniert zusammen mit dem vorhandenen Filter Kompatibilitätsanzeigen .
+
+### Aktivierung mehrerer Assets für Meta
+
+Mit der Bildaktivierung für Meta-Anzeigen mit mehreren Seitenverhältnissen können Werbetreibende mehrere Bild-Assets in verschiedenen Seitenverhältnissen unter einer einzigen kreativen Anzeige hochladen und aktivieren. Diese Funktion ermöglicht es einer Anzeige, die richtige kreative Anpassung für verschiedene Meta-Platzierungen wie Feed, Stories und Reels bereitzustellen. Werbetreibende können eine Vorschau davon anzeigen, wie jedes Bild über Platzierungen hinweg gerendert wird, und alle Versionen in Meta in einem einzigen API-Aufruf veröffentlichen.
+
+### Rich-Text-Formatierung in Varianten
+
+[Bearbeiten von Textfeldern in generierten Varianten mit Rich-Text-Formatierung](/help/user-guide/create/manage-variants.md#manually-edit-text) Optionen wie fett, kursiv, unterstreichen, Textausrichtung, Listen, Textfarbe, Textgröße und Links. Auf diese Weise können Sie Text und Formulierungen für Ihre Zielgruppe verfeinern und Formatierungen entsprechend den Layout-Anforderungen anwenden.
+
+### Barrierefreiheitsbeschriftungen für Bilder und Links
+
+Fügen Sie den Bildern und call-to-action-Links in Ihren Varianten Barrierefreiheitsbeschriftungen (Aria-Labels) hinzu, um barrierefreie Namen bereitzustellen, die den Benutzenden helfen, den Zweck interaktiver Elemente zu verstehen. Detaillierte Anweisungen finden [ unter ](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
+
+### Erstellung von nicht-englischen Inhalten
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Das neue Dropdown-Menü zur Sprachauswahl in der Eingabeaufforderungsschublade unterstützt die Erstellung mehrsprachiger Inhalte, sodass regionale Marketing-Experten markeninterne Inhalte für ihre lokalen Zielgruppen entwickeln können. Diese Funktion unterstützt derzeit 12 GA- und 5 Beta-Sprachen. Die Sprachliste bietet einen definierten Workflow und eine klare Sprachanweisung für den LLM, um konsistentere Ausgaben zu erzielen.
+
+### Vorlagenauswahl optional für Meta-Anzeigen
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Die Vorlagenauswahl ist jetzt bei Meta-Anzeigen optional, sodass Benutzende Anzeigen erstellen können, ohne Text und Logo oben im Medium zu benötigen. Diese Verbesserung ermöglicht andere Medientypen wie animierte GIFs und Videos, für die möglicherweise keine Textüberlagerungen oder Logo-Platzierungen erforderlich sind.
+
+
+## Frühere Versionshinweise
+
++++Hinweise aus dem 15.6.2025
 
 ### Verfügbare Starter-Vorlagen
 
@@ -53,14 +86,14 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 * Sie können jetzt Kampagnendetails exportieren, um sie in Word oder PDF als Kampagnenseminare extern zugänglich zu machen. Wählen Sie eine Kampagne aus und klicken Sie dann **[!UICONTROL Exportieren]** (obere rechte Ecke).
 
-## Frühere Versionshinweise
++++
 
 +++Hinweise aus dem 15.5.2025
 
 ### Fehlerbehebungen und Verbesserungen
 
 * Funktion zum [ (Hinzufügen von alternativem Text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) zu einem Bild für eine einzelne Variante aktiviert.
-* Es wurde ein [neues Meta-Seitenverhältnis](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) hinzugefügt - Querformat 1,19:1 (1080 Pixel Breite).
+* Ein [neues Meta-Seitenverhältnis](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) - Querformat 1,19 :1 (1080 Pixel Breite) wurde hinzugefügt.
 * Jetzt können Sie mehr als ein Erlebnis für den Export oder Download auswählen. Siehe [Exportieren von Erlebnissen](/help/user-guide/content/manage-assets.md#export-experiences).
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -72,7 +105,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 * Neue Filteroptionen für Vorlagen! Jetzt können Sie Ihre Liste _[!UICONTROL Vorlagen auswählen]_ in [!DNL Create] und in _[!UICONTROL Inhalt]_ > _[!UICONTROL Vorlagen]_ verfeinern. Siehe [Suchvorlagen](/help/user-guide/content/use-templates.md#search-templates). Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 * Mit dieser Funktion [ einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt ](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
-* Es wurde `sub-headline` ein [neues Vorlagenfeld](/help/user-guide/content/use-templates.md#template-elements) hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
+* Es wurde [ ein ](/help/user-guide/content/use-templates.md#template-elements)neues Vorlagenfeld`sub-headline` hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
 * Unterstützung für das [ von Anzeigenerlebnissen ](/help/user-guide/activation/overview.md) GenStudio for Performance Marketing in Google Campaign Manager 360 hinzugefügt. Activate unterstützt detaillierte Vorschauen von Google Campaign Manager 360-Anzeigen, bevor sie auf einem Campaign Manager 360-Advertiser veröffentlicht werden. Über Activate veröffentlichte Anzeigen werden automatisch nach der Live-Schaltung in die Insights gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
 
 +++
@@ -148,7 +181,7 @@ Beta-Programme bieten eine Möglichkeit, die Produktentwicklung zu gestalten und
 
 ### Neue Aktionsaufrufe generieren
 
-Sie können jetzt beim Verwalten von Varianten neue call-to-action (CTA)-Phrasen generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Revise Call to Action](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+Sie können jetzt beim Verwalten von Varianten neue call-to-action (CTA)-Phrasen generieren. Verwenden Sie die neuen Optionen _Umformulieren_ und _Link hinzufügen_, um neue Phrasen zu generieren und den CTA-Link zu bearbeiten. Ihre Vorlage muss ordnungsgemäß eingerichtet sein, damit diese neuen CTA-Funktionen funktionieren. Befolgen Sie die Richtlinien unter _Anpassen einer Vorlage_: [Aktionsaufrufe](/help/user-guide/content/customize-template.md#calls-to-action). Richtlinien zum Verwalten von CTAs in Varianten finden Sie unter [Call to action überarbeiten](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -162,7 +195,7 @@ Sie können jetzt beim Verwalten von Varianten neue call-to-action (CTA)-Phrasen
 
 * Die Auswahl von Rollen, Marken und Produkten wird jetzt während der Vorlagenerstellung vorgeladen. <!-- GS-8069 -->
 
-* Der Link für E-Mail-Aktionsaufrufe ist kein erforderliches Feld mehr. <!-- GS-8103 -->
+* Der E-Mail-call-to-action-Link ist kein Pflichtfeld mehr. <!-- GS-8103 -->
 
 * Das Dropdown-Menü der [!DNL Brand] funktioniert jetzt für Vorlagen wie erwartet. Zuvor wurde der Selektor für einige Vorlagen nicht erfolgreich geladen. <!-- GS-8908 -->
 
@@ -250,7 +283,7 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
 
-* Verbesserte Leistung der Schaltfläche [!DNL Create]&#x200B;**[!UICONTROL Zurück]**. <!-- GS-6767 -->
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 +++
 
@@ -344,7 +377,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
