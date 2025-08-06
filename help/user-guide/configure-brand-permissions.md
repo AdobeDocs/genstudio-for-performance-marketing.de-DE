@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bearbeiten. Die Rollen „Inhaltseditor“ und „Mitarbeiter“ verfügen über Bearbeitungs- und Erstellungsberechtigungen, erfordern jedoch möglicherweise keine Berechtigungen für die Systemverwaltung.
 
-Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
+Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
 
 Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung [ die Verfahren zum Hinzufügen von ](https://helpx.adobe.com/de/enterprise/using/users.html) und Benutzergruppen finden Sie __ Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
 
@@ -95,7 +95,7 @@ Ein _Projekt_ bietet einen Speicherort, an dem ausgewählte Benutzer Assets spei
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**. Das _Zum Projekt einladen_-Popup wird geöffnet.
 
-Siehe [Projekte verwalten](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html) im _Administrationshandbuch für Unternehmen und Teams_.
+Siehe [Projekte verwalten](https://helpx.adobe.com/de/enterprise/using/projects-in-business-storage.html) im _Administrationshandbuch für Unternehmen und Teams_.
 
 ## Schritt 5: Benutzergruppe zum Projekt einladen
 
