@@ -5,10 +5,10 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
-source-git-commit: 3739a218ce67749d0038059e3504ab9a4df8f065
+source-git-commit: 81c4b10e22ac347eb2a464496bd65b29c3c94efa
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 0%
+source-wordcount: '783'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,24 @@ Der Bereich _[!UICONTROL Erkannte Felder überprüfen]_ zeigt eine Liste von Fel
 
 Wenn Sie feststellen, dass ein Feld in der Liste fehlt, durchsuchen Sie den Vorlagencode und suchen Sie nach dem Speicherort für das fehlende Feld. Fügen Sie den richtigen Platzhalter mithilfe der Handlebars-Syntax und eines [erkannten Feldnamens](/help/user-guide/content/customize-template.md#recognized-field-names) ein. Verwenden Sie das Formular Suchen und Ersetzen unten im Code-Editor, um nach bestimmten Zeichenfolgen im Code zu suchen. (Windows `CTRL`+`F` oder macOS `CMD`+`F`)
 
-### Korrektur vornehmen
+## Anpassen der Rollen für eine Variable
+
+Sie können Feldrollen für textbasierte Feldrollen (z. B. `headline`, `sub_headline`, `body`, `cta`, `on_image_text`, `custom`) während der Überprüfung der Vorlagenstruktur mit einem Dropdown-Menü auswählen und ändern. Die Feldrollenauswahl bleibt während der Vorlagenbearbeitung erhalten, sodass die Anpassungen nicht verloren gehen, was die Workflow-Effizienz verbessert.
+
+>[!NOTE]
+>
+>Die Rollen von Bildvariablen können nicht angepasst werden.
+
+![Mehrfachrollenfeldauswahl](/help/assets/multirole-dropdown-field.png "Mehrfachrollenfeldauswahl"){width="600" zoomable="yes"}
+
+So weisen Sie einer Variablen eine Rolle zu:
+
+1. Suchen Sie die Variable im Bereich _[!UICONTROL Erkannte Felder überprüfen]_. Diese Variablen werden automatisch erkannt.
+2. Überprüfen Sie die den einzelnen Variablen zugewiesenen Rollen. Rollen werden automatisch zugewiesen, können jedoch über das Dropdown-Menü für jede Variable in der Vorlage angepasst werden.
+3. Passen Sie eine Rolle an, indem Sie eine neue Rolle aus der Dropdown-Liste auswählen.
+4. Klicken Sie auf **[!UICONTROL Weiter]**, um fortzufahren.
+
+## Korrektur vornehmen
 
 Wenn Ihre Vorlage Fehler enthält, wird möglicherweise eine `Template is invalid` mit einer kurzen Erläuterung des Problems angezeigt. Im folgenden Beispiel zeigt die Meldung an, dass das `_image` Feld nicht der in der Multi-Pod-Vorlage festgelegten Feldnamenskonvention entspricht. In der Meldung wird außerdem darauf hingewiesen, dass Sie den Feldnamen mit dem richtigen Präfix aktualisieren müssen. Suchen Sie das Feld `_image` im Vorlagen-Code-Editor und aktualisieren Sie den Namen wie empfohlen.
 
