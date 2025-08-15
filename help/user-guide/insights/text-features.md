@@ -3,7 +3,7 @@ title: Textfunktionen
 description: Erfahren Sie mehr über die Textfunktion der in GenStudio for Performance Marketing verwendeten Attributkategorien.
 feature: Reporting and Insights, Text Attributes, Generative AI
 exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
-source-git-commit: ac2e18899f910a47ec5013a13c2ee2771684ddad
+source-git-commit: 3ccc6313a7c559f1c0846c144d23b783da0aecfa
 workflow-type: tm+mt
 source-wordcount: '1290'
 ht-degree: 1%
@@ -117,11 +117,11 @@ Die Lesbarkeitsbewertung bewertet, wie einfach ein Textstück zu lesen und zu ve
 
 | Lesbarkeitsstufe | Beschreibung | Beispiel |
 | ------------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
-| 5. Klasse | Sehr einfache Sprache, geeignet für kleine Kinder. | `The cat sat on the mat.` |
-| 6. Klasse | Einfache und klare Sprache, geeignet für ein allgemeines Publikum. | `You can find great deals on our website.` |
-| 7. Klasse | Einfach zu verstehen, mit einfachem Vokabular und Struktur. | `Our new product is simple to use and very effective.` |
-| 8. und 9. Klasse | Klare und knappe Sprache, geeignet für Jugendliche. | `This guide will help you understand the basics of our service.` |
-| 10. bis 12. Klasse | Komplexere Sprache, geeignet für ältere Jugendliche und Erwachsene. | `The comprehensive manual provides detailed instructions for setup.` |
+| &#x200B;5. Klasse | Sehr einfache Sprache, geeignet für kleine Kinder. | `The cat sat on the mat.` |
+| &#x200B;6. Klasse | Einfache und klare Sprache, geeignet für ein allgemeines Publikum. | `You can find great deals on our website.` |
+| &#x200B;7. Klasse | Einfach zu verstehen, mit einfachem Vokabular und Struktur. | `Our new product is simple to use and very effective.` |
+| &#x200B;8. und 9. Klasse | Klare und knappe Sprache, geeignet für Jugendliche. | `This guide will help you understand the basics of our service.` |
+| &#x200B;10. bis 12. Klasse | Komplexere Sprache, geeignet für ältere Jugendliche und Erwachsene. | `The comprehensive manual provides detailed instructions for setup.` |
 | Hochschule | Fortgeschrittene Sprache, geeignet für ein gut ausgebildetes Publikum. | `The study explores the multifaceted implications of the new policy.` |
 | Hochschulabsolvent | Hoch entwickelte Sprache, geeignet für Experten und Spezialisten. | `The dissertation delves into the intricacies of quantum mechanics.` |
 

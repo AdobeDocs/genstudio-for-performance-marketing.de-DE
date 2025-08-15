@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 09dea200babd7bdd20a3372c91aca9918117897e
+source-git-commit: 7390dc758427d19b23ce054b23fd830662913498
 workflow-type: tm+mt
-source-wordcount: '3052'
+source-wordcount: '3415'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,60 @@ ht-degree: 0%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2 025,07,25 {#latest}
+## 2 025,08,15 {#latest}
+
+### Insights für Textattribute
+
+Texteigenschaften-Insights in Adobe GenStudio analysieren den emotionalen Ton, die Überzeugungstechniken und den Erzählstil, der in der Anzeigenkopie verwendet wird. Sobald eine Kampagne live ist, verfolgt GenStudio, wie diese Textattribute mit wichtigen Leistungsmetriken wie CTR, CPA, CPC, Impressions und Ausgaben korrelieren.
+
+Dies ist derzeit nur für Anzeigen auf Englisch verfügbar. Siehe [Textfunktionen](/help/user-guide/insights/text-features.md) für detaillierte Informationen.
+
+### Verbesserungen bei Insights-Vorlagen
+
+* Die Karte „Anzeigenvorschau“ enthält jetzt eine Option „Mehr anzeigen“ für Text.
+* Neue Vorlagen für Karten mit Mauerwerk auf Anzeigenseite.
+
+### Mehrsprachige Inhalte mit Markenvalidierung generieren
+
+Der neue Sprachselektor in der Eingabeaufforderungsschublade unterstützt die Erstellung mehrsprachiger Inhalte und ermöglicht es regionalen Marketern, markeninterne Inhalte für ihre lokalen Zielgruppen zu entwickeln. Diese Funktion unterstützt derzeit 12 Sprachen.
+
+### Unterstützung von Video-Assets in Vorlagen
+
+* Video-Assets können zu Meta- und LinkedIn-Vorlagen hinzugefügt werden.
+
+### Erlebnisverbesserungen aktivieren
+
+* Neue Funktion zum Speichern von Aktivierungsentwürfen.
+* Neue Funktion zum Wiederholen fehlgeschlagener Aktivierungen.
+
+### Dieselbe Rolle in mehreren Textfeldern verwenden
+
+Mehrere Textfelder mit derselben Rolle werden jetzt für komplexe Kundenvorlagen unterstützt (z. B. „body“, „cta“, „on image text“ usw.).
+
+Erkunden Sie die Details in [Anleitung für den Vorlagen-Code-Editor](/help/user-guide/content/code-editor.md).
+
+### Neue Clio 4 Standard- und Clio 4 Ultra Image Generation-Modelle werden unterstützt
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Adobe GenStudio for Performance Marketing unterstützt jetzt die neueste Firefly Image Model 4-Suite mit zwei leistungsstarken Varianten:
+
+**Clio 4 Standard**: Optimiert für Schnelligkeit und Einfachheit, ideal für die Erstellung von Illustrationen, Symbolen, einfachen Objektfotos und Einzelfachportraits - 90 % der täglichen kreativen Anforderungen werden abgedeckt.
+
+**Clio 4 Ultra**: Priorisiert Fotorealismus und Präzision, hervorragende Darstellung von menschlichen Porträts, mittelgroßen Gruppen und komplexen Szenen für anspruchsvolle kreative Aufgaben.
+
+Unter [Generieren von Assets](/help/user-guide/create/generate-assets.md) finden Sie detaillierte Informationen zur Verwendung dieser neuen Bilderzeugungsmodelle.
+
+### Vordefinierte Übersetzung für E-Mails
+
+[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
+
+Adobe GenStudio for Performance Marketing bietet jetzt integrierte E-Mail-Übersetzungsfunktionen, mit denen Marketing-Experten ihre E-Mail-Kampagnen global effizient skalieren können. Mit dieser Funktion können Sie mithilfe von Azure Open AI-Übersetzungs-Services ein genehmigtes E-Mail-Erlebnis in mehrere Zielsprachen übersetzen.
+
+
+## Frühere Versionshinweise
+
++++Hinweise vom 2025.07.25
 
 ### Filter für kompatible Assets
 
@@ -45,8 +98,7 @@ Das neue Dropdown-Menü zur Sprachauswahl in der Eingabeaufforderungsschublade u
 
 Die Vorlagenauswahl ist jetzt bei Meta-Anzeigen optional, sodass Benutzende Anzeigen erstellen können, ohne Text und Logo oben im Medium zu benötigen. Diese Verbesserung ermöglicht andere Medientypen wie animierte GIFs und Videos, für die möglicherweise keine Textüberlagerungen oder Logo-Platzierungen erforderlich sind.
 
-
-## Frühere Versionshinweise
++++
 
 +++Hinweise aus dem 15.6.2025
 
@@ -99,7 +151,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 +++
 
-+++Hinweise aus dem 15.04.2025
++++Hinweise aus dem 15.4.2025
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -110,7 +162,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 +++
 
-+++Anmerkungen vom 03.2025.13
++++Hinweise aus dem 13.03.2025
 
 ### Meta-Anzeigen aktivieren
 
@@ -157,7 +209,7 @@ Das neue GenStudio for Performance Marketing [Erweiterbarkeits-Framework](/help/
 
 +++
 
-+++Anmerkungen vom 2025.02.13
++++Hinweise vom 2025.02.13
 
 ### Verbesserungen an der Landingpage für [!DNL Create]
 
@@ -211,7 +263,7 @@ Sie können jetzt beim Verwalten von Varianten neue call-to-action (CTA)-Phrasen
 
 +++
 
-+++Anmerkungen vom 12.12.2024
++++Hinweise aus dem 12.12.2024
 
 ### Neue Funktionen
 
@@ -283,11 +335,11 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
 
-* Verbesserte Leistung der Schaltfläche [!DNL Create]&#x200B;**[!UICONTROL Zurück]**. <!-- GS-6767 -->
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 +++
 
-+++Anmerkungen aus dem 14.11.2024
++++Hinweise aus dem 14.11.2024
 
 ### Neue Funktionen
 
@@ -315,7 +367,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 +++
 
-+++Anmerkungen vom 11.2024.07
++++Hinweise vom 2024.11.07
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -361,7 +413,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 +++
 
-+++Anmerkungen aus dem 31.10.2024
++++Hinweise aus dem 31.10.2024
 
 ### Neue Funktionen
 
@@ -377,11 +429,11 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
-+++Hinweise aus 2024.10.14 Allgemeine Verfügbarkeit
++++Hinweise zur allgemeinen Verfügbarkeit 2024.10.14
 
 Mit dieser Version wird Adobe GenStudio for Performance Marketing eingeführt, eine generative KI-basierte Anwendung, die die Planung, Entwicklung und Analyse von Marketing-Kampagnen beschleunigt. GenStudio for Performance Marketing ermöglicht es Marketing-Teams, markeninterne, kanalübergreifende Inhalte für Anzeigen, E-Mails und Kampagnen zu erstellen und gleichzeitig Echtzeiteinblicke zu erhalten, um die Content-Performance zu optimieren.
 
