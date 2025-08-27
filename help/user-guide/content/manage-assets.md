@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbess
 
 ## [!DNL Content]
 
-In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Assets Klicken Sie in der Ansicht _[!UICONTROL 0} auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden.]_
+In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (Trichter) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Assets Klicken Sie in der Ansicht _[!UICONTROL 0&rbrace; auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden.]_
 
 Im Folgenden sehen Sie eine Suche nach dem Begriff `space` in der Galerie [!UICONTROL Assets]:
 
@@ -36,7 +36,7 @@ Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vor
 
 **So suchen Sie nach wiederzuverwendenden Inhalten**:
 
-1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Assets]**aus.
+1. Wählen Sie in _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Assets]**&#x200B;aus.
 
 1. Wählen Sie ein Asset-Repository aus der **[!UICONTROL Speicherort]**-Liste aus oder stellen Sie sicher, dass Sie das richtige Asset-Repository verwenden. `GenStudio assets` ist das Standard-Repository.
 
@@ -96,7 +96,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Hinzufügen von Assets**:
 
-1. Klicken Sie _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie _[!DNL Content]_&#x200B;auf **[!UICONTROL Assets hinzufügen]**.
 
 2. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** aus Dropbox oder Microsoft OneDrive importieren.
 
@@ -120,7 +120,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Herunterladen eines Assets**:
 
-1. Wählen Sie _[!DNL Content]_ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf das Symbol]** Herunterladen“ (Pfeil nach unten).
 
@@ -130,7 +130,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **So löschen Sie ein Asset**:
 
-1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben]** auf „Löschen“ (Papierkorb).
 
@@ -146,7 +146,7 @@ Sie können ein oder mehrere genehmigte Erlebnisse zum Herunterladen in einem mi
 
 **Exportieren oder Herunterladen von Erlebnissen**:
 
-1. Wählen Sie _[!DNL Content]_ein oder mehrere Erlebnisse aus.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein oder mehrere Erlebnisse aus.
 
    Es wird ein Banner mit der links ausgewählten Anzahl von Erlebnissen und rechts Optionen [!UICONTROL Aktivieren], [!UICONTROL Herunterladen] oder [!UICONTROL Löschen] angezeigt.
 
@@ -180,7 +180,7 @@ Kriterien für die Optimierung von Bildern mit der [!DNL Edit in Adobe Express]:
 
 **So bearbeiten Sie ein Asset mit Express**:
 
-1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset-Ansicht **[!UICONTROL oben rechts auf]** Symbol „Bearbeiten in Adobe Express&quot;.
 
