@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
-source-git-commit: 81c4b10e22ac347eb2a464496bd65b29c3c94efa
+source-git-commit: f9fec89a522f3c82367516b79dbc79db5a106bbf
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Der Vorlagen-Code-Editor soll Ihnen dabei helfen, Ihre Vorlage zu überprüfen u
 
 Der Bereich _[!UICONTROL Erkannte Felder überprüfen]_ zeigt eine Liste von Feldern an, die GenStudio for Performance Marketing in Ihrer Vorlage erkennt. Überprüfen Sie die Liste und Sie können durch den HTML-Code scrollen, um die Bildung Ihrer Vorlage anzuzeigen.
 
-![Code-Editor-Ansicht](/help/assets/template-detected-fields.png "Überprüfung erkannter Felder"){width="600" zoomable="yes"}
+![Code-Editor-Ansicht](/help/assets/template-detected-fields.png "Überprüfung erkannter Felder"){width="600"}
 
 Wenn Sie feststellen, dass ein Feld in der Liste fehlt, durchsuchen Sie den Vorlagencode und suchen Sie nach dem Speicherort für das fehlende Feld. Fügen Sie den richtigen Platzhalter mithilfe der Handlebars-Syntax und eines [erkannten Feldnamens](/help/user-guide/content/customize-template.md#recognized-field-names) ein. Verwenden Sie das Formular Suchen und Ersetzen unten im Code-Editor, um nach bestimmten Zeichenfolgen im Code zu suchen. (Windows `CTRL`+`F` oder macOS `CMD`+`F`)
 
@@ -36,7 +36,7 @@ Sie können Feldrollen für textbasierte Feldrollen (z. B. `headline`, `sub_head
 >
 >Die Rollen von Bildvariablen können nicht angepasst werden.
 
-![Mehrfachrollenfeldauswahl](/help/assets/multirole-dropdown-field.png "Mehrfachrollenfeldauswahl"){width="600" zoomable="yes"}
+![Mehrfachrollenfeldauswahl](/help/assets/multirole-dropdown-field.png "Mehrfachrollenfeldauswahl"){width="600"}
 
 So weisen Sie einer Variablen eine Rolle zu:
 
@@ -49,7 +49,7 @@ So weisen Sie einer Variablen eine Rolle zu:
 
 Wenn Ihre Vorlage Fehler enthält, wird möglicherweise eine `Template is invalid` mit einer kurzen Erläuterung des Problems angezeigt. Im folgenden Beispiel zeigt die Meldung an, dass das `_image` Feld nicht der in der Multi-Pod-Vorlage festgelegten Feldnamenskonvention entspricht. In der Meldung wird außerdem darauf hingewiesen, dass Sie den Feldnamen mit dem richtigen Präfix aktualisieren müssen. Suchen Sie das Feld `_image` im Vorlagen-Code-Editor und aktualisieren Sie den Namen wie empfohlen.
 
-![Ungültige Vorlage korrigieren](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
+![Ungültige Vorlage korrigieren](/help/assets/animation/template-code-editor.gif){width="600"}
 
 Der _[!UICONTROL Überprüfen erkannter Felder]_ wird aktualisiert und zeigt die von Ihnen vorgenommenen Änderungen an. Wenn Sie sich vergewissert haben, dass die Felder korrekt und vollständig sind, klicken Sie auf **[!UICONTROL Weiter]**, um mit dem [ (Hochladen der Vorlage) ](/help/user-guide/content/use-templates.md#add-a-template).
 

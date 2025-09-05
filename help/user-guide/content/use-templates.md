@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 7dfd915ebcc001b12357cfa334346e6698436d7d
+source-git-commit: 2f15dc05f65ec216c7d242ffb3e14a83c76f3000
 workflow-type: tm+mt
 source-wordcount: '1366'
 ht-degree: 1%
@@ -59,7 +59,7 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 ## Vorlagen verwalten
 
-Der _[!DNL Templates]_&#x200B;zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
+Der _[!DNL Templates]_zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
 
 ### Vorlagen suchen
 
@@ -72,9 +72,9 @@ Beispielsweise können Sie eine Vorlage eines bestimmten Kanaltyps oder Seitenve
 
 Im folgenden Beispiel werden Filter nach Kanaltyp angezeigt, z. B. E-Mail, Display-Anzeigen, Meta-Anzeigen und LinkedIn-Anzeigen.
 
-![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650" zoomable="yes"}
+![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650"}
 
-Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL &#x200B; Vorlage für eigene oder bezahlte &#x200B;] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
+Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL  Vorlage für eigene oder bezahlte ] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 
 ### Vorlage hinzufügen
 
@@ -82,34 +82,34 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 **So fügen Sie eine Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
-1. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
+2. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
 
-1. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
+3. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
 
-1. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
+4. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
 
    Beispielvorschau für eine E-Mail-Vorlage:
 
-   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
    >Wenn die Vorlage nicht korrekt ist, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch. Oder verwenden Sie den [Vorlagen-Code](/help/user-guide/content/code-editor.md)Editor, um einfache Korrekturen vorzunehmen.
 
-1. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
+5. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
 
-1. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
+6. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
 
    Vorlagenname und Kanaltyp sind erforderlich. Zusätzliche Anforderungen können Folgendes umfassen:
 
    - **Meta**: erfordert Seitenverhältnis
    - **Banner- und Display-Anzeige**: Erfordert Dimensionen
 
-1. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
+7. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
 
-1. Klicken Sie auf **[!UICONTROL Fertig]**.
+8. Klicken Sie auf **[!UICONTROL Fertig]**.
 
 ### Vorlage aktualisieren
 
@@ -117,11 +117,11 @@ Vorlagen können statische Dateien wie Symbole oder Logos enthalten. [Statischer
 
 **Aktualisieren der Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
-1. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
+2. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
 
-1. Klicken **[!UICONTROL oben rechts auf]** Aktualisieren“ (kreisende Pfeile), um eine Aktualisierung aller in der Vorlage verwendeten Assets durchzuführen.
+3. Klicken **[!UICONTROL oben rechts auf]** Aktualisieren“ (kreisende Pfeile), um eine Aktualisierung aller in der Vorlage verwendeten Assets durchzuführen.
 
 ### Erstellen eines Erlebnisses mit einer Vorlage
 
@@ -129,13 +129,13 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 **So erstellen Sie ein Erlebnis mit einer Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
-1. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
+2. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
 
-1. Klicken **[!UICONTROL oben rechts auf Erlebnis]** Pinsel erstellen), um die Vorlage zu verwenden.
+3. Klicken **[!UICONTROL oben rechts auf Erlebnis]** Pinsel erstellen), um die Vorlage zu verwenden.
 
-1. Fahren Sie mit [Erstellen](/help/user-guide/create/overview.md#create-use-cases) fort.
+4. Fahren Sie mit [Erstellen](/help/user-guide/create/overview.md#create-use-cases) fort.
 
 ## Vorlagen aus AJO und Marketo
 
