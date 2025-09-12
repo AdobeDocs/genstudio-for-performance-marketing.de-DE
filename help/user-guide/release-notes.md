@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 778be59db2bf159c57095fbb2d89cff8c9704b33
+source-git-commit: a666052494382be09bb24ef5d4d803d5ec710baf
 workflow-type: tm+mt
-source-wordcount: '3411'
+source-wordcount: '3502'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,17 @@ ht-degree: 0%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2 025,08,15 {#latest}
+## 2 025,09,11 {#latest}
+
+### Neue generative KI-Erweiterungsfunktion für bezahlte Medien
+
+Mit der neuen GenExpand-Funktion können Marketing-Fachleute ihre Kreativ-Assets dynamisch anpassen, um verschiedene Seitenverhältnisse für Paid-Media-Kanäle wie Meta, LinkedIn, Display-Anzeigen und Banner zu unterstützen. Wenn ein Bild nicht dem beabsichtigten Seitenverhältnis entspricht, z. B. wenn Sie einem breiten Layout ein schmales Bild hinzufügen, können Sie GenExpand verwenden, um das Bild anzupassen.
+
+Diese Funktion optimiert die Bildbearbeitung und die Größenanpassung direkt in GenStudio for Performance Marketing. Siehe [Generative KI-Funktionen erweitern](/help/user-guide/create/manage-variants.md#use-generative-expand) für detaillierte Informationen.
+
+## Frühere Versionshinweise
+
++++Anmerkungen aus dem Jahr 2025.08.15
 
 ### Insights für Textattribute
 
@@ -65,8 +75,7 @@ Unter [Generieren von Assets](/help/user-guide/create/generate-assets.md) finden
 
 Adobe GenStudio for Performance Marketing bietet jetzt integrierte E-Mail-Übersetzungsfunktionen, mit denen Marketing-Experten ihre E-Mail-Kampagnen global effizient skalieren können. Mit dieser Funktion können Sie mithilfe von Azure Open AI-Übersetzungs-Services ein genehmigtes E-Mail-Erlebnis in mehrere Zielsprachen übersetzen.
 
-
-## Frühere Versionshinweise
++++
 
 +++Hinweise vom 2025.07.25
 
@@ -335,7 +344,7 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
 
-* Verbesserte Leistung der Schaltfläche [!DNL Create]&#x200B;**[!UICONTROL Zurück]**. <!-- GS-6767 -->
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 +++
 
@@ -429,7 +438,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
