@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über das Zuweisen von Berechtigungen für GenStu
 level: Intermediate
 feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: 8ed591795cee157760159cca6e899cab15792252
+source-git-commit: adb1d34eb76d7594933fe9951c4c1885e6d6369b
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 1%
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bearbeiten. Die Rollen „Inhaltseditor“ und „Mitarbeiter“ verfügen über Bearbeitungs- und Erstellungsberechtigungen, erfordern jedoch möglicherweise keine Berechtigungen für die Systemverwaltung.
 
-Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
+Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
 
 Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung [ die Verfahren zum Hinzufügen von ](https://helpx.adobe.com/de/enterprise/using/users.html) und Benutzergruppen finden Sie __ Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
 
 Sehen Sie sich diese Videoeinführung an oder führen Sie die folgenden Schritte aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470508/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
 
 ## Schritt 1: Erstellen einer Benutzergruppe
 
@@ -95,7 +95,7 @@ Ein _Projekt_ bietet einen Speicherort, an dem ausgewählte Benutzer Assets spei
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**. Das _Zum Projekt einladen_-Popup wird geöffnet.
 
-Siehe [Projekte verwalten](https://helpx.adobe.com/de/enterprise/using/projects-in-business-storage.html) im _Administrationshandbuch für Unternehmen und Teams_.
+Siehe [Projekte verwalten](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html) im _Administrationshandbuch für Unternehmen und Teams_.
 
 ## Schritt 5: Benutzergruppe zum Projekt einladen
 
