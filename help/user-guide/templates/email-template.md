@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
+source-git-commit: 49d8d5daa2f3c93c18cd9132dab5207871b51237
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -44,17 +44,18 @@ Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [
 
 ## E-Mail mit mehreren Abschnitten
 
-_Abschnitte_ ermöglichen es Ihnen, Inhalte in verschiedene Gruppen zu organisieren, was komplexere Layouts unterstützt. In Genstudio für Performance Marketing können Sie jeden Abschnitt mithilfe einer Gruppennamenskonvention definieren. Siehe [Anpassen von Vorlagenbereichen](/help/user-guide/content/customize-template.md#sections-or-groups).
+_Abschnitte_ ermöglichen es Ihnen, Inhalte in verschiedene Gruppen zu organisieren und komplexere Layouts zu unterstützen. In GenStudio for Performance Marketing können Sie jeden Abschnitt mithilfe einer Gruppennamenskonvention definieren. Siehe [Anpassen von Vorlagenbereichen](/help/user-guide/content/customize-template.md#sections-or-groups).
 
 Vorlagen mit mehreren Abschnitten können 0, 2 oder 3 Abschnitte enthalten:
 
-- Eine einfache Vorlage (null Abschnitte) kann einen einzigen Satz von Vorlagenelementen generieren, wofür keine Namenskonvention für Gruppen erforderlich ist.
-- Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren, wozu die Einhaltung der Gruppennamen-Konvention erforderlich ist: (`groupname_fieldname`)
+- Eine einfache Vorlage (keine Abschnitte) kann einen einzigen Satz von Vorlagenelementen generieren, wofür keine Namenskonvention für Gruppen erforderlich ist.
+- Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren, wofür Sie die Namenskonvention für Gruppen einhalten müssen: `<groupname_fieldname>`.
+- Bei Verwendung mehrerer Abschnitte werden die Elemente, die außerhalb eines Abschnitts verbleiben, nicht befüllt.
 
-Beispielfeldnamen für zwei Abschnitte:
+Im Folgenden finden Sie Beispiele für Feldnamen, die die Gruppennamenskonvention für zwei Abschnitte verwenden:
 
-- `pod1_headline`, `pod1_body`, `pod1_cta`
-- `pod2_headline`, `pod2_body`, `pod2_cta`
+- In Abschnitt 1:`pod1_headline`, `pod1_body`, `pod1_cta`
+- In Abschnitt 2:`pod2_headline`, `pod2_body`, `pod2_cta`
 
 ## Vorlagenbeispiele
 
@@ -109,7 +110,7 @@ Im Folgenden finden Sie ein einfaches Beispiel für eine HTML-E-Mail-Vorlage mit
 
 +++Beispiel: E-Mail-Vorlage mit mehreren Abschnitten
 
-Im Folgenden sehen Sie dieselbe HTML-Vorlage wie im obigen Beispiel, jedoch mit zwei weiteren Abschnitten. Die Kopfzeile enthält Inline-CSS für die Formatierung einer Gruppe. Der Textkörper verwendet zwei Gruppen mit [Inhalts-Platzhaltern](#content-placeholders) die ein Präfix verwenden.
+Hier sehen Sie dieselbe HTML-Vorlage im obigen Beispiel, jedoch mit zwei weiteren Abschnitten. Die Kopfzeile enthält Inline-CSS für die Formatierung einer Gruppe. Der Textkörper verwendet zwei Gruppen mit [Inhalts-Platzhaltern](#content-placeholders) die ein Präfix verwenden.
 
 ```html
 <!DOCTYPE html>
@@ -151,8 +152,6 @@ Im Folgenden sehen Sie dieselbe HTML-Vorlage wie im obigen Beispiel, jedoch mit 
     </head>
     <body>{{pre_header}}
         <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
