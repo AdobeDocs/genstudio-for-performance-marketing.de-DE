@@ -1,11 +1,11 @@
 ---
-title: Erstellen einer App Builder-App zur Erweiterung von GenStudio for Performance Marketing
-description: Beginnen Sie mit dem Erstellen einer App oder eines Add-ons.
+title: Erstellen einer App Builder-App
+description: Beginnen Sie mit dem Erstellen einer App oder eines Add-ons zur Erweiterung von GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
-source-git-commit: 89b7f477310326755a6b34cb97d5ad5664e98dec
+source-git-commit: 04a4f6432c5db87489e39f9396a7782c86441695
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Entwickelnde, die die nativen Funktionen von GenStudio for Performance Marketing
 
 * npm (im Paket mit Node.js)
 
-* Adobe Developer-Befehlszeilenschnittstelle (CLI). Zur Installation: `npm install -g @adobe/aio-cli`
+* Adobe Developer-Befehlszeilenschnittstelle (CLI). Um es mit npm zu installieren, führen Sie Folgendes aus: `npm install -g @adobe/aio-cli`
 
 >[!ENDSHADEBOX]
 
@@ -47,10 +47,10 @@ Zu den Hauptkomponenten der App Builder-Apps gehören diese Build- und Konfigura
 * App Builder-Konfigurationsdateien:
 
    * `app.config.yaml`
-   * `ext.config.yaml`: Konfigurationsdatei für das Add-on
-   * `app.config.yaml`: Konfigurationsdatei für das Add-on (einschließlich der Definition Ihrer App als GenStudio for Performance Marketing-Add-on)
+   * `ext.config.yaml`: Konfigurationsdatei für das Add-on.
+   * `app.config.yaml`: Konfigurationsdatei für das Add-on (einschließlich der Definition Ihrer App als GenStudio for Performance Marketing-Add-on).
    * `.aio`
-   * `.env`: Übergeben Sie die `.env` nicht in die Versionsverwaltung
+   * `.env`: Übergeben Sie die `.env` nicht in die Versionsverwaltung.
 
 ### Quell-Code
 
@@ -70,7 +70,7 @@ Zu den Hauptkomponenten der App Builder-Apps gehören diese Build- und Konfigura
 
 ### Source-Code-Komponenten
 
-* `ExtensionRegistration.tsx`: Definiert die erforderlichen APIs, die die Host-App (GenStudio for Performance Marketing) zum Laden und Anzeigen des Add-ons benötigt.
+* `ExtensionRegistration.tsx`: Definiert die erforderlichen APIs für die Host-App (GenStudio for Performance Marketing) zum Laden und Anzeigen des Add-ons.
 
 * `App.tsx`: Hauptkomponente der App, die das Routing zu anderen Komponenten definiert.
 
@@ -88,7 +88,7 @@ Sie können eine Beispiel-App verwenden, um die Erstellung Ihres Add-ons zu star
 
 1. Laden Sie eine Beispielanwendung aus dem Repository [GenStudio UIX-](https://github.com/adobe/genstudio-uix-examples) herunter.
 
-1. Wählen Sie im App Builder-Projekt-Arbeitsbereich auf [Adobe Developer Console](https://developer.adobe.com/console/) die Option **[!UICONTROL Alle herunterladen]** aus, um die Projektdetails herunterzuladen.
+1. Wählen Sie im App Builder-Projekt-Arbeitsbereich auf [Adobe Developer Console](https://developer.adobe.com/console/) die Option [!UICONTROL Alle herunterladen] aus, um die Projektdetails herunterzuladen.
 
 1. Öffnen Sie Ihre Beispiel-App lokal in Ihrer bevorzugten integrierten Entwicklungsumgebung (IDE).
 
@@ -106,17 +106,15 @@ Sie können eine Beispiel-App verwenden, um die Erstellung Ihres Add-ons zu star
 
 ## Hinzufügen von benutzerdefiniertem Code zu Ihrem Add-on
 
-Sie definieren den Add-on-Code in `AdditionalContextDialog.tsx`- und `RightPanel.tsx`. Diese beiden Dateien definieren das Erscheinungsbild und Verhalten von Popups, wenn Benutzer auf das Add-on zugreifen.
+Definieren Sie Ihren Add-on-Code in `AdditionalContextDialog.tsx`- und `RightPanel.tsx`. Diese beiden Dateien definieren das Erscheinungsbild und Verhalten von Popups, wenn Benutzer auf das Add-on zugreifen.
 
 * `AdditionalContextDialog.tsx`: Definieren Sie diese Komponente, wenn Sie das Add-on _Kontext hinzufügen_ verwenden möchten. Benutzer interagieren mit dieser Komponente, wenn sie auf _Add-ons_ in der Eingabeaufforderungsschublade in [!DNL Create] klicken.
 
 * `RightPanel.tsx`: Definieren Sie diese Komponente, wenn Sie das Add-on _Bereich rechts_ (Erlebnisvalidierung) verwenden möchten. Benutzer interagieren mit dieser Komponente, wenn sie in einem [!DNL Create] Erlebnisentwurf im rechten Bedienfeld auf das Validierungs-Add-on klicken.
 
-Jetzt können Sie [Ihre App bereitstellen](deploy-app.md)
-
 ## Best Practices für die App-Entwicklung
 
-Durch die Wartung Ihrer Entwicklungsumgebung können Sie Fehler bei der App-Entwicklung und -Bereitstellung vermeiden:
+Durch die Wartung Ihrer Entwicklungsumgebung können Fehler bei der App-Entwicklung und -Bereitstellung vermieden werden:
 
 * Wenn Sie eine ältere Version einer Beispielanwendung verwenden, aktualisieren Sie die Abhängigkeiten, indem Sie sie erneut installieren:
 
@@ -125,3 +123,5 @@ Durch die Wartung Ihrer Entwicklungsumgebung können Sie Fehler bei der App-Entw
   ```
 
 * Aktualisieren Sie die GenStudio UIX SDK. Vergewissern Sie sich, dass Sie die neueste Version von [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk) verwenden. Unter [Beispiel-Repository für GenStudio UIX](https://github.com/adobe/genstudio-uix-examples) erfahren Sie, wie Sie die neuesten SDK-Änderungen verwenden.
+
+Jetzt können Sie &quot;[ App bereitstellen](deploy-app.md)

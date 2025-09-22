@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a666052494382be09bb24ef5d4d803d5ec710baf
+source-git-commit: 06f273d520c39042e180b5acaec33004df1cd5fe
 workflow-type: tm+mt
 source-wordcount: '3502'
 ht-degree: 0%
@@ -195,7 +195,7 @@ Im Rahmen der Markenvalidierung wurden [Compliance-Standards](/help/user-guide/g
 
 ### Erweiterbarkeit
 
-Das neue GenStudio for Performance Marketing [Erweiterbarkeits-Framework](/help/extensibility/overview.md) bietet Tools für Unternehmen, mit denen sie ihre eigenen anspruchsbezogenen Compliance-Protokolle über Add-ons oder erweiterbare Programme in den Workflow zur Inhaltserstellung und -validierung integrieren können.
+Das neue GenStudio for Performance Marketing [Erweiterbarkeits-Framework](/help/extensibility/setup.md) bietet Tools für Unternehmen, mit denen sie ihre eigenen anspruchsbezogenen Compliance-Protokolle über Add-ons oder erweiterbare Programme in den Workflow zur Inhaltserstellung und -validierung integrieren können.
 
 ### Vorlagen
 
@@ -344,7 +344,7 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
 
-* Verbesserte Leistung der Schaltfläche [!DNL Create]&#x200B;**[!UICONTROL Zurück]**. <!-- GS-6767 -->
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 +++
 
@@ -438,7 +438,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
