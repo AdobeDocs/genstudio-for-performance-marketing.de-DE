@@ -30,7 +30,7 @@ Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeig
 
 ## Schritt 3: Auswählen des Inhalts für Ihr Anzeigenerlebnis
 
-Sie können den Veröffentlichungsprozess entweder über die Galerie _[!DNL Content]_Erlebnisse oder die Startseite der_[!DNL Activate]_ starten. Genehmigte Erlebnisse können nicht bearbeitet werden. Jedes Erlebnis kann nur ein Asset enthalten.
+Sie können den Veröffentlichungsprozess entweder über die Galerie _[!DNL Content]_&#x200B;Erlebnisse oder die Startseite der&#x200B;_[!DNL Activate]_ starten. Genehmigte Erlebnisse können nicht bearbeitet werden. Jedes Erlebnis kann nur ein Asset enthalten.
 
 **So wählen Sie Erlebnisse**:
 
@@ -49,7 +49,7 @@ Die Ansicht _Platform-Setup_ wird geöffnet. Diese Ansicht enthält Optionen, di
 
    Ihre Kreativität wird nach Abschluss der Aktivierung dieser Advertiser-Bibliothek in Google Campaign Manager 360 bereitgestellt.
 
-1. Fügen Sie dem Feld **[!UICONTROL Creative-Name}]** Namen hinzu. Google Campaign Manager 360 identifiziert das Erlebnis anhand dieses Namens.
+1. Fügen Sie dem Feld **[!UICONTROL Creative-Name&rbrace;]** Namen hinzu. Google Campaign Manager 360 identifiziert das Erlebnis anhand dieses Namens.
 Wiederholen Sie diesen Vorgang für jedes ausgewählte Erlebnis.
 
 1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung von Google Campaign Manager 360 zu bestätigen.

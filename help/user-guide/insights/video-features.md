@@ -23,7 +23,7 @@ Die Audioerkennung in GenStudio for Performance Marketing umfasst die Analyse de
 
 **So zeigen Sie eine Vorschau eines Videos an und hören ein Beispiel des Audioinhalts**:
 
-1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Attribute]**aus.
+1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Attribute]**&#x200B;aus.
 
 1. Ändern Sie die Tabellenansicht, indem Sie **[!UICONTROL Video]** auswählen.
 

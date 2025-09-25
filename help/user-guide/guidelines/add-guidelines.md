@@ -32,7 +32,7 @@ Um ein [!DNL Brand] hinzuzufügen, [ Sie (ein Markenhandbuch hochladen](#upload-
 
 Wenn Sie Markenrichtlinien hochladen, die in einer anderen Sprache als Englisch verfasst sind, oder manuell eine Marke in einer anderen Sprache erstellen, zeigt GenStudio for Performance Marketing diese Richtlinien in derselben Sprache an.
 
-Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Brands]** Freigegeben _auf_ . Wählen Sie im Bedienfeld _[!DNL Brands]_die Option **Marke hinzufügen**.
+Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Brands]** Freigegeben _auf_ . Wählen Sie im Bedienfeld _[!DNL Brands]_&#x200B;die Option **Marke hinzufügen**.
 
 >[!TIP]
 >
@@ -112,7 +112,7 @@ Sie können ein vorhandenes [!DNL Brand]-Logo in der Ansicht [!UICONTROL Logos] 
 
 Bevor Sie einen [!DNL Brand] veröffentlichen, klicken Sie durch alle Abschnitte der Richtlinien, um alle ausgefüllten Informationen zu überprüfen. Nehmen Sie bei Bedarf Änderungen an den Markenrichtlinien vor.
 
-In _[!DNL Brands]_werden alle Entwürfe oder veröffentlichten [!DNL Brands] als Kacheln angezeigt. Ein Status-Badge_ Veröffentlicht _oder_ Entwurf _- und das letzte Mal, dass die Marke geändert wurde, wird unten auf jeder Kachel angezeigt.
+In _[!DNL Brands]_&#x200B;werden alle Entwürfe oder veröffentlichten [!DNL Brands] als Kacheln angezeigt. Ein Status-Badge_ Veröffentlicht _oder_ Entwurf _- und das letzte Mal, dass die Marke geändert wurde, wird unten auf jeder Kachel angezeigt.
 
 >[!TIP]
 >
@@ -138,7 +138,7 @@ Die veröffentlichte Marke ist jetzt für die Verwendung in [_[!DNL Create]_](/h
 
 ### Verwalten von Marken
 
-Auf der _[!DNL Brands]_Startseite können Sie auf klicken, um eine bereits erstellte Marke zu öffnen und zu verwalten oder zu veröffentlichen.
+Auf der _[!DNL Brands]_&#x200B;Startseite können Sie auf klicken, um eine bereits erstellte Marke zu öffnen und zu verwalten oder zu veröffentlichen.
 
 Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich auf **[!UICONTROL [!DNL Brands]]** und anschließend auf eine vorhandene Marke, um sie zu öffnen.
 
@@ -146,7 +146,7 @@ Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich a
 
 1. Klicken Sie in **[!DNL Brands]** auf , um eine definierte Marke zu öffnen.
 1. Um einzelne Details anzuzeigen oder Richtlinien zu ändern, klicken Sie oben auf [**[!UICONTROL Markenrichtlinien]**](brands.md#brand-voice-guidelines), [**[!UICONTROL Bildrichtlinien]**](brands.md#image-guidelines), [**[!UICONTROL Kanalrichtlinien]**](brands.md#channel-guidelines), [**[!UICONTROL Logos]**](brands.md#logos) oder [**[!DNL Colors]**](brands.md#colors).
-1. Um ein Markenlogo zu verwalten, klicken [**[!UICONTROL  oben auf ]**](brands.md#logos)Logos“ und anschließend auf das Aktionsmenü (drei Punkte).
+1. Um ein Markenlogo zu verwalten, klicken [**[!UICONTROL &#x200B; oben auf &#x200B;]**](brands.md#logos)Logos“ und anschließend auf das Aktionsmenü (drei Punkte).
    1. Wählen Sie **[!UICONTROL Details anzeigen]** aus, um Informationen für die [!DNL Brand] anzuzeigen, z. B _„Format_ und _Größe_.
    1. Wählen Sie **[!UICONTROL Herunterladen]** aus, um das Logo herunterzuladen.
    1. Wählen Sie [**[!UICONTROL Als Markenminiatur verwenden]](#change-brand-thumbnail) aus, um das Logo als Miniaturbild festzulegen.
@@ -165,7 +165,7 @@ Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich a
 
 Um eine Rolle hinzuzufügen, [Persona-Handbuch hochladen](#upload-a-persona) oder [manuell eine Rolle erstellen](#manually-add-persona) indem Sie Richtlinien auswählen und Ihre Persona-Details eingeben.
 
-Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Personas]** Freigegeben _auf_ . Wählen Sie im Bedienfeld _[!DNL Personas]_die Option **Persona hinzufügen**aus.
+Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Personas]** Freigegeben _auf_ . Wählen Sie im Bedienfeld _[!DNL Personas]_&#x200B;die Option **Persona hinzufügen**&#x200B;aus.
 
 Sie können in GenStudio for Performance Marketing eine [!DNL Persona] hinzufügen, um die von Ihnen erstellten Inhalte auf Ihre ideale Zielgruppe auszurichten.
 
@@ -219,21 +219,21 @@ Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persön
    1. Klicken Sie **[!UICONTROL Bild verwenden]**.
    1. Um das Titelbild neu zu positionieren **[!UICONTROL klicken Sie]** Aktionsmenü auf „Neu positionieren“, ziehen Sie das Bild an die gewünschte Position und klicken Sie auf **[!UICONTROL Speichern]**.
 
-   Um Ihre erstellte [!DNL Personas] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben in der _Persona_-Ansicht, um zurück zur _[!DNL Personas]_zu navigieren.
+   Um Ihre erstellte [!DNL Personas] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben in der _Persona_-Ansicht, um zurück zur _[!DNL Personas]_&#x200B;zu navigieren.
 
 ### Verwalten von [!DNL Personas]
 
-Auf _[!DNL Personas]_Startseite können Sie **eine bereits erstellte[!DNL Persona]**öffnen, um sie zu bearbeiten oder zu überprüfen, oder **eine Rolle löschen**aus der Liste löschen:
+Auf _[!DNL Personas]_&#x200B;Startseite können Sie **eine bereits erstellte[!DNL Persona]**&#x200B;öffnen, um sie zu bearbeiten oder zu überprüfen, oder **eine Rolle löschen**&#x200B;aus der Liste löschen:
 
 - Wählen Sie **[!UICONTROL Öffnen]** aus dem [!DNL Personas] Aktionsmenü aus, um eine vorhandene Rolle zu überarbeiten und zu überprüfen.
 - Wählen Sie **[!UICONTROL Aktionsmenü]** die Option [!DNL Personas]Löschen“ aus, um **Rolle** löschen.
-- Wählen Sie **[!UICONTROL Aktionsmenü]**[!DNL Personas] Umbenennen“ aus, um **Rolle** Umbenennen“.
+- Wählen Sie **[!UICONTROL Aktionsmenü]**&#x200B;[!DNL Personas] Umbenennen“ aus, um **Rolle** Umbenennen“.
 
 ## Fügen Sie [!DNL Products] hinzu.
 
 Um ein Produkt hinzuzufügen, [Produkthandbuch hochladen](#upload-a-product) oder [manuell ein Produkt erstellen](#manually-add-product) indem Sie Richtlinien auswählen und Ihre Produktdetails eingeben.
 
-Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Products]** Freigegeben _auf_ . Wählen Sie im _[!DNL Products]_Bedienfeld **Produkt hinzufügen**aus.
+Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Products]** Freigegeben _auf_ . Wählen Sie im _[!DNL Products]_&#x200B;Bedienfeld **Produkt hinzufügen**&#x200B;aus.
 
 ![Hinzufügen einer [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
 
@@ -287,11 +287,11 @@ Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokume
    1. Klicken Sie **[!UICONTROL Bild verwenden]**.
    1. Um das Titelbild neu zu positionieren **[!UICONTROL klicken Sie]** Aktionsmenü auf „Neu positionieren“, ziehen Sie das Bild an die gewünschte Position und klicken Sie auf **[!UICONTROL Speichern]**.
 
-   Um Ihre erstellte [!DNL Products] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben in der Ansicht _Produkt_, um zurück zur _[!DNL Products]_Startseite zu navigieren.
+   Um Ihre erstellte [!DNL Products] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben in der Ansicht _Produkt_, um zurück zur _[!DNL Products]_&#x200B;Startseite zu navigieren.
 
 ### Verwalten von [!DNL Products]
 
-Auf _[!DNL Products]_Startseite können Sie **eine bereits erstellte[!DNL Product]**öffnen, um sie zu bearbeiten oder zu überprüfen, oder **ein Produkt löschen**aus der Liste löschen:
+Auf _[!DNL Products]_&#x200B;Startseite können Sie **eine bereits erstellte[!DNL Product]**&#x200B;öffnen, um sie zu bearbeiten oder zu überprüfen, oder **ein Produkt löschen**&#x200B;aus der Liste löschen:
 
 - Wählen Sie **[!UICONTROL Öffnen]** aus dem [!DNL Products] Aktionsmenü aus, um ein vorhandenes Produkt zu überarbeiten und zu überprüfen.
 - Wählen Sie **[!UICONTROL Aktionsmenü]** die Option [!DNL Products]Löschen“ aus, um **Produkt** löschen.
