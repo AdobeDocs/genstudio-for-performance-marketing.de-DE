@@ -3,7 +3,7 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 8f8d10db351f440ccd64f4ef5a54b6ace9f9db85
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Eine Zusammenfassung der Markenvalidierung und andere Informationen zur Inhaltsp
 Die _Inhaltsüberprüfung_ Zusammenfassung zeigt Folgendes an:
 
 * Prozentualer Anteil der Konformität mit Ihren [[!DNL Brand]](brands.md), berechnet als Anzahl der [Richtlinien](overview.md) die die Validierung bestanden haben, im Vergleich zur Anzahl der getesteten Richtlinien
-* `Pass` oder `Fail` Ergebnisse für die Plattform-Richtlinien wie Meta oder LinkedIn
+* `Pass` oder `Fail` Ergebnisse für die Plattformrichtlinien wie Meta oder LinkedIn
 * `Pass` oder `Fail` Ergebnis für ADA-Barrierefreiheitsstandards
 
 ![Zusammenfassung der Inhaltsprüfung](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
@@ -56,7 +56,7 @@ Unter [Verbesserung der Markenausrichtung](#improve-brand-alignment) erfahren Si
 Im Bedienfeld _Inhaltsüberprüfung_ können Sie ein-/ausschalten, welche Richtlinien- und Barrierefreiheitsprüfungen durchgeführt werden. Klicken Sie auf _Symbol_ Content-Typ“ (Ebenensymbol) oben im Bedienfeld, um diese Option zu aktivieren oder zu deaktivieren:
 
 * **[!DNL Brand]** - Führt die mit [!DNL Brand] Richtlinien verbundenen Prüfungen durch
-* **Platform-Richtlinien** - Führt die mit der kanalspezifischen Plattform verbundenen Prüfungen durch, z. B. Meta
+* **Platform-Richtlinien**: Führt die mit der kanalspezifischen Plattform verbundenen Prüfungen durch, z. B. Meta
 * **Barrierefreiheit** - Führt die Prüfungen durch, die mit den ADA-Barrierefreiheitsstandards verbunden sind
 
 Um **Inhaltstyp festzulegen** für die Prüfungen, die Sie durchführen möchten, klicken Sie auf , um sie zu deaktivieren, oder auf die verfügbaren Typen und klicken Sie auf **Anwenden**.

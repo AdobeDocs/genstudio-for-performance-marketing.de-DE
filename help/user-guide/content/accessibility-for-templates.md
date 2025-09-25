@@ -3,9 +3,9 @@ title: Erstellen barrierefreier Vorlagen
 description: Erstellen Sie Vorlagen in Adobe GenStudio for Performance Marketing, die mehr Zielgruppen erreichen und ein optimales Erlebnis bieten.
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 28c128ad6f3d173b7516a6b1309555c12e6a4e2d
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Verwenden Sie leicht lesbare Schriftarten. Zum Beispiel haben Sans Serif-Schrift
 
 Stellen Sie einen angemessenen Kontrast zwischen Text und Hintergrund bereit. Vermeiden Sie Schriftfarben, die dunklen Text auf einem dunklen Hintergrund und hellen Text auf einem hellen Hintergrund erzeugen. Beachten Sie die Kontrastrichtlinien für ein optimales Verhältnis:
 
-- Text und Bilder von Text: Kontrastverhältnis von mindestens 4,5:1
+- Text und Bilder von Text: Kontrastverhältnis von mindestens 4,5 :1
 - Großer Text und Bilder von großformatigem Text: Kontrastverhältnis von mindestens 3:1
 
 ## Link-Zweck (nur Link)

@@ -1,12 +1,12 @@
 ---
-title: Verbindung zu einem  [!DNL AEM Assets Content Hub] -Repository herstellen
+title: Herstellen einer Verbindung zu einem  [!DNL AEM Assets Content Hub] -Repository
 description: Erfahren Sie, wie Sie Adobe GenStudio for Performance Marketing mit einem Adobe Experience Manager (AEM)- [!DNL Content Hub]  verbinden und vorhandene genehmigte Inhalte nutzen können.
 level: Experienced
 role: Admin, Data Engineer
 feature: Content Management
 recommendations: noDisplay
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
-source-git-commit: 85948ccd9b6d198a2064d95639f96a045ea61743
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -39,20 +39,20 @@ Nach der Aktivierung von [!DNL AEM Assets Content Hub] haben Sie eine neue Insta
 
 Fügen Sie in der [!DNL Admin Console] einen GenStudio for Performance Marketing-Benutzer oder eine -Benutzergruppe zum [!DNL AEM Assets Content Hub] Produktprofil hinzu. Wenn ein Content Reviewer nicht auf dieselbe Organisation wie das [!DNL AEM Assets Content Hub]-Repository zugreifen kann, kann es zu Schwierigkeiten bei der Überprüfung und Genehmigung von Inhalten kommen.
 
-- [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## Schritt 3: Assets genehmigen
 
 Genehmigen von Assets für die Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar werden.
 
-Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der _AEM as a Cloud Service_-Dokumentation.
+Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der _AEM as a Cloud Service_-Dokumentation.
 
 ## Schritt 4: Asset-Sichtbarkeit konfigurieren
 
-Überprüfen Sie unter _[!DNL AEM Assets Content Hub]_&#x200B;Konfigurationsoptionen jeden Satz von Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding.
+Überprüfen Sie unter _[!DNL AEM Assets Content Hub]_Konfigurationsoptionen jeden Satz von Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding.
 
-Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu _AEM as a Cloud Service_.
+Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu _AEM as a Cloud Service_.
 
 ## Schritt 5: Verbindung überprüfen
 

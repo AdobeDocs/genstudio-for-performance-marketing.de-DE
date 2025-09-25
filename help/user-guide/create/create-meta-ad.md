@@ -1,12 +1,12 @@
 ---
-title: Erstellen eines Meta-Anzeigen-Erlebnisses
+title: Erstellen eines Meta Ad Experience
 description: Erfahren Sie, wie Sie mit Adobe GenStudio for Performance Marketing markeninterne Meta-Anzeigen-Erlebnisse für Facebook oder Instagram erstellen können.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial wird gezeigt, wie Sie mit GenStudio for Performance Marketing [ (](/help/user-guide/create/meta-experiences.md) im linken Navigationsbereich) Meta-Anzeigen-Erlebnisse mit Branding generieren können.[[!DNL Create]](/help/user-guide/create/overview.md)
 
-Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
+Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Eingabeaufforderung“ ](/help/user-guide/effective-prompts.md).
 
 ## Vorlage wählen
 
-Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen, um mit der Erstellung eines neuen Meta-Anzeigenerlebnisses zu beginnen. Informationen [ unterstützten Seitenverhältnisse für Meta](/help/user-guide/templates/meta-template.md)Anzeigenvorlagen finden Sie unter Richtlinien für Meta-Anzeigenvorlagen .
+Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen, um mit der Erstellung eines neuen Meta-Anzeigenerlebnisses zu beginnen. Informationen zu den unterstützten Seitenverhältnissen für Meta[Anzeigenvorlagen finden Sie unter ](/help/user-guide/templates/meta-template.md)Richtlinien für Meta-Anzeigenvorlagen .
 
 Bei der Auswahl einer Vorlage haben Sie die Möglichkeit, eine der hochgeladenen Vorlagen oder eine Einstiegsvorlage zu verwenden.
 
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**.
 1. Wählen Sie **[!UICONTROL Benutzerdefinierte Vorlagen]** aus, um Ihre hochgeladenen Vorlagen zu durchsuchen, oder **[!UICONTROL Startervorlagen]**, um die vordefinierten Vorlagen zu durchsuchen.
 
-   Wenn Sie Video-Assets zu Ihren Meta-Varianten hinzufügen möchten, müssen Sie eine Einstiegsvorlage auswählen. Sie sind mit systemdefinierten Inhaltsbereichen vorgeladen, die die Verwendung von Videos erleichtern.
+   Wenn Sie Video-Assets zu Ihren Meta-Varianten hinzufügen möchten, müssen Sie eine Startvorlage auswählen. Sie sind mit systemdefinierten Inhaltsbereichen vorgeladen, die die Verwendung von Videos erleichtern.
 
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -38,7 +38,7 @@ Bei der Auswahl einer Vorlage haben Sie die Möglichkeit, eine der hochgeladenen
 
 ## Parameter hinzufügen
 
-Das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderungsschublade verbessert den Inhaltserstellungsprozess und ist ein wichtiger Schritt bei der Vorbereitung zum Generieren einer Meta-Anzeige.
+Das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ in der Eingabeaufforderungsschublade verbessert den Inhaltserstellungsprozess und ist ein wichtiger Schritt bei der Vorbereitung der Erstellung einer Meta-Anzeige.
 
 Wenn Sie eine Vorlage mit vordefinierten Richtlinien - [!DNL Brands], [!DNL Personas] oder [!DNL Products] - verwenden, gelten diese Richtlinien für Ihre Varianten. Sie können sie bei Bedarf ändern.
 
@@ -68,7 +68,7 @@ Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie die Eingabe
 
 ## Eingabeaufforderung eingeben
 
-Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Generierung von Inhalten für Ihr neues Meta- und -Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine höhere Qualität als vage oder mehrdeutige Eingabeaufforderungen.
+Nachdem Sie Richtlinien ausgewählt haben, erstellen Sie eine Eingabeaufforderung in natürlicher Sprache, um mit der Erstellung von Inhalten für Ihr neues Meta-Anzeigenerlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine höhere Qualität als vage oder mehrdeutige Eingabeaufforderungen.
 
 Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
@@ -81,13 +81,13 @@ Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-promp
 
 Standardmäßig werden vier Varianten - alle basierend auf der Eingabeaufforderung, Richtlinien und hinzugefügten Inhalten - generiert und auf der Arbeitsfläche angezeigt.
 
-Erzeugte Inhalte werden progressiv geladen - wenn jeder Abschnitt der Meta-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [Meta-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf die Arbeitsfläche geladen werden.
+Erzeugte Inhalte werden progressiv geladen : Wenn jeder Abschnitt der Meta-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [Meta-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf die Arbeitsfläche geladen werden.
 
-## Meta-Anzeigenkanal auswählen
+## Meta Ads-Kanal auswählen
 
 Beim Generieren einer Meta-Anzeige können Sie zwischen Facebook- oder Instagram-Anzeigen wählen.
 
-Schalten Sie die Kanaloption Meta-Anzeigen zwischen **Facebook** und **Instagram** in der rechten Menüleiste (Facebook- und Instagram-Symbole) ein, um Varianten für jeden Kanal anzuzeigen und zu verwalten.
+Schalten Sie in der rechten Menüleiste (Facebook **und Instagram** die Kanaloption für Meta-Anzeigen ein (zwischen **Facebook) und** Instagram), um Varianten für jeden Kanal anzuzeigen und zu verwalten.
 
 Bei [Überarbeitung der Meta-Anzeigen](#revise-generated-variants) können Sie das Seitenverhältnis von Facebook- und Instagram-Anzeigen ändern.
 
@@ -102,7 +102,7 @@ Um eine einzelne zu überarbeitende Ebene zu markieren, klicken Sie auf ein bear
 * **Um [ Meta-Anzeigenentwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [eine Meta-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile,
 Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf.
-* **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
+* **Um die call to action zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
 * **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den On-Image-Text oder Inline-Link für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
@@ -151,7 +151,7 @@ Verwenden Sie das Genehmigungsbedienfeld, das als Symbol in der rechten Aktionsl
 
 1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
 1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
-1. Bearbeiten Sie die Entwürfe pro Überprüfungskommentar und [veröffentlichen Sie Ihre Meta-Anzeigen-Erlebnisse](#publish-and-export-experience).
+1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre Meta-Anzeigenerlebnisse](#publish-and-export-experience).
 
 Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
@@ -160,13 +160,13 @@ Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) u
 Um die generierten Meta-Anzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
 1. **Um Ihre neue(n) Meta-Anzeige(**) zu veröffentlichen, klicken Sie auf **[!UICONTROL Veröffentlichen]** in der oberen Symbolleiste oder im Genehmigungsfluss.
-1. **Um Ihre neue(n) Meta-Anzeige(**) zu exportieren, klicken Sie **[!UICONTROL der oberen Symbolleiste auf]** Exportieren“.
+1. **Um Ihre neue(n) Meta-Anzeige(**) zu exportieren, klicken Sie **[!UICONTROL der oberen Symbolleiste]** Exportieren“.
    1. Wählen Sie das Format aus (HTML und Bilder oder CSV und Bilder (JPG oder PNG)) und klicken Sie auf **[!UICONTROL Exportieren]**.
 
 Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) .
 
-## Connect Meta
+## Meta verbinden
 
 Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und Einblicke in die Content-Performance zu erhalten.
 
-Siehe [Meta-Anzeigen verbinden](/help/user-guide/connectors/meta-ads.md).
+Siehe [Meta Ads Connect](/help/user-guide/connectors/meta-ads.md).

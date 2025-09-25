@@ -3,7 +3,7 @@ title: Inhalt überprüfen und bearbeiten
 description: Erfahren Sie, wie Sie Inhalte iterativ mit Adobe GenStudio for Performance Marketing überprüfen und bearbeiten können.
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
-source-git-commit: 8aa55fba08fa438ae2320c1159aa3c27877ee778
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Der Ersteller des Inhalts kann mit den Bearbeitungen fortfahren, während er ein
 
 ## Überprüfen von Inhalten mit Workfront Proof
 
-[!DNL Proofing Viewer] bietet [robuste Markup-Tools](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) zum Kommentieren von Korrekturabzügen und Nachverfolgen von Änderungen. Sie können auch zwei Versionen des Korrekturabzugs vergleichen.
+[!DNL Proofing Viewer] bietet [robuste Markup-Tools](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) zum Kommentieren von Korrekturabzügen und Nachverfolgen von Änderungen. Sie können auch zwei Versionen des Korrekturabzugs vergleichen.
 
 **Zum Überprüfen des Inhalts**:
 
@@ -84,7 +84,7 @@ Der Ersteller des Inhalts kann mit den Bearbeitungen fortfahren, während er ein
 
 ### Testsendungen vergleichen
 
-Ab [!DNL Proofing Viewer] können Sie [Korrekturabzugsversionen vergleichen](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs).
+Ab [!DNL Proofing Viewer] können Sie [Korrekturabzugsversionen vergleichen](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs).
 
 **Testsendungen vergleichen**:
 
@@ -94,4 +94,4 @@ Ab [!DNL Proofing Viewer] können Sie [Korrekturabzugsversionen vergleichen](htt
 
    Korrekturabzüge werden nebeneinander angezeigt, die neuere Version auf der linken Seite.
 
-Workfront Proof bietet mehrere Tools zum Vergleichen von Korrekturabzügen, darunter ein Tool zum automatischen Vergleichen. Siehe [Verwenden der Vergleichstools](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
+Workfront Proof bietet mehrere Tools zum Vergleichen von Korrekturabzügen, darunter ein Tool zum automatischen Vergleichen. Siehe [Verwenden der Vergleichstools](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).

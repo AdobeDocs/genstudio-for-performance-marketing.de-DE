@@ -1,28 +1,28 @@
 ---
-title: Meta-Anzeige aktivieren
-description: Erfahren Sie, wie Sie ein Meta-Anzeigenerlebnis aktivieren.
+title: Aktivieren einer Meta-Anzeige
+description: Erfahren Sie, wie Sie ein Meta Ad-Erlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 2d43b1b3373c5ed0b80d9740906d372955816831
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1907'
 ht-degree: 1%
 
 ---
 
-# Meta-Anzeige aktivieren
+# Aktivieren einer Meta-Anzeige
 
 Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von Meta-Anzeigen-Erlebnissen auf Instagram und Facebook.
 
-Sie können [ein Meta-Erlebnis](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
+Sie können [Meta-Erlebnis erstellen](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing auswählen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
 
-Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen gebührenpflichtigen Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihres Anzeigen-Erlebnisses auf die spezifischen Anforderungen von Meta. Nachdem Sie ein Meta-Erlebnis in GenStudio for Performance Marketing aktiviert haben, verwenden Sie [Meta Ads Manager](https://adsmanager.facebook.com/), um das Erlebnis vor der endgültigen Veröffentlichung für bestimmte Platzierungen von Meta-Anzeigen zu optimieren.
+Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihres Anzeigen-Erlebnisses auf die spezifischen Anforderungen von Meta. Nachdem Sie ein Meta-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie mit [Meta Ads Manager](https://adsmanager.facebook.com/) das Erlebnis vor der endgültigen Veröffentlichung für bestimmte Meta-Anzeigenplatzierungen optimieren.
 
 GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
-## Schritt 1: Einrichten Ihrer Meta-Konten
+## Schritt 1: Meta-Konten einrichten
 
-Bevor Sie eine Aktivierung starten, [ Sie sich bei Meta](https://adsmanager.facebook.com/) an, um auf Ihr Meta Ads Manager-Konto zuzugreifen.
+Bevor Sie eine Aktivierung starten, [ Sie sich bei Meta ](https://adsmanager.facebook.com/), um auf Ihr Meta Ads Manager-Konto zuzugreifen.
 
 >[!BEGINSHADEBOX]
 
@@ -31,17 +31,17 @@ Bevor Sie eine Aktivierung starten, [ Sie sich bei Meta](https://adsmanager.face
 Vergewissern Sie sich, dass Ihre verbundenen Meta-Werbekonten über die vollständige Berechtigung zum Verwalten von Anzeigen in diesen Komponenten der Meta-Werbeplattform verfügen:
 
 * Facebook-Seite
-* Meta-Kampagne
+* Meta Campaign
 * Meta-Anzeigensatz
 * Instagram-Profil (optional)
 
 >[!ENDSHADEBOX]
 
-## Schritt 2: Verbinden mit Ihren Meta-Konten
+## Schritt 2: Verbindung zu Ihren Meta-Konten herstellen
 
-Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanager Ihre Metakonten mit GenStudio for Performance Marketing verbinden. Diese Verbindung ermöglicht den Datenfluss zwischen GenStudio und externen Marketing-Tools wie Meta und ermöglicht so den Aktivierungsprozess.
+Bevor Ihr Unternehmen Erlebnisse aktivieren kann, muss ein GenStudio-Systemmanager Ihre Meta-Konten mit GenStudio for Performance Marketing verbinden. Diese Verbindung ermöglicht den Datenfluss zwischen GenStudio und externen Marketing-Tools wie Meta und ermöglicht so den Aktivierungsprozess.
 
-Siehe [Verbinden mit Meta-Anzeigen](/help/user-guide/connectors/meta-ads.md).
+Siehe [Verbindung zu Meta Ads herstellen](/help/user-guide/connectors/meta-ads.md).
 
 Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeigen. Die Synchronisierung großer Datenmengen dauert länger.
 
@@ -51,7 +51,7 @@ Sie haben zwei Möglichkeiten, eine Aktivierung zu starten:
 
 * **Direkt über[!DNL Content]** aktivieren. Die Auswahl eines genehmigten Erlebnisses mit vordefinierten Einstellungen ist die optimierte Methode, um eine Aktivierung für einen einzelnen Kanal zu starten.
 
-* **Stellen Sie Ihr Anzeigen-Erlebnis über [!DNL Activate] > _Erlebnis-Setup_**&#x200B;zusammen. Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
+* **Stellen Sie Ihr Anzeigen-Erlebnis über [!DNL Activate] > _Erlebnis-Setup_**zusammen. Sie können ein Erlebnis erstellen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Dieser Ansatz umfasst mehr Schritte, bietet jedoch mehr Flexibilität bei der Gestaltung Ihres kreativen Erlebnisses.
 
 ### Aktivieren eines genehmigten Erlebnisses aus Inhalten
 
@@ -67,7 +67,7 @@ Wenn Sie mehr als ein Erlebnis zur Aktivierung als Gruppe ausgewählt haben, ver
 
    Wenn Sie mit mehreren Erlebnissen arbeiten, können Sie die Erlebnisse in der linken Seitenleiste umschalten, bis die Vorbereitung der einzelnen Erlebnisse abgeschlossen ist.
 
-1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung der Meta-Anzeigen zu bestätigen.
+1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung von Meta Ads zu bestätigen.
 
 1. Weisen Sie jedem Erlebnis einen Namen zu. Nach der Aktivierung können Sie diesen Namen verwenden, um in der Tabelle „Aktivierte Erlebnisse _nach_ Erlebnis zu suchen.
 
@@ -92,7 +92,7 @@ Wenn Sie ein genehmigtes Erlebnis nicht direkt aus [!DNL Content] aktivieren mö
 
 Verwenden Sie den _Media_-Abschnitt, um mindestens ein Bild-Asset auszuwählen, das in Ihr Erlebnis aufgenommen werden soll. Anzeigenplatzierungen sind mit unterstützten Bildseitenverhältnissen verknüpft, die als Optionen im Dropdown _Menü_ Platzierungen“ aufgeführt sind. In diesem Menü werden die unterstützten Anzeigenplatzierungen für Facebook-Posts oder Instagram-Storys nach Seitenverhältnis geordnet angezeigt.
 
-Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im Bereich _Medien_ wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
+Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im _Media_-Bereich wird das Bild standardmäßig mit einem Seitenverhältnis :1 1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
 
 **Hochladen eines Assets aus Inhalten**:
 
@@ -106,13 +106,13 @@ Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im Bereich _
 
 1. Klicken Sie **[!UICONTROL Verwenden]**, um das ausgewählte Asset in Ihr Anzeigenerlebnis aufzunehmen. Das Fenster _Erlebniseinrichtung_ enthält das Asset im Bereich _Medien_ im Standardseitenverhältnis. Das _Vorschau_-Bedienfeld zeigt eine Vorschau des Assets in der Anzeigenplatzierung an, die dieses Seitenverhältnis unterstützt.
 
-Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_&#x200B;geöffnet.
+Wenn der Upload nicht erfolgreich war, wird eine informative Fehlermeldung mit einem Link zum Asset in _[!DNL Content]_geöffnet.
 
 **Hochladen eines externen Assets**:
 
 Sie können bis zu sechs statische Bilder außerhalb der [!DNL Content]-Galerie von Microsoft OneDrive oder Dropbox hochladen.
 
-1. Klicken Sie in [!DNL Activate] auf **[!UICONTROL Neu]** auf der Meta-Kachel. Das Fenster _Erlebnis-Setup_ wird geöffnet.
+1. Klicken Sie in [!DNL Activate] auf **[!UICONTROL Neu]** auf der Kachel Meta . Das Fenster _Erlebnis-Setup_ wird geöffnet.
 
 1. Klicken Sie im Abschnitt _Medien_ auf **[!UICONTROL Auswählen]**. In einem Dropdown-Menü werden Optionen für _Aus Inhalt auswählen_ oder _Hochladen_ angezeigt.
 
@@ -122,13 +122,13 @@ Sie können bis zu sechs statische Bilder außerhalb der [!DNL Content]-Galerie 
 
 1. (Optional) Um Assets von Ihrem Gerät hochzuladen, klicken Sie auf **[!UICONTROL Durchsuchen]** und wählen Sie dann _Dateien durchsuchen_ oder _Ordner durchsuchen_, um Assets zum Hochladen zu identifizieren.
 
-1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_&#x200B;zu erleichtern. Diese Details werden als Metadaten gespeichert.
+1. Fügen Sie im Bereich _Details hinzufügen_ informative Details zu Ihren hochgeladenen Assets hinzu, um die Suche und Filterung in _[!DNL Content]_zu erleichtern. Diese Details werden als Metadaten gespeichert.
 
 1. Wenn Sie Ihre Assets und zugewiesenen Details hochgeladen haben, klicken Sie auf **[!UICONTROL Assets hinzufügen]** unten rechts.
 
 ### Hinzufügen von Anzeigentext
 
-Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlichen Textfeldern überzeugenden, markenspezifischen Text hinzuzufügen. Der Text enthält den primären Text (Haupttext) für die Anzeige und den Text für Aktionsaufrufe. Die Felder _Primärer Text_, _Überschriften_ und _Beschreibung_ können nicht bearbeitet werden. Sie können die Felder _Call-to-action_, _Link anzeigen_ und _Website-URL_ bearbeiten.
+Verwenden Sie den Abschnitt _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlichen Textfeldern überzeugenden, markenspezifischen Text hinzuzufügen. Der Text enthält den Haupttext (Haupttext) für die Anzeige und call-to-action. Die Felder _Primärer Text_, _Überschriften_ und _Beschreibung_ können nicht bearbeitet werden. Sie können die Felder _Call-to-action_, _Link anzeigen_ und _Website-URL_ bearbeiten.
 
 | Feld | Erforderlich | Zeichenbeschränkung (max.) |
 |-----------------|---------------------------|---------------------------------|
@@ -136,12 +136,12 @@ Verwenden Sie den _Text_ der Seite _Meta-Anzeige aktivieren_, um den erforderlic
 | Primärer Text | ja | 500 |
 | Überschrift | ja | 255 |
 | Beschreibung | nein | 125 |
-| Handlungsaufforderung | ja | Nur Dropdown-Menüoptionen |
+| Call to action | ja | Nur Dropdown-Menüoptionen |
 | URL anzeigen | nein | 1000 |
 | Website-URL | ja | 1000 |
 | Bild | Mindestens ein erforderliches |                                 |
 
-GenStudio for Performance Marketing erfordert _Primären_ und _Überschrift_, nicht Meta.
+GenStudio for Performance Marketing erfordert _Primären Text_ und _Überschrift_, nicht Meta.
 
 ### Zuweisen von Metadaten
 
@@ -160,17 +160,17 @@ Erlebnisdetails werden als Metadaten gespeichert und helfen Benutzern bei der Su
 
 Klicken Sie nach dem Zusammenstellen oder Auswählen Ihres Erlebnisses auf **[!UICONTROL Weiter]**, um Ihr Meta-Setup zu bestätigen.
 
-## Schritt 4: Bestätigen der Einrichtung des Meta-Kontos
+## Schritt 4: Meta-Kontoeinrichtung bestätigen
 
-Nachdem Sie Ihre Anzeigenerlebnisse vorbereitet haben, müssen Sie Ihre Meta-Kontoinformationen bestätigen. Die _Meta-Anzeige einrichten_-Ansicht enthält Optionen, die von den konfigurierten Meta-Konten abgeleitet sind.
+Nachdem Sie Ihre Anzeigenerlebnisse vorbereitet haben, müssen Sie Ihre Meta-Kontoinformationen bestätigen. Die Ansicht _Meta-Anzeige einrichten_ wird mit Optionen gefüllt, die von den konfigurierten Meta-Konten abgeleitet werden.
 
 | Detail | Beschreibung |
 |------------|-------------|
-| Konten | Metakonten, die mit GenStudio for Performance Marketing verbunden wurden |
+| Konten | Meta-Konten, die mit GenStudio for Performance Marketing verbunden wurden |
 | Facebook-Seite | Facebook-Seite, auf der das Erlebnis veröffentlicht wird |
 | Instagram-Konto | Instagram-Konten, die mit GenStudio for Performance Marketing verbunden wurden |
 | Kampagnen | Meta-Kampagnen, zu denen das Anzeigen-Erlebnis gehört |
-| Anzeigen-Sets | Metadaten-Anzeigensets, zu denen das aktivierte Anzeigenerlebnis gehört. Die Einstellungen bestimmen die endgültigen Platzierungen der Anzeige. |
+| Anzeigen-Sets | Meta-Anzeigensets, zu denen das aktivierte Anzeigenerlebnis gehört. Die Einstellungen bestimmen die endgültigen Platzierungen der Anzeige. |
 
 ### Erstellen eines neuen Anzeigensatzes
 
@@ -178,13 +178,13 @@ Sie können während des Platform-Setups einen neuen Anzeigensatz erstellen, ind
 
 **So erstellen Sie einen neuen Anzeigensatz**:
 
-1. Wählen Sie eine Kampagne aus _Dropdown-Menü_ Meta-Kampagnen“.
+1. Wählen Sie eine Kampagne aus dem Dropdown-Menü {_}Meta-Kampagnen._
 
    Die ausgewählte Kampagne bestimmt die Anzeigensätze, die als Optionen im Dropdown-Menü _Anzeigensätze_ verfügbar sind.
 
 1. Klicken Sie auf **[!UICONTROL + Neuen Anzeigensatz erstellen]**.
 
-   Das _Erstellen eines neuen_&quot; wird geöffnet, in dem die Meta-Kampagne angegeben wird, in der der neue Anzeigensatz erstellt wird.
+   Das Popup _Neuen Anzeigensatz erstellen_ wird geöffnet. Es identifiziert die Meta-Kampagne, in der der neue Anzeigensatz erstellt wird.
 
 1. Wählen Sie das zu klonende Anzeigenset aus dem Dropdown _Menü „Konfiguration verwenden von_ aus.
 
@@ -214,6 +214,6 @@ Auf _Seite_&#x200B;Überprüfen“ wird Ihr Anzeigenerlebnis so angezeigt, wie e
 
 1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
-   Das gesamte Meta Ad-Erlebnis und die zugehörigen Metadaten werden direkt in den ausgewählten Meta Ads Manager-Anzeigensatz übertragen. Erlebnisse werden Meta Ads Manager in einem inaktiven Status bereitgestellt. Über den Meta Ads Manager können Sie die letzten Schritte zur Bereitstellung des Ad-Erlebnisses und der Meta-Kampagne verwalten.
+   Das gesamte Meta-Anzeigenerlebnis und die zugehörigen Metadaten werden direkt in den ausgewählten Meta Ads Manager-Anzeigensatz übertragen. Erlebnisse werden Meta Ads Manager im inaktiven Status bereitgestellt. In Meta Ads Manager können Sie die letzten Schritte zur Bereitstellung des Ad-Erlebnisses und von Meta Campaign verwalten.
 
 1. [Melden Sie sich bei Meta Ads Manager an](https://adsmanager.facebook.com/) um Ihr Anzeigenerlebnis zu überprüfen und die Veröffentlichung für bestimmte Meta-Kanäle abzuschließen.

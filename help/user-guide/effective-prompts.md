@@ -5,7 +5,7 @@ role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 2%
@@ -43,7 +43,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie **[!UICONTROL Prompt-Kriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) in der Eingabeaufforderungsschublade verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
 
-Bei [E](/help/user-guide/create/email-experiences.md)Mails) können die Eingabeaufforderungskriterien das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung umfassen. Bei einer [Meta-Anzeige](/help/user-guide/create/create-meta-ad.md) können die Aufforderungskriterien eine Markenrichtlinie in _Parameter_, die Auswahl oder das Hochladen eines vorhandenen Assets, Einstellungen in Bezug auf Bilder oder Assets wie das Seitenverhältnis und eine Aufforderung umfassen. Die wahre Macht beginnt mit [Konfigurieren von Richtlinien](/help/user-guide/guidelines/add-guidelines.md).
+Bei [E](/help/user-guide/create/email-experiences.md)Mails) können die Eingabeaufforderungskriterien das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung umfassen. Bei einer [Meta-Anzeige](/help/user-guide/create/create-meta-ad.md) können die Eingabeaufforderungskriterien eine Markenrichtlinie unter _Parameter_, die Auswahl oder das Hochladen eines vorhandenen Assets, Einstellungen in Bezug auf Bilder oder Assets wie das Seitenverhältnis und eine Eingabeaufforderung umfassen. Die wahre Macht beginnt mit [Konfigurieren von Richtlinien](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 12336812e8f4f55935f624ad0a195b5928850c7f
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '1083'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/email-experiences.md) GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich markenspezifische E-Mail-Erlebnisse generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing ](/help/user-guide/create/email-experiences.md) (Pinselsymbol im linken Navigationsbereich[[!DNL Create]](/help/user-guide/create/overview.md) markenspezifische E-Mail-Erlebnisse generieren können.
 
 Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) ](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
 
@@ -25,7 +25,7 @@ Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlag
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL E-Mail]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte E-Mail-Vorlage zu finden.
 1. Wählen Sie eine E-Mail-Vorlage aus und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -85,7 +85,7 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 
 * **Um [ E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
 * **Um [E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf
-* **Um den [ zu ändern oder auszuwählen](/help/user-guide/create/manage-variants.md#revise-call-to-action)** klicken Sie auf die Schaltfläche call-to-action und wählen Sie _[!UICONTROL Umformulieren]_ oder _[!UICONTROL Link hinzufügen]_.
+* **Um [Call to action zu ändern oder auszuwählen](/help/user-guide/create/manage-variants.md#revise-call-to-action)** klicken Sie auf die Schaltfläche call-to-action und wählen Sie _[!UICONTROL Umformulieren]_ oder _[!UICONTROL Link hinzufügen]_.
 * **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
 * **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.

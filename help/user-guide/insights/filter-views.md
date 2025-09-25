@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie die erweiterten Filterfunktionen mit Einblick
 level: Intermediate
 feature: Reporting and Insights
 exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
-source-git-commit: 04bc6f911394d0f4c324abc347ce125203011960
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '868'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Das [!DNL Insights]-Dashboard bietet einen umfassenden Satz von Filtern für ein
 
 ## Grundlagen zum Filtern
 
-Jede Ansicht in [!DNL Insights] bietet eine Liste von Filteroptionen. Der Umschalter Filter (Trichter) auf der linken Seite öffnet das Menü **[!UICONTROL Filter]**. Unabhängig davon, ob Sie die Tabelle oder die Galerie anzeigen, werden angewendete Filter in der Liste **[!UICONTROL Filtern nach]** oberhalb der Tabelle oder der Galerie angezeigt. Standardmäßig werden ein Kanal und ein Konto ausgewählt.
+Jede Ansicht in [!DNL Insights] bietet eine Liste von Filteroptionen. Der Umschalter Filter (funnel) auf der linken Seite öffnet das Menü **[!UICONTROL Filter]**. Unabhängig davon, ob Sie die Tabelle oder die Galerie anzeigen, werden angewendete Filter in der Liste **[!UICONTROL Filtern nach]** oberhalb der Tabelle oder der Galerie angezeigt. Standardmäßig werden ein Kanal und ein Konto ausgewählt.
 
 ![Filtern nach](/help/assets/insights-filter-by.png "Filtern nach"){width=600 zoomable="yes"}
 
@@ -43,7 +43,7 @@ Einige Tabellen können sich über mehrere Seiten erstrecken, wie unten in der T
 
 ### Schieberegler
 
-Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_&#x200B;**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
+Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
 
 ## Erweiterte Filter
 
@@ -57,11 +57,11 @@ Im Laufe der Zeit kann Ihre Liste von Kampagnen und Anzeigen exponentiell wachse
 
 **So verfeinern Sie die Tabelle Anzeigen mithilfe des Filters Kampagnen**:
 
-1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Anzeigen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Anzeigen]**aus.
 
    ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
 
-1. Klicken Sie auf den Umschalter Filter (Trichter) oberhalb der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
+1. Klicken Sie auf den Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
 
 1. Überprüfen Sie, ob der richtige `Filter by` Kanal und das richtige Konto ausgewählt sind.
 

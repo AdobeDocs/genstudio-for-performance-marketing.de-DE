@@ -3,7 +3,7 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und die Leistung zu verfolgen.
 feature: Generative AI, Content Attributes, Content Management
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugehörig
 
 **Anzeigen von Asset-Details**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Gehen Sie in der Asset-Ansicht zum Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
 
@@ -56,7 +56,7 @@ Beim [Hochladen eines Assets](/help/user-guide/content/manage-assets.md#add-asse
 
 **So bearbeiten Sie die benutzerdefinierten Metadaten**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Gehen Sie in der Asset-Ansicht zum Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
 
@@ -87,13 +87,13 @@ In der folgenden Tabelle sind die Metadaten (Asset-Details) aufgeführt, die Sie
 
 ## Erzeugungskontext
 
-Der Abschnitt [!UICONTROL Generativer Kontext] zeigt, welche Informationen zum Generieren des Erlebnisses verwendet wurden, z. B. die während des [!DNL Create] verwendeten `Prompt`. Diese Einblicke können Ihnen helfen, noch erfolgreichere Varianten zu erstellen.
+Der Abschnitt [!UICONTROL Generativer Kontext] zeigt, welche Informationen zum Generieren des Erlebnisses verwendet wurden, z. B. die während des `Prompt` verwendeten [!DNL Create]. Diese insight kann Ihnen dabei helfen, noch erfolgreichere Varianten zu erstellen.
 
 Die Informationen können Folgendes umfassen:
 
 - `Brand`-, `Product`- und `Persona`, die während des [!DNL Create] ausgewählt wurden
 - `Subject line` und `Preheader` für E-Mail-Erlebnisse
-- `Headline` und `Body` für Meta-Anzeigen
+- `Headline` und `Body` für Meta Ads
 
 ## Verlauf
 

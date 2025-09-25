@@ -5,16 +5,16 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
-source-git-commit: d9d774f727b69b18af6114965fdb8ffb450f797b
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '375'
 ht-degree: 1%
 
 ---
 
 # Richtlinien für Meta-Anzeigenvorlagen
 
-Mit Meta-Anzeigenvorlagen können Sie visuell konsistente und effektive Anzeigen über Meta-Plattformen hinweg erstellen. Indem Sie die empfohlenen Design-Verfahren befolgen und unterstützte Felder verwenden, können Sie sicherstellen, dass Ihre Vorlagen für GenStudio for Performance Marketing optimiert sind. In diesem Handbuch wird erläutert, wie Sie Meta-Anzeigenvorlagen für eine nahtlose Integration und wirkungsvolle Ergebnisse strukturieren, anpassen und vorbereiten.
+Meta-Anzeigenvorlagen helfen Ihnen, visuell konsistente und effektive Anzeigen auf allen Meta-Plattformen zu erstellen. Indem Sie die empfohlenen Design-Verfahren befolgen und unterstützte Felder verwenden, können Sie sicherstellen, dass Ihre Vorlagen für GenStudio for Performance Marketing optimiert sind. In diesem Handbuch wird erläutert, wie Sie Meta-Anzeigenvorlagen für eine nahtlose Integration und wirkungsvolle Ergebnisse strukturieren, anpassen und vorbereiten.
 
 Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeigenvorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
 
@@ -31,7 +31,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 
 ## Erkannte Feldnamen
 
-Wenden Sie beim Anpassen Ihrer Meta-Anzeigenvorlage Platzhalter für Inhalte für diese erforderlichen Felder an:
+Wenden Sie beim Anpassen Ihrer Meta-Anzeigenvorlage Platzhalter für Inhalte für diese Pflichtfelder an:
 
 - `image` (erforderlich, ausgewählt aus Content JPEG, PNG oder GIF)
 - `on_image_text` (Text, der über dem Bild erscheint)
@@ -51,7 +51,7 @@ Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user
 | Quadrat 1:1 | 1080 x 1080 | Standard für die meisten Meta-Platzierungen; empfohlen für weit reichende Kompatibilität. |
 | Hochformat 4:5 | 1080 x 1350 | Optimiert für mobile Feeds; bietet mehr vertikalen Raum. |
 | Story 9:16 | 1080 x 1920 | Ideal für Stories und Rollen; füllt den gesamten Bildschirm für Mobilgeräte. |
-| Querformat 1,91:1 | 1080 x 566 | Am besten geeignet für Link-Anzeigen und Platzierungen von Nachrichten-Feeds; Breitformat. |
+| Querformat 1.91:1 | 1080 x 566 | Am besten geeignet für Link-Anzeigen und Platzierungen von Nachrichten-Feeds; Breitformat. |
 | Benutzerdefiniert | Mindestens 50 x 50 (Breite) | Nur verwenden, wenn erforderlich; kann zu Zuschnitt oder Skalierung führen. |
 
 Wenn die Anzeige nicht in einem dieser Seitenverhältnisse entworfen wurde, schneidet GenStudio for Performance Marketing das Bild automatisch in die entsprechende Größe zu.

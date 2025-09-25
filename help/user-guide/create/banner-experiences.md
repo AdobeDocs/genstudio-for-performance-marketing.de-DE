@@ -6,10 +6,10 @@ badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, s
 role: User
 level: Beginner
 exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
-source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Zu den bearbeitbaren Abschnitten eines Displays und Erlebnisses gehören:
 * Überschrift
 * Unterüberschrift
 * Textkörper
-* Aktionsaufruf (CTA)
+* Call to action (CTA)
 * Bild
 
 Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).

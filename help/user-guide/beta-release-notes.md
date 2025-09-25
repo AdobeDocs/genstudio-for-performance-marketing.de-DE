@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 hidefromtoc: true
 hide: true
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ad532813338a7506483c2ab5892a61d7dc4785d4
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 2%
@@ -19,7 +19,7 @@ In diesen Hinweisen werden wichtige Adobe GenStudio for Performance Marketing-Fe
 
 * Die Filterfunktion für das gesamte Produkt wurde verbessert. Probleme mit der Filterung nach Alter und Geschlecht in [!DNL Insights] wurden behoben.  <!-- GS-1198 -->
 
-* Sie können Bild-Assets (JPG oder PNG) direkt mit dem Adobe Expreß bearbeiten. Inhaltseditoren können die Arbeitsfläche _[!UICONTROL Basierend auf Adobe Expreß]_ verwenden, um Hintergründe zu entfernen, generative Füllungen anzuwenden, Effekte anzupassen und Bilder zuzuschneiden, ohne GenStudio for Performance Marketing zu verlassen. <!-- GS-4615 -->
+* Sie können Bild-Assets (JPG oder PNG) direkt mit Adobe Express bearbeiten. Inhaltseditoren können die Arbeitsfläche _[!UICONTROL Powered by Adobe Express]_ verwenden, um Hintergründe zu entfernen, generative Füllungen anzuwenden, Effekte anzupassen und Bilder zuzuschneiden, ohne GenStudio for Performance Marketing zu verlassen. <!-- GS-4615 -->
 
 * Das Erlebnis des progressiven Ladens generierter Varianten, generierter E-Mails und kontextueller Nachrichten wurde verbessert. <!-- GS-4651 3062-->
 
@@ -39,9 +39,9 @@ In diesen Hinweisen werden wichtige Adobe GenStudio for Performance Marketing-Fe
 
 * Es wurden Probleme mit dem Vorlagen-Upload behoben, die zu einem erfolgreichen Upload, aber zu mangelnder Sichtbarkeit in der Produktoberfläche führten. <!-- GS-4815 5650-->
 
-* Benutzende können Meta-Anzeigen jetzt manuell zuschneiden, nachdem sie ihre Größe geändert haben. <!-- GS-5871 -->
+* Benutzende können Meta-Anzeigen jetzt nach der Größenänderung manuell zuschneiden. <!-- GS-5871 -->
 
-* Benutzende müssen sich nicht mehr zweimal bei einem Meta-Ads-Kanalkonto anmelden, wenn sie auch bei Facebook angemeldet sind. <!-- GS-3009 -->
+* Benutzende müssen sich nicht mehr zweimal bei einem Meta-Werbekonto anmelden, wenn sie auch bei Facebook angemeldet sind. <!-- GS-3009 -->
 
 * Die Arbeitsflächen-Ansicht von Assets und Erlebnissen bleibt jetzt über den Inhaltserstellungs-, Prüfungs- und Genehmigungsprozess hinweg konsistent. <!-- GS-5877 -->
 

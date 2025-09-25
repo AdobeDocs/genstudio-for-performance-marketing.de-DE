@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Aktivierungen für bezahlte Anzeigenkanäle v
 level: Intermediate
 feature: Ad Activation
 exl-id: 5bc624c2-d064-4190-8761-ed05d0629d1f
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -35,15 +35,15 @@ Im Folgenden finden Sie einige gängige Best Practices und die Fehler, die sie v
 
 * **Überprüfen Sie Ihren Anzeigensatz und stellen Sie sicher, dass immer nur eine Anzeige aktiv ist**
 
-  Wenn Sie mehrere Meta-Anzeigen aktivieren müssen, erstellen Sie für jede ein separates Dynamic Creative-Anzeigenset. Beispielfehler: _Dynamic Creative-Anzeigensatz lässt maximal eine aktive Anzeige darin zu. Benutzende dürfen nicht mehr als eine Anzeige unter demselben Dynamic Creative-Anzeigensatz erstellen. (100)_
+  Wenn Sie mehrere Meta-Anzeigen aktivieren müssen, erstellen Sie für jedes davon einen separaten Dynamic Creative-Anzeigensatz. Beispielfehler: _Dynamic Creative-Anzeigensatz lässt maximal eine aktive Anzeige darin zu. Benutzende dürfen nicht mehr als eine Anzeige unter demselben Dynamic Creative-Anzeigensatz erstellen. (100)_
 
 * **Gleicht die Anzahl der angewendeten Regeln mit dem von der Plattform angegebenen Betrag ab**
 
   Bezahlte Kanäle erwarten, dass die Anzahl der angewendeten Regeln ihrem angegebenen Format entspricht.  Passen Sie bei Bedarf die Anzahl der Regeln an den von der Plattform angegebenen Wert an. Beispielfehler: _Der Anzeigen-Asset-Feed hat X Zielregel(n) für Format: Formatname, aber es wird genau X Zielregel für dieses Format erwartet. (100)_
 
-* **Wählen Sie einen Aktionsaufruf (CTA) aus, der mit Ihrem Anzeigensatzziel kompatibel ist**
+* **Wählen Sie eine call-to-action (CTA) aus, die mit Ihrem Anzeigenziel kompatibel ist**
 
-  Aktionsaufrufe, die mit dem Ziel in Dynamic Creative Ad inkompatibel sind, geben dem Trigger einen Fehler. Beispielfehler: _Der Aufruf von Aktionstyp X wird für das Ziel Y in Dynamic Creative Ad Set nicht unterstützt. (100)_
+  Aktionsaufrufe, die mit dem Ziel in Dynamic Creative Ad inkompatibel sind, geben dem Trigger einen Fehler. Beispielfehler: _Der call to action-Typ X wird für das Ziel Y in Dynamic Creative Ad Set nicht unterstützt. (100)_
 
 * **Stellen Sie sicher, dass die Begrenzung des Zielanzeigensatzes die Anzahl der Anzeigenerlebnisse unterstützt**
 
@@ -51,4 +51,4 @@ Im Folgenden finden Sie einige gängige Best Practices und die Fehler, die sie v
 
 * **Stellen Sie sicher, dass die Plattform Ihren ausgewählten CTA-Typ unterstützt**
 
-  Vergewissern Sie sich, dass Ihr Erlebnis einen unterstützten CTA-Typ enthält. Beispielfehler: _(#100) Ungültiger Aufruf an Aktionstyp (100)_
+  Vergewissern Sie sich, dass Ihr Erlebnis einen unterstützten CTA-Typ enthält. Beispielfehler: _(#100) Ungültiger call to action-Typ (100)_

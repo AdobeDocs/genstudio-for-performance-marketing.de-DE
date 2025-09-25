@@ -4,7 +4,7 @@ description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Leistun
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '713'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Wenn Sie eine Kampagne auswählen, wird die Registerkarte [[!UICONTROL Anzeigen]
 
 ## Ziele
 
-Zum Zeitpunkt der Erstellung einer Kampagne mit Meta-Anzeigen haben Sie möglicherweise ein Ziel ausgewählt, das Ihren Geschäftszielen entspricht. In GenStudio for Performance Marketing sind sechs Ziele von Meta-Anzeigen sichtbar:
+Zum Zeitpunkt der Erstellung einer Kampagne mit Meta-Anzeigen haben Sie möglicherweise ein Ziel ausgewählt, das Ihren Geschäftszielen entspricht. In GenStudio for Performance Marketing sind sechs Ziele von Meta Ads sichtbar:
 
 1. **Awareness**: Wenden Sie sich an die maximale Zielgruppe und bringen Sie Aufmerksamkeit in Ihr Unternehmen.
 1. **Traffic**: Erhöhen Sie den Traffic zu Ihrer Site oder Anwendung.
@@ -50,9 +50,9 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen Digital-Ma
 | **[!UICONTROL Starten]** | Das Datum, an dem die Kampagne veröffentlicht wurde. | Eine hohe Anzahl an Impressionen kann darauf hindeuten, dass die Anzeige die beabsichtigte Zielgruppe erreicht. |
 | **[!UICONTROL Impressions]** | Eine Zählung, mit der angezeigt wird, wann Inhalte im Kanal geladen werden, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für eine echte Leistung von insight sollten Sie sie zusammen mit anderen Interaktionsmetriken berücksichtigen. |
 | **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende innerhalb einer Anzeigenkampagne mit einem anklickbaren Element interagieren, z. B. mit einem Link oder einer call-to-action-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
-| **[!UICONTROL CTR &#x200B;]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die innerhalb eines Kanals zu Kampagnenklicks geführt haben.<br>**Berechnung**: (`clicks` geteilt durch `impressions`) x 100 = % | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
-| **[!UICONTROL CPM &#x200B;]**<br>_Kosten pro Tausend_ | Kosten pro tausend Anzeigen-Impressions für die Anzeigenkampagne. <br>**Berechnung**: (Gesamtbetrag `spent` geteilt durch `impressions`) x 1000 | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
-| **[!UICONTROL CPC &#x200B;]**<br>_Cost per click_ | Durchschnittliche Kosten für jeden Klick in einer Anzeigenkampagne.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` = $ | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
+| **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die innerhalb eines Kanals zu Kampagnenklicks geführt haben.<br>**Berechnung**: (`clicks` geteilt durch `impressions`) x 100 = % | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
+| **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten pro tausend Anzeigen-Impressions für die Anzeigenkampagne. <br>**Berechnung**: (Gesamtbetrag `spent` geteilt durch `impressions`) x 1000 | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
+| **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten für jeden Klick in einer Anzeigenkampagne.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` = $ | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
 | **[!UICONTROL Videowiedergaben]** | Die Häufigkeit, mit der ein Video in einer Anzeigenkampagne wiedergegeben wird, ohne Wiederholungen. Ein Video wird abgespielt, wenn ein Benutzer auf Abspielen klickt oder das Video automatisch abgespielt wird. | Eine hohe Anzahl von Videowiedergaben kann darauf hinweisen, dass das Video Aufmerksamkeit erregt, und kann bedeuten, dass die Miniaturansicht, der Titel oder die Platzierung effektiv in Viewern gezeichnet wird. |
 | **[!UICONTROL Budget]** | Gesamtmittel, die für eine Anzeigenkampagne zum Erreichen der Kampagnenziele zugewiesen wurden. | Ein hoher Haushalt bedeutet mehr Ressourcen für eine breitere Reichweite und potenziell größere Wirkung. |
 | **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Budget ausgegeben wurde, um Anzeigen auf verschiedenen Plattformen zu platzieren. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |

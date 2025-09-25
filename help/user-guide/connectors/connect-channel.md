@@ -1,11 +1,11 @@
 ---
-title: Paid-Media-Konto verbinden
+title: Paid Media-Konto verbinden
 description: Verbinden Sie ein Paid-Media-Konto, um Ihre Anzeigen und Medien mit Adobe GenStudio for Performance Marketing zu aktivieren und zu überwachen.
 level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights, Delivery and Activation
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 2f18b273684a9fe9b9b8903838ae09f5cd2b7842
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Ein _Paid-Media_ Konto bezieht sich auf ein Konto auf einer Werbeplattform eines
 1. Sehen Sie sich den folgenden Connector-Typ an, den Sie ausgewählt haben, um die Voraussetzungen zu überprüfen und mit den Verbindungsschritten fortzufahren:
 
    - [Google Campaign Manager 360](google-cm360.md)
-   - [Meta-Anzeigen](meta-ads.md)
+   - [Meta Ads](meta-ads.md)
 
 ## Bezahlte Medienverbindungen
 

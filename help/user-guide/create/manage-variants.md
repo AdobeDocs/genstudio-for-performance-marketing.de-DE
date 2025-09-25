@@ -3,7 +3,7 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 2cf3bd4cb01f75dbff9fcf0cca7239256fc81129
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Verwalten von Varianten
 
-Mit Adobe GenStudio for Performance Marketing [!DNL Create] können Sie generierte Varianten - [E-Mails](/help/user-guide/create/email-experiences.md), [Meta-Anzeigen](/help/user-guide/create/meta-experiences.md) und mehr - für die Verwendung in Initiativen für digitales Marketing anpassen und verbessern.
+Mit Adobe GenStudio for Performance Marketing [!DNL Create] können Sie generierte Varianten - [E-Mails](/help/user-guide/create/email-experiences.md) [Meta-Anzeigen](/help/user-guide/create/meta-experiences.md) und mehr - für die Verwendung in Initiativen für digitales Marketing anpassen und verbessern.
 
 Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Sie Inhalte und Assets generierter Varianten einzeln oder in einem Batch ändern. Die Möglichkeit, Varianten auf individueller Mikroebene zu verwalten, ermöglicht es Ihnen, jedes Stück generierten Inhalts zu verwalten.
 
@@ -20,7 +20,7 @@ Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Si
 
 Generierte Variantenentwürfe haben einen Standardnamen, der oben auf der Arbeitsfläche angezeigt wird. Standardmäßige Entwurfsnamen verwenden die folgende Konvention, die den Kanaltyp, das Datum und die Uhrzeit der Generierung enthält.
 
-*Beispiel*: „Meta: Unbenannter Entwurf - 09.5.24, :56 Uhr“
+*Beispiel*: &quot;Meta: Unbenannter Entwurf - 09.5.24, :56 Uhr“
 
 **Den Standardnamen ändern**:
 
@@ -41,7 +41,7 @@ Die verfügbare Textformatierung umfasst:
 * Textgröße
 * Link
 
-Die Optionen zur Textformatierung variieren je nach Kanal (Meta, E-Mail usw.)
+Die Textformatierungsoptionen variieren je nach Kanal (Meta, E-Mail usw.)
 
 **So bearbeiten Sie Text in generierten Varianten manuell**:
 
@@ -162,7 +162,7 @@ Diese generative Erweiterungsfunktion ist mit dem Zuschneide-Tool kombiniert, um
 
 ## Seitenverhältnis ändern
 
-Sie können das Seitenverhältnis [ Meta-Anzeigen schnell ändern, ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1::1 quadratisches Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
+Sie können das [Seitenverhältnis von Meta-Anzeigen“ schnell ändern](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) um die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1::1 quadratisches Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
 
 >[!NOTE]
 >
@@ -196,7 +196,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 

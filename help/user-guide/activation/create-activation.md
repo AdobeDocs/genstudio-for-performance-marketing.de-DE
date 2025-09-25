@@ -3,7 +3,7 @@ title: Aktivierungs-Workflow
 description: Erfahren Sie mehr über den Aktivierungs-Workflow für Werbeanzeigen.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
+source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Obwohl die individuellen Platzierungsanforderungen jeden gebührenpflichtigen Ka
 
 1. **Bereiten Sie Ihr Erlebnis für die Aktivierung**. Es gibt zwei Möglichkeiten, Erlebnisse für die Aktivierung vorzubereiten:
 
-   * Aktivieren eines genehmigten Erlebnisses mit vordefinierten Einstellungen direkt aus [!DNL Content]. Diese optimierte Methode zur Aktivierung eines oder mehrerer Anzeigenerlebnisse auf einem einzelnen Kanal. Nachdem Sie ein Erlebnis aus der [!DNL Content]-Galerie ausgewählt haben, können Sie keine Assets mehr bearbeiten oder zu Ihrem Anzeigenerlebnis hinzufügen. Activate from [!DNL Content] ist für Meta- und Google Campaign Manager 360-Anzeigen-Erlebnisse verfügbar.
+   * Aktivieren eines genehmigten Erlebnisses mit vordefinierten Einstellungen direkt aus [!DNL Content]. Diese optimierte Methode zur Aktivierung eines oder mehrerer Anzeigenerlebnisse auf einem einzelnen Kanal. Nachdem Sie ein Erlebnis aus der [!DNL Content]-Galerie ausgewählt haben, können Sie keine Assets mehr bearbeiten oder zu Ihrem Anzeigenerlebnis hinzufügen. „Aus [!DNL Content] aktivieren“ ist für Meta- und Google Campaign Manager 360-Anzeigen-Erlebnisse verfügbar.
 
    * Stellen Sie Ihr Anzeigenerlebnis zusammen, indem Sie visuelle Assets aus [!DNL Content] auswählen, Textelemente hinzufügen und Seitenverhältnisse auswählen. Diese Methode umfasst mehr Schritte, bietet jedoch eine größere kreative Flexibilität. Die Vorbereitung umfasst die Auswahl der Medien-Assets im entsprechenden Seitenverhältnis für Ihre spezifische Anzeigenplatzierung und die Zuweisung von Text zu call-to-action-Elementen und Textkörpern. Sie können informative Metadaten hinzufügen, die Benutzende bei der Suche nach dem Erlebnis nach der Aktivierung unterstützen. Jede Anzeigenkanalplatzierung legt gültige Seitenverhältnisse für visuelle Assets fest, die in der Platzierung enthalten sind.
 
