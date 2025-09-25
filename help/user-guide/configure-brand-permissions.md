@@ -21,7 +21,7 @@ Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, 
 
 Sehen Sie sich diese Videoeinführung an oder führen Sie die folgenden Schritte aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475006?learn=on&enablevpops&captions=ger)
 
 ## Schritt 1: Erstellen einer Benutzergruppe
 
