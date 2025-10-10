@@ -6,9 +6,9 @@ role: Admin, Data Engineer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
-source-git-commit: 40c7d2d40f1c4bea9794e706d8e1ce7bf92042e3
+source-git-commit: dce3d9bbf3ed2d26872b324c04ab7e78bbb034dc
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Auf dieser Seite wird beschrieben, wie Sie Ihr Meta Ads-Profilkonto mit GenStudi
 
 **Voraussetzungen**:
 
-- Anmeldung bei Facebook/Meta, die auf alle Meta-Services zugreifen kann
-
+- Eine Facebook-/Meta-Anmeldung, die auf alle Meta-Services zugreifen kann
 - _Vollständige Kontrolle_ über Meta Business Portfolio und Werbekonten, einschließlich:
-
    - Verwalten von Kampagnen
    - Leistung anzeigen
    - Verwalten von Creative Hub-Mockups
    - Erweiterte Analyse
-
 - Deaktivieren Sie alle Popup-Blocker in Ihrem Browser
+- Überprüfen Sie alle Instagram-Kontoseitenverknüpfungen in Meta Business Manager, bevor Sie eine Verbindung herstellen
+- Administratorzugriff auf alle verknüpften Assets bestätigen
 
 >[!ENDSHADEBOX]
 
@@ -69,6 +68,16 @@ Auf dieser Seite wird beschrieben, wie Sie Ihr Meta Ads-Profilkonto mit GenStudi
 
 Verwenden **[!UICONTROL Konto hinzufügen]**, um der Liste weitere Konten hinzuzufügen. Der Autorisierungsfluss kann beim Hinzufügen von Konten, die mit demselben Meta-Geschäftsprofil verknüpft sind, geringfügig abweichen. Sie wählen während des Verbindungsprozesses nur die neuen Meta Ads-Konten aus.
 
+## Best Practices für Verbindungen
+
+Um Fehler zu vermeiden, sollten Sie beim Einrichten von Verbindungen die folgenden Best Practices beachten:
+
+- [ ] Start mit minimaler Asset-Auswahl (nur eine Seite) für die erste Verbindung
+- [ ] Fügen Sie Instagram-Konten nur hinzu, nachdem Sie bestätigt haben, dass der Seitenzugriff funktioniert
+- [ ] Sicherstellen, dass Instagram-Konten ordnungsgemäß mit der ausgewählten Facebook-Seite in Meta Business Manager verknüpft sind
+- [ ] Verwenden eines stufenweisen Ansatzes: Zuerst eine Basisverbindung herstellen und dann Assets erweitern
+- [ ] Überprüfen der Administratorberechtigungen für alle Assets, bevor eine Verbindung hergestellt wird
+
 ## Trennen und Fehlerbehebung bei einer Meta Ads-Integration
 
 Manchmal ist eine GenStudio for Performance Marketing-Instanz falsch mit einem Meta Ads-Konto verbunden. Zu den häufigen Setups, die Probleme verursachen können, gehören:
@@ -91,3 +100,24 @@ Mit diesen Schritten werden zwischengespeicherte Berechtigungen gelöscht und de
 1. Bestätigen Sie die Entfernung, wenn Sie dazu aufgefordert werden.
 
 Sie können jetzt Ihre Meta-Werbekonten, Instagram-Profile und Facebook-Seiten neu verbinden.
+
+## Verbindungsprobleme mit Instagram-Konten
+
+Probleme können auftreten, wenn Instagram-Konten ausgewählt werden, ohne während der Verbindungseinrichtung eine zugehörige Facebook-Seite zu verbinden. Dies kann zu Fehlern führen wie:
+
+- „Verbindung zu {Page_Name} nicht möglich“ oder allgemeine Verbindungsfehler.
+- Verbindungs-Timeouts bei der Facebook-Anmeldung für den Geschäftsfluss.
+- Stille Fehler, wenn mehrere Assets ausgewählt werden.
+- Die Verbindung schlägt fehl, wenn Instagram, Seite und Werbekonto gleichzeitig ausgewählt werden.
+
+### Auflösungsschritte:
+
+1. Navigieren Sie zu [Meta Business Manager](https://business.facebook.com) > Integrationen > Connected Apps.
+1. Entfernen Sie die vorhandene Adobe GenStudio-Integration (sofern vorhanden). Klicken Sie auf **Entfernen**.
+1. Kehren Sie zu GenStudio zurück und wiederholen Sie den Verbindungsprozess.
+1. Wählen Sie während der ersten Verbindung NUR die Facebook-Zielseite aus.
+1. Wählen Sie NICHT das Instagram-Konto beim ersten Verbindungsversuch aus.
+1. Überprüfen Sie, ob die Verbindung erfolgreich hergestellt wurde, bevor Sie andere Assets hinzufügen.
+1. Sobald die Seitenverbindung stabil ist, fügen Sie Instagram-Konten separat hinzu.
+
+
