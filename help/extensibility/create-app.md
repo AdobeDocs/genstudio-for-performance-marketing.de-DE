@@ -124,4 +124,4 @@ Durch die Wartung Ihrer Entwicklungsumgebung können Fehler bei der App-Entwickl
 
 * Aktualisieren Sie die GenStudio UIX SDK. Vergewissern Sie sich, dass Sie die neueste Version von [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk) verwenden. Unter [Beispiel-Repository für GenStudio UIX](https://github.com/adobe/genstudio-uix-examples) erfahren Sie, wie Sie die neuesten SDK-Änderungen verwenden.
 
-Jetzt können Sie &quot;[ App bereitstellen](deploy-app.md)
+Jetzt können Sie &quot;[&#x200B; App bereitstellen](deploy-app.md)

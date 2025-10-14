@@ -41,7 +41,7 @@ Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterun
 
 ### Kanäle
 
-Die [[!DNL Insights] _[!UICONTROL Kanäle &#x200B;]_&#x200B;Ansicht](channels.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[ dass Sie ein Kanalkonto ](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
+Die [[!DNL Insights] _[!UICONTROL Kanäle &#x200B;]_&#x200B;Ansicht](channels.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[&#x200B; dass Sie ein Kanalkonto &#x200B;](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
 
 ### Anzeigen
 

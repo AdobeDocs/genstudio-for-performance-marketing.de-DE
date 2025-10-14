@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von LinkedIn-Erlebnissen mit einzelnen Assets für die Seiten [LinkedIn](https://business.linkedin.com/marketing-solutions) und LinkedIn.
 
-Sie können [ein LinkedIn-Erlebnis ](/help/user-guide/create/create-linkedin.md) GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
+Sie können [ein LinkedIn-Erlebnis &#x200B;](/help/user-guide/create/create-linkedin.md) GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
 
 Die Aktivierung einer LinkedIn-Anzeige erfolgt nach den [gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihres Anzeigen-Erlebnisses auf die spezifischen Anforderungen von LinkedIn. Nachdem Sie ein LinkedIn-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie mit LinkedIn Campaign Manager das Erlebnis vor der endgültigen Veröffentlichung für bestimmte LinkedIn-Anzeigenplatzierungen optimieren.
 
@@ -22,7 +22,7 @@ GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
 ## Schritt 1: LinkedIn-Konten einrichten
 
-Bevor Sie eine Aktivierung starten, [ Sie sich bei Ihrem LinkedIn](https://www.linkedin.com/campaignmanager/login)Kampagnenmanager-Konto an.
+Bevor Sie eine Aktivierung starten, [&#x200B; Sie sich bei Ihrem LinkedIn](https://www.linkedin.com/campaignmanager/login)Kampagnenmanager-Konto an.
 
 >[!BEGINSHADEBOX]
 
@@ -105,4 +105,4 @@ Je nach ausgewähltem Abschnitt wird die Ansicht _Erlebniseinrichtung_ oder _Pla
 
 ## Schritt 6: Vollständige Veröffentlichung Ihres Anzeigenerlebnisses
 
-1. [Melden Sie sich bei Ihrem ](https://www.linkedin.com/campaignmanager/login) Campaign Manager-Konto an, um Ihr Anzeigenerlebnis zu überprüfen und die Veröffentlichung auf bestimmten LinkedIn-Seiten abzuschließen.
+1. [Melden Sie sich bei Ihrem &#x200B;](https://www.linkedin.com/campaignmanager/login) Campaign Manager-Konto an, um Ihr Anzeigenerlebnis zu überprüfen und die Veröffentlichung auf bestimmten LinkedIn-Seiten abzuschließen.

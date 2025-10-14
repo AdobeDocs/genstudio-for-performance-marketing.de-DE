@@ -30,7 +30,7 @@ Innerhalb der Admin Console definiert das Produktprofil Regeln und Benutzerprofi
 
 **Zugriff auf das GenStudio-Produktprofil**
 
-1. Klicken Sie in Ihrer Begrüßungs **E-Mail auf den Link** Erste Schritte“, um zur [Adobe Admin Console zu ](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview).
+1. Klicken Sie in Ihrer Begrüßungs **E-Mail auf den Link** Erste Schritte“, um zur [Adobe Admin Console zu &#x200B;](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview).
 
 1. Melden Sie sich mit Ihrer Adobe ID bei der Admin Console an.
 

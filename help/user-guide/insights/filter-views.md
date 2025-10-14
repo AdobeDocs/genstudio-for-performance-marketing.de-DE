@@ -59,7 +59,7 @@ Im Laufe der Zeit kann Ihre Liste von Kampagnen und Anzeigen exponentiell wachse
 
 1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Anzeigen]**&#x200B;aus.
 
-   ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
+   ![Anzeigen-Filter und &#x200B;](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
 
 1. Klicken Sie auf den Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
 

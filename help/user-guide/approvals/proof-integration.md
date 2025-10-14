@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Integration von Workfront Proof mit GenStudio for Performance Marketing
 
-Die Integration mit Workfront Proof verbessert den Überprüfungs- und Genehmigungs-Lebenszyklus von GenStudio for Performance Marketing mit erweiterten Funktionen, einschließlich Genehmigungsvorlagen, mehrstufigen Workflows und der Möglichkeit, Korrekturabzugsversionen [ vergleichen](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). Diese strukturierte Versionierung gewährleistet Transparenz, Verantwortlichkeit und optimierte Zusammenarbeit während des gesamten Lebenszyklus der Inhaltsüberprüfung.
+Die Integration mit Workfront Proof verbessert den Überprüfungs- und Genehmigungs-Lebenszyklus von GenStudio for Performance Marketing mit erweiterten Funktionen, einschließlich Genehmigungsvorlagen, mehrstufigen Workflows und der Möglichkeit, Korrekturabzugsversionen [&#x200B; vergleichen](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). Diese strukturierte Versionierung gewährleistet Transparenz, Verantwortlichkeit und optimierte Zusammenarbeit während des gesamten Lebenszyklus der Inhaltsüberprüfung.
 
 >[!BEGINSHADEBOX]
 

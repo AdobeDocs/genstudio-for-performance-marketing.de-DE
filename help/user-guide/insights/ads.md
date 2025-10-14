@@ -56,7 +56,7 @@ Anzeigenformate beziehen sich auf die verschiedenen kreativen Elemente und Layou
 
 Anzeigenplatzierungen beziehen sich auf die spezifischen Orte oder Plattformen, an denen Ihre Anzeigen innerhalb einer Kampagne erscheinen. Diese Platzierungen bestimmen, wie und wo Ihre Zielgruppe mit Ihren Inhalten interagiert. Anzeigenplatzierungen erweitern die Reichweite der Zielgruppe, was zur Maximierung der Sichtbarkeit, Interaktion und der allgemeinen Effektivität der Kampagne beiträgt.
 
-Wenn Sie eine Kampagne mit Meta-Anzeigen erstellen, haben Sie möglicherweise anhand des Kampagnenziels ausgewählt[ wo Ihre Anzeigen geschaltet ](channels.md#objectives).
+Wenn Sie eine Kampagne mit Meta-Anzeigen erstellen, haben Sie möglicherweise anhand des Kampagnenziels ausgewählt[&#x200B; wo Ihre Anzeigen geschaltet &#x200B;](channels.md#objectives).
 
 Im Folgenden finden Sie eine Liste der unterstützten Anzeigenplatzierungen:
 

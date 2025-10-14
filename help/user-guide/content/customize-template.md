@@ -22,7 +22,7 @@ Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Ma
 
 >[!TIP]
 >
->Befolgen Sie [Richtlinien für ](accessibility-for-templates.md) Barrierefreiheit[ und „Best ](/help/user-guide/content/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
+>Befolgen Sie [Richtlinien für &#x200B;](accessibility-for-templates.md) Barrierefreiheit[&#x200B; und „Best &#x200B;](/help/user-guide/content/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
 
 ## Platzhalter für Inhalte
 
@@ -247,7 +247,7 @@ GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_
 
 ## Vorlagenvorschau
 
-Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template) durchsucht GenStudio for Performance Marketing die HTML-Datei nach erkannten Feldern. Verwenden Sie die Vorschau, um Ihre [Vorlagenelemente](use-templates.md#template-elements) zu überprüfen und sicherzustellen, dass Sie sie ordnungsgemäß mit den [erkannten Feldnamen“ ](#recognized-field-names).
+Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template) durchsucht GenStudio for Performance Marketing die HTML-Datei nach erkannten Feldern. Verwenden Sie die Vorschau, um Ihre [Vorlagenelemente](use-templates.md#template-elements) zu überprüfen und sicherzustellen, dass Sie sie ordnungsgemäß mit den [erkannten Feldnamen“ &#x200B;](#recognized-field-names).
 
 Beispielvorschau für eine E-Mail-Vorlage:
 

@@ -18,7 +18,7 @@ GenStudio for Performance Marketing nutzt die Fülle an Markendaten aus Ihrer [!
 
 ## Verwalten von Marken
 
-Nachdem Sie Markenrichtlinien zu GenStudio for Performance Marketing hinzugefügt haben, können [ sie ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) (verwalten[ veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung stehen sie Ihrem Team zur Asset-Generierung zur Verfügung.
+Nachdem Sie Markenrichtlinien zu GenStudio for Performance Marketing hinzugefügt haben, können [&#x200B; sie &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands) (verwalten[&#x200B; veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung stehen sie Ihrem Team zur Asset-Generierung zur Verfügung.
 
 [!DNL Brands] können sich entweder im Status _Unveröffentlicht_ oder _Veröffentlicht_ befinden. Neuer [!DNL Brands] als _Unveröffentlicht_.
 
@@ -55,7 +55,7 @@ Die folgende Tabelle zeigt die einzelnen Kategorien von Richtlinien und Richtlin
 
 ### Bildrichtlinien
 
-Die folgende Tabelle zeigt die einzelnen Kategorien von Bildrichtlinien und die zugehörigen Werte. Sie müssen [Kategorie“ ](add-guidelines.md#add-brands), z. B. „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“, um die Bildrichtlinien anzuwenden.
+Die folgende Tabelle zeigt die einzelnen Kategorien von Bildrichtlinien und die zugehörigen Werte. Sie müssen [Kategorie“ &#x200B;](add-guidelines.md#add-brands), z. B. „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“, um die Bildrichtlinien anzuwenden.
 
 | Richtlinienkategorie | Beschreibung | Werte |
 | ------------------| :---------- | :---------- |
@@ -149,7 +149,7 @@ Jedes hochgeladene Logo enthält die folgenden Details in der Logo-Kachel:
 - Dateigröße
 - Auflösung
 
-Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [ einzelne Logo anzeigen und ](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
+Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [&#x200B; einzelne Logo anzeigen und &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
 
 - **[!UICONTROL Details anzeigen]**
 - **[!UICONTROL Download]**

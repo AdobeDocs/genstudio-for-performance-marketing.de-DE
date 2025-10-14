@@ -56,7 +56,7 @@ Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen wird schrittweise in diese
 1. Textkörper der E-Mail für nachfolgende Abschnitte (für E-Mails mit mehreren Abschnitten)
 1. Markenvalidierung
 
-   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

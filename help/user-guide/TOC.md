@@ -38,7 +38,7 @@ ht-degree: 20%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] ](create/overview.md)
+   + [Überblick über [!DNL Create] &#x200B;](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)

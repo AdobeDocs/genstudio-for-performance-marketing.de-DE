@@ -28,7 +28,7 @@ Beim Erstellen von Varianten aus einer Vorlage mit vordefinierten Richtlinien - 
 
 ## Hinzufügen von Marken
 
-Um ein [!DNL Brand] hinzuzufügen, [ Sie (ein Markenhandbuch hochladen](#upload-a-brand) oder [manuell eine Marke erstellen](#manually-add-brand) indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Veröffentlichen Sie  [!DNL Brand]](#publish-brand) in [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
+Um ein [!DNL Brand] hinzuzufügen, [&#x200B; Sie (ein Markenhandbuch hochladen](#upload-a-brand) oder [manuell eine Marke erstellen](#manually-add-brand) indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Veröffentlichen Sie  [!DNL Brand]](#publish-brand) in [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
 
 Wenn Sie Markenrichtlinien hochladen, die in einer anderen Sprache als Englisch verfasst sind, oder manuell eine Marke in einer anderen Sprache erstellen, zeigt GenStudio for Performance Marketing diese Richtlinien in derselben Sprache an.
 
@@ -61,7 +61,7 @@ Die Ansicht für Ihre neue Marke wird geöffnet und zeigt die Details der Marken
 
 ### Marke manuell hinzufügen
 
-Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokumente hochzuladen, um eine neue [Marke“ ](brands.md).
+Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokumente hochzuladen, um eine neue [Marke“ &#x200B;](brands.md).
 
 **So fügen Sie eine Marke manuell hinzu**:
 
@@ -80,7 +80,7 @@ Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokument
    - _Verwendung dieser Marke_: Klicken Sie auf **[!UICONTROL Hinzufügen]** (oder klicken Sie in das Textfeld, um vorhandenen Text zu ändern) und geben Sie eine Übersicht und Nutzungsinformationen über die Marke ein. Klicken Sie **[!UICONTROL Änderungen speichern]**.
    - [_[!DNL Brand] Sprachrichtlinien _](brands.md#brand-voice-guidelines): Fügen Sie in jedem Feld Richtlinien die entsprechenden Informationen hinzu.
 
-     ![Hinzufügen [!DNL Brand] Sprachrichtlinien ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
+     ![Hinzufügen [!DNL Brand] Sprachrichtlinien &#x200B;](/help/assets/brand-voice-add.png){width="500" zoomable="yes"}
 
    - [_Bildrichtlinien_](brands.md#image-guidelines): Klicken Sie auf **[!UICONTROL Kategorie hinzufügen]**, um Richtlinienkategorien wie „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“ hinzuzufügen. Füllen Sie Richtlinien in jede hinzugefügte Kategorie.
    - [_Kanalrichtlinien_](brands.md#channel-guidelines): Klicken Sie auf jeden verfügbaren Kanal und fügen Sie geeignete Richtlinien hinzu.
@@ -91,7 +91,7 @@ Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokument
 
 Um Ihre erstellten [!DNL Brands] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben im Bedienfeld _[!UICONTROL Marken]_, um zurück zur Startseite _[!UICONTROL Marken]_ zu navigieren.
 
-Sie müssen Ihre [ nicht ](#publish-brand)veröffentlichen[!DNL Brand] um die Informationen zugänglich zu machen. Manuell hinzugefügte Informationen sind sofort nach dem Hinzufügen verfügbar. Damit andere Personen in Ihrem Unternehmen die [!DNL Brand] in GenStudio for Performance Marketing verwenden können, müssen Sie sie veröffentlichen. Ein erstelltes [!DNL Brand] liegt bis zur Veröffentlichung im Entwurfsformat vor.
+Sie müssen Ihre [&#x200B; nicht &#x200B;](#publish-brand)veröffentlichen[!DNL Brand] um die Informationen zugänglich zu machen. Manuell hinzugefügte Informationen sind sofort nach dem Hinzufügen verfügbar. Damit andere Personen in Ihrem Unternehmen die [!DNL Brand] in GenStudio for Performance Marketing verwenden können, müssen Sie sie veröffentlichen. Ein erstelltes [!DNL Brand] liegt bis zur Veröffentlichung im Entwurfsformat vor.
 
 ### Miniaturansicht der Marke ändern
 
@@ -158,7 +158,7 @@ Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich a
 
       Das Popup-Fenster bestätigt, dass die Marke dupliziert wird - „Neue Marke erstellt“. Die duplizierte Marke befindet sich zunächst im _Unveröffentlicht_-Modus.
 
-   1. Passen Sie die duplizierte Marke an und [ Sie sie dann ](#publish-brand), um sie für die Verwendung verfügbar zu machen.
+   1. Passen Sie die duplizierte Marke an und [&#x200B; Sie sie dann &#x200B;](#publish-brand), um sie für die Verwendung verfügbar zu machen.
 1. Um eine Marke zu löschen, wählen **[!UICONTROL Löschen]** aus dem [!DNL Brands] Aktionsmenü aus.
 
 ## Fügen Sie [!DNL Personas] hinzu.
@@ -192,7 +192,7 @@ Siehe [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 ### Persona manuell hinzufügen
 
-Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persönliche Dokumente hochzuladen, um eine neue [Rolle“ ](personas.md).
+Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persönliche Dokumente hochzuladen, um eine neue [Rolle“ &#x200B;](personas.md).
 
 **So fügen Sie manuell eine Rolle hinzu**:
 
@@ -262,7 +262,7 @@ Siehe [[!DNL Products]](/help/user-guide/guidelines/products.md).
 
 ### Produkt manuell hinzufügen
 
-Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokumente hochzuladen, um ein neues ([) ](products.md).
+Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokumente hochzuladen, um ein neues ([) &#x200B;](products.md).
 
 **So fügen Sie ein Produkt manuell hinzu**:
 

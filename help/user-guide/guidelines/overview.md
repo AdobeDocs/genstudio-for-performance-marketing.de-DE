@@ -37,7 +37,7 @@ GenStudio for Performance Marketing-Richtlinien:
 * Definieren der Komplexität Ihrer Markenidentität
 * Erstellen Sie das Basis-Repository mit Informationen für diskrete Elemente wie Logos und Schriftarten, Pixelabstände und die Feinheit der Messaging-Richtlinien, die die generative KI zum Erstellen von Inhalten verwendet
 * Stellen Sie sicher, dass Ihre definierte Markenidentität über die Erstellung jedes Inhaltselements informiert.
-* Sie fungieren als Marken-Identitäts-Framework, das mit jedem generierten oder (validierten) [ verglichen ](#content-checks)
+* Sie fungieren als Marken-Identitäts-Framework, das mit jedem generierten oder (validierten) [&#x200B; verglichen &#x200B;](#content-checks)
 * Implementiert ADA-Barrierefreiheits- und -Plattform-Richtlinien für generierte Varianten
 
 Durch die Integration von Marken-, Produkt- und Personendaten in GenStudio for Performance Marketing können Sie die Qualität von KI-generierten Inhalten verbessern und so eine umfassende und maßgeschneiderte Markenidentität sicherstellen.

@@ -31,7 +31,7 @@ In der Attributdetailansicht können Sie sehen, welche Anzeigen das ausgewählte
 
 ![Attributleistungsmetriken](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing erkennt bestimmte Funktionen und wendet das entsprechende Attribut auf Medieninhalte oder Anzeigen als Tag an. Beispiele für [ Tags finden ](#categories) unter „Kategorien“. Um alle mit einer Anzeige verknüpften Attribute anzuzeigen, klicken Sie auf das Symbol „Einstellungen“ (Zahnrad) oben rechts in der Tabelle, um die Spalte **[!UICONTROL Attribute]** auszuwählen.
+GenStudio for Performance Marketing erkennt bestimmte Funktionen und wendet das entsprechende Attribut auf Medieninhalte oder Anzeigen als Tag an. Beispiele für [&#x200B; Tags finden &#x200B;](#categories) unter „Kategorien“. Um alle mit einer Anzeige verknüpften Attribute anzuzeigen, klicken Sie auf das Symbol „Einstellungen“ (Zahnrad) oben rechts in der Tabelle, um die Spalte **[!UICONTROL Attribute]** auszuwählen.
 
 ## Kategorien
 

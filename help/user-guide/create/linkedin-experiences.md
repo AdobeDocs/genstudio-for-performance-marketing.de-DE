@@ -43,7 +43,7 @@ Jedes Feld und jeder Abschnitt der LinkedIn-Erlebnisse wird schrittweise in dies
 1. Text auf dem Bild
 1. Markenvalidierung
 
-   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

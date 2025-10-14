@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta Ad-Erlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu &#x200B;](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta Ad-Erlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt. GenStudio for Performance Marketing unterstützt sowohl [standardmäßige als auch benutzerdefinierte Meta-Anzeigen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
@@ -52,7 +52,7 @@ Jedes Feld und jeder Abschnitt der Meta-Anzeigen-Erlebnisse wird schrittweise in
 1. Text auf dem Bild
 1. Markenvalidierung
 
-   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

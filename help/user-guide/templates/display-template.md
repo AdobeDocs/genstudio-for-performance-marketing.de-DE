@@ -39,7 +39,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 
 - `cta`
 
-Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/content/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## Unterstützte Dimensionen
 

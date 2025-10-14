@@ -15,13 +15,13 @@ ht-degree: 1%
 
 # Banner-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI nutzen, um die [Erstellung erfolgreicher Bannererlebnisse“ ](/help/user-guide/create/create-banner-experience.md) verbessern.
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI nutzen, um die [Erstellung erfolgreicher Bannererlebnisse“ &#x200B;](/help/user-guide/create/create-banner-experience.md) verbessern.
 
 [!DNL Create] ermöglicht es modernen Marketing[Experten, zusammenhängende Banner-](/help/user-guide/create/create-banner-experience.md) mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md), Bild-Assets und einer [gut gestalteten Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu erstellen.
 
 Beim Erzeugen von Bannererlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
-Informationen [ unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) für kanalspezifische Vorlagen .
+Informationen [&#x200B; unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) für kanalspezifische Vorlagen .
 
 Zu den bearbeitbaren Abschnitten eines Displays und Erlebnisses gehören:
 

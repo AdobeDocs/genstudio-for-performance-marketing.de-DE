@@ -46,7 +46,7 @@ Diese Vielfalt an organisatorischen Rollen wird durch drei Typen von GenStudio f
 
 * **GenStudio-Mitwirkende** sind die größte Auswahl an GenStudio for Performance Marketing-Benutzenden. Mitwirkende können Inhalte anzeigen und genehmigen und sind ein wesentlicher Teil des Workflows, der sicherstellt, dass die von Ihnen generierten Inhalte den Anforderungen und Standards Ihres Unternehmens entsprechen. GenStudio-Mitarbeiter sind _Mitarbeiter-Benutzer_ in GenStudio for Performance Marketing.
 
-* **GenStudio-** verfügen über die umfassendsten Berechtigungen innerhalb von GenStudio for Performance Marketing. Systemmanager führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) ](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer. GenStudio-Systemmanager sind Power-User in GenStudio for Performance Marketing.
+* **GenStudio-** verfügen über die umfassendsten Berechtigungen innerhalb von GenStudio for Performance Marketing. Systemmanager führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) &#x200B;](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer. GenStudio-Systemmanager sind Power-User in GenStudio for Performance Marketing.
 
 ### GenStudio-Editoren
 
@@ -92,7 +92,7 @@ In der folgenden Tabelle werden die standardmäßigen Collaborator-Berechtigunge
 
 ### GenStudio-Systemmanager
 
-_GenStudio-_ verfügen über den leistungsfähigsten Berechtigungssatz in GenStudio for Performance Marketing. Diese erfahrenen Benutzer führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) ](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer.
+_GenStudio-_ verfügen über den leistungsfähigsten Berechtigungssatz in GenStudio for Performance Marketing. Diese erfahrenen Benutzer führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) &#x200B;](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer.
 
 In der folgenden Tabelle werden die standardmäßigen System Manager-Berechtigungen angezeigt:
 

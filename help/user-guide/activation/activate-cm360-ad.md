@@ -18,7 +18,7 @@ Sie können die Veröffentlichung einer Google Campaign Manager 360-Anzeigenerfa
 
 ## Schritt 1: Google Campaign Manager 360-Konten einrichten
 
-Bevor Sie eine Aktivierung starten, [ Sie sich bei Ihrem Google Campaign Manager 360-Konto ](https://campaignmanager.google.com). Vergewissern Sie sich, dass Sie Zugriff auf Google Campaign Manager 360-Werbetreibende haben. Wenn Sie ein Campaign Manager 360-Erlebnis in GenStudio for Performance Marketing veröffentlichen, wird es an die Advertiser-Bibliothek bereitgestellt, die bei der Erstellung ausgewählt wurde.
+Bevor Sie eine Aktivierung starten, [&#x200B; Sie sich bei Ihrem Google Campaign Manager 360-Konto &#x200B;](https://campaignmanager.google.com). Vergewissern Sie sich, dass Sie Zugriff auf Google Campaign Manager 360-Werbetreibende haben. Wenn Sie ein Campaign Manager 360-Erlebnis in GenStudio for Performance Marketing veröffentlichen, wird es an die Advertiser-Bibliothek bereitgestellt, die bei der Erstellung ausgewählt wurde.
 
 Mit Campaign Manager 360 können Marketing-Fachleute Kampagnen und Anzeigen in verschiedenen (Advertisern __. Jeder Advertiser enthält eine Kreativ-Bibliothek. GenStudio for Performance Marketing veröffentlicht Anzeigenerlebnisse in einer Kreativbibliothek.
 

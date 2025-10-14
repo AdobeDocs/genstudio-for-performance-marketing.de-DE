@@ -79,7 +79,7 @@ Die Optionen in den _Personas_ und _Products_ Dropdown-Menüs werden auf Organis
 
    Das _Rollen auswählen_ Popup wird geöffnet. Sie können nach bestimmten unterstützten Personas suchen.
 
-1. Wählen Sie die Personas aus, auf die Ihre Kampagne abzielt. Gültige Personas werden von Ihrer Organisation während der Erstellung [ Richtlinien ](/help/user-guide/guidelines/personas.md).
+1. Wählen Sie die Personas aus, auf die Ihre Kampagne abzielt. Gültige Personas werden von Ihrer Organisation während der Erstellung [&#x200B; Richtlinien &#x200B;](/help/user-guide/guidelines/personas.md).
 
    Wählen Sie optional **[!UICONTROL Alle anzeigen]**, um eine Ansicht aller verfügbaren Personas zu öffnen.
 
@@ -89,7 +89,7 @@ Die Optionen in den _Personas_ und _Products_ Dropdown-Menüs werden auf Organis
 
    Das _Produkte auswählen_ Popup wird geöffnet. Sie können nach einem bestimmten unterstützten Produkt suchen.
 
-1. Ein oder mehrere Produkte auswählen. Produkte werden von Ihrer Organisation während der Erstellung [ Richtlinien ](/help/user-guide/guidelines/products.md).
+1. Ein oder mehrere Produkte auswählen. Produkte werden von Ihrer Organisation während der Erstellung [&#x200B; Richtlinien &#x200B;](/help/user-guide/guidelines/products.md).
 
    Wählen Sie optional **[!UICONTROL Alle anzeigen]**, um eine Ansicht aller verfügbaren Produkte zu öffnen.
 

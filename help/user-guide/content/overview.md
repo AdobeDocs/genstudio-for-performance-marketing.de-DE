@@ -86,4 +86,4 @@ Beim Speichern genehmigter Assets verwaltet [!DNL Content] die Rich-Metadaten, d
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, damit sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen verwendet werden kann. Erfahren Sie mehr über grundlegende Vorlagenelemente und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Machen Sie sich außerdem mit dem Thema „Anpassen einer Vorlage[ vertraut, um Vorlagen zu ](customize-template.md).
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, damit sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen verwendet werden kann. Erfahren Sie mehr über grundlegende Vorlagenelemente und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Machen Sie sich außerdem mit dem Thema „Anpassen einer Vorlage[&#x200B; vertraut, um Vorlagen zu &#x200B;](customize-template.md).

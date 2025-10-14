@@ -221,7 +221,7 @@ Sie können in Ihren Varianten einen Link zu Text, Bildern und CTA-Schaltfläche
 
 Wenn Sie während des Erstellungsprozesses Inhalte (Bilder) hinzufügen, können Sie Alt-Text für jedes Bild definieren. Das Hinzufügen von Alternativtext zu Bildern verbessert die Barrierefreiheit, die Suchmaschinenoptimierung und das Benutzererlebnis.
 
-Um die ALT-Text-Funktion zu aktivieren[ fügen Sie in ](/help/user-guide/content/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
+Um die ALT-Text-Funktion zu aktivieren[&#x200B; fügen Sie in &#x200B;](/help/user-guide/content/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
 
 **So fügen Sie Bildern in generierten Varianten Alternativtext hinzu**:
 
@@ -247,7 +247,7 @@ Geben Sie einen barrierefreien Namen für Bild- und call-to-action-Links in Ihre
 1. Klicken Sie in das Textfeld und fügen Sie eine kurze Beschreibung hinzu, die erklärt, was der Link oder die Schaltfläche bewirkt. Sie können beispielsweise „Auf der offiziellen WKND-Website einkaufen“ für einen call to action-Button-Link verwenden.
 1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
-Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [ Sie in der Vorlage ](/help/user-guide/content/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
+Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [&#x200B; Sie in der Vorlage &#x200B;](/help/user-guide/content/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
 
 ## Vorschau für Gerät
 

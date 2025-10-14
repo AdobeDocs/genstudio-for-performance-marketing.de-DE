@@ -22,7 +22,7 @@ GenStudio for Performance Marketing unterstützt zwar nicht die direkte Erstellu
 
 2. **Codieren Sie Ihre Vorlage**: Konvertieren Sie Ihr Design in HTML und Inline-CSS, um sicherzustellen, dass es auf verschiedenen Geräten sauber und responsiv ist. Beachten Sie die [Richtlinien zur Barrierefreiheit](accessibility-for-templates.md) um Ihre maximal vorgesehene Zielgruppe zu erreichen.
 
-3. **Vorbereiten für GenStudio for Performance Marketing**: Passen Sie Ihre HTML-Vorlage mithilfe der Handlebars-Vorlagensprache an. Fügen Sie Platzhalter ein, um anzugeben, wo GenStudio for Performance Marketing Inhalte dynamisch generieren soll. Siehe „Anpassen [ Vorlage](customize-template.md) für GenStudio for Performance Marketing.
+3. **Vorbereiten für GenStudio for Performance Marketing**: Passen Sie Ihre HTML-Vorlage mithilfe der Handlebars-Vorlagensprache an. Fügen Sie Platzhalter ein, um anzugeben, wo GenStudio for Performance Marketing Inhalte dynamisch generieren soll. Siehe „Anpassen [&#x200B; Vorlage](customize-template.md) für GenStudio for Performance Marketing.
 
 Wenn Sie diese Schritte befolgen, können Sie professionelle und effektive Vorlagen erstellen, die für die Verwendung in GenStudio for Performance Marketing bereit sind, sodass Sie Markeninhalte schnell und effizient erstellen können.
 
@@ -55,7 +55,7 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 >[!TIP]
 >
->Befolgen Sie [Richtlinien für ](accessibility-for-templates.md) Barrierefreiheit[ und „Best ](/help/user-guide/content/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
+>Befolgen Sie [Richtlinien für &#x200B;](accessibility-for-templates.md) Barrierefreiheit[&#x200B; und „Best &#x200B;](/help/user-guide/content/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
 
 ## Vorlagen verwalten
 
@@ -155,4 +155,4 @@ Zu den erkannten Anwendungsmustern gehören:
 
 >[!ENDSHADEBOX]
 
-Passen Sie [ Ihre Vorlage mit ](/help/user-guide/content/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.
+Passen Sie [&#x200B; Ihre Vorlage mit &#x200B;](/help/user-guide/content/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.

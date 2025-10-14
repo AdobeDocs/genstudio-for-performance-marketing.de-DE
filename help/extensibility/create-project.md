@@ -31,6 +31,6 @@ Sie müssen Zugriff auf App Builder und die [Adobe Developer Console](https://de
 
 1. Wählen Sie _App Builder_ in den Vorlagenoptionen aus.
 
-Wenn die Option **[!UICONTROL Projekt aus Vorlage erstellen]** nicht angezeigt wird, vergewissern Sie sich, dass Sie die richtige IMS-Organisation ausgewählt haben. Bestätigen Sie, dass Sie den Prozess in [So erhalten Sie Zugriff auf App Builder&quot; ](https://developer.adobe.com/app-builder/docs/overview/getting_access/) haben. Wenn Ihre IMS-Organisation korrekt ist, ist App Builder nicht aktiviert. Bitte kontaktieren Sie Adobe wie in [So erhalten Sie Zugriff auf App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/) beschrieben.
+Wenn die Option **[!UICONTROL Projekt aus Vorlage erstellen]** nicht angezeigt wird, vergewissern Sie sich, dass Sie die richtige IMS-Organisation ausgewählt haben. Bestätigen Sie, dass Sie den Prozess in [So erhalten Sie Zugriff auf App Builder&quot; &#x200B;](https://developer.adobe.com/app-builder/docs/overview/getting_access/) haben. Wenn Ihre IMS-Organisation korrekt ist, ist App Builder nicht aktiviert. Bitte kontaktieren Sie Adobe wie in [So erhalten Sie Zugriff auf App Builder](https://developer.adobe.com/app-builder/docs/overview/getting_access/) beschrieben.
 
-Jetzt können Sie &quot;[ App entwickeln](create-app.md).
+Jetzt können Sie &quot;[&#x200B; App entwickeln](create-app.md).

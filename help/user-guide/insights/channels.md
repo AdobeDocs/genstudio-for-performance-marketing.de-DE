@@ -21,7 +21,7 @@ Die _[!UICONTROL Kanäle]_-Tabelle ist mithilfe der kanalbasierten Anzeigenkampa
 
 ![Kanalfilter und -tabelle](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
-Wenn Sie eine Kampagne auswählen, wird die Registerkarte [[!UICONTROL Anzeigen] ](ads.md) mit einer Liste von Anzeigenamen geöffnet, die mit dieser Kampagne verknüpft sind. Auf diese Weise können Sie ermitteln, welche Anzeigen zum Gesamterfolg beigetragen haben.
+Wenn Sie eine Kampagne auswählen, wird die Registerkarte [[!UICONTROL Anzeigen] &#x200B;](ads.md) mit einer Liste von Anzeigenamen geöffnet, die mit dieser Kampagne verknüpft sind. Auf diese Weise können Sie ermitteln, welche Anzeigen zum Gesamterfolg beigetragen haben.
 
 {{filter-table}}
 
