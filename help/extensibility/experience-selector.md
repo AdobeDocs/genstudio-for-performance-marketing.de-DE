@@ -107,7 +107,7 @@ Das `susiConfig` kann Folgendes umfassen:
 
 Dieses Repository enthält Arbeitsbeispiele für verschiedene Frameworks:
 
-- [Eine vollständige React-App, die die Integration mit dem Vite-Build-System ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [Eine vollständige React-App, die die Integration mit dem Vite-Build-System &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
 - [Eine Vue 3 -Anwendung mit Kompositions-API-Integration](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
