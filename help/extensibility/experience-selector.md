@@ -2,7 +2,7 @@
 title: GenStudio Experience Selector-MFE
 description: Erfahren Sie, wie Sie den Experience Selector Micro FrontEnd für Ihre GenStudio-Programme und -Add-ons implementieren.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: d9d6d3825cd953245049de119c66f54274f20fd9
+source-git-commit: e30e43bd8d226628b425c341d19195f7f860e560
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 6%
@@ -107,7 +107,7 @@ Das `susiConfig` kann Folgendes umfassen:
 
 Dieses Repository enthält Arbeitsbeispiele für verschiedene Frameworks:
 
-- [Eine **vollständige React-Anwendung** die die Integration mit dem Vite-Build-System &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [Eine **vollständige React-Anwendung** die die Integration mit dem Vite-Build-System ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
 - [Eine **Vue 3-Anwendung** mit Kompositions-API-Integration](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
