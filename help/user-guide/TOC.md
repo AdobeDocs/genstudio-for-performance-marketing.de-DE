@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 69915cf03785c3a916bab75cbc34d0126749cddc
+source-git-commit: 48dae1e6ce14a7dc1f2cc5fbad60eefebe99bf4e
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 20%
+source-wordcount: '242'
+ht-degree: 21%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 20%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] &#x200B;](create/overview.md)
+   + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -46,7 +46,7 @@ ht-degree: 20%
    + [Banner-Erlebnisse](create/banner-experiences.md)
    + [Varianten verwalten](create/manage-variants.md)
    + [E-Mail-Erlebnis erstellen](create/create-email-experience.md)
-   + [Erstellen eines Meta-Anzeigen-Erlebnisses](create/create-meta-ad.md)
+   + [Erstellen eines Meta Ad-Erlebnisses](create/create-meta-ad.md)
    + [Erstellen eines LinkedIn-Erlebnisses](create/create-linkedin.md)
    + [Erstellen eines Anzeigen-Erlebnisses](create/create-display-ad.md)
    + [Erstellen eines Bannererlebnisses](create/create-banner-experience.md)
@@ -63,6 +63,7 @@ ht-degree: 20%
    + [Verwalten von Assets und Erlebnissen](content/manage-assets.md)
    + [Verbinden eines AEM-Repositorys](content/connect-aem-repo.md)
    + [Asset-Details](content/asset-details.md)
+   + [Content Credentials](content/content-credentials.md)
 + Vorlagen {#templates}
    + [Arbeiten mit Vorlagen](content/use-templates.md)
    + [Starter-Vorlagen](templates/starter-templates.md)
@@ -74,7 +75,7 @@ ht-degree: 20%
       + [Anleitung zur Anzeige von Anzeigen](templates/display-template.md)
       + [E-Mail-Handbuch](templates/email-template.md)
       + [LinkedIn-Werbeanzeigen-Handbuch](templates/linkedin-template.md)
-      + [Meta-Werbeanzeigen-Handbuch](templates/meta-template.md)
+      + [Handbuch zu Meta Ads](templates/meta-template.md)
 + Kampagnen {#campaigns}
    + [Kampagnen - Übersicht](campaigns/overview.md)
    + [Erstellen von Kampagnen](campaigns/create-campaign.md)
