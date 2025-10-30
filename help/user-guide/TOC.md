@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 48dae1e6ce14a7dc1f2cc5fbad60eefebe99bf4e
+source-git-commit: 826e5e2f5e78805c43872e828b5ac3eafb5a5ffa
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 21%
+source-wordcount: '244'
+ht-degree: 20%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 21%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] &#x200B;](create/overview.md)
+   + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -89,6 +89,8 @@ ht-degree: 21%
       + [Google Campaign Manager 360](activation/activate-cm360-ad.md)
       + [LinkedIn](activation/activate-linkedin-ad.md)
       + [Meta](activation/activate-meta-ad.md)
+      + [Amazon](activation/activate-amazon-ad.md)
+      + [Innovid](activation/activate-innovid-ad.md)
 + Einblicke {#insights}
    + [Insights-Überblick](insights/overview.md)
    + [Insights-Filter](insights/filter-views.md)
