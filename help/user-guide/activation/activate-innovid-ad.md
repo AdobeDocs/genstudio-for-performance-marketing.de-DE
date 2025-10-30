@@ -42,7 +42,7 @@ Auswählen von Erlebnissen:
 
 1. Wählen Sie ein Konto aus dem Dropdown **[!UICONTROL Menü]** Konto“ aus. 
 1. Wählen Sie eine Creative-Bibliothek aus der Dropdownliste **[!UICONTROL Creative]** Bibliothek aus. Die Einstellungen Ihres Innovid-Kontos bestimmen, welche Creative-Bibliotheken verfügbar sind. Ihre Kreativität wird nach Abschluss der Aktivierung dieser Creative-Bibliothek in Innovid bereitgestellt.
-1. Fügen Sie dem Feld **[!UICONTROL Creative-Name}]** Namen hinzu. Innovid identifiziert das Erlebnis mit diesem Namen.
+1. Fügen Sie dem Feld **[!UICONTROL Creative-Name&rbrace;]** Namen hinzu. Innovid identifiziert das Erlebnis mit diesem Namen.
 1. Wiederholen Sie diesen Vorgang für jedes ausgewählte Erlebnis.
 1. Klicken Sie **[!UICONTROL Weiter]**, um Ihre Innovid-Einrichtung zu bestätigen.
 
