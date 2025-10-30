@@ -5,7 +5,7 @@ level: Beginner
 feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
+source-git-commit: 4bef680734ee3369c13b10088fd39f22995a5f0f
 workflow-type: tm+mt
 source-wordcount: '1123'
 ht-degree: 10%
@@ -26,9 +26,9 @@ Diese Benutzerrollentitel mögen ähnlich aussehen, sie identifizieren jedoch ei
 
 **Adobe-Systemadministratoren** verfügen über Hauptbenutzerberechtigungen in der Adobe Admin Console und führen alle Benutzerverwaltungsaufgaben aus, z. B. das Hinzufügen oder Löschen von Benutzern. Diese Systemadministratorrolle gewährt keine Berechtigungen in der GenStudio for Performance Marketing-Anwendung, was erklärt, warum Adobe-Systemadministratoren keine Lizenz für GenStudio benötigen. Adobe-Systemadministratoren verwenden in der Regel die Admin Console, um Benutzerkonten aus GenStudio-Bereitstellungen hinzuzufügen und zu löschen und Berechtigungen oder Berechtigungen von einzelnen Benutzenden oder Benutzergruppen zuzuweisen oder zu entfernen.
 
-**GenStudio-Systemmanager** sind Hauptbenutzer in GenStudio for Performance Marketing, haben jedoch keine Berechtigung zum Ausführen von Aufgaben in Adobe Admin Console. Diese System Manager-Rolle erfordert eine GenStudio-Produktlizenz und entspricht einem Power User in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-Systemmanager verfügen über alle Berechtigungen für GenStudio for Performance Marketing-Funktionen, einschließlich [!DNL Brands], [!DNL Persona] und [!DNL Product] Erstellung, Löschen, Aktualisieren und Veröffentlichen. [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Erläutert, wie GenStudio-Benutzerrollen mit Produktlizenzen zusammenhängen.
+**GenStudio-Systemmanager** sind Hauptbenutzer in GenStudio for Performance Marketing, haben jedoch keine Berechtigung zum Ausführen von Aufgaben in Adobe Admin Console. Diese System Manager-Rolle erfordert eine GenStudio-Produktlizenz und entspricht einem Power User in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-Systemmanager verfügen über alle Berechtigungen für GenStudio for Performance Marketing-Funktionen, einschließlich [!DNL Brands], [!DNL Persona] und [!DNL Product] Erstellung, Löschen, Aktualisieren und Veröffentlichen. [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Erläutert, wie GenStudio-Benutzerrollen mit Produktlizenzen zusammenhängen.
 
-Siehe [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html#enterprise) im _Administrationshandbuch für Unternehmen und Teams_.
+Siehe [Administratorrollen](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise) im _Administrationshandbuch für Unternehmen und Teams_.
 
 ## Berechtigungen
 
@@ -46,7 +46,7 @@ Diese Vielfalt an organisatorischen Rollen wird durch drei Typen von GenStudio f
 
 * **GenStudio-Mitwirkende** sind die größte Auswahl an GenStudio for Performance Marketing-Benutzenden. Mitwirkende können Inhalte anzeigen und genehmigen und sind ein wesentlicher Teil des Workflows, der sicherstellt, dass die von Ihnen generierten Inhalte den Anforderungen und Standards Ihres Unternehmens entsprechen. GenStudio-Mitarbeiter sind _Mitarbeiter-Benutzer_ in GenStudio for Performance Marketing.
 
-* **GenStudio-** verfügen über die umfassendsten Berechtigungen innerhalb von GenStudio for Performance Marketing. Systemmanager führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) &#x200B;](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer. GenStudio-Systemmanager sind Power-User in GenStudio for Performance Marketing.
+* **GenStudio-** verfügen über die umfassendsten Berechtigungen innerhalb von GenStudio for Performance Marketing. Systemmanager führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) ](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer. GenStudio-Systemmanager sind Power-User in GenStudio for Performance Marketing.
 
 ### GenStudio-Editoren
 
@@ -81,7 +81,7 @@ In der folgenden Tabelle werden die standardmäßigen Collaborator-Berechtigunge
 | Funktion | Erstellen | Update | Löschen | Anzeigen |
 |-----------|----------------|----------------|----------------|----------------|
 | [!DNL Brands] | nein | nein | nein | ja |
-| [!DNL Campaigns] | nein | nein | nein | ja |
+| [!DNL Campaigns] | ja | ja | ja | ja |
 | [!DNL Content] | nein | nein | nein | ja |
 | [!DNL Create] | nein | nein | nein | ja |
 | [!DNL Insights] | nein | nein | nein | ja |
@@ -92,7 +92,7 @@ In der folgenden Tabelle werden die standardmäßigen Collaborator-Berechtigunge
 
 ### GenStudio-Systemmanager
 
-_GenStudio-_ verfügen über den leistungsfähigsten Berechtigungssatz in GenStudio for Performance Marketing. Diese erfahrenen Benutzer führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) &#x200B;](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer.
+_GenStudio-_ verfügen über den leistungsfähigsten Berechtigungssatz in GenStudio for Performance Marketing. Diese erfahrenen Benutzer führen die grundlegende Onboarding-Aufgabe aus, nämlich die Festlegung der grundlegenden Leitplanken für die Erstellung und Bereitstellung von Kampagnen-Assets. System-Manager setzen diese Schutzmechanismen um, indem sie marken- und organisationsspezifische Informationen wie z. B. [Markenrichtlinien) ](./guidelines/overview.md). System-Manager sind berechtigt, [!DNL Brands] zu erstellen und zu veröffentlichen, verfügen jedoch nicht über Administratorrechte für Benutzer.
 
 In der folgenden Tabelle werden die standardmäßigen System Manager-Berechtigungen angezeigt:
 
