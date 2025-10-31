@@ -3,7 +3,7 @@ title: Content Credentials für Unternehmen
 description: Erfahren Sie, wie Sie Content Credentials in GenStudio for Performance Marketing anwenden und überprüfen.
 level: Intermediate
 feature: Content Management, Content Attributes
-source-git-commit: 9023c86d45e6fdc8b6ddd0bdedd23eed05e87aae
+source-git-commit: 488bc7d7b7447ee6e807dd91f83766844c24abb9
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Erfahren Sie, wie manipulationssichere Anmeldeinformationen für Inhalte, die di
 
 >[!WARNING]
 >
-> Diese Funktion befindet sich derzeit in der Beta-Phase und steht nur Organisationen zur Verfügung, die Zugriff erhalten haben. Wenden Sie sich bei Interesse an Ihren Adobe-Kundenbetreuer oder ([&#x200B; Sie diesen Link, um eine Registrierung anzufordern](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
+> Diese Funktion befindet sich derzeit in der Beta-Phase und steht nur Organisationen zur Verfügung, die Zugriff erhalten haben. Wenden Sie sich bei Interesse an Ihren Adobe-Kundenbetreuer oder ([ Sie diesen Link, um eine Registrierung anzufordern](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
 
 
 ## Erste Schritte mit Content Credentials
@@ -33,7 +33,7 @@ Admins sind für das Hochladen eines gültigen X.509-Zertifikats in Admin Consol
 
 ## Was ist Content Credentials? 
 
-Content Credentials sind dauerhafte, dem Branchenstandard entsprechende Metadaten, die Details zur Inhaltserstellung und Identitätsinformationen zu den Erstellern enthalten. Content Credentials kann angezeigt werden, wenn die Inhalte online auf unterstützenden Plattformen veröffentlicht werden, oder mithilfe von Tools wie dem Inspektions-Tool von [Adobe &#x200B;](https://contentauthenticity.adobe.com/inspect) der Browser-Erweiterung [Adobe Content Authenticity Chrome](https://helpx.adobe.com/de/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
+Content Credentials sind dauerhafte, dem Branchenstandard entsprechende Metadaten, die Details zur Inhaltserstellung und Identitätsinformationen zu den Erstellern enthalten. Content Credentials kann angezeigt werden, wenn die Inhalte online auf unterstützenden Plattformen veröffentlicht werden, oder mithilfe von Tools wie dem Inspektions-Tool von [Adobe ](https://contentauthenticity.adobe.com/inspect) der Browser-Erweiterung [Adobe Content Authenticity Chrome](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
 
 Die Anwendung von Content Credentials kann dazu beitragen, die Transparenz hinsichtlich der Art und Weise, wie Inhalte erstellt wurden, zu erhöhen, und Ihren Benutzenden helfen, sich mit ihren Inhalten zu verbinden.
 
@@ -61,7 +61,7 @@ Wenn Sie signierten Inhalt auswählen, werden die detaillierten Metadaten angeze
 
 Inhalte können nach Berechtigungsstatus gefiltert werden.
 
-![Berechtigungsdaten für ein Asset](./images/import-discovery2.png)
+![Berechtigungsdaten für ein Asset](./images/import-discovery2.jpg)
 
 ### Erstellung und Auswahl
 
