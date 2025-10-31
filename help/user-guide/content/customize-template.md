@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 2c5a16f0767958d09cfe5bbaa7a5538ca1b4fe75
+source-git-commit: 730e8f89f466ab457670cefe98833f5f4732636c
 workflow-type: tm+mt
 source-wordcount: '1613'
 ht-degree: 0%
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 Sie können eine Vorlage für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die die generative KI zum Einfügen von Inhalten verwendet.
 
-In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_&#x200B;anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
+In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
 
 Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing hochladen](use-templates.md#upload-a-template) und mit der Erstellung personalisierter E-Mails beginnen, die auf Ihrer benutzerdefinierten Vorlage basieren.
 
 >[!TIP]
 >
->Befolgen Sie [Richtlinien für &#x200B;](accessibility-for-templates.md) Barrierefreiheit[&#x200B; und „Best &#x200B;](/help/user-guide/content/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
+>Befolgen Sie [Richtlinien für ](accessibility-for-templates.md) Barrierefreiheit[ und „Best ](/help/user-guide/content/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
 
 ## Platzhalter für Inhalte
 
@@ -43,12 +43,12 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 | Feld | Rolle | Kanalvorlage |
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}` | Preheader | E-Mail |
-| `{{headline}}` | Überschrift | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
+| `{{headline}}` | Überschrift | E-Mail <br>Meta-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{sub_headline}}` | Unterüberschrift | email<br>banner und Display-Anzeige |
 | `{{introductory_text}}` | Einführungstext | LinkedIn-Anzeige |
-| `{{body}}` | Textkörper | E<br>Mail-Anzeige <br>Banner und Display-Anzeige |
-| `{{cta}}` | Aktionsaufruf<br> Siehe [Aktionsaufrufe](#calls-to-action) | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
-| `{{image}}` | Bild (Image) - Auswahl aus [!DNL Content] | E<br>Mail-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
+| `{{body}}` | Textkörper | E-Mail-<br>Meta-Anzeige <br>Banner und Display-Anzeige |
+| `{{cta}}` | Call to action<br>Siehe [Aktionsaufrufe](#calls-to-action) | E-Mail <br>Meta-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
+| `{{image}}` | Bild (Image) - Auswahl aus [!DNL Content] | E-Mail <br>Meta-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{on_image_text}}` | Bei Bildtext<br> Siehe [Bei Bildtext](#on-image-text). | Meta-Anzeige <br>LinkedIn-Anzeige |
 | `{{link}}` | Call to action on image<br>Siehe [Link on image](#link-on-image). | E-Mail |
 
@@ -57,7 +57,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 GenStudio for Performance Marketing generiert in den folgenden Vorlagen automatisch bestimmte Felder:
 
 - **E-Mail** Vorlage: Erfordert nicht, dass das `subject` Feld identifiziert wird
-- **Meta-Anzeigenvorlage** erfordert nicht, dass Sie die Felder `headline`, `body` und `CTA` identifizieren
+- **Meta-Anzeigenvorlage** erfordert nicht, dass Sie die `headline`-, `body`- und `CTA` identifizieren
 - **Banner- und Display-Anzeigenvorlage** erfordert keine Identifizierung des `CTA` Felds
 - **LinkedIn-Anzeigenvorlage** erfordert nicht, dass Sie die Felder `headline`, `introductory_text` und `CTA` identifizieren
 
@@ -73,7 +73,7 @@ Beim Hochladen einer Vorlage in GenStudio for Performance Marketing gibt es eine
 
 ### Handlungsaufforderungen
 
-Ein Aktionsaufruf (CTA) enthält einen Satz und einen Link. Damit die Funktionen _[!UICONTROL Umformulieren]_ und _[!UICONTROL Link hinzufügen]_ während des Variantengenerierungsprozesses ordnungsgemäß funktionieren, müssen Sie Platzhalter für den Link und den Satz in Ihrer Vorlage einfügen.
+Eine Call to action (CTA) enthält einen Satz und einen Link. Damit die Funktionen _[!UICONTROL Umformulieren]_ und _[!UICONTROL Link hinzufügen]_ während des Variantengenerierungsprozesses ordnungsgemäß funktionieren, müssen Sie Platzhalter für den Link und den Satz in Ihrer Vorlage einfügen.
 
 Verwenden Sie die folgende Anleitung zum Einrichten von CTA-Platzhaltern:
 
@@ -95,7 +95,7 @@ Verwenden Sie die folgende Anleitung zum Einrichten von CTA-Platzhaltern:
   <a class="button" href="{{pod1_link}}" >Register now</a>
   ```
 
-GenStudio for Performance Marketing kann auch Ausdrücke mit varianten Aktionsaufrufen bereitstellen. Siehe [Revidieren einer Handlungsaufforderung](/help/user-guide/create/manage-variants.md#revise-call-to-action).
+GenStudio for Performance Marketing kann auch Ausdrücke mit varianten Aktionsaufrufen bereitstellen. Siehe [Call to action überarbeiten](/help/user-guide/create/manage-variants.md#revise-call-to-action).
 
 ### Verknüpfung auf Bild
 
@@ -229,7 +229,7 @@ Jeder Abschnitt kann nur einen der Feldtypen verwenden. Beispielsweise gehören 
 
 Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
 
-Jeder Vorlagentyp, z. B. E-Mail- oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](/help/user-guide/content/best-practices-for-templates.md) im Thema _Best Practices für die Verwendung von Vorlagen_.
+Jeder Vorlagentyp, z. B. E-Mail oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](/help/user-guide/content/best-practices-for-templates.md) im Thema _Best Practices für die Verwendung von Vorlagen_.
 
 Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher können Sie drei Überschriften- und Hauptteilabschnitte haben:
 
@@ -247,7 +247,7 @@ GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_
 
 ## Vorlagenvorschau
 
-Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template) durchsucht GenStudio for Performance Marketing die HTML-Datei nach erkannten Feldern. Verwenden Sie die Vorschau, um Ihre [Vorlagenelemente](use-templates.md#template-elements) zu überprüfen und sicherzustellen, dass Sie sie ordnungsgemäß mit den [erkannten Feldnamen“ &#x200B;](#recognized-field-names).
+Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template) durchsucht GenStudio for Performance Marketing die HTML-Datei nach erkannten Feldern. Verwenden Sie die Vorschau, um Ihre [Vorlagenelemente](use-templates.md#template-elements) zu überprüfen und sicherzustellen, dass Sie sie ordnungsgemäß mit den [erkannten Feldnamen“ ](#recognized-field-names).
 
 Beispielvorschau für eine E-Mail-Vorlage:
 
@@ -259,7 +259,7 @@ Siehe [Vorlagen-Code-Editor](/help/user-guide/content/code-editor.md).
 
 Sie können die Sichtbarkeit spezieller Inhalte mithilfe integrierter Helper (spezielle Ausdrücke in der [!DNL Handlebars]-Vorlagensprache, die bestimmte Aktionen ausführen) steuern. Sie können beispielsweise eine bedingte Anweisung hinzufügen, die Tracking-Parameter zu Links in der exportierten Vorlage hinzufügt, während die Vorschau-Links sauber bleiben.
 
-Der `_genStudio.browser` wird beim Rendern einer Vorlage festgelegt und der `genStudio.export` wird beim Exportieren einer Vorlage festgelegt. Sie können sich dafür entscheiden, bestimmte Inhalte am Anfang einer E-Mail mit einem bedingten Wrapper einzuschließen, z. B. wenn die Vorlage für den Export verwendet wird:
+Der `_genStudio.canvas` wird beim Rendern einer Vorlage festgelegt und der `genStudio.export` wird beim Exportieren einer Vorlage festgelegt. Sie können sich dafür entscheiden, bestimmte Inhalte am Anfang einer E-Mail mit einem bedingten Wrapper einzuschließen, z. B. wenn die Vorlage für den Export verwendet wird:
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -270,7 +270,7 @@ Der `_genStudio.browser` wird beim Rendern einer Vorlage festgelegt und der `gen
 Ein weiteres Beispiel könnte sein, die Verwendung von Trackingcodes bei der Vorschau einer Vorlage in GenStudio for Performance Marketing zu verhindern. Das folgende Beispiel zeigt, wie Sie Tracking-Parameter zu Links in der exportierten Vorlage hinzufügen und dabei die Vorschau-Links sauber halten:
 
 ```html
-<a class="button" {{#if _genStudio.browser }}
+<a class="button" {{#if _genStudio.canvas }}
    href="{{link}}"{{/if}}{{#if _genStudio.export }}
    href="{{link}}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
    target="_blank">{{cta}}</a>
