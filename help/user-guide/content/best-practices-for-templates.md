@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 3fe6e235b774cf5a99627d981230f96d5e51ac02
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,45 @@ Die Definition klarer Kanal-Richtlinien ist wichtig, um sicherzustellen, dass Ih
 ![Technische Daten des Textkörpers](/help/assets/channel-email-body.png)
 
 Erfahren Sie, wie [Richtlinien für Marken, Produkte und Personas](/help/user-guide/guidelines/overview.md) generierte Inhalte beeinflussen und wie Sie sie an Ihre Marketing-Ziele anpassen können.
+
+## Hochladen von Bildern für Vorlagen
+
+Bilder, die in Vorlagen verwendet werden, sollten aus dem Inhalts-Repository stammen und müssen korrekt hochgeladen werden, um sicherzustellen, dass das Bild korrekt angezeigt wird.
+
+Wenn eine Vorlage ein Bild mit vollständigem Anschnitt aufweist, wird die Größe des ausgewählten Bildes automatisch an die vollständigen Vorlagenabmessungen angepasst. Wenn das Bild jedoch nicht dem Seitenverhältnis der Vorlage entspricht, wird das Bild entsprechend den Vorlagenabmessungen zugeschnitten und möglicherweise nicht wie erwartet angezeigt.
+
+Es gibt keine „AutoFit“-Funktion für Bilder in Vorlagen.
+
+Um das Zuschneiden von Bildern aufzulösen, müssen Benutzende das Seitenverhältnis des Bildes definieren, das in der Vorlage verwendet werden soll, wenn sie in das Inhalts-Repository hochgeladen wird. Beim Hochladen einer genehmigten Vorlage:
+
+1. [Durchlaufen Sie den Upload-Prozess der Vorlage](/help/user-guide/content/use-templates.md#add-a-template) bis Sie die Seite **[!UICONTROL Details hinzufügen]** erreichen.
+
+2. Definieren Sie das Seitenverhältnis des in der Vorlage zu verwendenden Bildes in **[!UICONTROL Anzeigenbreite (px)]** und **[!UICONTROL Anzeigenhöhe (px)]**. Dadurch wird das Bildfenster für den Bereich der Vorlage definiert, in dem das Bild angezeigt wird.
+
+3. Wählen Sie im Abschnitt **[!UICONTROL Weitere]**) das Dropdown-Menü **[!UICONTROL Bildgröße]** und wählen Sie _Auf eine feste Größe zuschneiden_.
+   ![Auf eine feste Größe zugeschnitten](./images/crop-to-fixed-size.png "Auf eine feste Größe zugeschnitten"){width="80%"}
+
+So bestimmen Sie die Größe und das Seitenverhältnis eines Bildes im Browser:
+
+1. Überprüfen Sie das Bild.
+   - Windows/Linux:
+      - Drücken Sie F12.
+   - macOS:
+      - Drücken Sie Befehlstaste + Wahltaste + I.
+
+1. Bewegen Sie den Mauszeiger über das Bild.
+
+1. Beachten Sie das Seitenverhältnis. Verwenden Sie diese Option, um das Seitenverhältnis des Bildes in der Vorlage zu definieren.
+
+Wenn diese Details beim Hochladen nicht angewendet werden, wird davon ausgegangen, dass das Bild das gesamte Seitenverhältnis der Vorlage ist, und Bilder, die nicht genau diesem Seitenverhältnis entsprechen, werden abgeschnitten angezeigt.
+
+![Bild in einer Anzeige zugeschnitten](./images/cropped-display.png "Bildzuschnitt"){width="60%"}
+
+**❌Zugeschnittenes Bild in einer Anzeige-Vorlage**
+
+![Bild, das in einer Anzeige angezeigt wird](./images/full-fit.png "Bild, das in der Anzeige angezeigt wird"){width="60%"}
+
+**✅Bild vollständig angezeigt**
 
 ## Befolgen der Richtlinien für kanalspezifische Vorlagen
 
