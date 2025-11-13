@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Personas]
 description: GenStudio for Performance Marketing  [!DNL Personas]  eine wahre Darstellung Ihrer Kundensegmente, in der deren Interessen, Probleme, Vorlieben und Verhaltenseigenschaften erfasst werden.
 feature: Persona Personalization, Variant Generation, Generative AI
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 [!DNL Personas] bieten eine authentische Darstellung Ihrer Kundensegmente, einschließlich Informationen, Interessen, Problembereichen, Voreinstellungen und Verhaltenseigenschaften.
 
-GenStudio for Performance Marketing nutzt die Leistungsfähigkeit von Richtlinien - [[!DNL Brands],  [!DNL Products] und  [!DNL Personas]](overview.md) - und die generative KI-Technologie von Adobe, um personalisierte Marketing-Inhalte für Ihre Zielkunden zu kuratieren&#x200B;
+GenStudio for Performance Marketing nutzt [die Leistungsfähigkeit von Richtlinien](overview.md) und die generative KI-Technologie von Adobe, um personalisierte Marketing-Inhalte für Ihre Zielkunden zu kuratieren&#x200B;
 
 **So zeigen Sie eine Rolle an oder ändern sie**:
 
 1. Klicken Sie im linken Navigationsbereich auf &quot;**[!UICONTROL &quot;]**.
-1. Um [einzelne Details anzuzeigen oder eine Rolle zu ändern](add-guidelines.md#manage-personas) klicken Sie auf das Menü _[!DNL Personas]_&#x200B;Aktion und wählen Sie **Öffnen**&#x200B;aus.
+1. Um [einzelne Details anzuzeigen oder eine Rolle zu ändern](add-guidelines.md#manage-personas) klicken Sie auf das Menü _[!DNL Personas]_Aktion und wählen Sie **Öffnen**aus.
 1. Sie können die Richtlinien für Personas überarbeiten, indem Sie in das Textfeld für eine Richtlinienkategorie klicken.
 
 Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Rolle in GenStudio for Performance Marketing hinzufügen oder ändern.

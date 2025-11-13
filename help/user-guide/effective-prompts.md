@@ -5,7 +5,7 @@ role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
+source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 2%
@@ -47,7 +47,7 @@ Bei [E](/help/user-guide/create/email-experiences.md)Mails) können die Eingabea
 
 >[!NOTE]
 >
->Wenn Richtlinien in _Parameter_ in der Eingabeaufforderungsschublade hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis darauf einfügen. GenStudio for Performance Marketing nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
+>Wenn Richtlinien in _Parameter_ in der Eingabeaufforderungsschublade hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis darauf einfügen. GenStudio for Performance Marketing nutzt diese automatisch bei der Inhaltserstellung.
 
 ### Richtlinien
 

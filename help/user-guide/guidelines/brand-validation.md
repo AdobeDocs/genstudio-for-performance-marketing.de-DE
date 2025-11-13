@@ -3,7 +3,7 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 436e2d7c02cef91eee7f4180f049b71b42ec76d5
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 0%
@@ -18,8 +18,9 @@ GenStudio for Performance Marketing führt Markenvalidierungen und andere Inhalt
 
 * Definierte oder standardmäßige [!DNL Brand]
 * Platform-Richtlinien
-<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 * Standards des American with Disabilities Act (ADA)
+<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
+
 
 ## Zusammenfassung der Inhaltsprüfung
 
@@ -63,7 +64,7 @@ Um **Inhaltstyp festzulegen** für die Prüfungen, die Sie durchführen möchten
 
 ## Verbesserung der Markenausrichtung
 
-Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung &#x200B;](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
+Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung ](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
 
 **So verbessern Sie die Markenausrichtung für generierte Varianten**:
 
