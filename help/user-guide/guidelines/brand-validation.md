@@ -64,7 +64,7 @@ Um **Inhaltstyp festzulegen** für die Prüfungen, die Sie durchführen möchten
 
 ## Verbesserung der Markenausrichtung
 
-Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung ](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
+Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung &#x200B;](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
 
 **So verbessern Sie die Markenausrichtung für generierte Varianten**:
 
