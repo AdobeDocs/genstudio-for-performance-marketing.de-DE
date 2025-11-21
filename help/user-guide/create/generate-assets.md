@@ -105,9 +105,9 @@ Nachdem Sie Bildvarianten generiert haben, können Sie sie mit Adobe Express dir
 
    Ein _Powered by Adobe Express_-Fenster wird angezeigt.
 
-1. Führen Sie eine Bildbearbeitung durch, z[&#x200B; B. &#x200B;](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html)Zuschneiden eines Bildes[&#x200B; „Entfernen eines &#x200B;](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html)&quot; und Anwenden von Effekten.
+1. Führen Sie eine Bildbearbeitung durch, z[&#x200B; B. &#x200B;](https://helpx.adobe.com/de/express/create-and-edit-images/edit-images/crop-images.html)Zuschneiden eines Bildes[&#x200B; „Entfernen eines &#x200B;](https://helpx.adobe.com/de/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html)&quot; und Anwenden von Effekten.
 
-   Siehe [Dokumentation zu Adobe Express](https://helpx.adobe.com/express/user-guide.html) um zu erfahren, wie Sie Bilder in GenStudio for Performance Marketing mit Adobe Express überarbeiten können.
+   Siehe [Dokumentation zu Adobe Express](https://helpx.adobe.com/de/express/user-guide.html) um zu erfahren, wie Sie Bilder in GenStudio for Performance Marketing mit Adobe Express überarbeiten können.
 
 1. Klicken Sie _[!UICONTROL Änderungen übernehmen]_ um Ihre Änderungen zu speichern.
 1. Fahren Sie mit der Bearbeitung einzelner Bildvarianten nach Bedarf fort und wenden Sie Änderungen an, um Ihren Fortschritt zu speichern.
