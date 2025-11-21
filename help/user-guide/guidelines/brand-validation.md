@@ -3,9 +3,9 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 436e2d7c02cef91eee7f4180f049b71b42ec76d5
+source-git-commit: e2acf90ef5fef6af03a756882caf53ab125055c4
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ GenStudio for Performance Marketing führt Markenvalidierungen und andere Inhalt
 
 * Definierte oder standardmäßige [!DNL Brand]
 * Platform-Richtlinien
-* Standards des American with Disabilities Act (ADA)
+* [Standards des American with Disabilities Act (ADA)](/help/user-guide/guidelines/brand-validation.md#american-with-disabilities-act-ada-validation)
 <!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 
 
@@ -64,7 +64,7 @@ Um **Inhaltstyp festzulegen** für die Prüfungen, die Sie durchführen möchten
 
 ## Verbesserung der Markenausrichtung
 
-Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung &#x200B;](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
+Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung ](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
 
 **So verbessern Sie die Markenausrichtung für generierte Varianten**:
 
@@ -81,8 +81,19 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 
    Verwenden Sie die für jede Prüfung angegebenen Begründungen, um Sie bei der Überarbeitung von Bildern und Varianten zu unterstützen.
 
-1. Nachdem Sie die erforderlichen Änderungen vorgenommen haben, klicken Sie auf **[!UICONTROL Punktzahl erneut überprüfen]**, um Ihre Änderungen erneut zu überprüfen und zu validieren, sodass sie mehr an Ihre Markenidentität, Ihre Plattformrichtlinien und Ihre Barrierefreiheitsstandards angepasst sind.
+1. Nachdem Sie die erforderlichen Überarbeitungen vorgenommen haben, klicken Sie auf **[!UICONTROL Punktzahl erneut überprüfen]**, um Ihre Änderungen erneut zu überprüfen und zu validieren, um sicherzustellen, dass sie mit Ihrer Markenidentität, den Plattformrichtlinien und den Barrierefreiheitsstandards übereinstimmen.
 
    Der Inhaltsprüfungsprozess wird erneut ausgeführt. Wenn die überarbeiteten Elemente die Validierung bestehen, wird unten auf der Arbeitsfläche ein grünes Banner angezeigt, um zu bestätigen, dass die Bewertung aktualisiert wurde. Wenn es nach einer erneuten Prüfung keine Änderung gab, bestätigt das Banner, dass es keine Änderung am Score gab. Der Prozentsatz im Symbol _Inhaltsprüfung_ Zusammenfassung für die überarbeitete Variante zeigt auch Ihren Fortschritt an.
 
 1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um sicherzustellen, dass die gesamte Variante die Validierungs- und Barrierefreiheitsprüfungen besteht. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche.
+
+## Validierung des American with Disabilities Act (ADA)
+
+Diese Barrierefreiheitsprüfungen sind für die Einhaltung des American With Disabilities Act (ADA) enthalten:
+
+[WCAG 1.1.1 Nichttextlicher Inhalt](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) - Stellt sicher, dass Bilder ein `<alt>` Attribut bereitstellen.
+[WCAG 1.4.3 Kontrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - Stellt sicher, dass der generierte Text einen Kontrast von 4,5 % :1 Hintergrund hat.
+[WCAG 3.1.3 Ungewöhnliche Wörter](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html) - Identifiziert Wörter oder Ausdrücke, die auf ungewöhnliche oder eingeschränkte Weise verwendet werden, einschließlich Idiome und Jargon.
+[WCAG 3.1.4 Abkürzungen](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html) - Ein Mechanismus zur Identifizierung der erweiterten Form oder Bedeutung von Abkürzungen.
+[WCAG 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) - Stellt sicher, dass die Inhalte auf einer niedrigeren Sekundarstufe lesbar sind.
+
