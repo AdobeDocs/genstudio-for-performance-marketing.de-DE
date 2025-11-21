@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung erfolgreicher Display-Anzeigenerlebnisse](/help/user-guide/create/create-display-ad.md) zu optimieren.
 
-[!DNL Create] ermöglicht es modernen Marketing[Experten, markenkonsistente Anzeige-](/help/user-guide/create/create-display-ad.md) mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und einer [gut formulierten Eingabeaufforderung zu &#x200B;](/help/user-guide/effective-prompts.md).
+[!DNL Create] ermöglicht es modernen Marketing[Experten, markenkonsistente Anzeige-](/help/user-guide/create/create-display-ad.md) mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und einer [gut formulierten Eingabeaufforderung zu ](/help/user-guide/effective-prompts.md).
 
 Beim Generieren von Anzeige-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
-Informationen [&#x200B; unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter &#x200B;](/help/user-guide/templates/display-template.md) für Anzeigenvorlagen .
+Informationen [ unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter ](/help/user-guide/templates/display-template.md) für Anzeigenvorlagen .
 
 Zu den bearbeitbaren Abschnitten eines Displays und Erlebnisses gehören:
 
@@ -30,7 +30,7 @@ Zu den bearbeitbaren Abschnitten eines Displays und Erlebnisses gehören:
 * Call to action (CTA)
 * Bild
 
-Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).
+Siehe [Vorlagenelemente](/help/user-guide/templates/use-templates.md#template-elements).
 
 <!-- ## Character counts
 

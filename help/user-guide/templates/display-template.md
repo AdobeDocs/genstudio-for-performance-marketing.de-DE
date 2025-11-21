@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
-source-git-commit: 85cc8ee51bd6b934811583dc0a8460d6d7083a70
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 - Vorbereiten von Assets, die in schlanken Dimensionen gut angezeigt werden
 - Es ist genau ein Bildfeld erforderlich
 - Verwenden **nicht** eingebettete oder kodierte Hintergrundbilder
-- Verwenden Sie Hintergrundbilder (`image` Feld), die in das GenStudio for Performance Marketing-Inhalts-Repository hochgeladen wurden. Die besten Ergebnisse erzielen Sie, wenn Sie die Richtlinien unter [Hochladen von Bildern &#x200B;](#uploading-images-for-display-ads) Display-Anzeigen“ befolgen
+- Verwenden Sie Hintergrundbilder (`image` Feld), die in das GenStudio for Performance Marketing-Inhalts-Repository hochgeladen wurden. Die besten Ergebnisse erzielen Sie, wenn Sie die Richtlinien unter [Hochladen von Bildern ](#uploading-images-for-display-ads) Display-Anzeigen“ befolgen
 - Verwenden **nicht** JavaScript
 - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird
 
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 
 - `cta`
 
-Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## Unterstützte Dimensionen
 

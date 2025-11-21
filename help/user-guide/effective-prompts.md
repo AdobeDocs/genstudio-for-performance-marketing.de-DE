@@ -5,7 +5,7 @@ role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 2%
@@ -59,7 +59,7 @@ Die GenStudio for Performance Marketing-Richtlinien helfen der generativen KI be
 
 ### Strukturierte Eingabeaufforderungen
 
-Bei E-Mails mit mehreren Abschnitten können Sie Eingabeaufforderungen strukturieren, um abschnittsspezifische Anweisungen bereitzustellen, mit denen für jeden Abschnitt in einer E-Mail variierender Inhalt generiert wird. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail](/help/user-guide/content/customize-template.md#sections-or-groups)Vorlage verweisen, damit der generierte Inhalt in die entsprechenden Platzhalter für Inhalte eingefügt werden kann.
+Bei E-Mails mit mehreren Abschnitten können Sie Eingabeaufforderungen strukturieren, um abschnittsspezifische Anweisungen bereitzustellen, mit denen für jeden Abschnitt in einer E-Mail variierender Inhalt generiert wird. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail](/help/user-guide/templates/customize-template.md#sections-or-groups)Vorlage verweisen, damit der generierte Inhalt in die entsprechenden Platzhalter für Inhalte eingefügt werden kann.
 
 Sie können beispielsweise GenStudio for Performance Marketing anweisen, Inhalte für eine E-Mail zu generieren, in der im ersten Abschnitt ein neues Produkt beworben wird und im zweiten Abschnitt die Kosteneinsparungen erläutert werden.
 
@@ -93,7 +93,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-Siehe [Best Practices für die Verwendung von Vorlagen](/help/user-guide/content/best-practices-for-templates.md).
+Siehe [Best Practices für die Verwendung von Vorlagen](/help/user-guide/templates/best-practices-for-templates.md).
 
 ## Erneut versuchen
 

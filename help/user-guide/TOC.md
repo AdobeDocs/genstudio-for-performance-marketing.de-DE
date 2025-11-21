@@ -5,7 +5,7 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 826e5e2f5e78805c43872e828b5ac3eafb5a5ffa
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 20%
@@ -38,7 +38,7 @@ ht-degree: 20%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] &#x200B;](create/overview.md)
+   + Überblick über [[!DNL Create] ](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -65,12 +65,12 @@ ht-degree: 20%
    + [Asset-Details](content/asset-details.md)
    + [Content Credentials](content/content-credentials.md)
 + Vorlagen {#templates}
-   + [Arbeiten mit Vorlagen](content/use-templates.md)
+   + [Arbeiten mit Vorlagen](templates/use-templates.md)
    + [Starter-Vorlagen](templates/starter-templates.md)
-   + [Anpassen einer Vorlage](content/customize-template.md)
-   + [Vorlagen-Code-Editor](content/code-editor.md)
-   + [Erstellen barrierefreier Vorlagen](content/accessibility-for-templates.md)
-   + [Best Practices für Vorlagen](content/best-practices-for-templates.md)
+   + [Anpassen einer Vorlage](templates/customize-template.md)
+   + [Vorlagen-Code-Editor](templates/code-editor.md)
+   + [Erstellen barrierefreier Vorlagen](templates/accessibility-for-templates.md)
+   + [Best Practices für Vorlagen](templates/best-practices-for-templates.md)
    + Best Practice für Kanäle {#channel-best-practice}
       + [Anleitung zur Anzeige von Anzeigen](templates/display-template.md)
       + [E-Mail-Handbuch](templates/email-template.md)

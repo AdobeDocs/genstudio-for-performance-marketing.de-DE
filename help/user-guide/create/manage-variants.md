@@ -3,7 +3,7 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -196,7 +196,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -204,7 +204,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 
 ## Links hinzufügen
 
-Sie können in Ihren Varianten einen Link zu Text, Bildern und CTA-Schaltflächen hinzufügen. Die Vorlage, die Sie zum Generieren von Varianten verwendet haben _muss_ einen [Inhalts-Platzhalter für den Link](/help/user-guide/content/customize-template.md#content-placeholders) enthalten, um diese Funktion zu aktivieren.
+Sie können in Ihren Varianten einen Link zu Text, Bildern und CTA-Schaltflächen hinzufügen. Die Vorlage, die Sie zum Generieren von Varianten verwendet haben _muss_ einen [Inhalts-Platzhalter für den Link](/help/user-guide/templates/customize-template.md#content-placeholders) enthalten, um diese Funktion zu aktivieren.
 
 **So fügen Sie einen Link in einer Variante hinzu**:
 
@@ -221,7 +221,7 @@ Sie können in Ihren Varianten einen Link zu Text, Bildern und CTA-Schaltfläche
 
 Wenn Sie während des Erstellungsprozesses Inhalte (Bilder) hinzufügen, können Sie Alt-Text für jedes Bild definieren. Das Hinzufügen von Alternativtext zu Bildern verbessert die Barrierefreiheit, die Suchmaschinenoptimierung und das Benutzererlebnis.
 
-Um die ALT-Text-Funktion zu aktivieren[&#x200B; fügen Sie in &#x200B;](/help/user-guide/content/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
+Um die ALT-Text-Funktion zu aktivieren[ fügen Sie in ](/help/user-guide/templates/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
 
 **So fügen Sie Bildern in generierten Varianten Alternativtext hinzu**:
 
@@ -247,7 +247,7 @@ Geben Sie einen barrierefreien Namen für Bild- und call-to-action-Links in Ihre
 1. Klicken Sie in das Textfeld und fügen Sie eine kurze Beschreibung hinzu, die erklärt, was der Link oder die Schaltfläche bewirkt. Sie können beispielsweise „Auf der offiziellen WKND-Website einkaufen“ für einen call to action-Button-Link verwenden.
 1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
-Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [&#x200B; Sie in der Vorlage &#x200B;](/help/user-guide/content/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
+Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [ Sie in der Vorlage ](/help/user-guide/templates/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
 
 ## Vorschau für Gerät
 

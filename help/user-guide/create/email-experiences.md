@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 * Call to action (CTA)
 * Bild
 
-Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).
+Siehe [Vorlagenelemente](/help/user-guide/templates/use-templates.md#template-elements).
 
 <!-- ## Email capabilities
 
@@ -39,7 +39,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 E-Mail-Erlebnisse können mehrere Abschnitte enthalten, sodass sie vollständig an Ihre Marke und Ihre Ziele angepasst werden können. [Auswählen [!DNL Products]  und visuelle Assets für jeden Abschnitt](/help/user-guide/create/create-email-experience.md#add-parameters) und verwenden Sie [strukturierte Aufforderungen](/help/user-guide/effective-prompts.md#structured-prompts), um eindeutige Inhalte zu erstellen. Jeder Abschnitt unterstützt ein visuelles Asset.
 
-Unter [Anpassen von Vorlagen mit Abschnitten](/help/user-guide/content/customize-template.md#sections-or-groups) erfahren Sie, wie Sie eine Vorlage mit mehreren Abschnitten erstellen.
+Unter [Anpassen von Vorlagen mit Abschnitten](/help/user-guide/templates/customize-template.md#sections-or-groups) erfahren Sie, wie Sie eine Vorlage mit mehreren Abschnitten erstellen.
 
 ## Progressives Laden
 
@@ -56,7 +56,7 @@ Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen wird schrittweise in diese
 1. Textkörper der E-Mail für nachfolgende Abschnitte (für E-Mails mit mehreren Abschnitten)
 1. Markenvalidierung
 
-   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

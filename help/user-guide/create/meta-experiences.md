@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu &#x200B;](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta Ad-Erlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta Ad-Erlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
 
-Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt. GenStudio for Performance Marketing unterstützt sowohl [standardmäßige als auch benutzerdefinierte Meta-Anzeigen](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt. GenStudio for Performance Marketing unterstützt sowohl [standardmäßige als auch benutzerdefinierte Meta-Anzeigen](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
@@ -30,7 +30,7 @@ Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 * Text auf dem Bild
 * Bild/Video
 
-Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elements).
+Siehe [Vorlagenelemente](/help/user-guide/templates/use-templates.md#template-elements).
 
 ## Meta Ads-Kanäle
 
@@ -52,7 +52,7 @@ Jedes Feld und jeder Abschnitt der Meta-Anzeigen-Erlebnisse wird schrittweise in
 1. Text auf dem Bild
 1. Markenvalidierung
 
-   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

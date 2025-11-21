@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 49d8d5daa2f3c93c18cd9132dab5207871b51237
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
@@ -40,11 +40,11 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `pre_header`
 - `subject`
 
-Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## E-Mail mit mehreren Abschnitten
 
-_Abschnitte_ ermöglichen es Ihnen, Inhalte in verschiedene Gruppen zu organisieren und komplexere Layouts zu unterstützen. In GenStudio for Performance Marketing können Sie jeden Abschnitt mithilfe einer Gruppennamenskonvention definieren. Siehe [Anpassen von Vorlagenbereichen](/help/user-guide/content/customize-template.md#sections-or-groups).
+_Abschnitte_ ermöglichen es Ihnen, Inhalte in verschiedene Gruppen zu organisieren und komplexere Layouts zu unterstützen. In GenStudio for Performance Marketing können Sie jeden Abschnitt mithilfe einer Gruppennamenskonvention definieren. Siehe [Anpassen von Vorlagenbereichen](/help/user-guide/templates/customize-template.md#sections-or-groups).
 
 Vorlagen mit mehreren Abschnitten können 0, 2 oder 3 Abschnitte enthalten:
 
