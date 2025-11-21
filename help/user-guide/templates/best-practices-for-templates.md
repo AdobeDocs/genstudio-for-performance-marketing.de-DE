@@ -25,11 +25,11 @@ Beachten Sie bei der Verwendung von Vorlagen mit GenStudio for Performance Marke
 
 >[!TIP]
 >
->Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Außerdem erhalten Sie detaillierte [ zum Anpassen einer Vorlage ](customize-template.md) spezifische Anweisungen zur Verwendung in Ihrer nächsten Kampagne.
+>Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Außerdem erhalten Sie detaillierte [&#x200B; zum Anpassen einer Vorlage &#x200B;](customize-template.md) spezifische Anweisungen zur Verwendung in Ihrer nächsten Kampagne.
 
 ## Verwenden der richtigen Vorlagenelemente
 
-Jeder Vorlagentyp verwendet verschiedene Elemente, um eine Struktur für die kanalspezifische Inhaltserstellung zu erstellen. [Machen Sie sich mit den Teilen einer Vorlage vertraut ](use-templates.md#template-elements) fügen Sie die besten Elemente für Ihren Inhalt und Vorlagentyp hinzu.
+Jeder Vorlagentyp verwendet verschiedene Elemente, um eine Struktur für die kanalspezifische Inhaltserstellung zu erstellen. [Machen Sie sich mit den Teilen einer Vorlage vertraut &#x200B;](use-templates.md#template-elements) fügen Sie die besten Elemente für Ihren Inhalt und Vorlagentyp hinzu.
 
 Verwenden Sie beim Anpassen Ihrer Vorlage die Feldnamen anstelle dieser Elemente, bei denen GenStudio for Performance Marketing Inhalte generieren muss.
 
