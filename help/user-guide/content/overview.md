@@ -18,111 +18,58 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speich
 ## [!DNL Content]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
-
 <tr style="border: 0;">
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/manage-assets.md#search">
-
          <img alt="Lupe" src="../../assets/icons/icon-search.png">
-
       </a>
-
       <p>
-
          <a href="../content/manage-assets.md#search-content">
-
          <strong>Inhalt suchen</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/manage-assets.md">
-
          <img alt="Bilder mit Pluszeichen" src="../../assets/icons/icon-addContent.png">
-
       </a>
-
       <p>
-
          <a href="../content/manage-assets.md">
-
          <strong>Assets hinzufügen</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/asset-details.md#edit-in-express">
-
          <img alt="In Adobe Express bearbeiten" src="../../assets/icons/icon-editExpress.png">
-
       </a>
-
       <p>
-
          <a href="../content/asset-details.md#edit-in-express">
-
          <strong>Bearbeiten von Assets in Adobe Express</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../templates/customize-template.md">
-
          <img alt="Blitzbolzen am Vermögenswert" src="../../assets/icons/icon-template.png">
-
       </a>
-
       <p>
-
          <a href="../templates/customize-template.md">
-
          <strong>Anpassen einer Vorlage</strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../templates/use-templates.md">
-
          <img alt="Blitzbolzen am Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png">
-
       </a>
-
       <p>
-
          <a href="../templates/use-templates.md#upload-a-template">
-
          <strong>Vorlage hochladen</strong>
-
          </a>
-
       </p>
-
    </td>
-
 </tr>
-
 </table>
 
 ## [!DNL Content]
