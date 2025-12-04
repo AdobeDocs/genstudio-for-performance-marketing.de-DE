@@ -1,11 +1,11 @@
 ---
 title: Markenvalidierung in Adobe GenStudio for Performance Marketing
-description: Erfahren Sie, wie das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing funktioniert.
+description: Erfahren Sie mehr über das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: e2acf90ef5fef6af03a756882caf53ab125055c4
+source-git-commit: 6a33f7e3a769eda459f70e6ab4e8559064ede2b4
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ GenStudio for Performance Marketing führt Markenvalidierungen und andere Inhalt
 
 * Definierte oder standardmäßige [!DNL Brand]
 * Platform-Richtlinien
-* [Standards des American with Disabilities Act (ADA)](/help/user-guide/guidelines/brand-validation.md#american-with-disabilities-act-ada-validation)
+* [Unterstützung der Barrierefreiheit](/help/user-guide/guidelines/brand-validation.md#supporting-your-accessibility-strategy)
 <!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 
 
@@ -64,7 +64,7 @@ Um **Inhaltstyp festzulegen** für die Prüfungen, die Sie durchführen möchten
 
 ## Verbesserung der Markenausrichtung
 
-Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung &#x200B;](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
+Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die [_Inhaltsüberprüfung_ Zusammenfassung ](#content-check-summary) das Bedienfeld [_Inhaltsüberprüfung_](#content-check-panel). Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [[!DNL Brand] Richtlinien](brands.md), Platform-Richtlinien, Prüfungen und Barrierefreiheitsstandards anzupassen.
 
 **So verbessern Sie die Markenausrichtung für generierte Varianten**:
 
@@ -87,13 +87,16 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 
 1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um sicherzustellen, dass die gesamte Variante die Validierungs- und Barrierefreiheitsprüfungen besteht. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche.
 
-## Validierung des American with Disabilities Act (ADA)
+## Unterstützung Ihrer Barrierefreiheitsstrategie
 
-Diese Barrierefreiheitsprüfungen sind für die Einhaltung des American With Disabilities Act (ADA) enthalten:
+GenStudio for Performance Marketing umfasst Inhaltsprüfungen, die Kunden bei der Unterstützung ihrer eigenen Best Practices für die Barrierefreiheit unterstützen.
 
-[WCAG 1.1.1 Nichttextlicher Inhalt](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) - Stellt sicher, dass Bilder ein `<alt>` Attribut bereitstellen.
-[WCAG 1.4.3 Kontrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - Stellt sicher, dass der generierte Text einen Kontrast von 4,5 % :1 Hintergrund hat.
-[WCAG 3.1.3 Ungewöhnliche Wörter](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html) - Identifiziert Wörter oder Ausdrücke, die auf ungewöhnliche oder eingeschränkte Weise verwendet werden, einschließlich Idiome und Jargon.
-[WCAG 3.1.4 Abkürzungen](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html) - Ein Mechanismus zur Identifizierung der erweiterten Form oder Bedeutung von Abkürzungen.
-[WCAG 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) - Stellt sicher, dass die Inhalte auf einer niedrigeren Sekundarstufe lesbar sind.
+Diese Funktion umfasst die folgenden Inhaltsprüfungen:
 
+* Bilder bieten ein `<alt>` Attribut.
+* Der generierte Text hat einen Kontrast :1 4,5 % zum Hintergrund.
+* Wörter oder Ausdrücke, die auf ungewöhnliche oder eingeschränkte Weise verwendet werden, einschließlich Idiome und Jargon, werden vermieden.
+* Es sind erweiterte Formen oder die Bedeutung von Abkürzungen verfügbar.
+* Die Inhalte sind auf der Ebene der Sekundarstufe I lesbar.
+
+Kundinnen und Kunden werden ermutigt, diese Funktionen als Teil ihrer umfassenderen Barrierefreiheitsstrategie zu verwenden, obwohl Kundinnen und Kunden für ihre eigenen gesetzlichen Bestimmungen und die Einhaltung der Barrierefreiheitsvorschriften verantwortlich bleiben.
