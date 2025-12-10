@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+source-git-commit: 8fb4a0e3acaf1a45d8f0f00f975247fc8fb746e3
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -40,16 +40,16 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `pre_header`
 - `subject`
 
-Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## E-Mail mit mehreren Abschnitten
 
 _Abschnitte_ ermöglichen es Ihnen, Inhalte in verschiedene Gruppen zu organisieren und komplexere Layouts zu unterstützen. In GenStudio for Performance Marketing können Sie jeden Abschnitt mithilfe einer Gruppennamenskonvention definieren. Siehe [Anpassen von Vorlagenbereichen](/help/user-guide/templates/customize-template.md#sections-or-groups).
 
-Vorlagen mit mehreren Abschnitten können 0, 2 oder 3 Abschnitte enthalten:
+E-Mail-Vorlagen mit mehreren Abschnitten können bis zu 10 Abschnitte enthalten:
 
 - Eine einfache Vorlage (keine Abschnitte) kann einen einzigen Satz von Vorlagenelementen generieren, wofür keine Namenskonvention für Gruppen erforderlich ist.
-- Eine komplexe Vorlage (mehrere Abschnitte) kann bis zu drei Sätze von Vorlagenelementen generieren, wofür Sie die Namenskonvention für Gruppen einhalten müssen: `<groupname_fieldname>`.
+- Eine komplexe Vorlage (mehrere Abschnitte) kann Sets von Vorlagenelementen generieren, wozu Sie die Gruppennamenskonvention einhalten müssen: `<groupname_fieldname>`.
 - Bei Verwendung mehrerer Abschnitte werden die Elemente, die außerhalb eines Abschnitts verbleiben, nicht befüllt.
 
 Im Folgenden finden Sie Beispiele für Feldnamen, die die Gruppennamenskonvention für zwei Abschnitte verwenden:

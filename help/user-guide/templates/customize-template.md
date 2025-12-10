@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 9f4cfd470590b2971c615a6437e6ae730cde5c18
+source-git-commit: 8fb4a0e3acaf1a45d8f0f00f975247fc8fb746e3
 workflow-type: tm+mt
-source-wordcount: '1633'
+source-wordcount: '1612'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Sie können eine Vorlage für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die die generative KI zum Einfügen von Inhalten verwendet.
 
-In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_&#x200B;anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
+In den nächsten Abschnitten wird erläutert, wie Sie Ihre HTML-Vorlagen für GenStudio for Performance Marketing mithilfe der _[!DNL Handlebars]_anpassen. Die [!DNL Handlebars] Syntax verwendet regulären Text mit doppelten Klammern als Platzhalter für Inhalte. Unter [Was ist [!DNL Handlebars]](https://handlebarsjs.com/guide/#what-is-handlebars) im_ Handlebars-Sprachhandbuch _erfahren Sie, wie Sie Ihre Vorlage vorbereiten.
 
 Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio for Performance Marketing hochladen](use-templates.md#upload-a-template) und mit der Erstellung personalisierter E-Mails beginnen, die auf Ihrer benutzerdefinierten Vorlage basieren.
 
-Befolgen Sie [Richtlinien für &#x200B;](accessibility-for-templates.md) Barrierefreiheit[&#x200B; und „Best &#x200B;](/help/user-guide/templates/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
+Befolgen Sie [Richtlinien für ](accessibility-for-templates.md) Barrierefreiheit[ und „Best ](/help/user-guide/templates/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
 
 ## Platzhalter für Inhalte
 
@@ -222,26 +222,18 @@ Syntax: `groupname_fieldname`
 - _Richtig_ (👍): `pod1_body`
 - _Falsch_ (❌): `pod1body`
 
-Jeder Abschnitt kann nur einen der Feldtypen verwenden. Beispielsweise gehören die folgenden Felder zum Abschnitt `pod1` :
+Jeder Abschnitt kann nur einen der Feldtypen verwenden. Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
+
+Beispielsweise gehören die folgenden Felder zum Abschnitt `pod1` :
 
 - `pod1_headline`
 - `pod1_body`
 - `pod1_image`
 - `pod1_cta`
 
-Aufgrund dieser Regel können die Abschnitte nicht verschachtelt werden.
+GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verbunden ist.
 
 Jeder Vorlagentyp, z. B. E-Mail oder Meta-Anzeige, unterliegt kanalspezifischen Einschränkungen für die Verwendung von Abschnitten. Siehe [Kanalspezifische Richtlinien](/help/user-guide/templates/best-practices-for-templates.md) im Thema _Best Practices für die Verwendung von Vorlagen_.
-
-Eine E-Mail-Vorlage kann beispielsweise bis zu drei Abschnitte enthalten. Daher können Sie drei Überschriften- und Hauptteilabschnitte haben:
-
-- `pre_header`
-- `pod1_headline`, `pod1_body`
-- `pod2_headline`, `pod2_body`
-- `pod3_headline`, `pod3_body`
-- `cta`
-
-GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verbunden ist.
 
 >[!TIP]
 >
@@ -249,7 +241,7 @@ GenStudio for Performance Marketing weiß, dass `pod1_headline` enger mit `pod1_
 
 ## Vorlagenvorschau
 
-Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template) durchsucht GenStudio for Performance Marketing die HTML-Datei nach erkannten Feldern. Verwenden Sie die Vorschau, um Ihre [Vorlagenelemente](use-templates.md#template-elements) zu überprüfen und sicherzustellen, dass Sie sie ordnungsgemäß mit den [erkannten Feldnamen“ &#x200B;](#recognized-field-names).
+Wenn Sie [eine Vorlage hochladen](use-templates.md#upload-a-template) durchsucht GenStudio for Performance Marketing die HTML-Datei nach erkannten Feldern. Verwenden Sie die Vorschau, um Ihre [Vorlagenelemente](use-templates.md#template-elements) zu überprüfen und sicherzustellen, dass Sie sie ordnungsgemäß mit den [erkannten Feldnamen“ ](#recognized-field-names).
 
 Beispielvorschau für eine E-Mail-Vorlage:
 
