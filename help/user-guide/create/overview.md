@@ -4,9 +4,9 @@ description: Schnelles Generieren von leistungsstarken, markeninternen Inhalten 
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
+source-git-commit: c8b9e0b1b78195a648774d383c94ed9974fa8bcd
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '698'
 ht-degree: 1%
 
 ---
@@ -35,68 +35,131 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 ## [!DNL Create]-Anwendungsfälle 
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong>E-Mail-Erlebnis erstellen</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Erstellen eines Meta-Anzeigen-Erlebnisses" src="../../assets/icons/icon-addContent.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong>Erstellen eines Meta Ad-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="Erstellen eines LinkedIn-Anzeigenerlebnisses" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong>Erstellen eines LinkedIn-Anzeigenerlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="Erstellen eines Bannererlebnisses" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong>Erstellen eines Bannererlebnisses</strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/generate-assets.md">
+
       <img alt="Erstellen von Bildern" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/generate-assets.md">
+
          <strong>Erstellen von Bildern</strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue Marketing-Inhalte zu**. In diesem Anwendungsbeispiel verwenden Sie definierte [Richtlinien](/help/user-guide/guidelines/overview.md) und Inspirationsbilder, um die Erstellung von markenorientierten Inhalten zu unterstützen.
@@ -113,11 +176,11 @@ Vorlagen werden [hochgeladen und in gespeichert [!DNL Content]](/help/user-guide
 
 ### Parameter
 
-In der Eingabeaufforderungsschublade können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (Richtlinien) und [!DNL Content] (Assets) hinzufügen, um das generierte Erlebnis zu formen.
+In der Eingabeaufforderungsschublade können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] und [!DNL Content] hinzufügen, um das generierte Erlebnis zu formen.
 
-Diese hinzugefügten Parameter fügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio for Performance Marketing Richtlinien hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung geeigneter markeninterner Inhalte erheblich verbessern.
+Diese hinzugefügten Parameter fügen [Richtlinien](/help/user-guide/guidelines/overview.md) ein und stellen [!DNL Content] Assets für den Generierungsprozess bereit, um eine benutzerdefinierte Ausgabe zu gewährleisten, die mit der umfassenden Identität einer Marke abgestimmt ist. Das Hinzufügen von Richtlinien zu Ihrer GenStudio for Performance Marketing und ihre Verwendung während der Inhaltserstellung verbessert die Erstellung geeigneter markeninterner Inhalte erheblich.
 
-Inhalte - hochgeladene oder hinzugefügte Bild-Assets - in _Parameter_ werden in generierten Varianten verwendet und geben Aufschluss über den für Varianten generierten Kopieninhalt (Text). Sie können Assets hochladen oder Assets auswählen, die bereits in [!DNL Content] oder in einem beliebigen verbundenen AEM Content Hub-Repository vorhanden sind.
+Inhalte - hochgeladene oder hinzugefügte Bild-Assets - in _Parameter_ werden in generierten Varianten verwendet und informieren die für Varianten generierte Kopie (Text). Sie können Assets hochladen oder Assets auswählen, die bereits in [!DNL Content] oder in einem beliebigen verbundenen AEM Content Hub-Repository vorhanden sind.
 
 ### Eingabeaufforderungen
 
@@ -131,7 +194,7 @@ GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/
 
 ### Überprüfungen und Genehmigungen
 
-Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [&#x200B; Überprüfungen und Kommentare &#x200B;](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
+Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [ Überprüfungen und Kommentare ](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
 
 Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung durch die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
 
