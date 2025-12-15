@@ -5,10 +5,10 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 85432185-8311-411b-b57b-f482c3d45854
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+source-git-commit: ff694925dea4741d13ae71a68e23a5e604134521
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 3%
+source-wordcount: '287'
+ht-degree: 2%
 
 ---
 
@@ -37,17 +37,19 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `introductory_text`
 - `cta` (Call to action)
 
-Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## Unterstützte Seitenverhältnisse
 
-| Seitenverhältnis | Platform | Mindestgröße (px) | Max. Größe (px) | Anmerkungen |
-|-------------------|-----------------|---------------|----------------|-------------------------------------------------------------------------------------|
-| Quadrat 1:1 | Desktop, Mobilgerät | 360 x 360 | 4320 x 4320 | Am vielseitigsten. Ideal für ein konsistentes Erscheinungsbild über Geräte und Platzierungen hinweg. |
-| Horizontal 1,91:1 | Desktop | 640 x 360 | 7680 x 4320 | Standard-Querformat. Wird häufig für gesponserte Inhalte und Nachrichten-Feed-Anzeigen verwendet. |
-| Vertikal 1:1,91 | Mobile | 360 x 640 | 2430 x 4320 | Hohes vertikales Format Optimiert für mobile Anzeige, mehr Bildschirmpräsenz. |
-| Vertikal 2:3 | Mobile | 360 x 640 | 2430 x 4320 | Etwas kleiner als 1:1,91. Gut für Mobile-First-Kampagnen. |
-| Vertikal 4:5 | Mobile | 360 x 640 | 2430 x 4320 | Empfohlen für Mobilgeräte. Gleicht Sichtbarkeit und Inhalte aus, was oft eine höhere Wirkung erzielt. |
+Alle LinkedIn-Vorlagenbreiten sind mit 1200 Pixel hartcodiert.
+
+| Seitenverhältnis | Platform | Abmessungen (px) | Anmerkungen |
+|-------------------|-----------------|------------|-------------------------------------------------------------------------------------|
+| Quadrat 1:1 | Desktop, Mobilgerät | 1200 x 1200 | Am vielseitigsten. Ideal für ein konsistentes Erscheinungsbild über Geräte und Platzierungen hinweg. |
+| Horizontal 1,91:1 | Desktop | 1200 x 628 | Standard-Querformat. Wird häufig für gesponserte Inhalte und Nachrichten-Feed-Anzeigen verwendet. |
+| Vertikal 1:1,91 | Mobile | 1200 x 2292 | Hohes vertikales Format Optimiert für mobile Anzeige, mehr Bildschirmpräsenz. |
+| Vertikal 2:3 | Mobile | 1200 x 1800 | Etwas kleiner als 1:1,91. Gut für Mobile-First-Kampagnen. |
+| Vertikal 4:5 | Mobile | 1200 x 1500 | Empfohlen für Mobilgeräte. Gleicht Sichtbarkeit und Inhalte aus, was oft eine höhere Wirkung erzielt. |
 
 <!-- Potentially add an example
 
