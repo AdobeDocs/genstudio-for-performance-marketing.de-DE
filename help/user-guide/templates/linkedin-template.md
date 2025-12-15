@@ -37,7 +37,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `introductory_text`
 - `cta` (Call to action)
 
-Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## Unterstützte Seitenverhältnisse
 
