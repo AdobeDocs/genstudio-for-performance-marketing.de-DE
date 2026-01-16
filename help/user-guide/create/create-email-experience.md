@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
+source-git-commit: 168ea3d21f5771aeb05553ffe992dc9648b0e4e4
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit [&#x200B; GenStudio for Performance Marketing &#x200B;](/help/user-guide/create/email-experiences.md) (Pinselsymbol im linken Navigationsbereich[[!DNL Create]](/help/user-guide/create/overview.md) markenspezifische E-Mail-Erlebnisse generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing ](/help/user-guide/create/email-experiences.md) (Pinselsymbol im linken Navigationsbereich[[!DNL Create]](/help/user-guide/create/overview.md) markenspezifische E-Mail-Erlebnisse generieren können.
 
-Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) &#x200B;](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
+Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) ](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
 
 ## Vorlage wählen
 
@@ -25,7 +25,7 @@ Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlag
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL E-Mail]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte E-Mail-Vorlage zu finden.
 1. Wählen Sie eine E-Mail-Vorlage aus und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -42,7 +42,7 @@ Wenn Sie eine Vorlage mit vordefinierten Richtlinien (z. B. [!DNL Brands], [!DNL
 1. Klicken Sie auf _Parameter_, um die Eingabeaufforderungsschublade zu erweitern.
 1. Wählen Sie _Abschnitt_ Parameter“ Richtlinien - [!DNL Brands], [!DNL Personas] und [!DNL Products] - aus, um über die Inhaltserstellung zu informieren.
 
-   ![Persona auswählen](/help/assets/persona-select.png){width="600" zoomable="yes"}
+   ![Persona auswählen](/help/assets/persona-select-email2.png){width="300" align="center"}
 
    Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, [fügen Sie Ihrer GenStudio for Performance Marketing Richtlinien hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
@@ -66,7 +66,7 @@ Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie die Eingabe
 
 Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Generierung von Inhalten für Ihr neues E-Mail-Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine höhere Qualität als vage oder mehrdeutige Eingabeaufforderungen.
 
-Weitere [&#x200B; zu Eingabeaufforderungen finden Sie &#x200B;](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
+Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
 **So geben Sie eine Eingabeaufforderung ein**:
 
@@ -83,11 +83,11 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 
 **Überarbeiten generierter Varianten**:
 
-* **Um [&#x200B; E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
+* **Um [ E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
 * **Um [E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf
 * **Um [Call to action zu ändern oder auszuwählen](/help/user-guide/create/manage-variants.md#revise-call-to-action)** klicken Sie auf die Schaltfläche call-to-action und wählen Sie _[!UICONTROL Umformulieren]_ oder _[!UICONTROL Link hinzufügen]_.
-* **Um [&#x200B; Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
-* **Um [&#x200B; Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
+* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
@@ -104,11 +104,11 @@ Beim Überarbeiten und Vorbereiten von E-Mail-Erlebnissen können Sie [zwischen 
 
 ## Überprüfen der Ausrichtung der Inhaltsprüfung
 
-Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
+Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
 
 **So führen Sie Inhaltsprüfungen für eine Variante durch**:
 
-1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
+1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
@@ -122,12 +122,12 @@ Verwenden Sie das Genehmigungsbedienfeld, das als Symbol in der rechten Aktionsl
 
 **Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener E-Mail-Erlebnisse“ &#x200B;](/help/user-guide/approvals/approve-content.md).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener E-Mail-Erlebnisse“ ](/help/user-guide/approvals/approve-content.md).
 1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
 1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
 1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre E-Mail-Erlebnisse](#publish-and-export-experience).
 
-Weitere Informationen finden [&#x200B; unter &#x200B;](/help/user-guide/approvals/overview.md) und Genehmigungen .
+Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
 ## Erlebnis veröffentlichen und exportieren
 
