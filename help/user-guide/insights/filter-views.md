@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die erweiterten Filterfunktionen mit Einblick
 level: Intermediate
 feature: Reporting and Insights
 exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 0eeb41597d547bf806b1728541ca85b598d2aa1c
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Einige Tabellen können sich über mehrere Seiten erstrecken, wie unten in der T
 
 ### Schieberegler
 
-Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_&#x200B;**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
+Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
 
 ## Erweiterte Filter
 
@@ -57,9 +57,9 @@ Im Laufe der Zeit kann Ihre Liste von Kampagnen und Anzeigen exponentiell wachse
 
 **So verfeinern Sie die Tabelle Anzeigen mithilfe des Filters Kampagnen**:
 
-1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Anzeigen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Anzeigen]**aus.
 
-   ![Anzeigen-Filter und &#x200B;](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
+   ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
 
 1. Klicken Sie auf den Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
 
@@ -89,7 +89,7 @@ Im Laufe der Zeit kann Ihre Liste von Kampagnen und Anzeigen exponentiell wachse
 
    ![Liste der Kampagnen](/help/assets/insights-select-campaigns-list.png "Wählen Sie die einzuschließenden Kampagnen aus")
 
-Ihre ausgewählten Kampagnen werden jetzt in der Liste _[!UICONTROL Filtern nach]_ über der Tabelle oder der Galerie für Werbeanzeigen angezeigt. Sie können sich ausschließlich auf die Anzeigen konzentrieren, die mit den ausgewählten Kampagnen verknüpft sind. In diesem Beispiel enthalten die gefilterten Ergebnisse 6 Anzeigen, die eine zielgerichtetere Ansicht für die Analyse bieten.
+Ihre ausgewählten Kampagnen werden jetzt in der Liste _[!UICONTROL Filtern nach]_ über der Tabelle oder der Galerie für Werbeanzeigen angezeigt. Sie können sich ausschließlich auf die Anzeigen konzentrieren, die mit den ausgewählten Kampagnen verknüpft sind. In diesem Beispiel bieten die gefilterten Ergebnisse eine zielgerichtetere Ansicht für die Analyse.
 
 ![Tabelle gefiltert nach Kampagnen](/help/assets/insights-filter-by-campaigns.png "Tabelle mit Kampagnenfilter"){zoomable="yes"}
 

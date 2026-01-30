@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Anzeigen basierend auf Echtzeit-Inhaltsleistu
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 42a211956854126798024a97fc0befc3626160b7
+source-git-commit: 8bdfe52173b93e55f627f37cb1d6c5b16827d899
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,16 @@ Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistisch
 
 {{connect-insights}}
 
+## Unterstützte Kanäle
+
+Zu den unterstützten Kanälen in Insights gehören Meta, LinkedIn, TikTok, DV360 und Innovid.
+
+Meta, LinkedIn und TikTok bieten vollständige Einblicke in Kampagnen, Anzeigen, Medien und Attribute. DV360 und Innovid bieten derzeit eine eingeschränktere Datenabdeckung.
+
+Derzeit sind Mediendaten für DV360 und Innovid nicht verfügbar, was bedeutet, dass die Registerkarte Attribute auch für diese Kanäle nicht angezeigt wird. Die Registerkarte Attribute hängt von den Daten der Medienebene ab, um die aus den Erlebnissen extrahierten Merkmale zu ermitteln.
+
+Diese Einschränkung ist auf Einschränkungen der Paid-Media-Plattformen selbst zurückzuführen und nicht auf ein Problem mit GenStudio for Performance Marketing.
+
 ## Dashboard
 
 Das [!DNL Insights]-Dashboard verfügt über eine konfigurierbare Tabelle für jeden Inhaltstyp: [!UICONTROL Kanäle], [!UICONTROL Anzeigen], [!UICONTROL Media] und [!UICONTROL Attribute].
@@ -39,17 +49,17 @@ Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterun
 
 [!UICONTROL Anzeigen], [!UICONTROL Medien] und [!UICONTROL Attribute] enthalten eine Galerieansicht, mit der Sie Assets mithilfe von Karten mit einer Bild- oder Videominiatur scannen und sortieren können. Auf jeder Karte gibt es eine Option zum Anzeigen einer von drei Schlüsselmetriken: `Click-through rate`, `Cost per click` und `Spend`.
 
-### Kanäle
+### Kampagnen
 
-Die [[!DNL Insights] _[!UICONTROL Kanäle &#x200B;]_&#x200B;Ansicht](channels.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[&#x200B; dass Sie ein Kanalkonto &#x200B;](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
+Die [[!DNL Insights] _[!UICONTROL Ansicht ]_Kampagnen](campaigns.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[ dass Sie ein Kanalkonto ](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
 
 ### Anzeigen
 
-Die [[!DNL Insights] _[!UICONTROL Anzeigen &#x200B;]_&#x200B;Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL &#x200B; Ansicht &#x200B;]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen&#x200B;_[!UICONTROL &#x200B; Anzeigenamen &#x200B;]_&#x200B;können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
+Die [[!DNL Insights] _[!UICONTROL Anzeigen ]_Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL  Ansicht ]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen_[!UICONTROL  Anzeigenamen ]_können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
 
 ### Medien
 
-Die [[!DNL Insights] _[!UICONTROL Media &#x200B;]_&#x200B;Ansicht](media.md) soll Ihnen dabei helfen, die Leistung kreativer Inhalte zu analysieren. Sie können Medienattribute identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
+Die [[!DNL Insights] _[!UICONTROL Media ]_Ansicht](media.md) soll Ihnen dabei helfen, die Leistung kreativer Inhalte zu analysieren. Sie können Medienattribute identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
 
 Durch Klicken auf Medieninhalte erhalten Sie weitere Informationen zur Leistung in verschiedenen Anzeigen und Anzeigenplatzierungen:
 
@@ -61,4 +71,4 @@ In der Ansicht mit den Mediendetails zeigt die linke Seite eine Miniaturansicht 
 
 Medien _Attribute_ helfen bei der Identifizierung kreativer Inhalte durch inhärente Details wie Farbe, Ton, Komposition (z. B. Betreff, Schriftarten, visuelle Elemente) und andere Schlüsselkomponenten. Attribute sind häufig der am wenigsten gemessene und analysierte Satz von Inhaltsinformationen.
 
-Die [[!DNL Insights] _[!UICONTROL Attribute &#x200B;]_&#x200B;Ansicht](attributes.md) kann Ihnen dabei helfen, zu untersuchen und zu identifizieren, welche Attribute bei bestimmten Zielgruppen, Kanälen und Regionen eine bessere Leistung erzielen, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.
+Die [[!DNL Insights] _[!UICONTROL Attribute ]_Ansicht](attributes.md) kann Ihnen dabei helfen, zu untersuchen und zu identifizieren, welche Attribute bei bestimmten Zielgruppen, Kanälen und Regionen eine bessere Leistung erzielen, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.
