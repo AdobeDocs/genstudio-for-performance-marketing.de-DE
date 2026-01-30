@@ -5,9 +5,9 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 7ed76ce8f4239a8f5daaae2f95e6b7bc385d2a4c
+source-git-commit: 0e75caff9607eeb1be57e46af1ca0919d931e7e1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '251'
 ht-degree: 20%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 20%
    + [Richtlinien hinzufügen](guidelines/add-guidelines.md)
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
-   + [Überblick über [!DNL Create] &#x200B;](create/overview.md)
+   + [[!DNL Create] Übersicht](create/overview.md)
    + [E-Mail-Erlebnisse](create/email-experiences.md)
    + [Meta-Erlebnisse](create/meta-experiences.md)
    + [LinkedIn-Erlebnisse](create/linkedin-experiences.md)
@@ -91,7 +91,7 @@ ht-degree: 20%
       + [Meta](activation/activate-meta-ad.md)
       + [Amazon](activation/activate-amazon-ad.md)
       + [Innovid](activation/activate-innovid-ad.md)
-+ Einblicke {#insights}
++ Insights {#insights}
    + [Insights-Überblick](insights/overview.md)
    + [Insights-Filter](insights/filter-views.md)
    + [Kanäle](insights/channels.md)
@@ -103,5 +103,9 @@ ht-degree: 20%
       + [Videofunktionen](insights/video-features.md)
       + [Textfunktionen](insights/text-features.md)
    + [Daten-Management](insights/data-management.md)
++ Integrationen {#integrations}
+   + [Integrationen - Übersicht](integrations/overview.md)
+   + [Photoshop-Plug-in](integrations/photoshop-plugin.md)
+   + [Figma-Plug-in](integrations/figma-plugin.md)
 + [GenStudio Academy - Ausgeblendet](genstudioacademy.md)
 + [Test-Markdown - Ausgeblendet](test-markdown.md)
