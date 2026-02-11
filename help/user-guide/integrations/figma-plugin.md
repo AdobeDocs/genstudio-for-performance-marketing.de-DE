@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie das Figma-Plug-in für GenStudio for Performa
 feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
-source-git-commit: c6080555812fa82a7b71eee7e2deb963a881d9f4
+source-git-commit: e585c6ff70198fe572b21252ab00b9b1ad368d02
 workflow-type: tm+mt
-source-wordcount: '2124'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Zu den Funktionen dieses Plug-ins gehören:
 * Exportieren Sie generierte [!DNL Experiences] nach GenStudio for Performance Marketing.
 * Verwenden Sie Plug-in-Optionen, die sich an die ausgewählten Elemente auf der Figma-Arbeitsfläche anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478818?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## Erstellen einer Vorlage
 
@@ -148,125 +148,14 @@ Sie haben unter anderem folgende Möglichkeiten:
 
 Nachdem Sie eine **[!UICONTROL Aktion]**-Option ausgewählt haben, generieren Sie den Inhalt mit der Schaltfläche **[!UICONTROL Regenerieren]** neu.
 
-## Bild erzeugen
-
-Generieren von Bildern, die in Ihren Vorlagen über eine Textaufforderung verwendet werden sollen
-
-1. Wählen Sie **[!UICONTROL Bild generieren]** aus.
-1. Wählen Sie ein Modell aus dem Dropdown-Menü aus. Sie können auch alle benutzerdefinierten Modelle auswählen, die Sie erstellt haben.
-1. Wählen Sie das Einstellungssymbol aus, um die Erzeugungseinstellungen anzupassen.
-1. Optional: Wählen Sie ein Seitenverhältnis aus.
-1. Optional: Passen Sie den Stil des Bildes an, indem Sie einen der folgenden Schritte ausführen:
-   * Laden Sie ein Referenzbild von Ihrem Gerät oder AEM hoch, indem Sie **[!UICONTROL Bild hochladen]** auswählen.
-   * Wählen Sie eines der Stock-Bilder von Adobe aus, indem Sie **[!UICONTROL Galerie durchsuchen]** auswählen.
-   * Wählen Sie mithilfe des Schiebereglers einen Wert für die Stärke aus. Die Stärke passt an, wie streng sich Firefly an den von Ihnen angegebenen Stil hält.
-1. Klicken Sie auf die Schaltfläche **&lt;**.
-1. Eingabeaufforderung eingeben.
-1. Klicken Sie auf das Symbol Generieren . Bilder werden im Plug-in-Bedienfeld angezeigt.
-1. Bilder mithilfe einer der folgenden Methoden auf die Arbeitsfläche bringen:
-   * Ziehen Sie ein Bild per Drag-and-Drop auf die Arbeitsfläche.
-   * Wählen Sie einen Rahmen auf der Figma-Arbeitsfläche und wählen Sie ein Bild im Plugin-Fenster, um es in den Rahmen einzufügen.
-   * Wählen Sie das Upload-Symbol aus, um ein Bild auf die Arbeitsfläche hochzuladen.
-   * Wählen Sie die 3 Punkte und **[!UICONTROL Alles auf Figma herunterladen]**.
-1. Optional: Wählen Sie die drei Punkte aus, um weitere Aktionen durchzuführen:
-   * Wählen Sie **[!UICONTROL Weitere generieren]** aus, um die Eingabeaufforderung erneut auszuführen.
-   * Wählen Sie **[!UICONTROL Eingabeaufforderung kopieren]**, um die Eingabeaufforderung zu kopieren.
-1. Optional: Wählen Sie das Stiftsymbol aus, um das generative Ausfüllen und ähnliche Aktionen für ein einzelnes Bild zu generieren.
-
-## Erzeugen ähnlicher Bilder
-
-Einen Satz ähnlicher Bilder erzeugen
-
-1. Wählen Sie die Karte **[!UICONTROL Ähnliche erstellen]** aus.
-1. Wählen Sie ein Bild als Referenz aus, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie ein Bild auf der Figma-Arbeitsfläche aus.
-   * Wählen **[!UICONTROL Bild hochladen]**, um es von Ihrem Gerät hochzuladen.
-   * Wählen Sie **[!UICONTROL AEM-Assets durchsuchen]** aus, um sie von AEM hochzuladen.
-1. Klicken Sie auf das Symbol Generieren . Varianten werden im Plug-in-Bedienfeld angezeigt.
-1. Bilder mithilfe einer der folgenden Methoden auf die Arbeitsfläche bringen:
-   * Ziehen Sie ein Bild per Drag-and-Drop auf die Arbeitsfläche.
-   * Wählen Sie einen Rahmen auf der Figma-Arbeitsfläche und wählen Sie ein Bild im Plugin-Fenster, um es in den Rahmen einzufügen.
-   * Wählen Sie das Upload-Symbol aus, um ein Bild auf die Arbeitsfläche hochzuladen.
-   * Wählen Sie die 3 Punkte und **[!UICONTROL Alles auf Figma herunterladen]**.
-1. Optional: Wählen Sie die drei Punkte aus, um weitere Aktionen durchzuführen:
-   * Wählen Sie **[!UICONTROL Weitere generieren]** aus, um die Eingabeaufforderung erneut auszuführen.
-1. Optional: Wählen Sie das Stiftsymbol aus, um das generative Ausfüllen und ähnliche Aktionen für ein einzelnes Bild zu generieren.
-
-## Entfernen des Hintergrunds
-
-Entfernen des Hintergrunds eines Bildes.
-
-1. Wählen Sie die Karte **[!UICONTROL Hintergrund entfernen]**.
-1. Wählen Sie ein Bild als Referenz aus, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie ein Bild auf der Figma-Arbeitsfläche aus.
-   * Wählen **[!UICONTROL Bild hochladen]**, um es von Ihrem Gerät hochzuladen.
-   * Wählen Sie **[!UICONTROL AEM-Assets durchsuchen]** aus, um sie von AEM hochzuladen.
-1. Wählen Sie **[!UICONTROL Entfernen]** aus. Wenn das Bild auf der Arbeitsfläche ausgewählt wurde, wird das Bild auf der Figma-Arbeitsfläche ersetzt. Wenn das Bild auf einem Gerät oder in AEM ausgewählt wurde, können Sie es per Drag-and-Drop auf die Arbeitsfläche ziehen oder **[!UICONTROL Bild einfügen]** auswählen, um es auf der Arbeitsfläche zu platzieren.
-
-## Generative Füllung
-
-Wenden Sie generative Füllungen für einen Bereich eines Bildes an.
-
-1. Wählen Sie die Karte **[!UICONTROL Generative]**) aus.
-1. Wählen Sie ein Bild als Referenz aus, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie ein Bild auf der Figma-Arbeitsfläche aus.
-   * Wählen **[!UICONTROL Bild hochladen]**, um es von Ihrem Gerät hochzuladen.
-   * Wählen Sie **[!UICONTROL AEM-Assets durchsuchen]** aus, um sie von AEM hochzuladen.
-1. Wählen Sie das Pinselwerkzeug aus und erstellen Sie eine Maske.
-1. Optional: Wählen Sie das Dropdown-Caret und passen Sie die Pinselgröße an.
-1. Klicken Sie auf die Schaltfläche Zurücksetzen , um die Maske zu entfernen.
-1. Wählen Sie optional das Symbol Hintergrund entfernen aus, um den Hintergrund zu entfernen.
-1. Geben Sie eine Eingabeaufforderung ein, um die Generierung für die ausgewählte Maske zu leiten, und wählen Sie die Schaltfläche **[!UICONTROL Generieren]**.
-1. Bilder mithilfe einer der folgenden Methoden auf die Arbeitsfläche bringen:
-   * Ziehen Sie ein Bild per Drag-and-Drop auf die Arbeitsfläche.
-   * Wählen Sie einen Rahmen auf der Figma-Arbeitsfläche und wählen Sie ein Bild im Plugin-Fenster, um es in den Rahmen einzufügen.
-   * Wählen Sie das Upload-Symbol aus, um ein Bild auf die Arbeitsfläche hochzuladen.
-   * Wählen Sie die 3 Punkte und **[!UICONTROL Alles auf Figma herunterladen]**.
-1. Optional: Wählen Sie die drei Punkte aus, um weitere Aktionen durchzuführen:
-   * Wählen Sie **[!UICONTROL Eingabeaufforderung kopieren]**, um die Eingabeaufforderung zu kopieren.
-1. Optional: Wählen Sie das Stiftsymbol aus, um das generative Ausfüllen und ähnliche Aktionen für ein einzelnes Bild zu generieren.
-
-## Eingabeaufforderung zur Bearbeitung
-
-Bearbeiten Sie den Inhalt eines Bildes über eine Textanforderung.
-
-1. Wählen Sie die Karte **[!UICONTROL Aufforderung zur Bearbeitung]** aus.
-1. Wählen Sie ein Bild als Referenz aus, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie ein Bild auf der Figma-Arbeitsfläche aus.
-   * Wählen **[!UICONTROL Bild hochladen]**, um es von Ihrem Gerät hochzuladen.
-   * Wählen Sie **[!UICONTROL AEM-Assets durchsuchen]** aus, um sie von AEM hochzuladen.
-1. Wählen Sie das Einstellungssymbol aus, um die Erzeugungseinstellungen anzupassen.
-1. Optional: Wählen Sie ein Seitenverhältnis aus und klicken Sie auf die Schaltfläche **&lt;**.
-1. Geben Sie eine Eingabeaufforderung ein, um die Generierung zu leiten, und wählen Sie die Schaltfläche **[!UICONTROL Generieren]**.
-1. Bilder mithilfe einer der folgenden Methoden auf die Arbeitsfläche bringen:
-   * Ziehen Sie ein Bild per Drag-and-Drop auf die Arbeitsfläche.
-   * Wählen Sie einen Rahmen auf der Figma-Arbeitsfläche und wählen Sie ein Bild im Plugin-Fenster, um es in den Rahmen einzufügen.
-   * Wählen Sie das Upload-Symbol aus, um ein Bild auf die Arbeitsfläche hochzuladen.
-   * Wählen Sie die 3 Punkte und **[!UICONTROL Alles auf Figma herunterladen]**.
-1. Optional: Wählen Sie die drei Punkte aus, um weitere Aktionen durchzuführen:
-   * Wählen Sie **[!UICONTROL Weitere generieren]** aus, um die Eingabeaufforderung erneut auszuführen.
-   * Wählen Sie **[!UICONTROL Eingabeaufforderung kopieren]**, um die Eingabeaufforderung zu kopieren.
-1. Optional: Wählen Sie das Stiftsymbol aus, um das generative Ausfüllen und ähnliche Aktionen für ein einzelnes Bild zu generieren.
-
-## Generative Erweiterung
-
-Erweitern Sie die Dimensionen Ihrer Bilder und fügen Sie generative Inhalte mit Generative expand hinzu. Mit Generative Expand können Sie schlecht passende Bilder in das am besten geeignete Seitenverhältnis für Banner, Meta-Anzeigen, LinkedIn-Anzeigen oder Display-Anzeigenvorlagen umwandeln.
-
-1. Wählen Sie die Karte **[!UICONTROL Generatives]**&quot;.
-1. Ein Bild auf der Arbeitsfläche auswählen.
-1. Ändern Sie die Größe des Generierungsrahmens, um den temporären Rahmen auf die gewünschten neuen Abmessungen zu erweitern.
-1. Optional: Verschieben Sie das Bild an eine beliebige Stelle innerhalb des Rahmens.
-1. Geben Sie eine Eingabeaufforderung ein, um die Generierung zu leiten, und wählen Sie die Schaltfläche **[!UICONTROL Generieren]**.
-1. Wählen Sie ein Bild auf der Arbeitsfläche aus, um Ihr Originalbild durch das generierte Ergebnis zu ersetzen.
-
 ## Exportieren von Erlebnissen
 
 Varianten können aus Figma als GenStudio for Performance Marketing [!DNL Experiences] exportiert werden.
 
 1. Wählen Sie den Inhalt aus, der in die Figma-Arbeitsfläche exportiert werden soll, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**&#x200B;Bedienfeld auf Alle für Export markieren .
+   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**Bedienfeld auf Alle für Export markieren .
      ![Generierungsabschnitt auswählen](./select-generation-section.png){width="200" zoomable="yes"}
-   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**&#x200B;Für Export markieren“.
+   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**Für Export markieren“.
      ![Individuelle Generierung auswählen](./select-generation.png){width="200" zoomable="yes"}
 1. Wählen Sie im Seitenleistenmenü die Option Exportieren aus.
    ![Die Schaltfläche „Für Export markieren“ wird für eine Meta-Anzeige angezeigt](./mark-for-export.png){width="60%" zoomable="yes"}
