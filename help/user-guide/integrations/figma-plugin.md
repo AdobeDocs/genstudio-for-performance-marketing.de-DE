@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie das Figma-Plug-in für GenStudio for Performa
 feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
-source-git-commit: e585c6ff70198fe572b21252ab00b9b1ad368d02
+source-git-commit: 4ab7e82336bfa6907331b0684253e48066e7d021
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1192'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 0%
 # Figma-Plug-in für GenStudio for Performance Marketing
 
 Das GenStudio for Performance Marketing Figma-Plug-in fügt dem Figma-Programm ein neues Bedienfeld hinzu, mit dem Sie markeninterne Inhalte generieren können.
+[Finden und installieren Sie das Plug-in vom Figma Community Marketplace](https://www.figma.com/community/plugin/1604251370122180013/firefly-enterprise-and-genstudio).
 
 Auf dieser Seite wird beschrieben, wie Sie das Plug-in konfigurieren und verwenden.
 
@@ -28,7 +29,7 @@ Zu den Funktionen dieses Plug-ins gehören:
 * Exportieren Sie generierte [!DNL Experiences] nach GenStudio for Performance Marketing.
 * Verwenden Sie Plug-in-Optionen, die sich an die ausgewählten Elemente auf der Figma-Arbeitsfläche anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478818?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## Erstellen einer Vorlage
 
@@ -153,9 +154,9 @@ Nachdem Sie eine **[!UICONTROL Aktion]**-Option ausgewählt haben, generieren Si
 Varianten können aus Figma als GenStudio for Performance Marketing [!DNL Experiences] exportiert werden.
 
 1. Wählen Sie den Inhalt aus, der in die Figma-Arbeitsfläche exportiert werden soll, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**&#x200B;Bedienfeld auf Alle für Export markieren .
+   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**Bedienfeld auf Alle für Export markieren .
      ![Generierungsabschnitt auswählen](./select-generation-section.png){width="200" zoomable="yes"}
-   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**&#x200B;Für Export markieren“.
+   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**Für Export markieren“.
      ![Individuelle Generierung auswählen](./select-generation.png){width="200" zoomable="yes"}
 1. Wählen Sie im Seitenleistenmenü die Option Exportieren aus.
    ![Die Schaltfläche „Für Export markieren“ wird für eine Meta-Anzeige angezeigt](./mark-for-export.png){width="60%" zoomable="yes"}
