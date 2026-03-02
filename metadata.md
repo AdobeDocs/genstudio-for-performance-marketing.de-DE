@@ -1,21 +1,23 @@
 ---
 cloud: Experience Cloud
 solution: GenStudio for Performance Marketing
+landing-page-name: genstudio-for-performance-marketing
+landing-page-breadcrumb-title: GenStudio
 type: Documentation
-git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing.de-DE
+git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing.en
 mini-toc-levels: 2
 description: Adobe GenStudio for Performance Marketing-Handbücher
 index: true
-source-git-commit: 0ec049c192dc7f669de5fa5288049a4ea5395a8a
+source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 88%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# Metadaten für den internen Gebrauch
+# Metadaten für die interne Verwendung
 
-Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die an die „TOC.md“-Dateien des Benutzerhandbuchs im Repository weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, können Sie dies in einer beliebigen „TOC.md“-Datei tun.
+Die Datei „metadata.md“ enthält Metadaten auf Repo-Ebene, die an die im Repository enthaltenen TOC.md-Dateien des Benutzerhandbuchs weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, verwenden Sie dazu eine beliebige Inhaltsverzeichnisdatei (.md).
 
-Unter [Metadaten](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=de) finden Sie eine Liste mit gültigen Werte für **Lösung**, **Produkt** und **Typ**.
+Unter [Metadaten](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) finden Sie eine Liste gültiger Werte für **Lösung**, **** und **Typ**.

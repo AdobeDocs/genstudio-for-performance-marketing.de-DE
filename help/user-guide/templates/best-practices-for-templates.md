@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 71b46454fa6fe2037ea6b103c0dfeedad74b8919
+source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Beachten Sie bei der Verwendung von Vorlagen mit GenStudio for Performance Marke
 
 >[!TIP]
 >
->Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Außerdem erhalten Sie detaillierte [&#x200B; zum Anpassen einer Vorlage &#x200B;](customize-template.md) spezifische Anweisungen zur Verwendung in Ihrer nächsten Kampagne.
+>Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Außerdem erhalten Sie detaillierte [ zum Anpassen einer Vorlage ](customize-template.md) spezifische Anweisungen zur Verwendung in Ihrer nächsten Kampagne.
 
 ## Verwenden der richtigen Vorlagenelemente
 
-Jeder Vorlagentyp verwendet verschiedene Elemente, um eine Struktur für die kanalspezifische Inhaltserstellung zu erstellen. [Machen Sie sich mit den Teilen einer Vorlage vertraut &#x200B;](use-templates.md#template-elements) fügen Sie die besten Elemente für Ihren Inhalt und Vorlagentyp hinzu.
+Jeder Vorlagentyp verwendet verschiedene Elemente, um eine Struktur für die kanalspezifische Inhaltserstellung zu erstellen. [Machen Sie sich mit den Teilen einer Vorlage vertraut ](use-templates.md#template-elements) fügen Sie die besten Elemente für Ihren Inhalt und Vorlagentyp hinzu.
 
 Verwenden Sie beim Anpassen Ihrer Vorlage die Feldnamen anstelle dieser Elemente, bei denen GenStudio for Performance Marketing Inhalte generieren muss.
 
@@ -37,14 +37,14 @@ Siehe [Vorlagenelemente](use-templates.md#template-elements).
 
 ## Verwenden von Platzhaltertext in Vorlagen
 
-Platzhaltertext kann dazu beitragen, Syntax oder Struktur für Inhalte zu definieren, die später in einer Vorlage von einem Benutzer ausgefüllt werden. Zum Beispiel: {first_name}.{last_name}@email.etc. , um eine E-Mail-Adresse zu definieren. Einige gängige Trennzeichen sind jedoch bereits für andere Bedeutungen in GenStudio for Performance Marketing reserviert:
+Platzhaltertext kann dazu beitragen, Syntax oder Struktur für Inhalte zu definieren, die später in einer Vorlage von einem Benutzer ausgefüllt werden. Beispiel: {first_name}.{last_name}@email.etc, um eine E-Mail-Adresse zu definieren. Einige gängige Trennzeichen sind jedoch bereits für andere Bedeutungen in GenStudio for Performance Marketing reserviert:
 
-❌ &lt; > - Wird für HTML-Tags verwendet.
-❌ {{ }}{{ }} - Wird für Handlebar-Ausdrücke verwendet.
+❌ `< >` - Wird für HTML-Tags verwendet.
+❌ `{{ }}` - Wird für Handlebar-Ausdrücke verwendet.
 
 Verwenden Sie einfache Klammern (gerade oder geschweift), um Platzhaltertext anzugeben, um Verwechslungen mit vorhandenen Tags zu vermeiden.
 
-✅ {first_name} - Platzhalter für Vornamen.
+✅ `{first_name}` - Platzhalter für Vornamen.
 
 ## Konfigurieren von Kanalrichtlinien
 
