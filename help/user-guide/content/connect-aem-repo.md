@@ -39,20 +39,20 @@ Nach der Aktivierung von [!DNL AEM Assets Content Hub] haben Sie eine neue Insta
 
 Fügen Sie in der [!DNL Admin Console] einen GenStudio for Performance Marketing-Benutzer oder eine -Benutzergruppe zum [!DNL AEM Assets Content Hub] Produktprofil hinzu. Wenn ein Content Reviewer nicht auf dieselbe Organisation wie das [!DNL AEM Assets Content Hub]-Repository zugreifen kann, kann es zu Schwierigkeiten bei der Überprüfung und Genehmigung von Inhalten kommen.
 
-- [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [Onboard [!DNL Content Hub] administrator](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [Onboard [!DNL Content Hub] users](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## Schritt 3: Assets genehmigen
 
 Genehmigen von Assets für die Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar werden.
 
-Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der _AEM as a Cloud Service_-Dokumentation.
+Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der _AEM as a Cloud Service_-Dokumentation.
 
 ## Schritt 4: Asset-Sichtbarkeit konfigurieren
 
 Überprüfen Sie unter _[!DNL AEM Assets Content Hub]_&#x200B;Konfigurationsoptionen jeden Satz von Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding.
 
-Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu _AEM as a Cloud Service_.
+Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu _AEM as a Cloud Service_.
 
 ## Schritt 5: Verbindung überprüfen
 

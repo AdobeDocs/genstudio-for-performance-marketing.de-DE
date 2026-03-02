@@ -39,7 +39,7 @@ Seien Sie vorsichtig und löschen Sie nicht die folgenden Datenverbindungen, die
 - AEP Connections: Datenflüsse mit dem Präfix `GS Insights`
 - AEP Connections: GS Insights-Konto
 
-Siehe [Auswirkungen löschen](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion) im Handbuch _Customer Journey Analytics_, bevor Sie Datenkomponenten in AEP löschen.
+Siehe [Auswirkungen löschen](https://experienceleague.adobe.com/de/docs/analytics-platform/using/technotes/deletion) im Handbuch _Customer Journey Analytics_, bevor Sie Datenkomponenten in AEP löschen.
 
 >[!ENDSHADEBOX]
 
