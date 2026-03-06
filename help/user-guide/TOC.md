@@ -107,5 +107,5 @@ ht-degree: 20%
    + [Integrationen - Übersicht](integrations/overview.md)
    + [Photoshop-Plug-in](integrations/photoshop-plugin.md)
    + [Figma-Plug-in](integrations/figma-plugin.md)
-+ {hide-from-toc}[GenStudio Academy - Ausgeblendet](genstudioacademy.md)
-+ {hide-from-toc}[Test-Markdown - Ausgeblendet](test-markdown.md)
++ [hide-from-tocGenStudio Academy - Ausgeblendet](genstudioacademy.md)
++ [hide-from-tocTest-Markdown - Ausgeblendet](test-markdown.md)
