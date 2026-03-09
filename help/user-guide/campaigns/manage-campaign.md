@@ -3,9 +3,16 @@ title: Adobe GenStudio for Performance Marketing-Kampagnen
 description: Erfahren Sie mehr über die Verwaltung von Kampagnen und Kampagneninhalten
 feature: Campaign Planning, Campaign Brief
 badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
-source-git-commit: 689a3f9c1860237d82774850f5b07145c6d3f562
+exl-id: 7f730f83-1bad-4727-98ba-6ab692a4be2d
+TQID: https://experienceleague.adobe.com/IdIZdyo1g6DCfOWTEz6hbVboY-TvXI0W1g8Fn1q46wg
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b286a442-6f0d-405a-adea-abb4a98e2d7bid: bf1f49e6-dcda-4b68-a4d5-aeecf05031a6id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: 550
 ht-degree: 0%
 
 ---
@@ -73,8 +80,8 @@ Wenn Sie eine Kampagne löschen, wird sie aus dem Kampagnenobjekt und allen defi
 
 **Löschen einer Kampagne**:
 
-1. Klicken Sie _Kampagnen_ auf das Aktionsmenü (…) neben dem Namen der Kampagne, die Sie löschen möchten.
+1. Klicken _in_ auf das Aktionsmenü (…) neben dem Namen der Kampagne, die Sie löschen möchten.
 
 1. Wählen Sie **[!UICONTROL Löschen]** aus.
 
-   Alternativ können Sie eine Kampagne auch aus dem Aktionsmenü (…) neben dem Kampagnennamen in der Ansicht _Details_ löschen.
+   Alternativ können Sie eine Kampagne auch aus dem Menü Aktion löschen (…) neben dem Kampagnennamen in der Ansicht _Details_.

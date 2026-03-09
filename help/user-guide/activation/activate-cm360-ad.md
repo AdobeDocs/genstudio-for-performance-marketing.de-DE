@@ -3,9 +3,15 @@ title: Aktivieren einer Google Campaign Manager 360-Anzeige
 description: Erfahren Sie, wie Sie Google Campaign Manager 360 aktivieren.
 feature: Ad Activation
 exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/pQbT2OC7-jK33HhJWgTBBtJrmEvr48mGkl8v-fTkOLQ
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: 551
 ht-degree: 0%
 
 ---
@@ -18,7 +24,7 @@ Sie können die Veröffentlichung einer Google Campaign Manager 360-Anzeigenerfa
 
 ## Schritt 1: Google Campaign Manager 360-Konten einrichten
 
-Bevor Sie eine Aktivierung starten, [&#x200B; Sie sich bei Ihrem Google Campaign Manager 360-Konto &#x200B;](https://campaignmanager.google.com). Vergewissern Sie sich, dass Sie Zugriff auf Google Campaign Manager 360-Werbetreibende haben. Wenn Sie ein Campaign Manager 360-Erlebnis in GenStudio for Performance Marketing veröffentlichen, wird es an die Advertiser-Bibliothek bereitgestellt, die bei der Erstellung ausgewählt wurde.
+Bevor Sie eine Aktivierung starten, [ Sie sich bei Ihrem Google Campaign Manager 360-Konto ](https://campaignmanager.google.com). Vergewissern Sie sich, dass Sie Zugriff auf Google Campaign Manager 360-Werbetreibende haben. Wenn Sie ein Campaign Manager 360-Erlebnis in GenStudio for Performance Marketing veröffentlichen, wird es an die Advertiser-Bibliothek bereitgestellt, die bei der Erstellung ausgewählt wurde.
 
 Mit Campaign Manager 360 können Marketing-Fachleute Kampagnen und Anzeigen in verschiedenen (Advertisern __. Jeder Advertiser enthält eine Kreativ-Bibliothek. GenStudio for Performance Marketing veröffentlicht Anzeigenerlebnisse in einer Kreativbibliothek.
 
@@ -30,7 +36,7 @@ Nach Abschluss der Synchronisierung können Sie die hinzugefügten Konten anzeig
 
 ## Schritt 3: Auswählen des Inhalts für Ihr Anzeigenerlebnis
 
-Sie können den Veröffentlichungsprozess entweder über die Galerie _[!DNL Content]_&#x200B;Erlebnisse oder die Startseite der&#x200B;_[!DNL Activate]_ starten. Genehmigte Erlebnisse können nicht bearbeitet werden. Jedes Erlebnis kann nur ein Asset enthalten.
+Sie können den Veröffentlichungsprozess entweder über die Galerie _[!DNL Content]_Erlebnisse oder die Startseite der_[!DNL Activate]_ starten. Genehmigte Erlebnisse können nicht bearbeitet werden. Jedes Erlebnis kann nur ein Asset enthalten.
 
 **So wählen Sie Erlebnisse**:
 
@@ -49,7 +55,7 @@ Die Ansicht _Platform-Setup_ wird geöffnet. Diese Ansicht enthält Optionen, di
 
    Ihre Kreativität wird nach Abschluss der Aktivierung dieser Advertiser-Bibliothek in Google Campaign Manager 360 bereitgestellt.
 
-1. Fügen Sie dem Feld **[!UICONTROL Creative-Name&rbrace;]** Namen hinzu. Google Campaign Manager 360 identifiziert das Erlebnis anhand dieses Namens.
+1. Fügen Sie dem Feld **[!UICONTROL Creative-Name}]** Namen hinzu. Google Campaign Manager 360 identifiziert das Erlebnis anhand dieses Namens.
 Wiederholen Sie diesen Vorgang für jedes ausgewählte Erlebnis.
 
 1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung von Google Campaign Manager 360 zu bestätigen.
@@ -60,7 +66,7 @@ Die _Überprüfen_-Seite bietet eine letzte Möglichkeit, Ihre Aktivierung vor d
 
 1. (Optional) Klicken Sie auf **[!UICONTROL Abschnitt Bearbeiten]** neben der Beschriftung _Platform-Setup_, um das Platform-Setup zu bearbeiten. Erlebnisinhalte können nicht bearbeitet werden.
 
-1. Klicken Sie **[!UICONTROL Veröffentlichen]**.
+1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 Ihre 360-Grad-Anzeigen-Erlebnisse in Campaign Manager werden direkt in die Kreativbibliothek des ausgewählten Campaign Manager 360-Advertisers übertragen.
 
 ## Schritt 6: Vollständige Veröffentlichung Ihres Anzeigenerlebnisses

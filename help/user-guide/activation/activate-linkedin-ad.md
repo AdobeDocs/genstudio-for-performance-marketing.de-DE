@@ -3,9 +3,15 @@ title: Aktivieren einer LinkedIn-Anzeige
 description: Erfahren Sie, wie Sie ein LinkedIn-Anzeigen-Erlebnis aktivieren.
 feature: Ad Activation
 exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/1mcxWePqYd8tYp3e1D2UTSeBHSvPj4WrqeSyiUCxD8c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: 863
 ht-degree: 0%
 
 ---
@@ -14,7 +20,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von LinkedIn-Erlebnissen mit einzelnen Assets für die Seiten [LinkedIn](https://business.linkedin.com/marketing-solutions) und LinkedIn.
 
-Sie können [ein LinkedIn-Erlebnis &#x200B;](/help/user-guide/create/create-linkedin.md) GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
+Sie können [ein LinkedIn-Erlebnis ](/help/user-guide/create/create-linkedin.md) GenStudio for Performance Marketing erstellen und es zur Aktivierung auswählen oder ein neues Erlebnis aus genehmigten Assets in [!DNL Activate] erstellen.
 
 Die Aktivierung einer LinkedIn-Anzeige erfolgt nach den [gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Kanälen erforderlich sind. Der Aktivierungsprozess unterstützt Sie bei der Vorbereitung Ihres Anzeigen-Erlebnisses auf die spezifischen Anforderungen von LinkedIn. Nachdem Sie ein LinkedIn-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie mit LinkedIn Campaign Manager das Erlebnis vor der endgültigen Veröffentlichung für bestimmte LinkedIn-Anzeigenplatzierungen optimieren.
 
@@ -22,7 +28,7 @@ GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 
 ## Schritt 1: LinkedIn-Konten einrichten
 
-Bevor Sie eine Aktivierung starten, [&#x200B; Sie sich bei Ihrem LinkedIn](https://www.linkedin.com/campaignmanager/login)Kampagnenmanager-Konto an.
+Bevor Sie eine Aktivierung starten, [ Sie sich bei Ihrem LinkedIn](https://www.linkedin.com/campaignmanager/login)Kampagnenmanager-Konto an.
 
 >[!BEGINSHADEBOX]
 
@@ -60,7 +66,7 @@ Zu den bearbeitbaren Erlebnisdetails gehören:
 
 **So wählen Sie Erlebnisse**:
 
-1. Verwenden Sie die Such- und Filterwerkzeuge des [!DNL Content], um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**. Alternativ können Sie ein Erlebnis auswählen und **[!UICONTROL Aktivieren]** aus dem Menü Mehr (…) auswählen.
+1. Verwenden Sie die Such- und Filterwerkzeuge des [!DNL Content], um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**. Alternativ können Sie ein Erlebnis und anschließend **[!UICONTROL Aktivieren]** aus den Optionen Mehr (…) auswählen Menü.
 
    Die Seite LinkedIn-Anzeigen _Erlebniseinrichtung_ wird für dieses Erlebnis geöffnet. Es wird vorab mit Details aus dem ausgewählten Erlebnis ausgefüllt. Sie werden möglicherweise aufgefordert, eine Plattform auszuwählen, bevor Sie mit der Aktivierung fortfahren.
 
@@ -105,4 +111,4 @@ Je nach ausgewähltem Abschnitt wird die Ansicht _Erlebniseinrichtung_ oder _Pla
 
 ## Schritt 6: Vollständige Veröffentlichung Ihres Anzeigenerlebnisses
 
-1. [Melden Sie sich bei Ihrem &#x200B;](https://www.linkedin.com/campaignmanager/login) Campaign Manager-Konto an, um Ihr Anzeigenerlebnis zu überprüfen und die Veröffentlichung auf bestimmten LinkedIn-Seiten abzuschließen.
+1. [Melden Sie sich bei Ihrem ](https://www.linkedin.com/campaignmanager/login) Campaign Manager-Konto an, um Ihr Anzeigenerlebnis zu überprüfen und die Veröffentlichung auf bestimmten LinkedIn-Seiten abzuschließen.

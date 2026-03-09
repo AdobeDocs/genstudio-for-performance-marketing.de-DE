@@ -4,9 +4,16 @@ description: Erfahren Sie, wie Sie Anzeigen basierend auf Echtzeit-Inhaltsleistu
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 8bdfe52173b93e55f627f37cb1d6c5b16827d899
+TQID: https://experienceleague.adobe.com/7ERGkM2wuM8JHYf-bi-SAVMSblhwpkt7NNuUNgCCcfc
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: 675
 ht-degree: 0%
 
 ---
@@ -51,15 +58,15 @@ Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterun
 
 ### Kampagnen
 
-Die [[!DNL Insights] _[!UICONTROL Ansicht &#x200B;]_&#x200B;Kampagnen](campaigns.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[&#x200B; dass Sie ein Kanalkonto &#x200B;](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
+Die [[!DNL Insights] _[!UICONTROL Ansicht ]_Kampagnen](campaigns.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[ dass Sie ein Kanalkonto ](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
 
 ### Anzeigen
 
-Die [[!DNL Insights] _[!UICONTROL Anzeigen &#x200B;]_&#x200B;Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL &#x200B; Ansicht &#x200B;]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen&#x200B;_[!UICONTROL &#x200B; Anzeigenamen &#x200B;]_&#x200B;können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
+Die [[!DNL Insights] _[!UICONTROL Anzeigen ]_Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL  Ansicht ]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen_[!UICONTROL  Anzeigenamen ]_können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
 
 ### Medien
 
-Die [[!DNL Insights] _[!UICONTROL Media &#x200B;]_&#x200B;Ansicht](media.md) soll Ihnen dabei helfen, die Leistung kreativer Inhalte zu analysieren. Sie können Medienattribute identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
+Die [[!DNL Insights] _[!UICONTROL Media ]_Ansicht](media.md) soll Ihnen dabei helfen, die Leistung kreativer Inhalte zu analysieren. Sie können Medienattribute identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
 
 Durch Klicken auf Medieninhalte erhalten Sie weitere Informationen zur Leistung in verschiedenen Anzeigen und Anzeigenplatzierungen:
 
@@ -71,4 +78,4 @@ In der Ansicht mit den Mediendetails zeigt die linke Seite eine Miniaturansicht 
 
 Medien _Attribute_ helfen bei der Identifizierung kreativer Inhalte durch inhärente Details wie Farbe, Ton, Komposition (z. B. Betreff, Schriftarten, visuelle Elemente) und andere Schlüsselkomponenten. Attribute sind häufig der am wenigsten gemessene und analysierte Satz von Inhaltsinformationen.
 
-Die [[!DNL Insights] _[!UICONTROL Attribute &#x200B;]_&#x200B;Ansicht](attributes.md) kann Ihnen dabei helfen, zu untersuchen und zu identifizieren, welche Attribute bei bestimmten Zielgruppen, Kanälen und Regionen eine bessere Leistung erzielen, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.
+Die [[!DNL Insights] _[!UICONTROL Attribute ]_Ansicht](attributes.md) kann Ihnen dabei helfen, zu untersuchen und zu identifizieren, welche Attribute bei bestimmten Zielgruppen, Kanälen und Regionen eine bessere Leistung erzielen, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.

@@ -4,18 +4,24 @@ description: Erfahren Sie, wie Sie markengenehmigte Assets in einem intuitiven P
 level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 650a32a1bbb10c17ff25c5bbb36f12cead218dfc
+TQID: https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: 338
 ht-degree: 1%
 
 ---
 
 # Adobe GenStudio for Performance Marketing [!DNL Content]
 
-GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suchen und Freigeben aller markenbestätigten Assets, Erlebnisse und Vorlagen. Sie können Inhalte bearbeiten und neu mischen, insight zur Nutzung von Inhalten und Stimmungen erlangen sowie vorhandene Assets mithilfe generativer KI aktualisieren und wiederverwenden.
+GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suchen und Freigeben aller markenbestätigten Assets, Erlebnisse und Vorlagen. Sie können Inhalte bearbeiten und neu mischen, insight zur Inhaltsnutzung und zum Sentiment nutzen sowie vorhandene Assets aktualisieren und mit generativer KI wiederverwenden.
 
-## [!DNL Content]-Anwendungsfälle 
+## [!DNL Content]-Anwendungsfälle
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -86,4 +92,4 @@ Beim Speichern genehmigter Assets verwaltet [!DNL Content] die Rich-Metadaten, d
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, damit sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen verwendet werden kann. Erfahren Sie mehr über grundlegende Vorlagenelemente und Verfahren in [Arbeiten mit Vorlagen](../templates/use-templates.md). Machen Sie sich außerdem mit dem Thema „Anpassen einer Vorlage[&#x200B; vertraut, um Vorlagen zu &#x200B;](../templates/customize-template.md).
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, damit sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen verwendet werden kann. Erfahren Sie mehr über grundlegende Vorlagenelemente und Verfahren in [Arbeiten mit Vorlagen](../templates/use-templates.md). Machen Sie sich außerdem mit dem Thema „Anpassen einer Vorlage[ vertraut, um Vorlagen zu ](../templates/customize-template.md).

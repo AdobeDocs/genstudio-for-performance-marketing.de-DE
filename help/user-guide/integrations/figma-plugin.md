@@ -4,9 +4,15 @@ description: Erfahren Sie, wie Sie das Figma-Plug-in für GenStudio for Performa
 feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
-source-git-commit: 4ab7e82336bfa6907331b0684253e48066e7d021
+TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2: id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: 1202
 ht-degree: 0%
 
 ---
@@ -29,7 +35,7 @@ Zu den Funktionen dieses Plug-ins gehören:
 * Exportieren Sie generierte [!DNL Experiences] nach GenStudio for Performance Marketing.
 * Verwenden Sie Plug-in-Optionen, die sich an die ausgewählten Elemente auf der Figma-Arbeitsfläche anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478818?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## Erstellen einer Vorlage
 
@@ -102,7 +108,7 @@ Verwenden Sie GenStudio for Performance Marketing AI, um Anzeigenkopien von Vari
 1. Wählen Sie den Abschnittsknoten aus, der Ihre Anzeigenvorlagen enthält. Sie können dies über das Bedienfeld **Ebenen** oder durch direktes Klicken auf den Bereich auf der Arbeitsfläche tun.
    ![Abschnitt oder Varianten auswählen](./plugin-playground.png){width="500" zoomable="yes"}
 1. Geben Sie im Plug-in-Fenster einen Projektnamen für die Varianten ein und wählen Sie eine Plattform für den Inhalt aus.
-1. In **[!UICONTROL Was ist das Ziel?Wählen Sie]** **[!UICONTROL Varianten erstellen]** oder **[!UICONTROL Übersetzen]** und klicken Sie dann auf die Schaltfläche **[!UICONTROL Setup beenden]**.
+1. Wählen **[!UICONTROL unter „Was ist das Ziel?]** die Option **[!UICONTROL Varianten erstellen]** oder **[!UICONTROL Übersetzen]** aus und klicken Sie dann auf die Schaltfläche **[!UICONTROL Setup beenden]**.
    ![Projektfenster einrichten](./setup-project.png){width="300" zoomable="yes"}
 1. Wählen Sie die [!DNL Brand], [!DNL Persona] und [!DNL Product] aus, die für die Inhaltserstellung verwendet werden sollen.
 1. Wählen Sie die Anzahl der zu erstellenden Varianten aus.
@@ -154,9 +160,9 @@ Nachdem Sie eine **[!UICONTROL Aktion]**-Option ausgewählt haben, generieren Si
 Varianten können aus Figma als GenStudio for Performance Marketing [!DNL Experiences] exportiert werden.
 
 1. Wählen Sie den Inhalt aus, der in die Figma-Arbeitsfläche exportiert werden soll, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**&#x200B;Bedienfeld auf Alle für Export markieren .
+   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**Bedienfeld auf Alle für Export markieren .
      ![Generierungsabschnitt auswählen](./select-generation-section.png){width="200" zoomable="yes"}
-   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**&#x200B;Für Export markieren“.
+   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**Für Export markieren“.
      ![Individuelle Generierung auswählen](./select-generation.png){width="200" zoomable="yes"}
 1. Wählen Sie im Seitenleistenmenü die Option Exportieren aus.
    ![Die Schaltfläche „Für Export markieren“ wird für eine Meta-Anzeige angezeigt](./mark-for-export.png){width="60%" zoomable="yes"}

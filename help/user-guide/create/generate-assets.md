@@ -7,22 +7,29 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c1118ada-7fee-43cd-aff4-eab69539afb4
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/NXtN00EKTe0lGI8jJMJWJfWx6mHoMQI1of1mJhgrR5U
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e4a0febc-5163-4017-82ce-fc7594509fb6id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: 836
 ht-degree: 0%
 
 ---
 
-# Erstellen von Bildern
+# Bildern generieren
 
-Mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol) können Sie _[!DNL On-brand images]_&#x200B;generieren - generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und allgemeine Ästhetik einfangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
+Mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol) können Sie _[!DNL On-brand images]_generieren - generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und allgemeine Ästhetik einfangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
 
-Um ein ansprechendes und effektives Bild zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ &#x200B;](/help/user-guide/effective-prompts.md).
+Um ein ansprechendes und effektives Bild zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ ](/help/user-guide/effective-prompts.md).
 
 ## Bildtypen
 
-_[!DNL On-brand images]_&#x200B;sind generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und Gesamtästhetik einfangen. Diese Bilder werden mithilfe von Bildern erstellt, die bereits in [!DNL Content] verfügbar sind, sowie anhand einer sorgfältig gestalteten Eingabeaufforderung, die das Design steuert. Sie halten sich strikt an die Markenrichtlinien und Parameter, die während des Generierungsprozesses ausgewählt wurden.
+_[!DNL On-brand images]_sind generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und Gesamtästhetik einfangen. Diese Bilder werden mithilfe von Bildern erstellt, die bereits in [!DNL Content] verfügbar sind, sowie anhand einer sorgfältig gestalteten Eingabeaufforderung, die das Design steuert. Sie halten sich strikt an die Markenrichtlinien und Parameter, die während des Generierungsprozesses ausgewählt wurden.
 
 _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ --> Richtlinien, Parameter und eine [sorgfältig gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) enthalten, um ansprechende Bild-Assets bereitzustellen.
 
@@ -34,11 +41,11 @@ Sie können [!DNL On-brand images] mithilfe definierter Richtlinien, Parameter u
 
 ### Referenzbild auswählen
 
-Um ein _[!DNL On-brand images]_&#x200B;zu erstellen, wählen Sie ein vorhandenes Bild aus, das in [!DNL Content] gespeichert ist. Informationen [&#x200B; unterstützten &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines)-Dimensionen finden Sie [!DNL on-brand image] „Best Practices für Vorlagen“.
+Um ein _[!DNL On-brand images]_zu erstellen, wählen Sie ein vorhandenes Bild aus, das in [!DNL Content] gespeichert ist. Informationen [ unterstützten [!DNL on-brand image]-Dimensionen finden Sie ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) „Best Practices für Vorlagen“.
 
 **So wählen Sie ein Referenzbild aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Markeninternes Bild]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Markeninternes Bild]**.
 1. Verwenden Sie die Suchoption neben _Filter_, um ein bestimmtes Bild zu finden.
 
    ![Referenzbild auswählen](/help/assets/select-img.png){width="400" zoomable="yes"}
@@ -61,7 +68,7 @@ Die Integration [Richtlinien](/help/user-guide/guidelines/overview.md) und Param
 
 1. Wählen _auf der Registerkarte_ Standard“ eine [!DNL Brand] aus, um über die Inhaltserstellung zu informieren.
 
-   Wenn in diesem Menü keine Marken verfügbar sind, [&#x200B; Sie „Richtlinien zu Ihrer GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md).
+   Wenn in diesem Menü keine Marken verfügbar sind, [ Sie „Richtlinien zu Ihrer GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Wählen Sie unter „Bildkategorie“ eine Bildkategorie aus _[!UICONTROL die Ihrem]_ am besten entspricht.
 
@@ -105,20 +112,20 @@ Nachdem Sie Bildvarianten generiert haben, können Sie sie mit Adobe Express dir
 
    Ein _Powered by Adobe Express_-Fenster wird angezeigt.
 
-1. Führen Sie eine Bildbearbeitung durch, z[&#x200B; B. &#x200B;](https://helpx.adobe.com/de/express/create-and-edit-images/edit-images/crop-images.html)Zuschneiden eines Bildes[&#x200B; „Entfernen eines &#x200B;](https://helpx.adobe.com/de/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html)&quot; und Anwenden von Effekten.
+1. Führen Sie eine Bildbearbeitung durch, z[ B. ](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html)Zuschneiden eines Bildes[ „Entfernen eines ](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html)&quot; und Anwenden von Effekten.
 
-   Siehe [Dokumentation zu Adobe Express](https://helpx.adobe.com/de/express/user-guide.html) um zu erfahren, wie Sie Bilder in GenStudio for Performance Marketing mit Adobe Express überarbeiten können.
+   Siehe [Dokumentation zu Adobe Express](https://helpx.adobe.com/express/user-guide.html) um zu erfahren, wie Sie Bilder in GenStudio for Performance Marketing mit Adobe Express überarbeiten können.
 
 1. Klicken Sie _[!UICONTROL Änderungen übernehmen]_ um Ihre Änderungen zu speichern.
 1. Fahren Sie mit der Bearbeitung einzelner Bildvarianten nach Bedarf fort und wenden Sie Änderungen an, um Ihren Fortschritt zu speichern.
 
 ### Überprüfen der Ausrichtung der Inhaltsprüfung
 
-Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
+Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
 
 **So führen Sie Inhaltsprüfungen durch**:
 
-1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
+1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-img.png){width="500" zoomable="yes"}
 

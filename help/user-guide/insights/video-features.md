@@ -4,9 +4,16 @@ description: Erfahren Sie mehr über die Videofunktion der in GenStudio for Perf
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
+TQID: https://experienceleague.adobe.com/s-8h3ODnNuRyebiDTLZGQORJzPnPOcPzQjIhWBmpk-c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: 572
 ht-degree: 1%
 
 ---
@@ -23,7 +30,7 @@ Die Audioerkennung in GenStudio for Performance Marketing umfasst die Analyse de
 
 **So zeigen Sie eine Vorschau eines Videos an und hören ein Beispiel des Audioinhalts**:
 
-1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Attribute]**&#x200B;aus.
+1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Attribute]**aus.
 
 1. Ändern Sie die Tabellenansicht, indem Sie **[!UICONTROL Video]** auswählen.
 

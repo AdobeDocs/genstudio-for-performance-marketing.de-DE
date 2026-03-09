@@ -3,10 +3,14 @@ title: Erstellen einer App Builder-App
 description: Beginnen Sie mit dem Erstellen einer App oder eines Add-ons zur Erweiterung von GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
-source-git-commit: 04a4f6432c5db87489e39f9396a7782c86441695
+TQID: https://experienceleague.adobe.com/-GBttZv63YVWezBz1o9yrxvd-Uu5mbP-Aqh7Tm-kco4
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 0%
+source-wordcount: 496
+ht-degree: 1%
 
 ---
 
@@ -124,4 +128,4 @@ Durch die Wartung Ihrer Entwicklungsumgebung können Fehler bei der App-Entwickl
 
 * Aktualisieren Sie die GenStudio UIX SDK. Vergewissern Sie sich, dass Sie die neueste Version von [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk) verwenden. Unter [Beispiel-Repository für GenStudio UIX](https://github.com/adobe/genstudio-uix-examples) erfahren Sie, wie Sie die neuesten SDK-Änderungen verwenden.
 
-Jetzt können Sie &quot;[&#x200B; App bereitstellen](deploy-app.md)
+Jetzt können Sie &quot;[ App bereitstellen](deploy-app.md)

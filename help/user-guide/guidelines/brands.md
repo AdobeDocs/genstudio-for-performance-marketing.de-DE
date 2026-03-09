@@ -3,9 +3,15 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  eine umfassende Sammlung von Marken-Assets - Marketing-Kopien, Bilder, Erlebnisse und mehr -, die als Grundlage für die Erstellung markenbezogener Inhalte dienen.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: a67efc3bc517ffe2d130efd4e577ef652e07d462
+TQID: https://experienceleague.adobe.com/mZ70azBCwP8KshE6iX7hwGvEWawBkU36aDejZbAkRAY
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: f54ee13b-9545-4d68-9842-a12026e60aafid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1522'
+source-wordcount: 1525
 ht-degree: 2%
 
 ---
@@ -18,7 +24,7 @@ GenStudio for Performance Marketing nutzt die Fülle an Markendaten aus Ihrer [!
 
 ## Verwalten von Marken
 
-Nachdem Sie Markenrichtlinien zu GenStudio for Performance Marketing hinzugefügt haben, können [&#x200B; sie &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands) (verwalten[&#x200B; veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung stehen sie Ihrem Team zur Asset-Generierung zur Verfügung.
+Nachdem Sie Markenrichtlinien zu GenStudio for Performance Marketing hinzugefügt haben, können [ sie ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) (verwalten[ veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung stehen sie Ihrem Team zur Asset-Generierung zur Verfügung.
 
 [!DNL Brands] können sich entweder im Status _Unveröffentlicht_ oder _Veröffentlicht_ befinden. Neuer [!DNL Brands] als _Unveröffentlicht_.
 
@@ -34,7 +40,7 @@ Richtlinien geben GenStudio for Performance Marketing ein klares Bild von Ihrem 
 
 >[!NOTE]
 >
->Wenn Sie Markenrichtlinien hochladen, die in einer anderen Sprache als Englisch verfasst sind, oder manuell eine Marke in einer anderen Sprache erstellen, zeigt GenStudio for Performance Marketing diese Richtlinien in derselben Sprache an.
+Wenn Sie Markenrichtlinien hochladen, die in einer anderen Sprache als Englisch verfasst sind, oder manuell eine Marke in einer anderen Sprache erstellen, zeigt GenStudio for Performance Marketing diese Richtlinien in derselben Sprache an.
 
 Einige Kanalrichtlinien, die von [Platform-Richtlinien und ADA-Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) abstrahiert werden, werden als Standardwerte vorausgefüllt.
 
@@ -48,14 +54,14 @@ Die folgende Tabelle zeigt die einzelnen Kategorien von Richtlinien und Richtlin
 
 | Richtlinienkategorie | Beschreibung | Best Practices |
 | ------------------| :---------- | :---------- |
-| [!UICONTROL Ton der Stimme] | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_: „echt“, „verspielt“<br><br>Präzise (3-6 Richtlinien) und Fokus auf wichtige Markensprachattribute.<br><br>Wählen Sie Wörter/Ausdrücke aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
-| [!UICONTROL Markenwerte] | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_: „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
-| [!UICONTROL Redaktionelle Leitlinien] | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie eine einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie eine klare und umsetzbare Anleitung. <br>_Beispiele_: „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein“<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_: „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie den Satzfall“<br><br> Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
-| [!UICONTROL Redaktionelle Einschränkungen] | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von…“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
+| [!UICONTROL Ton der Stimme] | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_ „echt“, „verspielt“<br><br>Präzise sein (3-6 Richtlinien) und sich auf wichtige Markensprachattribute konzentrieren.<br><br>Wählen Sie Wörter/Sätze aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
+| [!UICONTROL Markenwerte] | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_ „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
+| [!UICONTROL Redaktionelle Leitlinien] | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiele_ „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_ „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie einen <br><br>„Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
+| [!UICONTROL Redaktionelle Einschränkungen] | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von …“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
 
 ### Bildrichtlinien
 
-Die folgende Tabelle zeigt die einzelnen Kategorien von Bildrichtlinien und die zugehörigen Werte. Sie müssen [Kategorie“ &#x200B;](add-guidelines.md#add-brands), z. B. „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“, um die Bildrichtlinien anzuwenden.
+Die folgende Tabelle zeigt die einzelnen Kategorien von Bildrichtlinien und die zugehörigen Werte. Sie müssen [Kategorie“ ](add-guidelines.md#add-brands), z. B. „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“, um die Bildrichtlinien anzuwenden.
 
 | Richtlinienkategorie | Beschreibung | Werte |
 | ------------------| :---------- | :---------- |
@@ -76,15 +82,15 @@ Die folgende Tabelle zeigt jeden Kanalabschnitt, die Kanäle, für die er verfü
 
 | Abschnitte | Kanäle | Beschreibung | Best Practices |
 | ------------------| --------- | --------- | -------- |
-| Allgemein | E-Mail-, Meta-, Banner- und Display-Anzeigen | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Definieren Sie den allgemeinen Ton/die Emotionen, um in allen E-Mails konsistent zu sein (2-5 Richtlinien).<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechenden Tons“, „Vermeidung übermäßig formaler Sprache“<br><br> |
-| Betreff | E-Mail | Ein überzeugender und interessanter Titel, um den Inhalt einer E-Mail zusammenzufassen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) zu Ton, Länge usw. an. Fügen Sie zuvor erfolgreiche Betreffzeilen im Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiel_: „Betreff an E-Mail-Textkörper ausrichten“ |
-| Preheader | E-Mail | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Preheader im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiel_: „Beschränkung auf 60-80 Zeichen“ |
-| Überschrift | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Ein Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Überschriften im Abschnitt _Beispiele_ hinzu, um die Qualität der Ergebnisse zu verbessern.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
-| Unterüberschrift | E-Mail-, Banner- und Display-Anzeigen | Ein zweiter oder dritter Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) an, die den Ton, die ideale Länge usw. definieren. Fügen Sie zuvor erfolgreiche Unterüberschriften im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ergebnisse zu erzielen.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
-| Beschreibung | LinkedIn | Beschreibende Phrasen, die allgemeine Tonemotionen definieren | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Beschreibungen im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechbaren Tons“ |
-| Textkörper | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Marketing-Inhalte, einschließlich Nachrichten, Links und Bildern | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beschränkung auf 80-100 Zeichen“, „Vermeidung übermäßiger Akronyme“ |
-| Text auf dem Bild | Meta, LinkedIn | Spezifische Führung auf den Ton, ideale Länge, etc. Für Text, der über Bildern angezeigt wird | Geben Sie eine spezifische Anleitung (1-2 Sätze) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreichen Text zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Fokussiere dich auf den Moment“ |
-| Call-to-action (CTA) | E-Mail-, Meta-, Banner- und Display-Anzeigen | (Call to action) Eine Anleitung für den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche CTAs zum Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiele_: „Verwenden Sie keine Satzzeichen für Enden“ |
+| Allgemein | E-Mail-, Meta-, Banner- und Display-Anzeigen | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Definieren Sie den allgemeinen Ton/die Emotionen, um in allen E-Mails konsistent zu sein (2-5 Richtlinien).<br>_Beispiele_: „Behalten Sie einen freundlichen und ansprechenden Ton bei“, „Vermeiden Sie übermäßig formale Sprache“<br><br> |
+| Betreff | email | Ein überzeugender und interessanter Titel, um den Inhalt einer E-Mail zusammenzufassen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) zu Ton, Länge usw. an. Fügen Sie zuvor erfolgreiche Betreffzeilen im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiel_: „Betreff an E-Mail-Textkörper anpassen“ |
+| Preheader | email | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Preheader im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiel_: „Limit to 60-80 characters“ |
+| Überschrift | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Ein Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Überschriften im Abschnitt _Beispiele_ für eine bessere Qualität der Ergebnisse hinzu.<br>_Beispiele_: „Verwenden Sie überzeugende Aussagen, um Aufmerksamkeit zu erregen“ |
+| Unterüberschrift | E-Mail-, Banner- und Display-Anzeigen | Ein zweiter oder dritter Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) an, die den Ton, die ideale Länge usw. definieren. Fügen Sie zuvor erfolgreiche Unterüberschriften im Abschnitt _Beispiele_ für eine bessere Ausgabequalität hinzu.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
+| Beschreibung | LinkedIn | Beschreibende Phrasen, die allgemeine Tonemotionen definieren | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Beschreibungen im Abschnitt _Beispiele_ für eine bessere Ausgabequalität hinzu.<br>_Beispiele_: „Behalten Sie einen freundlichen und ansprechbaren Ton bei“ |
+| Textkörper | E-Mail-, Meta-, Banner- und Display-Anzeigen, LinkedIn | Marketing-Inhalte, einschließlich Nachrichten, Links und Bildern | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ für eine bessere Ausgabequalität hinzu.<br>_Beispiele_: „Auf 80-100 Zeichen begrenzen“, „Übermäßige Akronyme vermeiden“ |
+| Text auf dem Bild | Meta, LinkIn | Spezifische Leitlinien für den Ton, die ideale Länge usw. für Text, der über den Bildern angezeigt wird | Geben Sie eine spezifische Anleitung (1-2 Sätze) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreichen Text zum Abschnitt _Beispiele_ für eine bessere Ausgabequalität hinzu.<br>_Beispiele_: „Fokus auf den Moment“ |
+| Call-to-action (CTA) | E-Mail-, Meta-, Banner- und Display-Anzeigen | (Call to action) Eine Anleitung für den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche CTAs zum Abschnitt _Beispiele_ für eine bessere Ausgabequalität hinzu.<br>_Beispiele_: „Verwenden Sie keine Interpunktion am Ende“ |
 
 #### Richtlinien für Standardkanäle
 
@@ -149,7 +155,7 @@ Jedes hochgeladene Logo enthält die folgenden Details in der Logo-Kachel:
 - Dateigröße
 - Auflösung
 
-Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [&#x200B; einzelne Logo anzeigen und &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
+Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [ einzelne Logo anzeigen und ](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
 
 - **[!UICONTROL Details anzeigen]**
 - **[!UICONTROL Download]**

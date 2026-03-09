@@ -3,16 +3,20 @@ title: Inhalt genehmigen
 description: Erfahren Sie, wie Sie generierte Inhalte mit Adobe GenStudio for Performance Marketing genehmigen.
 feature: Content Review, Content Management
 exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
-source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
+TQID: https://experienceleague.adobe.com/-gEhuBGNiJb3BxrRvJKcZea87FCe5FERanIKGLBuO3U
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 1%
+source-wordcount: 202
+ht-degree: 5%
 
 ---
 
 # Inhalt genehmigen
 
-Genehmigende Personen erhalten produktinterne Benachrichtigungen, E-Mails und, falls aktiviert, Slack-Benachrichtigungen, wenn ihre Überprüfung und Genehmigung erforderlich ist. Benachrichtigungen enthalten einen Link zur Arbeitsfläche, auf der der zu überprüfende Inhalt angezeigt wird. Informationen [&#x200B; Verwalten Ihrer Benachrichtigungen finden Sie &#x200B;](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences) „Kontovoreinstellungen und Benachrichtigungen“.
+Genehmigende Personen erhalten produktinterne Benachrichtigungen, E-Mails und, falls aktiviert, Slack-Benachrichtigungen, wenn ihre Überprüfung und Genehmigung erforderlich ist. Benachrichtigungen enthalten einen Link zur Arbeitsfläche, auf der der zu überprüfende Inhalt angezeigt wird. Informationen [ Verwalten Ihrer Benachrichtigungen finden Sie ](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences) „Kontovoreinstellungen und Benachrichtigungen“.
 
 Wenn der Inhaltsentwurf den Standards Ihres Unternehmens und Ihren Erwartungen entspricht, können Sie den Entwurf genehmigen.
 
@@ -30,7 +34,7 @@ Wenn Sie eine bestimmte genehmigende Person sind, zeigt [!DNL Proofing Viewer] d
 
 **Um eine Entscheidung über den Inhalt zu treffen**:
 
-1. Klicken **[!UICONTROL oben in]** auf [!DNL Proofing Viewer]Entscheidung treffen“.
+1. Klicken **[!UICONTROL oben in [!DNL Proofing Viewer] auf]** Entscheidung treffen“.
 
    Das Popup _Korrekturabzugsentscheidung_ wird geöffnet und zeigt Optionen zum Genehmigen oder Senden von Feedback an.
 
