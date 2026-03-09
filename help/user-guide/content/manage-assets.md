@@ -3,9 +3,27 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften Assets zur Verwendung und Wiederverwendung in Ihrer Digital-Marketing-Journey.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/G9pgYplVoU0cVTOveP57W7MtUehg1E5GAiuGzjL8wRc
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1509'
+source-wordcount: 1518
 ht-degree: 1%
 
 ---
@@ -16,7 +34,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbess
 
 ## [!DNL Content]
 
-In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Assets Klicken Sie in der Ansicht _[!UICONTROL 0&rbrace; auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden.]_
+In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Assets Klicken Sie in der Ansicht _0&rbrace; auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._
 
 Im Folgenden sehen Sie eine Suche nach dem Begriff `space` in der Galerie [!UICONTROL Assets]:
 
@@ -54,7 +72,7 @@ Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vor
 
    Klicken Sie **[!UICONTROL Herunterladen]** (Abwärtspfeil), um das Asset auf Ihrer lokalen Workstation zu verwenden.
 
-### Speicherort
+### Standort
 
 Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create] oder durch Hochladen hinzufügen, im `GenStudio assets`-Repository gespeichert. Das `GenStudio assets`-Repository ist ein Lese-/Schreib-Repository in GenStudio for Performance Marketing. Das bedeutet, dass Sie Assets im `GenStudio assets`-Repository speichern, bearbeiten und löschen können.
 
@@ -66,7 +84,7 @@ Wenn Sie ein AEM-Repository auswählen, zeigt die Galerie ein Inventar der Asset
 
 AEM Anleitungen [&#x200B; Hinzufügen Ihres-Repositorys &#x200B;](connect-aem-repo.md) GenStudio for Performance Marketing finden Sie unter „Verbinden eines [!DNL AEM Assets Content Hub]-Repositorys“.
 
-Das AEM-Repository ist schreibgeschützt, d. h. Sie können auf den Inhalt zugreifen, aber keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen `GenStudio assets`Systemmetadaten“ im [-Repository &#x200B;](asset-details.md#system-metadata).
+Das AEM-Repository ist schreibgeschützt, d. h. Sie können auf den Inhalt zugreifen, aber keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository &#x200B;](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 

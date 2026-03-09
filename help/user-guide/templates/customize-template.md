@@ -5,9 +5,25 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 4f3d8558f37656ccfc67b592e0bb9e90c30a7963
+TQID: https://experienceleague.adobe.com/6gHxPvfz-30X3w2MYIc2Aj5SiGZokzOqSvOHYTQ-u7I
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1633'
+source-wordcount: 1646
 ht-degree: 0%
 
 ---
@@ -44,7 +60,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 
 | Feld | Rolle | Kanalvorlage |
 | ----------------------- | ------------------------- | ------------------------------------------------ |
-| `{{pre_header}}` | Preheader | E-Mail |
+| `{{pre_header}}` | Preheader | email |
 | `{{headline}}` | Überschrift | E-Mail <br>Meta-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{sub_headline}}` | Unterüberschrift | email<br>banner und Display-Anzeige |
 | `{{introductory_text}}` | Einführungstext | LinkedIn-Anzeige |
@@ -52,7 +68,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio for P
 | `{{cta}}` | Call to action<br>Siehe [Aktionsaufrufe](#calls-to-action) | E-Mail <br>Meta-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{image}}` | Bild (Image) - Auswahl aus [!DNL Content] | E-Mail <br>Meta-Anzeige <br>Banner und Display-Anzeige <br>LinkedIn-Anzeige |
 | `{{on_image_text}}` | Bei Bildtext<br> Siehe [Bei Bildtext](#on-image-text). | Meta-Anzeige <br>LinkedIn-Anzeige |
-| `{{link}}` | Call to action on image<br>Siehe [Link on image](#link-on-image). | E-Mail |
+| `{{link}}` | Call to action on image<br>Siehe [Link on image](#link-on-image). | email |
 
 <!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
 
@@ -213,7 +229,7 @@ Rich-Text-Bearbeitung kann für bestimmte Felder innerhalb bestimmter Kanäle ve
 
 ## Abschnitte oder Gruppen
 
-Wenn für Ihre E-Mail-Vorlage mehrere Inhaltsbereiche erforderlich sind, z. B. mehrere Angebote oder Geschichten, können Sie diese mithilfe von Abschnitten oder Gruppen organisieren. _Abschnitte_ informieren GenStudio for Performance Marketing, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
+Wenn für Ihre E-Mail-Vorlage mehrere Inhaltsbereiche erforderlich sind, z. B. mehrere Angebote oder Geschichten, können Sie diese mithilfe von Abschnitten oder Gruppen organisieren. _Abschnitte_ Informieren Sie GenStudio for Performance Marketing darüber, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
 
 Verwenden Sie einen Gruppennamen Ihrer Wahl als Präfix, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Verwenden Sie einen Feldnamen (z. B. `headline`, `body`, `image` oder `cta`) nach dem Unterstrich (`_`).
 

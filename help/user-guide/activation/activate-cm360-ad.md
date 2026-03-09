@@ -3,9 +3,21 @@ title: Aktivieren einer Google Campaign Manager 360-Anzeige
 description: Erfahren Sie, wie Sie Google Campaign Manager 360 aktivieren.
 feature: Ad Activation
 exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/pQbT2OC7-jK33HhJWgTBBtJrmEvr48mGkl8v-fTkOLQ
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: 551
 ht-degree: 0%
 
 ---
@@ -60,7 +72,7 @@ Die _Überprüfen_-Seite bietet eine letzte Möglichkeit, Ihre Aktivierung vor d
 
 1. (Optional) Klicken Sie auf **[!UICONTROL Abschnitt Bearbeiten]** neben der Beschriftung _Platform-Setup_, um das Platform-Setup zu bearbeiten. Erlebnisinhalte können nicht bearbeitet werden.
 
-1. Klicken Sie **[!UICONTROL Veröffentlichen]**.
+1. Klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 Ihre 360-Grad-Anzeigen-Erlebnisse in Campaign Manager werden direkt in die Kreativbibliothek des ausgewählten Campaign Manager 360-Advertisers übertragen.
 
 ## Schritt 6: Vollständige Veröffentlichung Ihres Anzeigenerlebnisses

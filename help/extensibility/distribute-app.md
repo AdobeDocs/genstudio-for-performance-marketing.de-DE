@@ -3,10 +3,15 @@ title: Verteilen der App
 description: Verteilen Sie Ihre App oder Ihr Add-on für GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4935356b-08df-402c-b1a2-b89627afc188
-source-git-commit: 2df93292f456cc952f72faea3d25ca0503a4e2db
+TQID: https://experienceleague.adobe.com/6SHsqsafwqCWS3dspM65BTVAqZ09WwW2IxF-PIecINE
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 0%
+source-wordcount: 303
+ht-degree: 1%
 
 ---
 
@@ -16,7 +21,7 @@ Durch die Verteilung des Add-ons kann es von Ihrem Unternehmen und anderen verwe
 
 In diesem Thema wird die private Verteilung beschrieben. Private Distribution beschränkt die Bereitstellung des Add-ons auf die Organisation, die durch die IMS-Organisation identifiziert wird, für die es entwickelt wurde.
 
-Öffentliche Verteilung stellt das Add-on als App auf der Adobe Exchange zur Verfügung. [Öffentliche Verteilung](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) wird in der Entwicklerdokumentation zu _App Builder_ beschrieben, wie Sie Ihre App für jede Adobe-Organisation verfügbar machen.
+Öffentliche Verteilung stellt das Add-on als App auf der Adobe Exchange zur Verfügung. [Öffentliche Verteilung](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) In der Entwicklerdokumentation zu _App Builder_ wird beschrieben, wie Sie Ihre App für jede Adobe-Organisation verfügbar machen.
 
 >[!BEGINSHADEBOX]
 

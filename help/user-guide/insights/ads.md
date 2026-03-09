@@ -4,9 +4,29 @@ description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget 
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 8bdfe52173b93e55f627f37cb1d6c5b16827d899
+TQID: https://experienceleague.adobe.com/TVvHSbmD8vvc4y9xmg4iPnT-eWKwjln5730LUdgUW0k
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1458'
+source-wordcount: 1449
 ht-degree: 0%
 
 ---
@@ -85,9 +105,9 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen digitalen 
 | **[!UICONTROL Impressions]** | Eine Zählung, mit der jedes Mal, wenn die Anzeigenplatzierung oder -anzeige im Kanal geladen wird, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für eine echte Leistung von insight sollten Sie sie im Zusammenhang mit anderen Interaktionsmetriken berücksichtigen. |
 | **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende in einer Anzeigenplatzierung mit einem anklickbaren Element interagieren, z. B. mit einem Link oder einer call-to-action-Schaltfläche. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
 | **[!UICONTROL CTR &#x200B;]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die innerhalb einer Kampagne zu Klicks auf die Anzeige geführt haben.<br>**Berechnung**: `clicks` geteilt durch `impressions` | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
-| **[!UICONTROL CPM &#x200B;]**<br>_Kosten pro Tausend_ | Die durchschnittlichen Kosten für jede tausend Anzeigen-Impressionen.<br>**Berechnung**: Gesamtbetrag `spent` durch REACH geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
-| **[!UICONTROL CPA &#x200B;]**<br>_Kosten pro Aktion_ | Die durchschnittlichen Kosten, die für eine bestimmte Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Verwenden Sie , um die Ausgaben für Anzeigen zu überwachen, die zu wertvollen Kundenaktionen führen. |
-| **[!UICONTROL CPC &#x200B;]**<br>_Cost per click_ | Die durchschnittlichen Kosten, die mit jedem Klick in einer Anzeigenplatzierung verbunden sind.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
+| **[!UICONTROL CPM &#x200B;]**<br>_Kosten pro Tausend_ | Die durchschnittlichen Kosten für jeweils 1.000 Anzeigenimpressionen.<br>**Berechnung**: Der Gesamtbetrag `spent` durch die Reichweite geteilt und dann mit 1.000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
+| **[!UICONTROL CPA &#x200B;]**<br>_Kosten pro Aktion_ | Die durchschnittlichen Kosten, die für die Durchführung einer bestimmten Kundenaktion aufgewendet werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Verwenden Sie , um die Ausgaben für Anzeigen zu überwachen, die zu wertvollen Kundenaktionen führen. |
+| **[!UICONTROL CPC &#x200B;]**<br>_Cost per click_ | Die Durchschnittskosten für jeden Klick in einer Anzeigenplatzierung.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
 | **[!UICONTROL Ausgaben]** | Der Betrag, der über einen bestimmten Zeitraum aus dem Kampagnenbudget für die Platzierung dieser Anzeige ausgegeben wurde. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |
 | **Attribute** | Liste der in dieser Anzeige vorhandenen inhärenten Funktionen. | Attribute helfen dabei, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |
 

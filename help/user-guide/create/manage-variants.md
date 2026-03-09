@@ -3,9 +3,28 @@ title: Verwalten von Varianten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen im Bereich des digitalen Marketings an und erweitern Sie sie.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+TQID: https://experienceleague.adobe.com/2VdZdQv90JGEpCM7BE4egbz933eotbeePy3ze35mM0o
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2125
 ht-degree: 0%
 
 ---
@@ -49,7 +68,7 @@ Die Textformatierungsoptionen variieren je nach Kanal (Meta, E-Mail usw.)
 1. Neuen Text eingeben.
 1. Um den Text zu formatieren, markieren Sie den entsprechenden Text und klicken Sie auf [!UICONTROL Text formatieren**].
 
-   Wenden Sie eine (oder alle!) der verfügbaren Formatierungsoptionen auf Ihren Text an.
+   Alle (oder alle!) anwenden einer der verfügbaren Formatierungsoptionen für Ihren Text.
 
 1. Klicken Sie zum Speichern auf das Textfeld.
 
@@ -297,7 +316,7 @@ Das Generations-Feedback gilt für eine einzelne Variante, nicht für den erfass
 
 1. Fügen Sie die folgenden Informationen in das Feedback-Popup ein:
    1. Wählen Sie die Option _[!UICONTROL Referenzinhalt und Ebenendaten einbeziehen]_, um diese zusätzlichen Referenzinformationen in das gesammelte Feedback aufzunehmen.
-   1. Aus dem _[!UICONTROL Was hat gut funktioniert?]_ oder _[!UICONTROL Was ist schiefgelaufen?Wählen Sie]_ Abschnitt die Optionen aus, die beschreiben, was die Inhaltserstellung zu hoher oder schlechter Qualität macht.
+   1. Aus dem _[!UICONTROL Was hat gut funktioniert?]_ oder _[!UICONTROL Was ist schiefgelaufen?]_ Wählen Sie die Optionen aus, die beschreiben, was die Inhaltserstellung zu hoher oder schlechter Qualität macht.
    1. Fügen Sie weitere hilfreiche oder zugehörige Informationen in das Feld _[!UICONTROL Hinweise]_ ein.
 1. Klicken Sie auf **[!UICONTROL Absenden]**.
 

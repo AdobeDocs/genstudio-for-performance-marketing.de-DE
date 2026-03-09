@@ -4,9 +4,44 @@ description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen 
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: c7300b3f531947081253aaf719e099512b419539
+TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
+  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
+  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
+  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '4384'
+source-wordcount: 4448
 ht-degree: 0%
 
 ---
@@ -15,7 +50,7 @@ ht-degree: 0%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2026,01 {#latest}
+## 2026.01 {#latest}
 
 ### Neugestaltung des HTML Canvas-Eingabeaufforderungsbedienfelds
 
@@ -56,7 +91,7 @@ Marketing-Experten können jetzt Logos innerhalb von Vorlagen direkt im [!DNL Cr
 ### Vordefinierte Übersetzung für bezahlte Medien und E-Mail
 
 * Übersetzen Sie direkt in GenStudio for Performance Marketing genehmigte bezahlte Medien- und E-Mail-Erlebnisse in über 40 Sprachen.
-* Mithilfe der Azure Open AI-Übersetzungs-Services können Teams Inhalte gleichzeitig in mehrere Zielsprachen übersetzen.
+* Mit den Open AI-Übersetzungs-Services von Azure können Teams Inhalte gleichzeitig in mehrere Zielsprachen übersetzen.
 
 ### PDF-Export für Erlebnisse
 
@@ -123,7 +158,7 @@ Marketing-Experten können jetzt Logos innerhalb von Vorlagen direkt im [!DNL Cr
 
 ### Import von E-Mail-Vorlagen von Drittanbietern
 
-* GenStudio for Performance Marketing unterstützt jetzt die nahtlose Integration mit E-Mail-Design-Systemen von Drittanbietern über ein Erweiterbarkeits-Framework. Zu den wichtigsten Funktionen gehören:
+* GenStudio for Performance Marketing unterstützt jetzt die nahtlose Integration mit E-Mail-Design-Systemen von Drittanbietern über ein Erweiterbarkeits-Framework. Die wichtigsten Funktionen ermöglichen Folgendes:
 
    * Automatisches Importieren von Vorlagen aus E-Mail-Design-Systemen von Drittanbietern bei der Inhaltserstellung
    * Vorlagen-Metadaten zusammen mit importierten Vorlagen importieren
@@ -172,7 +207,7 @@ Der neue Sprachselektor in der Eingabeaufforderungsschublade unterstützt die Er
 
 ### Dieselbe Rolle in mehreren Textfeldern verwenden
 
-Mehrere Textfelder mit derselben Rolle werden jetzt für komplexe Kundenvorlagen unterstützt (z. B. „body“, „cta“, „on image text“ usw.).
+Es werden jetzt mehrere Textfelder mit derselben Rolle unterstützt (z. B. „body“, „cta“, „on image text“ usw.) für komplexe Kundenvorlagen.
 
 Erkunden Sie die Details in [Anleitung für den Vorlagen-Code-Editor](/help/user-guide/templates/code-editor.md).
 
@@ -220,7 +255,7 @@ Fügen Sie den Bildern und call-to-action-Links in Ihren Varianten Barrierefreih
 
 Das neue Dropdown-Menü zur Sprachauswahl in der Eingabeaufforderungsschublade unterstützt die Erstellung mehrsprachiger Inhalte, sodass regionale Marketing-Experten markeninterne Inhalte für ihre lokalen Zielgruppen entwickeln können. Diese Funktion unterstützt derzeit 12 GA- und 5 Beta-Sprachen. Die Sprachliste bietet einen definierten Workflow und eine klare Sprachanweisung für den LLM, um konsistentere Ausgaben zu erzielen.
 
-### Vorlagenauswahl optional für Meta-Anzeigen
+### Vorlagenauswahl für Meta Ads optional
 
 [!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
 
@@ -246,11 +281,11 @@ Jetzt können Sie in GenStudio for Performance Marketing [!DNL Create] die [Gene
 
 [!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
 
-Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/create/create-linkedin.md#manage-videos) und [Meta](/help/user-guide/create/create-meta-ad.md#manage-videos)-Anzeigen hinzufügen. Sehen Sie sich die automatische Wiedergabe der Videos direkt in GenStudio for Performance Marketing an, während Sie auswählen, und fügen Sie Ihren Varianten Videos hinzu.
+Neben Bildinhalten können Sie jetzt Videos zu &lbrace;LinkedIn[&#x200B; und {](/help/user-guide/create/create-linkedin.md#manage-videos)}Meta[&#128279;](/help/user-guide/create/create-meta-ad.md#manage-videos)-Anzeigen hinzufügen. Sehen Sie sich die automatische Wiedergabe der Videos direkt in GenStudio for Performance Marketing an, während Sie auswählen, und fügen Sie Ihren Varianten Videos hinzu.
 
 ### Fehlerbehebungen und Verbesserungen
 
-* Unterstützung für [Veröffentlichen von Anzeigenerlebnissen](/help/user-guide/activation/activate-linkedin-ad.md) von GenStudio for Performance Marketing in LinkedIn Campaign Manager wurde hinzugefügt. [!DNL Activate] unterstützt detaillierte Vorschauen von LinkedIn-Anzeigen vor der Veröffentlichung in LinkedIn Campaign Manager.
+* Unterstützung für [Veröffentlichen von Anzeigenerlebnissen](/help/user-guide/activation/activate-linkedin-ad.md) von GenStudio for Performance Marketing in LinkedIn Campaign Manager wurde hinzugefügt. [!DNL Activate] unterstützt detaillierte LinkedIn-Anzeigenvorschauen vor der Veröffentlichung in LinkedIn Campaign Manager.
 
 * Die [Workfront Proof-Integration](/help/user-guide/approvals/overview.md) bringt die leistungsstarken Prüf- und Genehmigungsfunktionen des Testversands in GenStudio for Performance Marketing ein. In GenStudio for Performance Marketing überprüfte Inhalte werden mit Workfront Proof synchronisiert. Überprüfungskommentare und -status werden beibehalten.
 
@@ -262,7 +297,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 * Sie können jetzt [Rich-Text-Formatierung für Text verwenden](/help/user-guide/create/manage-variants.md#manually-edit-text) in Ihren generierten Varianten verwenden. Experimentieren Sie mit einer Vielzahl von Formatierungsoptionen für Varianttext, z. B. Farbe, Größe, Listen und mehr.
 
-* Sie können jetzt während [&#x200B; Platform-Einrichtung einen neuen &#x200B;](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) erstellen, indem Sie während der Platform-Einrichtung einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensets definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
+* Sie können jetzt während [&#x200B; Platform-Einrichtung einen neuen &#x200B;](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) erstellen, indem Sie während der Platform-Einrichtung einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensätze definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
 
 * Sie können jetzt Kampagnendetails exportieren, um sie in Word oder PDF als Kampagnenseminare extern zugänglich zu machen. Wählen Sie eine Kampagne aus und klicken Sie dann **[!UICONTROL Exportieren]** (obere rechte Ecke).
 
@@ -285,7 +320,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 * Neue Filteroptionen für Vorlagen! Jetzt können Sie Ihre Liste _[!UICONTROL Vorlagen auswählen]_ in [!DNL Create] und in _[!UICONTROL Inhalt]_ > _[!UICONTROL Vorlagen]_ verfeinern. Siehe [Suchvorlagen](/help/user-guide/templates/use-templates.md#search-templates). Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 * Mit dieser Funktion [&#x200B; einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt &#x200B;](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
-* Es wurde [&#x200B; ein &#x200B;](/help/user-guide/templates/use-templates.md#template-elements)neues Vorlagenfeld`sub-headline` hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
+* Es wurde `sub-headline` ein [neues Vorlagenfeld](/help/user-guide/templates/use-templates.md#template-elements) hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
 * Unterstützung für das [&#x200B; von Anzeigenerlebnissen &#x200B;](/help/user-guide/activation/overview.md) GenStudio for Performance Marketing in Google Campaign Manager 360 hinzugefügt. Activate unterstützt detaillierte Vorschauen von Google Campaign Manager 360-Anzeigen, bevor sie auf einem Campaign Manager 360-Advertiser veröffentlicht werden. Über Activate veröffentlichte Anzeigen werden automatisch nach der Live-Schaltung in die Insights gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
 
 +++
@@ -294,7 +329,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 
 ### Meta Ads aktivieren
 
-Marketing-Fachleute können jetzt [Anzeigen-Erlebnisse](/help/user-guide/activation/overview.md) aus GenStudio for Performance Marketing in Meta Ads Manager veröffentlichen. [!DNL Activate] unterstützt detaillierte Vorschauen von Meta-Anzeigen vor der Bereitstellung. Über [!DNL Activate] veröffentlichte Meta-Anzeigen werden automatisch nach der Live-Schaltung in die [!DNL Insights] gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
+Marketing-Fachleute können jetzt [Anzeigen-Erlebnisse](/help/user-guide/activation/overview.md) aus GenStudio for Performance Marketing in Meta Ads Manager veröffentlichen. [!DNL Activate] unterstützt detaillierte Meta-Anzeigenvorschauen vor der Bereitstellung. Über [!DNL Activate] veröffentlichte Meta-Anzeigen werden automatisch nach der Live-Schaltung in die [!DNL Insights] gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
 
 ### Verknüpfte Erlebnisse erstellen
 
@@ -569,7 +604,7 @@ Mit dieser Version wird Adobe GenStudio for Performance Marketing eingeführt, e
 
 Zu den wichtigsten Produktfunktionen gehören:
 
-**[!DNL Create]** stellt die Arbeitsfläche vor, die ein strukturiertes Eingabeerlebnis bietet, mit dem Inhaltseditoren schnell Inhalte und Varianten generieren können. Systemmanager schulen das Produkt entsprechend den Richtlinien für Unternehmensmarken. [!DNL Create] stellt sicher, dass alle mit KI generierten Inhalte mit Ihren Markenrichtlinien - Branding, Kundenrollen und Produktbeschreibungen - übereinstimmen, und optimiert die Erstellung wirkungsvoller, markenkonsistenter Marketing-Inhalte.
+**[!DNL Create]** stellt die Arbeitsfläche vor, die ein strukturiertes Eingabeerlebnis bietet, mit dem Inhaltseditoren schnell Inhalte und Varianten generieren können. Systemmanager schulen das Produkt entsprechend den Richtlinien für Unternehmensmarken. [!DNL Create] stellt sicher, dass alle KI-generierten Inhalte mit Ihren Markenrichtlinien - Branding, Kundenrollen und Produktbeschreibungen - übereinstimmen, und optimiert die Produktion von wirkungsvollen, markenkonsistenten Marketing-Inhalten.
 
 **[!DNL Content]** speichert kuratierte, markenkonforme genehmigte Assets und Erlebnisse. GenStudio for Performance Marketing-Anwender können genehmigte Assets einfach finden, bearbeiten, wiederverwenden und freigeben, sodass für jede Kampagne weniger Inhalte von Grund auf neu erstellt werden müssen.
 

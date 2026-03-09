@@ -4,10 +4,36 @@ description: Schnelles Generieren von leistungsstarken, markeninternen Inhalten 
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
+TQID: https://experienceleague.adobe.com/Qgnbf7BVqsRFk5SmkQHkvwK-GAaUtLFfAVXb1HYLSw4
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 1%
+source-wordcount: 722
+ht-degree: 0%
 
 ---
 
@@ -32,13 +58,13 @@ Neben der Leistungsfähigkeit von [Richtlinien](/help/user-guide/guidelines/over
 
 Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benutzerrollen und Berechtigungen](/help/user-guide/user-roles.md) für detaillierte Informationen zum Rollenzugriff.
 
-## [!DNL Create]-Anwendungsfälle 
+## [!DNL Create]-Anwendungsfälle
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="/help/user-guide/create/create-email-experience.md">
-      <img alt="Erstellen neuer Inhalte" src="../../assets/icons/icon-create.svg" width="35">
+      <img alt="Neuen Inhalt erstellen" src="../../assets/icons/icon-create.svg" width="35">
       </a>
       <div>
          <a href="/help/user-guide/create/create-email-experience.md">
@@ -107,7 +133,7 @@ GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue 
 
 ### Vorlagen
 
-Nachdem Sie in der Datei „Was möchten Sie heute erstellen _ausgewählt haben, welchen Kanal Sie produzieren möchten._ Abschnitt können Sie auf markengenehmigte Vorlagen zur Verwendung bei der Inhaltserstellung zugreifen. Verwenden Sie Vorlagen, um mit der Inhaltserstellung zu beginnen und mit einer definierten Markenidentität im Einklang zu bleiben.
+Nachdem Sie in der Datei „Was _Sie heute erstellen?_ ausgewählt haben, welchen Kanal Sie erstellen möchten, können Sie auf von der Marke genehmigte Vorlagen zur Verwendung bei der Inhaltserstellung zugreifen. Verwenden Sie Vorlagen, um mit der Inhaltserstellung zu beginnen und mit einer definierten Markenidentität im Einklang zu bleiben.
 
 Vorlagen werden [hochgeladen und in gespeichert [!DNL Content]](/help/user-guide/content/overview.md) und sind in [!DNL Create] verfügbar.
 
@@ -119,7 +145,7 @@ Diese hinzugefügten Parameter fügen [Richtlinien](/help/user-guide/guidelines/
 
 Inhalte - hochgeladene oder hinzugefügte Bild-Assets - in _Parameter_ werden in generierten Varianten verwendet und geben Aufschluss über den für Varianten generierten Kopieninhalt (Text). Sie können Assets hochladen oder Assets auswählen, die bereits in [!DNL Content] oder in einem beliebigen verbundenen AEM Content Hub-Repository vorhanden sind.
 
-### Eingabeaufforderungen
+### Prompts
 
 [Erstellen effektiver Eingabeaufforderungen](/help/user-guide/effective-prompts.md) ist ein wichtiger Teil des Generierungsprozesses in [!DNL Create].
 
@@ -127,7 +153,7 @@ Um KI-generierte Inhalte zu erstellen, geben Sie eine [beschreibende Eingabeauff
 
 ### Inhaltsprüfungen
 
-GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) für jede Variante durch, um sicherzustellen, dass sie die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt. [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) Informationen stehen für jeden generierten Inhalt zur Verfügung, was darauf hinweist, dass er mit umfassenden Inhaltsprüfungen und der Kohärenz zwischen Text und Bildern konform ist. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
+GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) für jede Variante durch, um sicherzustellen, dass sie die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt. [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) Informationen stehen für jeden generierten Inhalt zur Verfügung, was bedeutet, dass er mit umfassenden Inhaltsprüfungen und der Kohärenz zwischen Text und Bildern konform ist. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 

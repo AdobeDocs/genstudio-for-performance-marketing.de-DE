@@ -5,16 +5,34 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: a18b4f89ffde43432885dc2c2e323eaf19361fc7
+TQID: https://experienceleague.adobe.com/kXXSni5VZMFH615A-Re1-QjLooEyfXcMwVBwXnxp58s
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1366'
+source-wordcount: 1374
 ht-degree: 1%
 
 ---
 
 # Arbeiten mit Vorlagen
 
-GenStudio for Performance Marketing ermöglicht es Inhaltserstellern, konsistente markeninterne Marketing-Inhalte schnell mithilfe von _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bereitstellt, der vorkonfigurierte Layouts und Design-Elemente umfasst. Laden Sie zunächst eine benutzerdefinierte Vorlage in [!DNL Content] hoch oder verwenden Sie eine erste Vorlage in [!DNL Create]. [Einstiegsvorlagen](/help/user-guide/templates/starter-templates.md) bieten eine schnelle Möglichkeit, mit einem Standarddesign zu beginnen, während eine benutzerdefinierte Vorlage es Ihnen ermöglicht, Ihre einzigartigen Designs und Layouts zu verwenden.
+GenStudio for Performance Marketing ermöglicht es Inhaltserstellern, konsistente markeninterne Marketing-Inhalte schnell mithilfe von _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bereitstellt, der vorkonfigurierte Layouts und Design-Elemente umfasst. Laden Sie zunächst eine benutzerdefinierte Vorlage in [!DNL Content] hoch oder verwenden Sie eine erste Vorlage in [!DNL Create]. [Einstiegsvorlagen &#x200B;](/help/user-guide/templates/starter-templates.md) eine schnelle Möglichkeit, mit einem Standarddesign zu beginnen, während eine benutzerdefinierte Vorlage es Ihnen ermöglicht, Ihre einzigartigen Designs und Layouts zu verwenden.
 
 GenStudio for Performance Marketing unterstützt zwar nicht die direkte Erstellung von Vorlagen innerhalb des Programms, aber Sie können Vorlagen einfach mit gängigen Design-Tools wie Adobe InDesign, Illustrator oder Express entwerfen und vorbereiten. Sobald Ihr Design abgeschlossen ist, können Sie es für die Verwendung in GenStudio for Performance Marketing anpassen. Beginnen Sie mit der Verwendung von Vorlagen, indem Sie die folgenden Schritte ausführen:
 
@@ -57,7 +75,7 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 >
 >Befolgen Sie [Richtlinien für &#x200B;](accessibility-for-templates.md) Barrierefreiheit[&#x200B; und „Best &#x200B;](/help/user-guide/templates/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
 
-## Vorlagen verwalten
+## Verwalten von Vorlagen
 
 Der _[!DNL Templates]_&#x200B;zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
 
@@ -86,7 +104,7 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 2. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
 
-3. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Next]**.
+3. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
 
 4. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
 
@@ -155,4 +173,4 @@ Zu den erkannten Anwendungsmustern gehören:
 
 >[!ENDSHADEBOX]
 
-Passen Sie [&#x200B; Ihre Vorlage mit &#x200B;](/help/user-guide/templates/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.
+Passen Sie [&#x200B; Ihre Vorlage mit &#x200B;](/help/user-guide/templates/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Fügen Sie Ihre Vorlage &#x200B;](#add-a-template) Repository [!DNL Content] hinzu und validieren Sie die Vorlage. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.

@@ -5,9 +5,30 @@ feature: Brand Personalization, Product Personalization, Persona Personalization
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: a4df9c81339a8fe5197200d58abc8b48df59da6f
+TQID: https://experienceleague.adobe.com/ZBEIHvBGmsFQ42jATObuO7IeANKc3CXCmhJ20p5-QCs
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: afc6e550-6640-4eb4-a143-75ec86d23a66
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: cec71013-cf14-4e28-b808-3d3060935bcb
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '2476'
+source-wordcount: 2499
 ht-degree: 0%
 
 ---
@@ -28,7 +49,7 @@ Beim Erstellen von Varianten aus einer Vorlage mit vordefinierten Kanalrichtlini
 
 Um ein [!DNL Brand] hinzuzufügen, [&#x200B; Sie (ein Markenhandbuch hochladen](#upload-a-brand) oder [manuell eine Marke erstellen](#manually-add-brand) indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Veröffentlichen Sie  [!DNL Brand]](#publish-brand) in [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
 
-Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Brands]** Freigegeben _auf_ .
+Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Brands]** .
 
 ![Richtlinien in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
@@ -91,7 +112,7 @@ Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokument
 
 Um Ihre erstellten [!DNL Brands] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben im Bedienfeld _[!UICONTROL Marken]_, um zurück zur Startseite _[!UICONTROL Marken]_ zu navigieren.
 
-Sie müssen Ihre [&#x200B; nicht &#x200B;](#publish-brand)veröffentlichen[!DNL Brand] um die Informationen zugänglich zu machen. Manuell hinzugefügte Informationen sind sofort nach dem Hinzufügen verfügbar. Damit andere Personen in Ihrem Unternehmen die [!DNL Brand] in GenStudio for Performance Marketing verwenden können, müssen Sie sie veröffentlichen. Ein erstelltes [!DNL Brand] liegt bis zur Veröffentlichung im Entwurfsformat vor.
+Sie müssen Ihre [!DNL Brand] nicht [veröffentlichen](#publish-brand) um die Informationen zugänglich zu machen. Manuell hinzugefügte Informationen sind sofort nach dem Hinzufügen verfügbar. Damit andere Personen in Ihrem Unternehmen die [!DNL Brand] in GenStudio for Performance Marketing verwenden können, müssen Sie sie veröffentlichen. Ein erstelltes [!DNL Brand] liegt bis zur Veröffentlichung im Entwurfsformat vor.
 
 ### Miniaturansicht der Marke ändern
 
@@ -132,7 +153,7 @@ In _[!DNL Brands]_&#x200B;werden alle Entwürfe oder veröffentlichten [!DNL Bra
 
 In der [!DNL brand] werden ein grüner Punkt und „Veröffentlicht“ neben dem Namen angezeigt, und **[!UICONTROL Schaltfläche[!DNL brand]]** bearbeiten wird anstelle der Schaltfläche **[!UICONTROL Veröffentlichen]** angezeigt.
 
-**Um die Veröffentlichung eines veröffentlichten[!DNL brand]** rückgängig zu machen, klicken Sie auf die Marke, um es zu öffnen, und klicken Sie **[!UICONTROL Aktionsmenü auf]** Veröffentlichung rückgängig machen“ (Ellipsensymbol).
+**Um die Veröffentlichung eines veröffentlichten[!DNL brand]** rückgängig zu machen, klicken Sie auf die Marke, um es zu öffnen, und klicken Sie **Aktionsmenü auf** Veröffentlichung rückgängig machen“ (Ellipsensymbol).
 
 Die veröffentlichte Marke ist jetzt für die Verwendung in [_[!DNL Create]_](/help/user-guide/create/overview.md) und [_[!DNL Content]_](/help/user-guide/content/overview.md) verfügbar.
 
@@ -165,7 +186,7 @@ Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich a
 
 Um eine Rolle hinzuzufügen, [eine Rolle hochladen](#upload-a-persona) oder [manuell eine Rolle erstellen](#manually-add-persona) indem Sie Richtlinien auswählen und Ihre persönlichen Details eingeben.
 
-Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Personas]** Freigegeben _auf_ .
+Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Personas]** .
 
 ![Richtlinien in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
@@ -199,7 +220,7 @@ Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persön
 **So fügen Sie manuell eine Rolle hinzu**:
 
 1. Klicken Sie auf die **[!UICONTROL Persona hinzufügen]** und wählen Sie **[!UICONTROL Manuell hinzufügen]** aus.
-1. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie auf **[!UICONTROL Fortfahren]**.
 
    Sie können verschiedene optionale Richtlinien und Bilder ausfüllen, um Ihre Persönlichkeit zu entwickeln.
 
@@ -228,14 +249,14 @@ Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persön
 Auf _[!DNL Personas]_&#x200B;Startseite können Sie **eine bereits erstellte[!DNL Persona]**&#x200B;öffnen, um sie zu bearbeiten oder zu überprüfen, oder **eine Rolle löschen**&#x200B;aus der Liste löschen:
 
 - Wählen Sie **[!UICONTROL Öffnen]** aus dem [!DNL Personas] Aktionsmenü aus, um eine vorhandene Rolle zu überarbeiten und zu überprüfen.
-- Wählen Sie **[!UICONTROL Aktionsmenü]** die Option [!DNL Personas]Löschen“ aus, um **Rolle** löschen.
+- Wählen Sie **[!UICONTROL Aktionsmenü [!DNL Personas] die Option]** Löschen“ aus, um **Rolle** löschen.
 - Wählen Sie **[!UICONTROL Aktionsmenü]**&#x200B;[!DNL Personas] Umbenennen“ aus, um **Rolle** Umbenennen“.
 
 ## Fügen Sie [!DNL Products] hinzu.
 
 Hinzufügen eines Produkts:
 
-1. Klicken Sie im linken Navigationsbereich in der Liste **[!DNL Products]** Freigegeben _auf_ .
+1. Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Products]** .
    ![Richtlinien in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 1. Wählen Sie im _[!DNL Products]_&#x200B;Bedienfeld **Produkt hinzufügen**&#x200B;aus.
 1. Wählen Sie [Produkt hochladen](#upload-a-product) oder [manuell ein Produkt erstellen](#manually-add-product) indem Sie Richtlinien auswählen und Ihre Produktdetails eingeben.
@@ -272,7 +293,7 @@ Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokume
 **So fügen Sie ein Produkt manuell hinzu**:
 
 1. Klicken Sie auf die **[!UICONTROL Produkt hinzufügen]** und wählen Sie **[!UICONTROL Manuell hinzufügen]** aus.
-1. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie auf **[!UICONTROL Fortfahren]**.
 
    Sie können verschiedene optionale Informationen angeben, um Ihr Produkt zu erstellen.
 
@@ -299,8 +320,8 @@ Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokume
 Auf _[!DNL Products]_&#x200B;Startseite können Sie **eine bereits erstellte[!DNL Product]**&#x200B;öffnen, um sie zu bearbeiten oder zu überprüfen, oder **ein Produkt löschen**&#x200B;aus der Liste löschen:
 
 - Wählen Sie **[!UICONTROL Öffnen]** aus dem [!DNL Products] Aktionsmenü aus, um ein vorhandenes Produkt zu überarbeiten und zu überprüfen.
-- Wählen Sie **[!UICONTROL Aktionsmenü]** die Option [!DNL Products]Löschen“ aus, um **Produkt** löschen.
-- Wählen Sie **[!UICONTROL Aktionsmenü]** die Option [!DNL Products]Umbenennen **aus, um ein Produkt zu**.
+- Wählen Sie **[!UICONTROL Aktionsmenü [!DNL Products] die Option]** Löschen“ aus, um **Produkt** löschen.
+- Wählen Sie **[!UICONTROL Aktionsmenü [!DNL Products] die Option]** Umbenennen **aus, um ein Produkt zu**.
 
 ## Fügen Sie [!DNL Audiences] hinzu.
 
@@ -310,7 +331,7 @@ Auf _[!DNL Products]_&#x200B;Startseite können Sie **eine bereits erstellte[!DN
 
 [!DNL Audiences] bieten zielgerichtete Kundensegmente aus Adobe Real-Time Customer Data Platform (RTCDP), die präzise Zielgruppendaten in Ihren Workflow zur Inhaltserstellung einbringen. GenStudio for Performance Marketing nutzt Zielgruppendefinitionen, um Ihnen bei der Erstellung maßgeschneiderter Marketing-Inhalte zu helfen, die mit bestimmten Kundensegmenten abgestimmt sind.
 
-[!DNL Audiences] werden als Dropdown im Parameterbereich im [Workflow _[!DNL Create]_&#x200B;angezeigt](../create/overview.md#templates)._[!DNL Audiences]_ können bei Verwendung beider Richtlinien die _[!DNL Personas]_&#x200B;spezifischer gestalten, können aber auch unabhängig voneinander effektiv eingesetzt werden.
+[!DNL Audiences] werden als Dropdown-Liste im Parameterbereich im [Workflow _[!DNL Create]_](../create/overview.md#templates) angezeigt._[!DNL Audiences]_ kann bei Verwendung beider Richtlinien zu einer Spezifität der _[!DNL Personas]_&#x200B;führen, kann aber auch unabhängig voneinander effektiv verwendet werden.
 
 Während des Onboarding werden Zielgruppendefinitionen importiert und in ein GenStudio-kompatibles Format umgewandelt. Dieser Vorgang dauert in der Regel einige Tage. Wenden Sie sich an Ihr Adobe-Team, um es einzuleiten.
 

@@ -5,16 +5,35 @@ level: Beginner
 feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 4bef680734ee3369c13b10088fd39f22995a5f0f
+TQID: https://experienceleague.adobe.com/H1MbYm5RniRbZBous-F4nBi-2h5RD1AG4IgydlP22-c
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1155
 ht-degree: 10%
 
 ---
 
 # Benutzerrollen und -berechtigungen
 
-Das Erstellen und Bereitstellen moderner Marketing-Kampagnen erfordert die Zusammenarbeit von Stakeholdern mit unterschiedlichen Zuständigkeiten und Fähigkeiten. _Benutzerrollen_ steuern den Zugriff der Stakeholder auf die vielen Funktionen von GenStudio for Performance Marketing. Die zugewiesene Benutzerrolle bestimmt die Aufgaben, die Sie auf dieser Plattform ausführen können. Ein Adobe-Systemadministrator weist Ihnen eine Rolle im GenStudio-Produktprofil in der Adobe Admin Console zu. Ihre Begrüßungs-E-Mail identifiziert Ihre zugewiesene Rolle.
+Das Erstellen und Bereitstellen moderner Marketing-Kampagnen erfordert die Zusammenarbeit von Stakeholdern mit unterschiedlichen Zuständigkeiten und Fähigkeiten. _Benutzerrollen:_ den Zugriff von Stakeholdern auf die vielen Funktionen von GenStudio for Performance Marketing. Die zugewiesene Benutzerrolle bestimmt die Aufgaben, die Sie auf dieser Plattform ausführen können. Ein Adobe-Systemadministrator weist Ihnen eine Rolle im GenStudio-Produktprofil in der Adobe Admin Console zu. Ihre Begrüßungs-E-Mail identifiziert Ihre zugewiesene Rolle.
 
 >[!NOTE]
 >
@@ -56,7 +75,7 @@ Editoren interagieren mit GenStudio for Performance Marketing-KI-Technologien f�
 
 In der folgenden Tabelle werden die standardmäßigen Editor-Berechtigungen angezeigt:
 
-| Funktion | Erstellen | Update | Löschen | Anzeigen |
+| Funktion | Erstellen | Aktualisieren | Löschen | Ansicht |
 |-----------|----------------|----------------|----------------|----------------|
 | [!DNL Brands] | nein | nein | nein | ja |
 | [!DNL Campaigns] | ja | ja | ja | ja |
@@ -78,7 +97,7 @@ Zu den Mitwirkenden gehören Stakeholder, die für den Erfolg des Überprüfungs
 
 In der folgenden Tabelle werden die standardmäßigen Collaborator-Berechtigungen angezeigt:
 
-| Funktion | Erstellen | Update | Löschen | Anzeigen |
+| Funktion | Erstellen | Aktualisieren | Löschen | Ansicht |
 |-----------|----------------|----------------|----------------|----------------|
 | [!DNL Brands] | nein | nein | nein | ja |
 | [!DNL Campaigns] | ja | ja | ja | ja |
@@ -96,7 +115,7 @@ _GenStudio-_ verfügen über den leistungsfähigsten Berechtigungssatz in GenStu
 
 In der folgenden Tabelle werden die standardmäßigen System Manager-Berechtigungen angezeigt:
 
-| Funktion | Erstellen | Update | Löschen | Anzeigen |
+| Funktion | Erstellen | Aktualisieren | Löschen | Ansicht |
 |-----------|----------------|----------------|----------------|----------------|
 | [!DNL Brands] | ja | ja | ja | ja |
 | [!DNL Campaigns] | ja | ja | ja | ja |

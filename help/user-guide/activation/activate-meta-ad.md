@@ -3,9 +3,23 @@ title: Aktivieren einer Meta-Anzeige
 description: Erfahren Sie, wie Sie ein Meta Ad-Erlebnis aktivieren.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/hDR0ngNiGnCXCCOgNhVG8gX4kHGrNvfybPbuMLwYk7U
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '1907'
+source-wordcount: 1931
 ht-degree: 1%
 
 ---
@@ -152,11 +166,11 @@ Erlebnisdetails werden als Metadaten gespeichert und helfen Benutzern bei der Su
 | Kampagnen | Alle GenStudio for Performance Marketing-Kampagnen, zu denen das Anzeigen-Erlebnis gehört |
 | Marke | Benutzerdefinierte oder standardmäßige Richtlinien, mit denen Benutzende Markenrichtlinien erstellen können, die die Essenz der Identität einer Marke erfassen. |
 | Produkte | Mit Ihrer Organisation verknüpfte und in GenStudio for Performance Marketing identifizierte Produkte |
-| Personen | Mit Ihrem Unternehmen verknüpfte und in GenStudio for Performance Marketing identifizierte Rollen |
+| Personas | Mit Ihrem Unternehmen verknüpfte und in GenStudio for Performance Marketing identifizierte Rollen |
 | Zeitrahmen | Das Quartal, die Staffel, das Jahr oder eine andere organisatorisch definierte Zeiteinheit, in der das Anzeigen-Erlebnis aktiv ist |
 | Region | Geografische Region, in der das Erlebnis gestartet wird |
 | Sprache | Sprachen, für die das Anzeigen-Erlebnis verwendet wird |
-| Keywords | Benutzerdefinierte Keywords, die die Suche und Kategorisierung des Anzeigenerlebnisses erleichtern |
+| Suchbegriffe | Benutzerdefinierte Keywords, die die Suche und Kategorisierung des Anzeigenerlebnisses erleichtern |
 
 Klicken Sie nach dem Zusammenstellen oder Auswählen Ihres Erlebnisses auf **[!UICONTROL Weiter]**, um Ihr Meta-Setup zu bestätigen.
 
@@ -174,7 +188,7 @@ Nachdem Sie Ihre Anzeigenerlebnisse vorbereitet haben, müssen Sie Ihre Meta-Kon
 
 ### Erstellen eines neuen Anzeigensatzes
 
-Sie können während des Platform-Setups einen neuen Anzeigensatz erstellen, indem Sie während des Platform-Setups einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensets definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
+Sie können während des Platform-Setups einen neuen Anzeigensatz erstellen, indem Sie während des Platform-Setups einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensätze definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
 
 **So erstellen Sie einen neuen Anzeigensatz**:
 

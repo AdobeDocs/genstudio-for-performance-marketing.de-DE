@@ -3,9 +3,26 @@ title: Markenvalidierung in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über das integrierte System zur Markenvalidierung in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 6a33f7e3a769eda459f70e6ab4e8559064ede2b4
+TQID: https://experienceleague.adobe.com/0avyL5lvm9hWdlxGE0RwPhP0dX2bA91GNnlKLG1oqEY
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: 786
 ht-degree: 0%
 
 ---
@@ -74,7 +91,7 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 
    >[!NOTE]
    >
-   > Die _Markensprache_ Richtlinie im Bedienfeld _Inhaltsprüfung_ gilt für die gesamte Variante, nicht für einen einzelnen Abschnitt. Die gesamte Inhaltsvariante ist hervorgehoben, um Verbesserungsvorschläge zu erhalten.
+   >Die _Markensprache_ Richtlinie im Bedienfeld _Inhaltsprüfung_ gilt für die gesamte Variante, nicht für einen einzelnen Abschnitt. Die gesamte Inhaltsvariante ist hervorgehoben, um Verbesserungsvorschläge zu erhalten.
 
 1. Klicken Sie hier, um Richtlinien zu korrigieren, die derzeit nicht konform sind.
 1. Klicken Sie hier, um alle Prüfungen zu erweitern und zu überprüfen, die in verfügbaren Abschnitten wie _Überschrift_, _Farbe_ und _Markenstimme_ überprüft werden müssen.

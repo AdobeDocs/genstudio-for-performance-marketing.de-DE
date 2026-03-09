@@ -3,9 +3,21 @@ title: Aktivieren einer LinkedIn-Anzeige
 description: Erfahren Sie, wie Sie ein LinkedIn-Anzeigen-Erlebnis aktivieren.
 feature: Ad Activation
 exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50
-source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
+TQID: https://experienceleague.adobe.com/1mcxWePqYd8tYp3e1D2UTSeBHSvPj4WrqeSyiUCxD8c
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: 863
 ht-degree: 0%
 
 ---
@@ -60,7 +72,7 @@ Zu den bearbeitbaren Erlebnisdetails gehören:
 
 **So wählen Sie Erlebnisse**:
 
-1. Verwenden Sie die Such- und Filterwerkzeuge des [!DNL Content], um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**. Alternativ können Sie ein Erlebnis auswählen und **[!UICONTROL Aktivieren]** aus dem Menü Mehr (…) auswählen.
+1. Verwenden Sie die Such- und Filterwerkzeuge des [!DNL Content], um das Erlebnis zu identifizieren, das Sie aktivieren möchten, und klicken Sie dann auf **[!UICONTROL Aktivieren]**. Alternativ können Sie ein Erlebnis und anschließend **[!UICONTROL Aktivieren]** aus den Optionen Mehr (…) auswählen Menü.
 
    Die Seite LinkedIn-Anzeigen _Erlebniseinrichtung_ wird für dieses Erlebnis geöffnet. Es wird vorab mit Details aus dem ausgewählten Erlebnis ausgefüllt. Sie werden möglicherweise aufgefordert, eine Plattform auszuwählen, bevor Sie mit der Aktivierung fortfahren.
 

@@ -4,9 +4,21 @@ description: Erfahren Sie mehr über den Überprüfungs- und Genehmigungsprozess
 level: Beginner
 feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
-source-git-commit: 7955796949c17f7cd877b115cba45c58cdd614a7
+TQID: https://experienceleague.adobe.com/2oFwfqVPlW24irHth-mkEx-ciO5tQgNv2hwAYmkfi-g
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: 890
 ht-degree: 0%
 
 ---
@@ -17,7 +29,7 @@ Der Überprüfungs- und Genehmigungs-Workflow stellt sicher, dass alle Beteiligt
 
 >[!NOTE]
 >
-> Diese Funktion ist auch als [Integration mit Adobe Workfront Proof](/help/user-guide/approvals/proof-integration.md) verfügbar. Diese Integration bietet Korrekturabzugsfunktionen auf der GenStudio for Performance Marketing-Arbeitsfläche. Durch die Workfront Proof-Integration erhält GenStudio for Performance Marketing einen strukturierteren, transparenteren und kollaborativen Überprüfungsprozess, der Teams dabei hilft, mit größerer Zuversicht und Klarheit vom Entwurf zum endgültigen Abschluss zu gelangen.
+>Diese Funktion ist auch als [Integration mit Adobe Workfront Proof](/help/user-guide/approvals/proof-integration.md) verfügbar. Diese Integration bietet Korrekturabzugsfunktionen auf der GenStudio for Performance Marketing-Arbeitsfläche. Durch die Workfront Proof-Integration erhält GenStudio for Performance Marketing einen strukturierteren, transparenteren und kollaborativen Überprüfungsprozess, der Teams dabei hilft, mit größerer Zuversicht und Klarheit vom Entwurf zum endgültigen Abschluss zu gelangen.
 
 ## Vorteile des Prüfungs- und Validierungs-Workflows
 
@@ -27,7 +39,7 @@ Der Überprüfungs- und Genehmigungs-Workflow stellt sicher, dass alle Beteiligt
 
 * **Einhaltung von Kampagnenzielen und rechtlichen Anforderungen**. Der Validierungsprozess hilft sicherzustellen, dass Inhalte die Kampagnenziele unterstützen. Es stellt sicher, dass alle Marketingmaterialien rechtlichen und regulatorischen Standards entsprechen, wodurch Risiken und potenzielle rechtliche Probleme minimiert werden.
 
-* **Integration mit Adobe Workfront Proof**. Benutzer können von GenStudio for Performance Marketing aus auf die robusten Überprüfungs- und Genehmigungsfunktionen von Workfront Proof zugreifen. In GenStudio for Performance Marketing überprüfte Inhalte werden mit Workfront Proof synchronisiert. Überprüfungskommentare und -status werden beibehalten. [Integrations-Highlights](/help/user-guide/approvals/proof-integration.md) kennzeichnet, wie der Korrekturabzug den Genehmigungs-Workflow von GenStudio for Performance Marketing erweitert.
+* **Integration mit Adobe Workfront Proof**. Benutzer können von GenStudio for Performance Marketing aus auf die robusten Überprüfungs- und Genehmigungsfunktionen von Workfront Proof zugreifen. In GenStudio for Performance Marketing überprüfte Inhalte werden mit Workfront Proof synchronisiert. Überprüfungskommentare und -status werden beibehalten. [Die Integration zeigt](/help/user-guide/approvals/proof-integration.md) wie der Korrekturabzug den Genehmigungs-Workflow von GenStudio for Performance Marketing erweitert.
 
 ## Lebenszyklus der Überprüfung und Genehmigung
 
@@ -52,16 +64,16 @@ Entwurfsstatus Erfasst den Status des Inhaltsentwurfs, während er den Prüfungs
 Verfügbare Entwurfsstatus:
 
 **Benachrichtigt**: Der Inhaltseditor hat den Prüfungs- und Genehmigungsprozess gestartet, indem er die genehmigenden Personen darüber informiert, dass ein Entwurf zur Überprüfung bereit ist.
-**Muss bearbeitet**: Gibt an, dass mindestens eine genehmigende Person Änderungen am Inhaltsentwurf angefordert hat. Inhalte mit diesem Status können nicht in [!DNL Content] gespeichert werden.
+**Erforderliche**: Gibt an, dass mindestens eine genehmigende Person Änderungen am Inhaltsentwurf angefordert hat. Inhalte mit diesem Status können nicht in [!DNL Content] gespeichert werden.
 **Genehmigt**: Alle designierten genehmigenden Personen haben das Asset oder Erlebnis genehmigt. Der Inhaltseditor kann dem Asset oder Erlebnis jetzt Metadaten hinzufügen und es in [!DNL Content] speichern.
 
 >[!NOTE]
 >
-> Entwürfe entsprechen _Testsendungen_ für Benutzer der Workfront Proof-Integration. [Entwürfe und Korrekturabzüge](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) unterscheiden sich in Bezug auf Persistenz und Versionierung.
+>Entwürfe entsprechen _Testsendungen_ für Benutzer der Workfront Proof-Integration. [Entwürfe und Testsendungen &#x200B;](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) sich in Bezug auf Persistenz und Versionierung.
 
 ## Genehmigungsrollen
 
-_Reviewer_ können Kommentare hinzufügen, aber Inhalte nicht genehmigen. Die Teilnahme des Prüfers ist hilfreich, aber nicht unbedingt erforderlich. _Genehmigende Personen_ müssen Inhalte genehmigen, bevor sie den Genehmigungsprozess durchlaufen können. Die Workfront Proof-Integration unterstützt eine breitere Palette von Benutzerrollen.
+_Reviewer_ können Kommentare hinzufügen, aber Inhalte nicht genehmigen. Die Teilnahme des Prüfers ist hilfreich, aber nicht unbedingt erforderlich. _Genehmigende_ müssen Inhalte genehmigen, bevor sie den Genehmigungsprozess durchlaufen können. Die Workfront Proof-Integration unterstützt eine breitere Palette von Benutzerrollen.
 
 ## Benachrichtigungen
 

@@ -4,10 +4,23 @@ description: Erfahren Sie mehr über das Zuweisen von Berechtigungen für GenStu
 level: Intermediate
 feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
+TQID: https://experienceleague.adobe.com/13RaDoLWSm8KjpzgsMkxAUOULez15KTUj6xF3QSb3vE
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 1%
+source-wordcount: 742
+ht-degree: 4%
 
 ---
 
@@ -17,11 +30,11 @@ Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bea
 
 Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
 
-Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung [&#x200B; die Verfahren zum Hinzufügen von &#x200B;](https://helpx.adobe.com/de/enterprise/using/users.html) und Benutzergruppen finden Sie __ Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
+Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung [&#128279;](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
 
 Sehen Sie sich diese Videoeinführung an oder führen Sie die folgenden Schritte aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475006?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3475006?captions=ger&learn=on&enablevpops)
 
 ## Schritt 1: Erstellen einer Benutzergruppe
 
@@ -51,11 +64,11 @@ Nachdem Sie eine neue Benutzergruppe erstellt und Benutzer hinzugefügt haben, k
 
 1. Wählen Sie `Adobe GenStudio` aus der Liste _Produkte auswählen_ aus.
 
-1. Klicken Sie **[!UICONTROL Apply]**. Das _Produktprofile auswählen_ Popup wird geöffnet und zeigt die mit Adobe GenStudio verknüpften Produktprofile an.
+1. Klicken Sie auf **[!UICONTROL Übernehmen]**. Das _Produktprofile auswählen_ Popup wird geöffnet und zeigt die mit Adobe GenStudio verknüpften Produktprofile an.
 
-1. Wählen Sie `Adobe GenStudio system manager`.
+1. Wählen Sie `Adobe GenStudio system manager` aus.
 
-1. Klicken Sie **[!UICONTROL Apply]**. Das _Produkte und Profile zuweisen_ wird geöffnet und zeigt das Produktprofil für die neu erstellte Benutzergruppe an.
+1. Klicken Sie auf **[!UICONTROL Übernehmen]**. Das _Produkte und Profile zuweisen_ wird geöffnet und zeigt das Produktprofil für die neu erstellte Benutzergruppe an.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -93,7 +106,7 @@ Ein _Projekt_ bietet einen Speicherort, an dem ausgewählte Benutzer Assets spei
 
 1. Geben Sie `Adobe GenStudio Brands` in das Feld Projektname ein. Geben Sie diesen Projektnamen genau so ein, wie er hier angezeigt wird. Verwenden Sie keine zusätzlichen Leerzeichen oder ändern Sie die Groß-/Kleinschreibung.
 
-1. Klicken Sie auf **[!UICONTROL Erstellen]**. Das _Zum Projekt einladen_-Popup wird geöffnet.
+1. Wählen Sie **[!UICONTROL Erstellen]** aus. Das _Zum Projekt einladen_-Popup wird geöffnet.
 
 Siehe [Projekte verwalten](https://helpx.adobe.com/de/enterprise/using/projects-in-business-storage.html) im _Administrationshandbuch für Unternehmen und Teams_.
 
