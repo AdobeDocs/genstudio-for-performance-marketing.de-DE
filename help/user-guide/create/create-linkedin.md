@@ -8,12 +8,25 @@ badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, s
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
 TQID: https://experienceleague.adobe.com/6ydfKraxfvL6j24ImEAs-P5xV5dldGbQ7Kg8wMsWuOs
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 1240
@@ -25,17 +38,17 @@ ht-degree: 0%
 
 In diesem Tutorial erfahren Sie, wie Sie [LinkedIn-Erlebnisse](/help/user-guide/create/meta-experiences.md) generieren, die Ihren Markenrichtlinien entsprechen, mithilfe von GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich).
 
-Bevor Sie mit der Erstellung einer LinkedIn-Anzeige beginnen, ist es wichtig, [Richtlinien hinzufügen](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing kennenzulernen und die Grundlagen zum [ einer Eingabeaufforderung ](/help/user-guide/effective-prompts.md).
+Bevor Sie mit der Erstellung einer LinkedIn-Anzeige beginnen, ist es wichtig, [Richtlinien hinzufügen](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing kennenzulernen und die Grundlagen zum [&#x200B; einer Eingabeaufforderung &#x200B;](/help/user-guide/effective-prompts.md).
 
 ## Vorlage wählen
 
-Um ein neues LinkedIn-Erlebnis zu generieren, benötigen Sie eine Vorlage, die das Framework für Ihre Inhalte bereitstellt. Informationen [ unterstützten LinkedIn](/help/user-guide/templates/linkedin-template.md)Seitenverhältnisse finden Sie unter „LinkedIn-Vorlagenrichtlinien“.
+Um ein neues LinkedIn-Erlebnis zu generieren, benötigen Sie eine Vorlage, die das Framework für Ihre Inhalte bereitstellt. Informationen [&#x200B; unterstützten LinkedIn](/help/user-guide/templates/linkedin-template.md)Seitenverhältnisse finden Sie unter „LinkedIn-Vorlagenrichtlinien“.
 
 Sie können aus Ihrer Liste benutzerdefinierter Vorlagen auswählen oder eine erste Vorlage auswählen.
 
 **So wählen Sie eine LinkedIn-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL LinkedIn]**.
+1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL LinkedIn]**.
 1. Wählen Sie **[!UICONTROL Benutzerdefinierte Vorlagen]** aus, um Ihre hochgeladenen Vorlagen zu durchsuchen, oder **[!UICONTROL Startervorlagen]**, um die vordefinierten Vorlagen zu durchsuchen.
 
    Wenn Sie Video-Assets zu Ihren Meta-Varianten hinzufügen möchten, müssen Sie eine Startvorlage auswählen. Sie sind mit systemdefinierten Inhaltsbereichen vorgeladen, die die Verwendung von Videos erleichtern.
@@ -75,7 +88,7 @@ Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie die Eingabe
 
 Nachdem Sie Richtlinien ausgewählt haben, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Erstellung von Inhalten für Ihr neues LinkedIn-Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen stellen sicher, dass Sie eine gute Qualität und nützliche Ausgabe erhalten.
 
-Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
+Weitere [&#x200B; zu Eingabeaufforderungen finden Sie &#x200B;](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
 **So geben Sie eine Eingabeaufforderung ein**:
 
@@ -94,18 +107,18 @@ Bevor Sie Varianten zur Genehmigung oder Veröffentlichung an [!DNL Content] sen
 
 **Überarbeiten generierter Varianten**:
 
-* **Um [ Namen des LinkedIn-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
-* **Um [ LinkedIn-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile, die Kopfzeile oder die Textkörper-Kopie) und bearbeiten Sie ihn nach Bedarf.
+* **Um [&#x200B; Namen des LinkedIn-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
+* **Um [&#x200B; LinkedIn-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile, die Kopfzeile oder die Textkörper-Kopie) und bearbeiten Sie ihn nach Bedarf.
 * **Um die call to action zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche call-to-action und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _unter_ eine URL für den call-to-action-Text ein.
-* **Um [ Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
-* **Um [ Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein ] klicken Sie auf **[!UICONTROL Generieren]**.
-* **Um [Generative Erweitern zu verwenden, um Bilder zu ](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
+* **Um [&#x200B; Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
+* **Um [&#x200B; Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung im Abschnitt _[!UICONTROL Neuen Text generieren_ ein &#x200B;] klicken Sie auf **[!UICONTROL Generieren]**.
+* **Um [Generative Erweitern zu verwenden, um Bilder zu &#x200B;](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
 * **Um Bilder [zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)** bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittssymbol und passen Sie die Bildgröße und -platzierung an.
 * **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
 * **Um Assets (Bild oder Video) in einer Variante [hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Asset (oder den Asset-Bereich) und klicken Sie auf das Symbol **[!UICONTROL Aus Inhalt austauschen]**.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
 * **Um [Barrierefreiheitsbeschriftungen](/help/user-guide/create/manage-variants.md#add-accessibility-labels) zu Ihren Varianten hinzuzufügen,** Sie auf ein Bild oder einen call-to-action-Link und geben Sie dann eine kurze Beschreibung ein, die erklärt, was der Link oder die Schaltfläche bewirkt.
-* **Um [ LinkedIn-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf das Optionsmenü für eine Variante und anschließend auf **[!UICONTROL Variante löschen]**.
+* **Um [&#x200B; LinkedIn-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf das Optionsmenü für eine Variante und anschließend auf **[!UICONTROL Variante löschen]**.
 
 ### Videos verwalten
 
@@ -119,11 +132,11 @@ Um [Feedback](/help/user-guide/create/manage-variants.md#generation-feedback) zu
 
 ## Überprüfen der Ausrichtung der Inhaltsprüfung
 
-Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
+Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
 
 **So führen Sie Inhaltsprüfungen für eine Variante durch**:
 
-1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
+1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-panel.png){width="300"}
 
@@ -137,7 +150,7 @@ Verwenden Sie das Bedienfeld Genehmigungen , auf das über die obere Menüleiste
 
 **Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener Meta-Anzeigen-Erlebnisse“ ](/help/user-guide/approvals/approve-content.md).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener Meta-Anzeigen-Erlebnisse“ &#x200B;](/help/user-guide/approvals/approve-content.md).
 
    ![Entwürfe zur Überprüfung und Genehmigung senden](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
 
@@ -145,7 +158,7 @@ Verwenden Sie das Bedienfeld Genehmigungen , auf das über die obere Menüleiste
 1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
 1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre Meta-Anzeigenerlebnisse](#publish-and-export-experience).
 
-Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
+Weitere Informationen finden [&#x200B; unter &#x200B;](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
 ## Erlebnis veröffentlichen und exportieren
 
