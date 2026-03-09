@@ -6,7 +6,7 @@ role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
 source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '754'
 ht-degree: 0%
 
 ---
@@ -46,13 +46,13 @@ Where users check how many generative actions they have left
 How they re-up their genactions
 If genactions roll over month to month or not -->
 
-### Tarife
+### Abrechnungssätze
 
 Sie erhalten eine Standardzuteilung von [!DNL Generative Actions], wie in der [GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) beschrieben.
 
 >[!NOTE]
 >
->Die Nutzungsraten können variieren. Pläne können sich ändern. Aktualisierte Informationen zum Tarif finden Sie in [&#128279;](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html)Adobe GenStudio for Performance Marketing-Produktbeschreibung.
+>Die Nutzungsraten können variieren. Pläne können sich ändern. Aktualisierte Informationen zum Tarif finden Sie in [&#128279;](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Adobe GenStudio for Performance Marketing-Produktbeschreibung.
 
 Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegebenen Rate.
 
