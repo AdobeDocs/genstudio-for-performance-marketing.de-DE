@@ -27,7 +27,7 @@ Mit GenStudio for Performance Marketing können Sie:
 
 GenStudio for Performance Marketing nutzt die Leistungsfähigkeit generativer KI, um den Prozess der Inhaltserstellung zu beschleunigen und eine hochwertige Inhaltserstellung sicherzustellen. Der iterative Lebenszyklus Ihrer Kreativ-Assets führt zu immer genaueren und markenorientierten Inhalten, die bei Ihrer Zielgruppe Anklang finden.
 
-Beginnen Sie mit der Aufnahme des Brandings, der Kundenrollen und Produktbeschreibungen Ihres Unternehmens durch die leistungsstarke Funktion „Markenrichtlinien“. Informationen zum Vorbereiten und Hochladen [ Richtlinien finden ](../user-guide/guidelines/overview.md) unter „Richtlinien - Übersicht“.
+Beginnen Sie mit der Aufnahme des Brandings, der Kundenrollen und Produktbeschreibungen Ihres Unternehmens durch die leistungsstarke Funktion „Markenrichtlinien“. Informationen zum Vorbereiten und Hochladen [&#x200B; Richtlinien finden &#x200B;](../user-guide/guidelines/overview.md) unter „Richtlinien - Übersicht“.
 
 {{in-academy}}
 
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing verwendet die GPT-Serie von Drittanbieter-LL
 
 ## [!DNL Generative Actions]
 
-_[!DNL Generative Actions]_sind, wie in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) definiert, die Einheiten, die die Verwendung von generativen KI-Funktionen in GenStudio for Performance Marketing quantifizieren.
+_[!DNL Generative Actions]_&#x200B;sind, wie in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) definiert, die Einheiten, die die Verwendung von generativen KI-Funktionen in GenStudio for Performance Marketing quantifizieren.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -52,7 +52,7 @@ Sie erhalten eine Standardzuteilung von [!DNL Generative Actions], wie in der [G
 
 >[!NOTE]
 >
->Die Nutzungsraten können variieren. Pläne können sich ändern. Aktualisierte Informationen zum Tarif finden Sie in ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) [Adobe GenStudio for Performance Marketing-Produktbeschreibung.
+>Die Nutzungsraten können variieren. Pläne können sich ändern. Aktualisierte Informationen zum Tarif finden Sie in [&#128279;](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Adobe GenStudio for Performance Marketing-Produktbeschreibung.
 
 Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegebenen Rate.
 
@@ -72,7 +72,7 @@ Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegeben
 
 * Verwendung [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) während der Variantengenerierung
 * Extrahieren von Informationen aus [hochgeladenen Richtlinien](/help/user-guide/guidelines/add-guidelines.md)
-* Manuelles [ von Varianten](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
+* Manuelles [&#x200B; von Varianten](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
 * Digitale Assets werden automatisch mit Attributen versehen ([[!DNL Insights]](/help/user-guide/insights/overview.md))
 
 >[!TIP]
@@ -83,7 +83,7 @@ Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegeben
 
 Bei der Arbeit mit KI zum Generieren von Inhalten ist es wichtig sicherzustellen, dass die Ausgabe sicher und für alle Benutzer inklusiv ist. Dies erfordert die Auswertung der Inhalte auf potenziell schädliche Vorurteile, Hassreden, beleidigendes Material oder Obszönitäten. Adobe testet die Inhaltserstellungstechnologie aus verschiedenen Perspektiven gründlich, führt umfassende Ethikprüfungen durch und implementiert wirksame Minderungspläne, um zu verhindern, dass schädliche Inhalte in die Ergebnisse gelangen.
 
-Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und stellt die Einhaltung der Richtlinien für Vertrauen und Sicherheit sowie Ethik von [Adobe ](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
+Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und stellt die Einhaltung der Richtlinien für Vertrauen und Sicherheit sowie Ethik von [Adobe &#x200B;](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
 
 GenStudio for Performance Marketing umfasst Minderungspläne, um die Verwendung identifizierter schädlicher oder verzerrter Inhalte gemäß den Data Governance-Standards und -Richtlinien von Adobe zu verhindern. Wenn solche Inhalte erkannt werden, werden Sie darauf hingewiesen, dass die Asset-Generierung mit der Meldung „Kann nicht generiert werden“ blockiert wird.
 
