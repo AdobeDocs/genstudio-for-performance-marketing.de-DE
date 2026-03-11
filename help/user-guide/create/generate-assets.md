@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 836
 ht-degree: 0%
@@ -87,9 +87,11 @@ Die Integration [Richtlinien](/help/user-guide/guidelines/overview.md) und Param
 
    Bildkategorien sind verfügbar, wenn ein [!DNL Brand] ausgewählt wurde. Die Optionen werden durch die ausgewählten [!DNL Brand] bestimmt.
 
-<!-- 1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
+<!-- 
+1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
 
-   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. -->
+   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. 
+-->
 
 1. Wählen Sie unter (Seitenverhältnis) das _[!UICONTROL Seitenverhältnis]_.
 1. Klicken Sie **[!UICONTROL Aus Inhalt auswählen]** in _[!UICONTROL Stilverweis]_, um ein Referenzbild hinzuzufügen. Das ausgewählte Bild beeinflusst die visuelle Ästhetik und Tiefe der von Ihnen generierten Bilder.
@@ -146,7 +148,8 @@ Um die generierten Varianten zu optimieren und die strikte Einhaltung von Marken
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
-<!-- ## Generate Similar images
+<!-- 
+## Generate Similar images
 
 You can quickly generate images similar to a selected image within [!DNL Content] from the [!DNL Create] home.
 
@@ -162,7 +165,8 @@ You can quickly generate images similar to a selected image within [!DNL Content
 
    The Canvas, which serves as the central hub for content creation, is displayed. Four image variations similar to the original selected image appear.
 
-   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} -->
+   ![Generate similar images](/help/assets/generate-similar.png){width="400" zoomable="yes"} 
+-->
 
 ## Veröffentlichen und Exportieren von Bildern
 

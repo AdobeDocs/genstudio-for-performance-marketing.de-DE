@@ -30,7 +30,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 242ab858144fd152fd55645143f869fddf7b6fe0
 workflow-type: tm+mt
 source-wordcount: 754
 ht-degree: 0%
@@ -67,10 +67,12 @@ GenStudio for Performance Marketing verwendet die GPT-Serie von Drittanbieter-LL
 
 _[!DNL Generative Actions]_&#x200B;sind, wie in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) definiert, die Einheiten, die die Verwendung von generativen KI-Funktionen in GenStudio for Performance Marketing quantifizieren.
 
-<!-- Add example about usage mode?
+<!-- 
+Add example about usage mode?
 Where users check how many generative actions they have left
 How they re-up their genactions
-If genactions roll over month to month or not -->
+If genactions roll over month to month or not 
+-->
 
 ### Abrechnungssätze
 
@@ -89,10 +91,12 @@ Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegeben
 | Erstellen von Display-Anzeigen | 5 pro Generation |
 | Abschnitte regenerieren | 1 pro Generation |
 
-<!-- | Generate on-brand images | 1 per prompt  |
+<!-- 
+| Generate on-brand images | 1 per prompt  |
 | Translation              | 1 per prompt  |
 | Video: ADLS              | 1 per prompt  |
-| Video: TTS + Avatar      | 1 per prompt  | -->
+| Video: TTS + Avatar      | 1 per prompt  | 
+-->
 
 [!DNL Generative Actions] _werden nicht_, wenn:
 
@@ -120,44 +124,85 @@ Wenn diese Nachricht angezeigt wird, können Sie die Eingabeaufforderung bearbei
 Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen schneller. GenStudio for Performance Marketing vereinfacht die Inhalts-supply chain in einen gut organisierten Workflow für Marketing-Fachleute. GenStudio for Performance Marketing nutzt Adobe-Technologie in jeder Phase des Lebenszyklus.
 
 <table style="table-layout:auto">
+
 <tr style="border: 0;">
+
     <td>
+
        <p><strong>Workflow und Planung</strong></p>
+
     </td>
+
     <td>
+
         <p>Ideen austauschen, Richtlinien definieren und eine Strategie rund um Inhalte entwickeln, um Ihre Zielgruppe anzusprechen.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>Erstellung und Produktion</strong></p>
+
     </td>
+
     <td>
+
         <p>Erstellen Sie den Inhalt basierend auf dem Plan. Zusammenarbeit in Echtzeit, Empfang von Feedback, Bearbeitung und Genehmigung von Inhalten.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>Content-Management</strong></p>
+
     </td>
+
     <td>
+
         <p>Speichern, Freigeben und Suchen von Kreativ-Assets im zentralen Repository. Wiederverwenden und Revitalisieren von Inhalten basierend auf Leistung.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>Versand und Aktivierung</strong></p>
+
     </td>
+
     <td>
+
         <p>Aktivieren von Inhalten und Veröffentlichen über mehrere Marketing-Kanäle hinweg.</P>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
+
     <td>
+
         <p><strong>Reporting und Insights</strong></p>
+
     </td>
+
     <td>
+
         <p>Erfassen Sie Daten und leiten Sie Erkenntnisse zur Asset-Leistungsoptimierung ab.</p>
+
     </td>
+
 </tr>
+
 </table>

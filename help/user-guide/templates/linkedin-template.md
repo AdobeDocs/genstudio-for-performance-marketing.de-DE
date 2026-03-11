@@ -17,7 +17,7 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 242ab858144fd152fd55645143f869fddf7b6fe0
 workflow-type: tm+mt
 source-wordcount: 287
 ht-degree: 2%
@@ -63,7 +63,8 @@ Alle LinkedIn-Vorlagenbreiten sind mit 1200 Pixel hartcodiert.
 | Vertikal 2:3 | Mobile | 1200 x 1800 | Etwas kleiner als 1:1,91. Gut für Mobile-First-Kampagnen. |
 | Vertikal 4:5 | Mobile | 1200 x 1500 | Empfohlen für Mobilgeräte. Gleicht Sichtbarkeit und Inhalte aus, was oft eine höhere Wirkung erzielt. |
 
-<!-- Potentially add an example
+<!-- 
+Potentially add an example
 
 ## Template example
 

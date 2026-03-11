@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 1143
 ht-degree: 0%
@@ -111,9 +111,11 @@ Um eine einzelne zu überarbeitende Ebene zu markieren, klicken Sie auf ein bear
 * **Um [Bilder zuzuschneiden oder neu](/help/user-guide/create/manage-variants.md#crop-assets)**, klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Stiftsymbol) und dann auf **[!UICONTROL Zuschneiden]**. Anpassen der Bildgröße und -platzierung.
 * **Um [Generative Erweitern zu verwenden, um Bilder zu &#x200B;](/help/user-guide/create/manage-variants.md#use-generative-expand) und an Ihre Arbeitsvorlage anzupassen** klicken Sie auf ein Bild, klicken Sie auf **[!UICONTROL Bearbeiten]** (Bleistiftsymbol) und dann auf **[!UICONTROL Erweitern]**. Passen Sie das Bild an das erforderliche Seitenverhältnis und die Vorlage an.
 
-<!-- # Preview for device
+<!-- 
+# Preview for device
 When revising and preparing email experiences, you can toggle between previews for desktop and mobile views to ensure coherence and visual appeal of draft variants.
-**To preview variants for desktop and mobile devices** toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear. -->
+**To preview variants for desktop and mobile devices** toggle the device preview option—between **desktop** and **mobile**—in the right menu bar (computer and phone icons) to preview how variants appear. 
+-->
 
 ## Feedback zur Senden-Generierung
 
