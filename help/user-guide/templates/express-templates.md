@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über GenStudio for Performance Marketing-Funktio
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 26d8f8a7f25679ced3fc3030a3e9d32b1ea554b0
+source-git-commit: 05bc285ff614c8d3e15beab3411c7666b01d1155
 workflow-type: tm+mt
 source-wordcount: '1701'
 ht-degree: 0%
@@ -243,3 +243,4 @@ Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 ## Überprüfen und genehmigen
 
 Genehmigen und veröffentlichen Sie nach der Bearbeitung und Anpassung Ihrer Varianten Ihren Inhalt mit dem Workflow [Überprüfungen und Genehmigungen](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/approve/overview).
+

@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3af756e5bc0e2731187c3879c1593605706d6a2c
+source-git-commit: 28ad1f3a659fd1f44283c8e5913810f8637b87a2
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 81%
 
 ---
 # Dokumentation zu GenStudio for Performance Marketing
@@ -11,7 +11,7 @@ Diese Site enthält die neueste Dokumentation für das GenStudio for Performance
 
 ## Adobe Open Source-Verhaltenskodex
 
-Dieses Projekt hat den [Open Source-Verhaltenskodex für Adobe &#x200B;](code-of-conduct.md) den [.NET Foundation-Verhaltenskodex &#x200B;](https://dotnetfoundation.org/about/policies/code-of-conduct). Siehe den [Beitragende](contributing.md) Artikel.
+Dieses Projekt hat den [Open Source-Verhaltenskodex für Adobe &#x200B;](code-of-conduct.md) den [.NET Foundation-Verhaltenskodex &#x200B;](https://dotnetfoundation.org/about/policies/code-of-conduct). Siehe Seite [Beitragende](contributing.md).
 
 ### Geringfügige Änderungen
 
