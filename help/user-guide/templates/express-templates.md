@@ -1,12 +1,12 @@
 ---
-title: Verwenden von Adobe Express-Vorlagen in GenStudio
+title: Verwenden von Adobe Express-Vorlagen in GenStudio for Performance Marketing
 description: Erfahren Sie mehr über GenStudio for Performance Marketing-Funktionen, die Adobe Express-Assets integrieren können.
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 161d6c46f7b20ac47caa6135e437ea48cb6d99db
+source-git-commit: 26d8f8a7f25679ced3fc3030a3e9d32b1ea554b0
 workflow-type: tm+mt
-source-wordcount: '1698'
+source-wordcount: '1701'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ In diesem Handbuch werden die Anforderungen und Funktionen für Vorlagen aus [!D
 
 ## Über Vorlagen in [!DNL Adobe Express]
 
-[!DNL Adobe Express] können [neue Dokumente mithilfe vorhandener Starter-Vorlagen“ erstellt &#x200B;](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5), die im Programm bereitgestellt werden, oder mithilfe [benutzerdefinierter Vorlagen“, die hilfreiche Markenbeschränkungen enthalten können, &#x200B;](https://helpx.adobe.com/de/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html). B.:
+[!DNL Adobe Express] können [neue Dokumente mithilfe vorhandener Starter-Vorlagen“ erstellt &#x200B;](https://helpx.adobe.com/de/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5), die im Programm bereitgestellt werden, oder mithilfe [benutzerdefinierter Vorlagen“, die hilfreiche Markenbeschränkungen enthalten können, &#x200B;](https://helpx.adobe.com/de/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html). B.:
 
 - [Gesperrte Elemente](https://helpx.adobe.com/de/express/web/invite-collaborate/object-locking.html) die nicht geändert werden können
 - Sperrbeschränkungen, die steuern, wie Benutzer Elemente bei Bedarf entsperren können
