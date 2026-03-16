@@ -15,7 +15,7 @@ Dieses Projekt hat den [Open Source-Verhaltenskodex für Adobe &#x200B;](code-of
 
 ### Geringfügige Änderungen
 
-Wenn Sie kleinere Änderungen vornehmen möchten, öffnen Sie den Artikel und klicken Sie auf den **Bearbeiten**-Link, über den Sie zur GitHub-Quelle für den Artikel gelangen. Verwenden Sie die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Siehe das allgemeine Handbuch für Mitwirkende an Adobe-Dokumenten [&#128279;](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Wenn Sie kleinere Änderungen vornehmen möchten, öffnen Sie den Artikel und klicken Sie auf den **Bearbeiten**-Link, über den Sie zur GitHub-Quelle für den Artikel gelangen. Verwenden Sie die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Siehe das allgemeine Handbuch für Mitwirkende an Adobe-Dokumenten [&#128279;](https://experienceleague.adobe.com/de/docs/contributor/contributor-guide/introduction).
 
 Kleinere Korrekturen oder Erläuterungen, die Sie zur Dokumentation und zu Code-Beispielen in diesem Repository eingeben, werden von den Adobe-Nutzungsbedingungen abgedeckt.
 
@@ -31,7 +31,7 @@ Wenn Sie technischer Redakteur, Programmmanager oder Entwickler eines Adobe-Prod
 
 Community-Mitwirkende können für eine einfache Bearbeitung die GitHub-Benutzeroberfläche oder für wichtige Beiträge das Repository nutzen.
 
-Weitere Informationen finden Sie im Adobe-Handbuch für Mitwirkende [&#x200B; Dokumenten &#x200B;](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Weitere Informationen finden Sie im Adobe-Handbuch für Mitwirkende [&#x200B; Dokumenten &#x200B;](https://experienceleague.adobe.com/de/docs/contributor/contributor-guide/introduction).
 
 ## Markdown
 
