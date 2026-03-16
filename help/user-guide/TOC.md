@@ -5,9 +5,9 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 9cd03372041056483e94ae324124e791a8c8d7ba
+source-git-commit: 689c259f8766848815850d38cc0b13d3669dd718
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '254'
 ht-degree: 20%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 20%
    + [Anpassen einer Vorlage](templates/customize-template.md)
    + [Vorlagen-Code-Editor](templates/code-editor.md)
    + [Erstellen barrierefreier Vorlagen](templates/accessibility-for-templates.md)
+   + [Verwenden von Express-Vorlagen](templates/express-templates.md)
    + [Best Practices für Vorlagen](templates/best-practices-for-templates.md)
    + Best Practice für Kanäle {#channel-best-practice}
       + [Anleitung zur Anzeige von Anzeigen](templates/display-template.md)
@@ -107,5 +108,5 @@ ht-degree: 20%
    + [Integrationen - Übersicht](integrations/overview.md)
    + [Photoshop-Plug-in](integrations/photoshop-plugin.md)
    + [Figma-Plug-in](integrations/figma-plugin.md)
-+ [hide-from-tocGenStudio Academy - Ausgeblendet](genstudioacademy.md)
-+ [hide-from-tocTest-Markdown - Ausgeblendet](test-markdown.md)
++ {hide-from-toc}[GenStudio Academy - Ausgeblendet](genstudioacademy.md)
++ {hide-from-toc}[Test-Markdown - Ausgeblendet](test-markdown.md)
