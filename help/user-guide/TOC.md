@@ -5,7 +5,7 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 689c259f8766848815850d38cc0b13d3669dd718
+source-git-commit: 05bc285ff614c8d3e15beab3411c7666b01d1155
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 20%
@@ -70,7 +70,7 @@ ht-degree: 20%
    + [Anpassen einer Vorlage](templates/customize-template.md)
    + [Vorlagen-Code-Editor](templates/code-editor.md)
    + [Erstellen barrierefreier Vorlagen](templates/accessibility-for-templates.md)
-   + [Verwenden von Express-Vorlagen](templates/express-templates.md)
+   + [Verwenden von Express-Vorlagen](/help/user-guide/templates/express-templates.md)
    + [Best Practices für Vorlagen](templates/best-practices-for-templates.md)
    + Best Practice für Kanäle {#channel-best-practice}
       + [Anleitung zur Anzeige von Anzeigen](templates/display-template.md)
