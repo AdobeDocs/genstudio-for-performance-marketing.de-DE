@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: b3ebb731f7b9a7968a232fe2283b5ef2441c3f6c
 workflow-type: tm+mt
-source-wordcount: 4448
+source-wordcount: 4584
 ht-degree: 0%
 
 ---
@@ -50,7 +50,28 @@ ht-degree: 0%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2026.01 {#latest}
+## 2026.03 {#latest}
+
+### Express-Vorlagen für Meta, LinkedIn und Display
+
+[!DNL Create] unterstützt jetzt [Express-Vorlagen auf der Horizon-Arbeitsfläche](/help/user-guide/templates/express-templates.md) für Meta, LinkedIn und Display. Sie können Adobe Express-Vorlagen - einschließlich Startervorlagen und benutzerdefinierter Markenlayouts - direkt im Erstellungs-Workflow verwenden.
+
+Die Arbeitsfläche unterstützt Vorlagenfunktionen, darunter:
+
+* Mehrere Größen pro Vorlage
+* In Express festgelegte Optionen zum Sperren und Entsperren von Ebenen
+* Bearbeiten von Vorlagenelementen in WYSIWYG
+* Reichhaltigere Steuerelemente für Text, Medienaustausch, Logo-Ersatz, Video-Reframe und mehr
+
+Weitere Informationen finden Sie unter [Verwenden von Adobe Express-Vorlagen in GenStudio for Performance Marketing](/help/user-guide/templates/express-templates.md).
+
+### TikTok-Inhalte in GenStudio for Performance Marketing
+
+Sie können jetzt In-Feed-Videoanzeigen für TikTok über GenStudio for Performance Marketing erstellen, genehmigen und aktivieren. Einfaches Generieren von Anzeigen im [!DNL Create]-Workflow und anschließendes Veröffentlichen des Erlebnisses in [!DNL Content]. Verwenden Sie [!DNL Insights] für TikTok, um die Leistung zu überwachen und über die nächste kreative Aktualisierung zu informieren.
+
+## Frühere Versionshinweise
+
++++Hinweise aus 2026.01.15
 
 ### Neugestaltung des HTML Canvas-Eingabeaufforderungsbedienfelds
 
@@ -66,7 +87,7 @@ Sie können jetzt E-Mails mit bis zu 10 Pods/Abschnitten in [!DNL Create] erstel
 
 GenStudio for Performance Marketing unterstützt jetzt Content Credentials, sodass Teams Authentizitätsmetadaten bei der Erstellung, Überprüfung und beim Export auf Assets anwenden und beibehalten können. Anmeldeinformationsabzeichen und -details werden in allen wichtigen Workflows angezeigt, damit Unternehmen ihre Herkunft überprüfen und bei der Freigabe von Inhalten Vertrauen aufrechterhalten können.
 
-## Frühere Versionshinweise
++++
 
 +++Hinweise vom 12.12.2025
 
