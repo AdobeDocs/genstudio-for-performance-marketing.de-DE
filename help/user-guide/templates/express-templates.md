@@ -19,12 +19,12 @@ In diesem Handbuch werden die Anforderungen und Funktionen für Vorlagen aus [!D
 
 ## Über Vorlagen in [!DNL Adobe Express]
 
-[!DNL Adobe Express] können [neue Dokumente mithilfe vorhandener Starter-Vorlagen“ erstellt &#x200B;](https://helpx.adobe.com/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5), die im Programm bereitgestellt werden, oder mithilfe [benutzerdefinierter Vorlagen“, die hilfreiche Markenbeschränkungen enthalten können, &#x200B;](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html). B.:
+[!DNL Adobe Express] können [neue Dokumente mithilfe vorhandener Starter-Vorlagen“ erstellt &#x200B;](https://helpx.adobe.com/de/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5), die im Programm bereitgestellt werden, oder mithilfe [benutzerdefinierter Vorlagen“, die hilfreiche Markenbeschränkungen enthalten können, &#x200B;](https://helpx.adobe.com/de/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html). B.:
 
-- [Gesperrte Elemente](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html) die nicht geändert werden können
+- [Gesperrte Elemente](https://helpx.adobe.com/de/express/web/invite-collaborate/object-locking.html) die nicht geändert werden können
 - Sperrbeschränkungen, die steuern, wie Benutzer Elemente bei Bedarf entsperren können
 
-Sperreinstellungen, die für die Vorlage in [!DNL Adobe Express] festgelegt wurden, werden auch in [!DNL GenStudio for Performance Marketing] angewendet. Verwenden Sie [die  [!DNL Adobe Express] -Anweisungen, um eine benutzerdefinierte Vorlage mit Markenbeschränkungen zu &#x200B;](https://helpx.adobe.com/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
+Sperreinstellungen, die für die Vorlage in [!DNL Adobe Express] festgelegt wurden, werden auch in [!DNL GenStudio for Performance Marketing] angewendet. Verwenden Sie [die  [!DNL Adobe Express] -Anweisungen, um eine benutzerdefinierte Vorlage mit Markenbeschränkungen zu &#x200B;](https://helpx.adobe.com/de/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
 
 Um benutzerdefinierte Schriftarten in einer Express-Vorlage zu verwenden, müssen Administratoren zunächst das Angebot für die Qualifizierung benutzerdefinierter Schriftarten in der Admin Console akzeptieren, die im Rahmen der Express-Lizenzberechtigung enthalten ist.
 
@@ -57,11 +57,11 @@ Wenn Sie eine [!DNL Express] auswählen und auf **[!UICONTROL Verwenden]** klick
 
 ## Über Varianten und [!DNL Experiences] mit [!DNL Adobe Express] Vorlagen
 
-[!DNL Express] Vorlagen bieten viele Funktionen, mit denen Sie auch bei der Verwaltung [&#x200B; Varianten vertraut &#x200B;](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text). Es gibt jedoch einige leistungsstarke Ergänzungen, um jeden Workflow für Inhalte aus [!DNL Express] zu optimieren. In diesem Abschnitt werden Funktionen beschrieben, die ausschließlich in der [!DNL Adobe Express]-Implementierung enthalten sind.
+[!DNL Express] Vorlagen bieten viele Funktionen, mit denen Sie auch bei der Verwaltung [&#x200B; Varianten vertraut &#x200B;](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/create/manage-variants#manually-edit-text). Es gibt jedoch einige leistungsstarke Ergänzungen, um jeden Workflow für Inhalte aus [!DNL Express] zu optimieren. In diesem Abschnitt werden Funktionen beschrieben, die ausschließlich in der [!DNL Adobe Express]-Implementierung enthalten sind.
 
 ### Mehrere Größen automatisch erstellen
 
-Wenn [mehrere Seiten für ein Asset in erstellt wurden [!DNL Express]](https://helpx.adobe.com/express/web/arrange-layers-and-pages/add-pages.html) werden diese Seiten in alle Vorlagen übertragen, die aus diesem Asset erstellt wurden. Express-Seiten generieren jeweils verschiedene Größen des kreativen Inhalts in [!DNL GenStudio for Performance Marketing].
+Wenn [mehrere Seiten für ein Asset in erstellt wurden [!DNL Express]](https://helpx.adobe.com/de/express/web/arrange-layers-and-pages/add-pages.html) werden diese Seiten in alle Vorlagen übertragen, die aus diesem Asset erstellt wurden. Express-Seiten generieren jeweils verschiedene Größen des kreativen Inhalts in [!DNL GenStudio for Performance Marketing].
 
 Wenn für ein Asset in [!DNL Express] Inhalte in mehreren Größen vorhanden sind, können Varianten für alle diese Größen in einer einzigen Generation generiert werden.
 
@@ -192,7 +192,7 @@ Die Tagging-Optionen variieren je nach Elementtyp.
 
 ### Einschränkungen bei Vorlagensperren
 
-Vorlagen können [gesperrte Elemente](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html) enthalten, die von [!DNL Express] übernommen werden und steuern, wie einige Funktionen geändert werden können. Diese Einstellungen werden von der Vorlage berücksichtigt und können auch in der Vorlage geändert werden:
+Vorlagen können [gesperrte Elemente](https://helpx.adobe.com/de/express/web/invite-collaborate/object-locking.html) enthalten, die von [!DNL Express] übernommen werden und steuern, wie einige Funktionen geändert werden können. Diese Einstellungen werden von der Vorlage berücksichtigt und können auch in der Vorlage geändert werden:
 
 1. Ein gesperrtes Element in der Vorlage auswählen.
 1. Klicken Sie oben links für das ausgewählte Element auf das Schlosssymbol.
@@ -242,4 +242,4 @@ Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
 ## Überprüfen und genehmigen
 
-Genehmigen und veröffentlichen Sie nach der Bearbeitung und Anpassung Ihrer Varianten Ihren Inhalt mit dem Workflow [Überprüfungen und Genehmigungen](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/approve/overview).
+Genehmigen und veröffentlichen Sie nach der Bearbeitung und Anpassung Ihrer Varianten Ihren Inhalt mit dem Workflow [Überprüfungen und Genehmigungen](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/approve/overview).
