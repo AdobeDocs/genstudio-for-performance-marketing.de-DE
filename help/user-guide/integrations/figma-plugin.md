@@ -17,10 +17,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 884a1c9bb7ebdf1430c47bbcbecc8f1d5b91f6fc
+source-git-commit: 4b3f2ae27b9368b95e440a58cb04f4b063da616e
 workflow-type: tm+mt
-source-wordcount: 1202
-ht-degree: 0%
+source-wordcount: 1725
+ht-degree: 1%
 
 ---
 
@@ -87,7 +87,7 @@ So weisen Sie Elementrollen zu:
 
 Das -Plug-in speichert diese Zuordnungen, um sie für generierte Inhalte zu verwenden. Ein Feld „role“ kann mehreren Vorlagenelementen zugeordnet werden.
 
-![Zuordnung von Feldrollen](./field-role-mapping.png){width="600"}
+![Zuordnung von Feldrollen](./field-role-mapping.png){width="60%"}
 
 ### Ausnahmen bei der Feldzuordnung
 
@@ -98,9 +98,9 @@ Das -Plug-in speichert diese Zuordnungen, um sie für generierte Inhalte zu verw
 Verwenden Sie GenStudio for Performance Marketing AI, um Elemente in Figma-Vorlagen zu generieren oder zu variieren.
 
 1. Wenn Sie das GenStudio Plug-in Playground oder bereits vorbereitete Vorlagen verwenden, wählen Sie den Abschnittsknoten aus, der Ihre Anzeigenvorlagen enthält. Sie können dies über das Bedienfeld **Ebenen** oder durch direktes Klicken auf den Bereich auf der Arbeitsfläche tun.
-   ![Abschnitt oder Varianten auswählen](./plugin-playground.png){width="500" zoomable="yes"}
+   ![Abschnitt oder Varianten auswählen](./plugin-playground.png){width="50%" zoomable="yes"}
 1. Geben Sie im Plug-in-Fenster einen Projektnamen für die Varianten ein, wählen Sie eine Plattform für den Inhalt aus und füllen Sie die anderen erforderlichen Informationen aus. Klicken Sie anschließend auf **[!UICONTROL Setup beenden]**.
-   ![Projektfenster einrichten](./setup-project.png){width="300" zoomable="yes"}
+   ![Projektfenster einrichten](./setup-project.png){width="30%" zoomable="yes"}
 1. Wählen Sie die [!DNL Brand], [!DNL Persona] und [!DNL Product] aus, die für die Inhaltserstellung verwendet werden sollen.
 1. Wählen Sie die Anzahl der zu erstellenden Varianten aus (bis zu acht).
 1. Verwenden Sie die Schaltfläche unter **[!UICONTROL Inhalt auswählen]**, um Bilder aus Ihren Assets zu suchen und auszuwählen. Die 40 zuletzt hinzugefügten Assets werden zuerst angezeigt, und Sie können nach anderen Assets suchen. Die Größe der ausgewählten Bilder wird automatisch an die Vorlagen angepasst.
@@ -113,10 +113,10 @@ Verwenden Sie GenStudio for Performance Marketing AI, um Elemente in Figma-Vorla
 Verwenden Sie GenStudio for Performance Marketing AI, um Anzeigenkopien von Varianten zu generieren oder Figma-Vorlagen zu übersetzen.
 
 1. Wählen Sie den Abschnittsknoten aus, der Ihre Anzeigenvorlagen enthält. Sie können dies über das Bedienfeld **Ebenen** oder durch direktes Klicken auf den Bereich auf der Arbeitsfläche tun.
-   ![Abschnitt oder Varianten auswählen](./plugin-playground.png){width="500" zoomable="yes"}
+   ![Abschnitt oder Varianten auswählen](./plugin-playground.png){width="50%" zoomable="yes"}
 1. Geben Sie im Plug-in-Fenster einen Projektnamen für die Varianten ein und wählen Sie eine Plattform für den Inhalt aus.
 1. Wählen **[!UICONTROL unter „Was ist das Ziel?]** die Option **[!UICONTROL Varianten erstellen]** oder **[!UICONTROL Übersetzen]** aus und klicken Sie dann auf die Schaltfläche **[!UICONTROL Setup beenden]**.
-   ![Projektfenster einrichten](./setup-project.png){width="300" zoomable="yes"}
+   ![Projektfenster einrichten](./setup-project.png){width="30%" zoomable="yes"}
 1. Wählen Sie die [!DNL Brand], [!DNL Persona] und [!DNL Product] aus, die für die Inhaltserstellung verwendet werden sollen.
 1. Wählen Sie die Anzahl der zu erstellenden Varianten aus.
 1. Verwenden Sie die Schaltfläche unter **[!UICONTROL Inhalt auswählen]**, um Bilder aus Ihren Assets zu suchen und auszuwählen. Die 40 zuletzt hinzugefügten Assets werden zuerst angezeigt, und Sie können nach anderen Assets suchen. Die Größe der ausgewählten Bilder wird automatisch an die Vorlagen angepasst.
@@ -129,7 +129,7 @@ Verwenden Sie GenStudio for Performance Marketing AI, um Anzeigenkopien von Vari
 ## Inhalte nach der Erstellung übersetzen
 
 1. Wählen Sie eine Generation aus, die Sie übersetzen möchten.
-   ![Generierung auswählen](./select-generation.png){width="200" zoomable="yes"}
+   ![Generierung auswählen](./select-generation.png){width="20%" zoomable="yes"}
 1. Wählen Sie **[!UICONTROL Übersetzung]** aus und klicken Sie dann auf **[!UICONTROL Übersetzen]**.
 1. Wählen Sie Ihre Zielsprache(n) aus.
 1. Klicken Sie auf **[!UICONTROL Auswählen]**.
@@ -146,7 +146,7 @@ Zu den Übersetzungsergebnissen gehören:
 
 Wenn Sie vorhandene Inhalte in einem Feld bearbeiten, werden im Plug-in-Bedienfeld nützliche Optionen angezeigt.
 
-![Optionen für Plug-in-Aktionen](./figma-other-actions.png){width="300" zoomable="yes"}
+![Optionen für Plug-in-Aktionen](./figma-other-actions.png){width="30%" zoomable="yes"}
 
 Sie haben unter anderem folgende Möglichkeiten:
 
@@ -168,15 +168,72 @@ Varianten können aus Figma als GenStudio for Performance Marketing [!DNL Experi
 
 1. Wählen Sie den Inhalt aus, der in die Figma-Arbeitsfläche exportiert werden soll, indem Sie einen der folgenden Schritte ausführen:
    * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**&#x200B;Bedienfeld auf Alle für Export markieren .
-     ![Generierungsabschnitt auswählen](./select-generation-section.png){width="200" zoomable="yes"}
+     ![Generierungsabschnitt auswählen](./select-generation-section.png){width="20%" zoomable="yes"}
    * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**&#x200B;Für Export markieren“.
-     ![Individuelle Generierung auswählen](./select-generation.png){width="200" zoomable="yes"}
+     ![Individuelle Generierung auswählen](./select-generation.png){width="20%" zoomable="yes"}
 1. Wählen Sie im Seitenleistenmenü die Option Exportieren aus.
    ![Die Schaltfläche „Für Export markieren“ wird für eine Meta-Anzeige angezeigt](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Auswählen eines Ziels.
 1. Klicken Sie **[!UICONTROL Exportieren]**, um den Inhalt zu exportieren.
 
 Im Plug-in-Bedienfeld wird eine ZIP-Datei erstellt oder es wird ein Link zu **[!UICONTROL In GenStudio öffnen]** angezeigt. Verwenden Sie den ZIP-Link, um auszuwählen, wo die Datei gespeichert werden soll, oder wählen Sie **[!UICONTROL In GenStudio öffnen]**.
+
+## Figma-Frames in Photoshop konvertieren
+
+>[!NOTE]
+>
+> Dazu benötigen Sie sowohl das Figma-Plug-in als auch das [Photoshop-Plug-in für GenStudio for Performance Marketing](photoshop-plugin.md).
+
+Mit dem Figma-Plug-in können Sie einen Figma-Frame, mehrere Frames oder ein ganzes Dokument in das Photoshop-Format konvertieren und für die Verwendung mit dem [Photoshop-Plug-in exportieren](photoshop-plugin.md). Derzeit werden während der Konvertierung nur wichtige Eigenschaften wie Sichtbarkeit, Schriftgröße und grundlegende Ebenenattribute unterstützt. Funktionen wie Durchstreichen, Hochgestellt, Tiefgestellt, Deckkraft als Prozentsätze, Verläufe und ähnliche erweiterte Eigenschaften werden noch nicht unterstützt.
+
+Das Plug-in unterstützt die folgenden Figma-Ebenentypen für die Konvertierung:
+
+* **Frame**
+* **Gruppe**
+* **instance**
+* **Text**
+* **Vektor**
+* **Bild**
+
+Bei der Konvertierung in PSD werden unterstützte Ebenen Photoshop wie folgt zugeordnet:
+
+| Figmaschichttyp | Konvertiert in Photoshop | Anmerkungen |
+| --- | --- | --- |
+| **Frame** | Ebenengruppe | <ul><li>Figma-Frames werden in Photoshop-Schichtgruppen umgewandelt.</li><li>Verschachtelte Frames werden zu verschachtelten Gruppen.</li><li>Die Rahmenabmessungen werden zur PSD-Zeichenfläche oder zu Gruppenbegrenzungen (je nach Auswahl).</li></ul> |
+| **Gruppe** | Ebenengruppe | <ul><li>Figma-Gruppen konvertieren direkt in Photoshop-Schichtgruppen.</li><li>Ebenenhierarchie und Stapelreihenfolge werden beibehalten.</li></ul> |
+| **instance** | Ebenengruppe | <ul><li>Komponenten und Instanzen werden in standardmäßige Photoshop-Ebenengruppen reduziert. Komponentenmetadaten und Variantenlogik werden nicht beibehalten.</li><li>Alle untergeordneten Ebenen verbleiben innerhalb der Gruppe.</li></ul> |
+| **Text** | Textebene | <ul><li>Figma-Textebenen werden in bearbeitbare Photoshop-Textebenen konvertiert.</li><li>Texthierarchie und Positionierung bleiben erhalten.</li></ul> |
+| **Vektor** | Formebene | <ul><li>Figmavektorschichten werden in Photoshop-Formenschichten konvertiert.</li><li>Pfade werden nach Möglichkeit beibehalten.</li><li>Komplexe Vektoren können gerastert werden, wenn nicht unterstützte Effekte angewendet werden.</li></ul> |
+| **Bild** | Rasterebene | <ul><li>Figma-Bildebenen werden in Photoshop-Rasterebenen konvertiert.</li><li>Bildskalierung und -positionierung bleiben erhalten.</li></ul> |
+
+### So konvertieren Sie Frames
+
+So konvertieren Sie Frames:
+
+1. Öffnen Sie das Firefly Enterprise- und GenStudio-Plug-in in Figma und klicken Sie auf die **[!UICONTROL Export]**-Registerkarte in der Plug-in-Benutzeroberfläche.
+1. Wählen Sie auf der Arbeitsfläche die zu exportierenden Frames aus. Sie können einen einzelnen Frame oder mehrere Frames auswählen.
+1. Führen Sie einen der folgenden Schritte aus:
+
+   * Klicken Sie auf **[!UICONTROL Exportieren]**, um die konvertierte Datei an einen ausgewählten Speicherort zu exportieren, oder
+   * Klicken Sie **[!UICONTROL Transfer to Photoshop Plugin]**, um die konvertierte Datei zur sofortigen Verwendung im Photoshop Plugin zwischenzuspeichern.
+     ![Schaltfläche „Transfer zum Photoshop-Plug-in“](./transfer-to-ps-button.png){width="60%"}
+1. Wenn das Dialogfeld **[!UICONTROL File Key Required]** angezeigt wird, benötigt das Plug-in eine Figma-Datei-URL, um die Konvertierung abzuschließen. Fügen Sie die URL für Ihr Dokument hinzu:
+
+   1. Klicken Sie in Figma **[!UICONTROL Freigeben]** in der oberen rechten Ecke der Arbeitsfläche.
+   1. Klicken **[!UICONTROL in „Datei]**&quot; auf **[!UICONTROL Link kopieren]**.
+   1. Fügen Sie den kopierten Link in das Feld **[!UICONTROL Figma-Datei-URL]** im Plug-in-Dialogfeld ein.
+
+1. Klicken Sie auf **[!UICONTROL Absenden]**. Das Plug-in liest die ausgewählten Frames in Figma und konvertiert sie in ein JSON-Dokument, ein Zwischenformat für die Dateidaten.
+   ![Dialogfeld „Dateischlüssel erforderlich“](./file-key-required.png){width="40%"}
+1. Öffnen Sie in Photoshop das GenStudio-Plug-in und klicken Sie auf die Registerkarte **[!UICONTROL Importieren]**.
+1. Führen Sie einen der folgenden Schritte aus:
+
+   * Klicken Sie auf **[!UICONTROL Aus Plug]**, um eine mit dem Plug **[!UICONTROL In zu Photoshop übertragen]** konvertierte Datei aus der Liste der zwischengespeicherten Dateien auszuwählen, oder
+   * Klicken Sie auf **[!UICONTROL JSON hochladen]**, um zur hochzuladenden JSON-Datei zu navigieren und sie auszuwählen.
+     ![Schaltfläche „JSON hochladen“](./upload-json.png){width="40%"}
+1. Das GenStudio-Plug-in in Photoshop konvertiert die Informationen aus dem JSON-Dokument in ein geöffnetes Photoshop-Dokument.
+1. Klicken Sie auf **[!UICONTROL Fertig]**. Die neue Datei wird in Photoshop geöffnet und kann verwendet werden. Oder klicken Sie **[!UICONTROL Speichern unter…]**, um einen Speicherort für die Datei auszuwählen.
+   ![Dialogfeld „Fertig“](./import-done-button.png){width="40%"}
 
 ## Generationsverlauf
 
