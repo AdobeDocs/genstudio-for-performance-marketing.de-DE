@@ -24,9 +24,9 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 59f51bf35c5ad81845d2cd11c6659a0833e4de7b
+source-git-commit: 0c9aa3dd0939e9e31d3e53f02c954e65a151026b
 workflow-type: tm+mt
-source-wordcount: 1457
+source-wordcount: 1464
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ Anzeigenformate beziehen sich auf die verschiedenen kreativen Elemente und Layou
 | LinkedIn | <ul><li>Anzeigen mit einzelnen Bildern</li><li>Einzelne Videoanzeigen</li><li>Artikelanzeigen</li></ul> | <ul><li>Karussellanzeigen</li><li>Dokumentanzeigen</li><li>Ereignisanzeigen</li><li>Vordenker-Anzeigen</li><li>Lead Gen-Anzeigen</li><li>Follower-Anzeigen</li><li>Konversationswerbung</li><li>Spotlight-Anzeigen</li><li>Stellenanzeigen</li><li>Inhaltsanzeigen</li><li>Werbeanzeigen</li></ul> |
 | TikTok | <ul><li>Anzeigen mit einzelnen Bildern</li><li>Einzelne Videoanzeigen</li></ul> | <ul><li>In-Feed-Anzeigen (Video, Spark, Karussell)</li><li>Premium-Awareness-Anzeigen (TopView, Markenübernahme)</li><li>Interaktive Anzeigen (Hashtag-Herausforderungen, Markeneffekte)</li><li>Commerce-Anzeigen (Shopping, Katalog, LIVE)</li><li>Lead- und Messaging-Anzeigen</li><li>Schwierig zu kategorisieren, da wir nicht über die Assets verfügen, um den Anzeigentyp zu bestimmen</li></ul> |
 | DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | Der Paid-Media-Kanal bietet keinen Zugriff auf das Abrufen von Kreativ-Assets, was die genaue Klassifizierung der Anzeigentypen erschwert. |
-| Innovid | K. A. | Schwierig zu kategorisieren, da wir nicht über die Assets verfügen, um den Anzeigentyp zu bestimmen. |
+| Innovid | K. A. | Der Paid-Media-Kanal bietet keinen Zugriff auf das Abrufen von Kreativ-Assets, was die genaue Klassifizierung der Anzeigentypen erschwert. |
 
 ### Platzierungen hinzufügen
 
