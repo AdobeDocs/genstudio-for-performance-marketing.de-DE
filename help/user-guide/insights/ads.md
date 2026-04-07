@@ -24,7 +24,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 0c9aa3dd0939e9e31d3e53f02c954e65a151026b
+source-git-commit: 10082fcc357e53ce6a084fb466d60a5674ea9f9e
 workflow-type: tm+mt
 source-wordcount: 1464
 ht-degree: 1%
@@ -124,3 +124,4 @@ Die folgende Tabelle enthält Definitionen für Leistungsmetriken zur Anzeigenpl
 | **[!UICONTROL CPC &#x200B;]**<br>_Cost per click_ | Die durchschnittlichen Kosten, die mit jedem Klick in einer einzelnen Anzeigenplatzierung verbunden sind.<p>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks`<p>Diese Metrik hilft bei der Bewertung der Kosteneffizienz der Anzeigenplatzierung bei der Generierung von Klicks. | Ein niedrigerer CPC zeigt an, dass die Anzeigenplatzierung Klicks zu niedrigeren Kosten generiert, was für die Maximierung des ROI von Vorteil sein kann. |
 | **[!UICONTROL Ausgaben]** | Der Betrag, der für eine einzelne Anzeigenplatzierung ausgegeben wird und einen Bruchteil der Gesamtsumme darstellt, die für die gesamte Anzeige ausgegeben wird. Diese Metrik hilft, die Budgetzuweisung und die Ausgabeneffizienz für jede Anzeigenplatzierung zu verfolgen. | Die Überwachung der Ausgaben kann dazu beitragen, sicherzustellen, dass Ressourcen auf verschiedenen Platzierungen effektiv verwendet werden. |
 | **Attribute** | Liste der in dieser Anzeigenplatzierung vorhandenen inhärenten Funktionen. | Attribute helfen dabei, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |
+
