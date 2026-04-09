@@ -23,16 +23,16 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 70984b2c03e14a14b36fca6dfc62dcda9138949e
 workflow-type: tm+mt
-source-wordcount: 1374
+source-wordcount: 1410
 ht-degree: 1%
 
 ---
 
 # Arbeiten mit Vorlagen
 
-GenStudio for Performance Marketing ermöglicht es Inhaltserstellern, konsistente markeninterne Marketing-Inhalte schnell mithilfe von _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bereitstellt, der vorkonfigurierte Layouts und Design-Elemente umfasst. Laden Sie zunächst eine benutzerdefinierte Vorlage in [!DNL Content] hoch oder verwenden Sie eine erste Vorlage in [!DNL Create]. [Einstiegsvorlagen &#x200B;](/help/user-guide/templates/starter-templates.md) eine schnelle Möglichkeit, mit einem Standarddesign zu beginnen, während eine benutzerdefinierte Vorlage es Ihnen ermöglicht, Ihre einzigartigen Designs und Layouts zu verwenden.
+GenStudio for Performance Marketing ermöglicht es Inhaltserstellern, konsistente markeninterne Marketing-Inhalte schnell mithilfe von _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bereitstellt, der vorkonfigurierte Layouts und Design-Elemente umfasst. Laden Sie zunächst eine benutzerdefinierte Vorlage in [!DNL Content] hoch oder verwenden Sie eine erste Vorlage in [!DNL Create]. [Einstiegsvorlagen](/help/user-guide/templates/starter-templates.md) bieten eine schnelle Möglichkeit, mit einem Standarddesign zu beginnen, während eine benutzerdefinierte Vorlage es Ihnen ermöglicht, Ihre einzigartigen Designs und Layouts zu verwenden.
 
 GenStudio for Performance Marketing unterstützt zwar nicht die direkte Erstellung von Vorlagen innerhalb des Programms, aber Sie können Vorlagen einfach mit gängigen Design-Tools wie Adobe InDesign, Illustrator oder Express entwerfen und vorbereiten. Sobald Ihr Design abgeschlossen ist, können Sie es für die Verwendung in GenStudio for Performance Marketing anpassen. Beginnen Sie mit der Verwendung von Vorlagen, indem Sie die folgenden Schritte ausführen:
 
@@ -159,6 +159,8 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 Sie können eine Vorlage hochladen, die Sie in Adobe Journey Optimizer (AJO) oder Marketo erstellt haben. GenStudio for Performance Marketing erkennt anwendungsspezifische Muster und ignoriert sie, wobei das Originalformular für die weitere Verwendung in AJO oder Marketo beibehalten wird. Sie müssen keine Änderungen an der ursprünglichen AJO- oder Marketo-Syntax vornehmen.
 
+Um AJO-Vorlagen aus Ihrer Journey Optimizer-Bibliothek in GenStudio (einschließlich der Registerkarte **[!UICONTROL AJO-Vorlage]** beim Erstellen von E-Mail-Erlebnissen zu verwenden, muss Ihr Unternehmen die App [Journey Optimizer für GenStudio](/help/extensibility/journey-optimizer-for-genstudio.md) von Adobe Exchange installieren und konfigurieren.
+
 Zu den erkannten Anwendungsmustern gehören:
 
 - **AJO**: `{{profile.*}}`, `{{context.*}}`
@@ -173,4 +175,4 @@ Zu den erkannten Anwendungsmustern gehören:
 
 >[!ENDSHADEBOX]
 
-Passen Sie [&#x200B; Ihre Vorlage mit &#x200B;](/help/user-guide/templates/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Fügen Sie Ihre Vorlage &#x200B;](#add-a-template) Repository [!DNL Content] hinzu und validieren Sie die Vorlage. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.
+Passen Sie [&#x200B; Ihre Vorlage mit &#x200B;](/help/user-guide/templates/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.

@@ -10,10 +10,10 @@ feature_v2:
   - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 70984b2c03e14a14b36fca6dfc62dcda9138949e
 workflow-type: tm+mt
-source-wordcount: 145
-ht-degree: 7%
+source-wordcount: 172
+ht-degree: 6%
 
 ---
 
@@ -22,3 +22,5 @@ ht-degree: 7%
 Adobe GenStudio for Performance Marketing ermöglicht Unternehmen die Erstellung, Verteilung und Leistungsanalyse von KI-gestützten Marketing-Inhalten. Es unterstützt die Inhaltserstellung, die Ihren Markenstandards entspricht und mit Ihren Unternehmensrichtlinien übereinstimmt. Entwickelnde von erweiterbaren Apps können das GenStudio for Performance Marketing-Framework aus Tools und Endpunkten verwenden, um die Kernfunktionen des Produkts zu erweitern und so die spezifischen Anforderungen ihres Unternehmens an die Inhaltserstellung und die Compliance zu erfüllen.
 
 GenStudio for Performance Marketing ist ein Adobe Experience Cloud-Produkt und verwendet das Erweiterbarkeits-Framework dieses Produkt-Ökosystems. Entwickelnde für erweiterbare Apps verwenden [Adobe App Builder](https://developer.adobe.com/app-builder/) und die [Adobe GenStudio UI Extensibility SDK](https://github.com/adobe/genstudio-uix-sdk), um benutzerdefinierte Apps zu entwickeln und zu verteilen, die bestimmte Anwendungsfälle unterstützen.
+
+Organisationen, die Adobe Journey Optimizer verwenden, können die App [Journey Optimizer for GenStudio](journey-optimizer-for-genstudio.md) von Adobe Exchange installieren, um AJO-Vorlagen beim Erstellen von E-Mail-Erlebnissen in GenStudio zu verwenden.
