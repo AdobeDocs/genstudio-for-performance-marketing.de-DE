@@ -23,9 +23,9 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 70984b2c03e14a14b36fca6dfc62dcda9138949e
+source-git-commit: 10f44078f4c1b5865006311f9b32eab479986722
 workflow-type: tm+mt
-source-wordcount: 1410
+source-wordcount: 1443
 ht-degree: 1%
 
 ---
@@ -160,6 +160,8 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 Sie können eine Vorlage hochladen, die Sie in Adobe Journey Optimizer (AJO) oder Marketo erstellt haben. GenStudio for Performance Marketing erkennt anwendungsspezifische Muster und ignoriert sie, wobei das Originalformular für die weitere Verwendung in AJO oder Marketo beibehalten wird. Sie müssen keine Änderungen an der ursprünglichen AJO- oder Marketo-Syntax vornehmen.
 
 Um AJO-Vorlagen aus Ihrer Journey Optimizer-Bibliothek in GenStudio (einschließlich der Registerkarte **[!UICONTROL AJO-Vorlage]** beim Erstellen von E-Mail-Erlebnissen zu verwenden, muss Ihr Unternehmen die App [Journey Optimizer für GenStudio](/help/extensibility/journey-optimizer-for-genstudio.md) von Adobe Exchange installieren und konfigurieren.
+
+Um Marketo-Vorlagen aus Ihrer Marketo Engage-Bibliothek in GenStudio (einschließlich der Registerkarte **[!UICONTROL Marketo-Vorlagen]** beim Erstellen von E-Mail-Erlebnissen zu verwenden, muss Ihr Unternehmen [Marketo für GenStudio](/help/extensibility/marketo-for-genstudio.md) von Adobe Exchange installieren und konfigurieren.
 
 Zu den erkannten Anwendungsmustern gehören:
 

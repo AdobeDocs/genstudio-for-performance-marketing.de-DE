@@ -1,0 +1,96 @@
+---
+title: Marketo für GenStudio
+description: Installieren und konfigurieren Sie die App Marketo for GenStudio Adobe Exchange , damit Ihr Unternehmen Marketo Engage-Vorlagen in GenStudio for Performance Marketing verwenden kann.
+feature: Extensibility
+source-git-commit: 4118624b479905cd2f2193d542c000678daaf4b8
+workflow-type: tm+mt
+source-wordcount: '727'
+ht-degree: 0%
+
+---
+
+# Marketo für GenStudio
+
+Organisationen, die [!DNL Marketo Engage] und [!DNL GenStudio for Performance Marketing] in derselben [!DNL IMS] verwenden, können die App **Marketo for GenStudio** von [!DNL Adobe Exchange] installieren. Nachdem ein Systemadministrator die App genehmigt und die Bereitstellung abgeschlossen hat, können Autoren beim Erstellen von E-Mail-Erlebnissen in GenStudio neben den Vorlagen, die direkt in [!DNL Content] hochgeladen wurden, Marketo-Vorlagen auswählen.
+
+Dieses Thema richtet sich an **Administratoren** die die App installieren, Anmeldedaten von Marketo einholen und die App in Exchange bereitstellen. Informationen zur Funktionsweise der Vorlagensyntax für AJO und Marketo mit GenStudio finden Sie unter [Vorlagen aus AJO und Marketo](/help/user-guide/templates/use-templates.md#templates-from-ajo-and-marketo).
+
+## Voraussetzungen
+
+* [!DNL Marketo Engage] muss in der Organisation bereitgestellt werden, in der Sie die Erweiterung bereitstellen.
+* Benutzende, die die Anwendung bereitstellen, benötigen **Marketo-Anmeldeinformationen**. Um diese Anmeldeinformationen zu erstellen und abzurufen, benötigen Sie Zugriff auf den **Marketo** Produktadministrator. (Der **[!UICONTROL Admin]**-Bereich muss beim Öffnen von Marketo verfügbar sein.)
+
+## Installieren der App über Adobe Exchange
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
+
+1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL Experience Cloud]**.
+1. Öffnen Sie die Liste [Marketo for GenStudio](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio).
+   ![Liste der Marketo for GenStudio in Adobe Exchange](/help/extensibility/marketo-adobe-exchange.png){width="75%"}
+1. Wählen Sie **[!UICONTROL Kostenlos]** aus, um die App für Ihre Organisation anzufordern.
+1. Nachdem Ihr Unternehmen **die Anfrage geprüft und**, fahren Sie mit [Marketo-Anmeldedaten abrufen](#get-marketo-credentials) und [das Programm über Exchange bereitstellen](#deploy-the-application-from-exchange) fort.
+
+## Marketo-Anmeldedaten abrufen
+
+Sie verwenden Anmeldedaten aus Ihrer **Marketo**-Instanz (nicht aus der Adobe Developer Console). Erfassen Sie Folgendes, bevor Sie in Exchange bereitstellen.
+
+### Nur einen API-Benutzer erstellen (optional, wenn Sie einen vorhandenen API-Benutzer wiederverwenden)
+
+1. Navigieren Sie in Marketo zu **[!UICONTROL Admin]**.
+1. Öffnen Sie **[!UICONTROL Sicherheit]** die Option **[!UICONTROL Benutzer und Rollen]**.
+1. Klicken Sie für einen neuen API-Benutzer auf **[!UICONTROL Nur API-Benutzer erstellen]** (verwenden Sie für jeden API-Benutzer eine eindeutige E-Mail). Weisen Sie die Rolle **[!UICONTROL API-Rollen (alle Arbeitsbereiche)]** (oder die Rollen, die Ihr Unternehmen benötigt) zu. Wenn Sie bereits über einen API-Benutzer verfügen, den Sie verwenden möchten, fahren Sie mit [Erstellen oder wählen Sie einen LaunchPoint-Service aus](#create-or-select-a-launchpoint-service) fort.
+
+![Benutzer und Rollen nur mit API-Benutzer- und API-Rollen](/help/extensibility/marketo-users-roles-api-user.png){width="80%"}
+
+### LaunchPoint-Service erstellen oder auswählen
+
+1. Öffnen Sie **[!UICONTROL Admin]** unter **[!UICONTROL Integration]** die Option **[!UICONTROL LaunchPoint]**.
+1. Klicken Sie **[!UICONTROL Erstellen]**, um einen neuen Service zu erstellen (oder einen vorhandenen benutzerdefinierten Service zu verwenden).
+   ![Benutzerdefinierter LaunchPoint-Service](/help/extensibility/marketo-launchpoint-custom-service.png){width="80%"}
+1. Klicken Sie für Ihren Dienst auf **[!UICONTROL Details anzeigen]** und kopieren Sie die **[!UICONTROL Client-ID]** und **[!UICONTROL Client-Geheimnis]**. Sie geben diese in Adobe Exchange (**[!UICONTROL )]**.
+
+### Notieren Sie sich Ihre Marketo REST API-Basis-URL
+
+1. Öffnen Sie **[!UICONTROL Admin]** unter **[!UICONTROL Integration]** die Option **[!UICONTROL Web-Services]**.
+1. Suchen Sie den **[!UICONTROL REST API]**-Endpunkt. Kopieren Sie nur die **Basis-URL** (Host) in die `https://###-XXX-###.mktorest.com`. Fügen **Pfadsegmente** z. B. `/rest` oder `/identity` ein. Dieser Wert ist pro Marketo-Instanz eindeutig.
+
+![Basis-URL des Web Services REST-API-Endpunkts](/help/extensibility/marketo-web-services-rest-endpoint.png){width="80%"}
+
+Sie benötigen außerdem die **[!UICONTROL Marketo Engage Identity URL]** die Ihr Exchange-Bereitstellungsbildschirm anfordert, zusammen mit der REST-Basis-URL sowie der Client-ID und dem Client Secret von LaunchPoint.
+
+## Anwendung von Exchange bereitstellen
+
+Um die Erweiterung in GenStudio verfügbar zu machen, stellen Sie die App über Adobe Exchange bereit.
+
+1. Kehren Sie zu [Adobe Exchange &#x200B;](https://exchange.adobe.com).
+1. Wählen Sie **[!UICONTROL Verwalten]** und öffnen Sie die Anwendung **Marketo für GenStudio** (z. B. unter **[!UICONTROL App Builder-Anwendungen]** oder den verwalteten Programmen Ihres Unternehmens).
+1. Wählen **[!UICONTROL unter &quot;]**&quot; eine vorhandene Umgebung aus dem Dropdown-Menü aus oder wählen Sie **[!UICONTROL Umgebung hinzufügen]**, um eine Umgebung zu erstellen.
+1. Öffnen Sie **[!UICONTROL Konfiguration]** für die ausgewählte Umgebung.
+1. Geben Sie **[!UICONTROL Client-ID]** und **[!UICONTROL Client-Geheimnis]** aus [LaunchPoint](#create-or-select-a-launchpoint-service), die **[!UICONTROL Marketo Engage Identity URL]** und die **[!UICONTROL Basis-URL der Marketo Engage REST-API]** (der Basis-Host aus [Web Services](#note-your-marketo-rest-api-base-url)) ein.
+1. Klicken Sie auf **[!UICONTROL Bereitstellen]**. Nach erfolgreicher Bereitstellung ändert sich die Aktion in **[!UICONTROL Bereitstellung aufheben]**.
+
+### Konfiguration aktualisieren
+
+Um die Konfigurationswerte für eine Umgebung zu ändern **[!UICONTROL aktualisieren Sie zunächst]** Felder und anschließend erneut **[!UICONTROL Bereitstellen]**.
+
+## Zugriff auf Marketo-Vorlagen in GenStudio
+
+Nachdem Marketo für GenStudio installiert und konfiguriert wurde, wird beim Erstellen eines E-Mail **-Erlebnisses in GenStudio die**&#x200B;**Marketo-Vorlagen** angezeigt. Verwenden Sie diese Registerkarte, um Vorlagen aus Marketo Engage zu durchsuchen.
+
+>[!IMPORTANT]
+>
+>Erstellen Sie E-Mails unter dem **Standard-E-Mail**-Erlebnisfluss in GenStudio for Performance Marketing. Diese Integration unterstützt KEINE E-Mails, die mit dem neuen E-Mail-Editor erstellt wurden.
+
+![Exchange-Konfiguration mit Marketo-Anmeldeinformationen](/help/extensibility/marketo-exchange-configuration.png){width="80%"}
+
+## Fehlerbehebung
+
+### Die Registerkarte Marketo-Vorlagen wird nicht angezeigt
+
+* Vergewissern Sie sich, **die App in** Exchange genehmigt“ ist und die Umgebung **bereitgestellt** mit gültigen Client-ID-, Client-Geheimnis- und Marketo-Basis-URLs bereitgestellt wird.
+* Bitten Sie Ihren Administrator, bei der Erstellung der Anmeldeinformationen **Zugriff auf den** Marketo-Produktadministrator zu überprüfen.
+
+### Vorlagen werden nicht geladen
+
+* Laden Sie die Seite neu oder melden Sie sich ab und wieder bei GenStudio an.
+* Suchen Sie im Bedienfeld **[!UICONTROL Netzwerk]** der Browser-Entwicklertools nach fehlgeschlagenen API-Aufrufen an Ihre Marketo-Instanz und überprüfen Sie, ob die REST-Basis-URL mit **[!UICONTROL Webservices]** in Marketo übereinstimmt (kein zusätzlicher Pfad nach dem Host).
