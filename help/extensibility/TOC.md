@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über die Funktionen des Erweiterbarke
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: Developer
-source-git-commit: 70984b2c03e14a14b36fca6dfc62dcda9138949e
+source-git-commit: 10f44078f4c1b5865006311f9b32eab479986722
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 58%
+source-wordcount: '63'
+ht-degree: 55%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 58%
    + [Bereitstellen der App](deploy-app.md)
    + [Verteilen der App](distribute-app.md)
    + [Journey Optimizer für GenStudio](journey-optimizer-for-genstudio.md)
+   + [Marketo für GenStudio](marketo-for-genstudio.md)
    + [Experience Selector-MFE](experience-selector.md)
 
 <!--
