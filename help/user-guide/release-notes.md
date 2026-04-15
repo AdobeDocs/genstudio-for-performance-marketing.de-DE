@@ -68,7 +68,7 @@ CPA wird konsistent in den Tabellen Ads, Assets (Media) und Attributes [!DNL Ins
 
 ### RTCDP-Zielgruppen im Workflow „Erstellen“
 
-[Adobe Real-Time Customer Data Platform (RTCDP)-Zielgruppen](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences) sind im [!DNL Create]-Workflow verfügbar, damit Sie zusätzlich zu Ihren bestehenden Richtlinien generierte Erlebnisse in Zielgruppendefinitionen als Grundlage verwenden können.
+[Adobe Real-Time Customer Data Platform (RTCDP)-Zielgruppen](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/guidelines/add-guidelines#add-audiences) sind im [!DNL Create]-Workflow verfügbar, damit Sie zusätzlich zu Ihren bestehenden Richtlinien generierte Erlebnisse in Zielgruppendefinitionen als Grundlage verwenden können.
 
 ### Innovid-Anzeigekanal in [!DNL Insights]
 
