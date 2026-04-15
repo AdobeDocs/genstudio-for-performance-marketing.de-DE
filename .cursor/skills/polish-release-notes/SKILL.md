@@ -55,7 +55,7 @@ Unterschiede beibehalten **minimal**: Nur Formulierungs- und Absatzumbrüche - k
 ## Workflow-Checkliste
 
 1. [ ] Bestätigen **welche** `###` unter `## … {#latest}` im Umfang enthalten sind (neu in dieser Runde).
-2. [ ] Für jede im Umfang enthaltene `###` straffen Sie die Kopien [Sprach- und ](#voice-and-tone) und [Absatzregeln](#paragraph-rules).
+2. [ ] Für jede im Umfang enthaltene `###` straffen Sie die Kopien [Sprach- und &#x200B;](#voice-and-tone) und [Absatzregeln](#paragraph-rules).
 3. [ ] Entfernen oder kürzen Sie **Anleitungen** Behalten Sie **Benutzerergebnisse** bei.
 4. [ ] Überprüfen Sie, ob Links und Shortcodes weiterhin gültig sind. Führen Sie einen Schnellscan für interne IDs oder gesperrte Muster gemäß [Qualitätsprüfungen](#quality-checks) durch.
 

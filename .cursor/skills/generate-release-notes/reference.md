@@ -15,7 +15,7 @@ Die Live-Seite [help/user-guide/release-notes.md](../../help/user-guide/release-
 
 - Beim Bearbeiten des Inhalts **Versionshinweisen (**) **vorhandene** und Werte beibehalten, es sei denn, die Aufgabe fordert ausdrücklich zur Änderung von Metadaten auf.
 - Entfernen Sie keine Taxonomie- oder Produktmetadaten, um sie mit einer kürzeren Vorlage abzugleichen.
-- Zu den erforderlichen Konzepten für ExL-Seiten gehören im Allgemeinen `title`, `description` und `role`. Befolgen Sie für neue Seiten die [Anleitungen ](https://experienceleague.adobe.com/en/docs/authoring-guide/using/authoring/using-metadata) Experience League-Metadaten.
+- Zu den erforderlichen Konzepten für ExL-Seiten gehören im Allgemeinen `title`, `description` und `role`. Befolgen Sie für neue Seiten die [Anleitungen &#x200B;](https://experienceleague.adobe.com/en/docs/authoring-guide/using/authoring/using-metadata) Experience League-Metadaten.
 
 ## Interne Quellen (KT und Release-Wikis)
 

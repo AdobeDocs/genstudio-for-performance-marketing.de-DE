@@ -101,8 +101,8 @@ Verwenden Sie genau:
 ## Verbotene Inhalte
 
 - Schließen **nicht** Jira-Schlüssel, interne Problemnummern, interne URLs oder Unternehmens-Wiki-Links in veröffentlichten Versionshinweisen ein.
-- Geben **** Dokumente, Tickets oder interne Tools zum Wissenstransfer nicht als Nachweis an. Fassen Sie nur benutzerfreundliche Ergebnisse zusammen.
-- Duplizieren **** nicht `{#latest}` in mehreren Abschnitten.
+- Geben **&#x200B;**&#x200B;Dokumente, Tickets oder interne Tools zum Wissenstransfer nicht als Nachweis an. Fassen Sie nur benutzerfreundliche Ergebnisse zusammen.
+- Duplizieren **&#x200B;**&#x200B;nicht `{#latest}` in mehreren Abschnitten.
 
 ## Qualitätskontrollen
 
