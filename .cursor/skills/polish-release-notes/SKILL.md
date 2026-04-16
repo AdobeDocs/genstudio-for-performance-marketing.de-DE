@@ -2,9 +2,9 @@
 name: polish-release-notes
 description: ""
 notes: refines only newly added
-source-git-commit: 1a33b08048233c5f9a82b5f428082aa5c71b0052
+source-git-commit: ee2875f35035e23e2577adbde5f408702b77d233
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -46,6 +46,15 @@ Unterschiede beibehalten **minimal**: Nur Formulierungs- und Absatzumbrüche - k
 - **Prozedurale Anleitung** Inhalte: nummerierte Schritte, „Klicken Sie **[!UICONTROL …]** dann…“, exemplarische Vorgehensweisen für die vollständige Benutzeroberfläche oder Tutorial-Formulierungen. In den Versionshinweisen **Sie, was** und **warum es wichtig ist** und nicht praktische Lektionen.
 - Inhalte, die gegen [Verbotene Inhalte](../generate-release-notes/SKILL.md#prohibited-content) auf der generierten Qualifikation verstoßen (keine Jira-Schlüssel, nur interne URLs, Wiki-as-Proof usw.).
 
+## Während der Polnisch-Version entfernen (Versionsplanung)
+
+Entwürfe enthalten manchmal **kursiv** Zeilen (`_…_` oder `*…*`) zur **Verfügbarkeit**, z. B. eingeschränkte Veröffentlichung, Summit-Timing, allgemeine Verfügbarkeit, umfassenderer Rollout oder Beta **Windows**. Diese Sprache gehört in **Versionsverwaltung**, nicht in optimierten kundenorientierten Hinweisen für diese Seite.
+
+- **Entfernen Sie vollständig** diese **kursiv** Zeilen oder **nachgestellten kursiv**, wenn ihr **primärer Zweck** der Zeitplan- oder Rollout-Status ist (einschließlich **GA**, **eingeschränkte Version**, **Summit** oder Ähnliches).
+- **Entfernen Sie** gewöhnlichen (nicht kursiv gedruckten) Sätze, die das Produktverhalten beschreiben - nur eine Planungskopie, die **kursiv** Haftungsausschluss festgelegt wurde.
+- **Behalten** Sie den **[!BADGE Beta]**-Block bei, wenn die Funktion Beta ist. Das Badge ist das unterstützte Muster für Beta, keine separate kursive Planungszeile.
+- Wenn ein Absatz jetzt **beginnt oder unangenehm endet** ziehen Sie die umliegende Prosa nach dem Entfernen fest. Ersetzen Sie die entfernten Kursivformatierungen nicht durch neue Sätze, es sei denn, der Benutzer fragt ausdrücklich danach.
+
 ## Beibehalten (nicht abstreifen oder strukturell neu schreiben)
 
 - `[!DNL …]`, `[!UICONTROL …]`, `[!BADGE …]` und andere ExL-Shortcodes.
@@ -57,12 +66,14 @@ Unterschiede beibehalten **minimal**: Nur Formulierungs- und Absatzumbrüche - k
 1. [ ] Bestätigen **welche** `###` unter `## … {#latest}` im Umfang enthalten sind (neu in dieser Runde).
 2. [ ] Für jede im Umfang enthaltene `###` straffen Sie die Kopien [Sprach- und &#x200B;](#voice-and-tone) und [Absatzregeln](#paragraph-rules).
 3. [ ] Entfernen oder kürzen Sie **Anleitungen** Behalten Sie **Benutzerergebnisse** bei.
-4. [ ] Überprüfen Sie, ob Links und Shortcodes weiterhin gültig sind. Führen Sie einen Schnellscan für interne IDs oder gesperrte Muster gemäß [Qualitätsprüfungen](#quality-checks) durch.
+4. [ ] Strip **italic (oder italic-style) Planung und Verfügbarkeit** Zeilen pro [Entfernen während der Bearbeitung (Release-Planung)](#remove-during-polish-release-scheduling).
+5. [ ] Überprüfen Sie, ob Links und Shortcodes weiterhin gültig sind. Führen Sie einen Schnellscan für interne IDs oder gesperrte Muster gemäß [Qualitätsprüfungen](#quality-checks) durch.
 
 ## Qualitätskontrollen
 
 - [ ] Nur die vereinbarten **neu** `###` Blöcke unter `{#latest}` geändert; Archive und ältere Monate unberührt.
 - [ ] Keine neuen IDs im Jira-Stil, keine internen Wiki-URLs oder „Ticket anzeigen“-Sprache.
+- [ ] Keine **nur zur Planung** Kursiv-Haftungsausschlüsse (allgemein verfügbar, eingeschränkte Version, Summit-Rollout usw.) in polierten `{#latest}`-Unterabschnitten bleiben - diese wurden pro entfernt [Im Polnisch entfernen (Versionsplanung)](#remove-during-polish-release-scheduling); Beta-Badge-Blöcke sind ggf. in Ordnung.
 - [ ] Absätze sind **2-3 Sätze** jeweils (maximal drei Sätze pro Absatz).
 - [ ] Copy bleibt **sachlich** und mit der beschriebenen Funktion abgestimmt.
 

@@ -1,9 +1,9 @@
 ---
 name: generate-release-notes
 description: ""
-source-git-commit: 1a33b08048233c5f9a82b5f428082aa5c71b0052
+source-git-commit: 85ad74d3f24fb809b11f57b23bd24a7ae3310f43
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,23 @@ ht-degree: 0%
 
 **KT/wiki-Feldzuordnung und Dokumentenpfade:** [reference.md](reference.md)
 
+## Bearbeitungsbereich (streng)
+
+Wenn Sie diese Fähigkeit verwenden **(der einzige Ort** können Sie den Inhalt **Versionshinweisen** hinzufügen **oder** bearbeiten), ist der Abschnitt mit der Überschrift **`## … {#latest}`** (der einzelne Block, der den `{#latest}` Anker trägt).
+
+- **Bearbeiten Sie** **frühere Versionshinweise**—keinen `+++Notes from YYYY.MM.DD+++` ausblendbaren Block—oder **irgendeinen** älteren `##` monatlichen Abschnitt, der nicht mehr `{#latest}` hat, selbst wenn das Thema in Beziehung zu stehen scheint, ein Link falsch aussieht oder eine Kopie dort dupliziert oder veraltet erscheint.
+- **Bereinigen Sie** vorherigen `###` Unterabschnitte, Aufzählungszeichen, Links oder Formulierungen außerhalb des aktuellen `{#latest}`-Blocks nur, wenn der Benutzer eine **explizite, separate** Anfrage sendet, die von dieser Qualifikation nicht abgedeckt wird.
+- **Ausnahme:** [Spätestes Archivieren](#archive-previous-latest) beim Einführen eines **neuen** oberen `{#latest}`: **Verschieben** des gesamten vorherigen `{#latest}`-Abschnitts in einen **neuen**, der unter **früheren Versionshinweisen** wie unten beschrieben ausgeblendet werden kann. Während dieses Durchlaufs dürfen **nicht** neu schreiben oder zu **anderen, älteren** Archivblöcken hinzufügen.
+
+Wenn neue Informationen in das Dokument gehören, platzieren Sie sie unter der aktuellen **`{#latest}`** Überschrift (oder archivieren Sie sie zuerst und fügen Sie sie dann nur unter der neuen `{#latest}` hinzu).
+
 ## Workflow-Checkliste
 
 Arbeiten Sie in dieser Reihenfolge. Kopieren Sie die Checkliste und verfolgen Sie den Fortschritt bei mehrstufigen Bearbeitungen.
 
-1. [ ] Öffnen Sie `help/user-guide/release-notes.md` und lesen Sie den aktuellen `## YYYY.MM {#latest}` und den Bereich **Frühere Versionshinweise** .
+1. [ ] Öffnen Sie `help/user-guide/release-notes.md` und lesen Sie den aktuellen `## YYYY.MM {#latest}`. Behandeln Sie **früheren Versionshinweise** als **schreibgeschützten**-Kontext, es sei denn, Sie führen den Archivierungsschritt in Schritt 2 aus.
 2. [ ] Wenn Sie eine **neue** monatliche Version hinzufügen: archivieren Sie die aktuelle Version (siehe [Archivieren Sie die neueste Version](#archive-previous-latest)).
-3. [ ] Fügen Sie den Abschnitt Top-`## YYYY.MM {#latest}` hinzu oder bearbeiten Sie ihn (der neueste Monat oben in der Veröffentlichungsliste).
+3. [ ] Fügen Sie **Abschnitt** der obersten `## YYYY.MM {#latest}` hinzu oder bearbeiten Sie ihn (neuer Monat am Anfang der Veröffentlichungsliste).
 4. [ ] Wenden Sie für jedes Element [Entscheidungsregeln](#decision-rules) an (Feature `###` vs. **Fehlerbehebungen und**, Beta-Badge oder nicht).
 5. [ ] Fügen Sie Dokumentations-Links zum relevantesten Satz hinzu oder überprüfen Sie ihn (siehe [reference.md](reference.md#documentation-linking)).
 6. [ ] Führen Sie [Qualitätsprüfungen](#quality-checks) vor dem Abschluss durch.
@@ -47,10 +57,12 @@ Verwenden Sie diese Wenn/Dann-Regeln, damit Inhalte an der richtigen Stelle land
 Bei der Einführung eines neuen `## YYYY.MM {#latest}`:
 
 1. Schneiden Sie den gesamten vorherigen `## YYYY.MM {#latest}`-Abschnitt aus (von seiner Überschrift bis zum Ende des Inhalts dieser Version, vor dem nächsten `##` oder **früheren Versionshinweisen**).
-2. Fügen Sie sie in **frühere Versionshinweise** innerhalb eines ausblendbaren Blocks ein.
+2. Fügen Sie sie in **frühere Versionshinweise** innerhalb eines **neuen** ausblendbaren Blocks ein.
 3. Ersetzen Sie die alte Überschrift durch: `+++Notes from YYYY.MM.DD+++` (verwenden Sie das tatsächliche Veröffentlichungsdatum; Format wie in den vorhandenen Hinweisen in der Datei).
 4. Entfernen Sie `{#latest}` aus der archivierten Überschrift. Der neue obere Abschnitt ist der einzige mit `{#latest}`.
 5. Die chronologische Reihenfolge innerhalb von **früheren Versionshinweisen** beibehalten (neueste archivierte Blöcke nach oben, sofern die Datei nicht bereits eine andere Reihenfolge verwendet - **mit der vorhandenen Datei**).
+
+Bearbeiten **&#x200B;**&#x200B;während der Durchführung dieses Archivs nicht den **(bereits**) `+++Notes from …+++` - fügen Sie nur den neu archivierten Block ein und behalten Sie die älteren Archive unverändert bei.
 
 ## Erforderliche Struktur
 
@@ -108,6 +120,7 @@ Verwenden Sie genau:
 
 Vor Abschluss der Aufgabe:
 
+- [ ] **Umfang:** Nur der `## … {#latest}` wurde hinzugefügt oder bearbeitet; **frühere Versionshinweise** und ältere Monatsabschnitte wurden nicht geändert, außer dem [Archivieren des vorherigen &#x200B;](#archive-previous-latest) Ausschneiden/Einfügen des vorherigen `{#latest}` in einen **neuen** Archivblock.
 - [ ] Alle neuen oder geänderten relativen Links werden nach Möglichkeit in echte Pfade unter `help/` aufgelöst.
 - [ ] Beta-Funktionen enthalten bei Bedarf das Beta-Badge-Snippet .
 - [ ] Terminologie entspricht den vorhandenen Versionshinweisen (`[!DNL …]`, `[!UICONTROL …]`).
