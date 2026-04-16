@@ -21,10 +21,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 5f02a3076ca875f9819e5da55824bbf9c5337bb4
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 100%
+source-wordcount: 931
+ht-degree: 89%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 Mit [!DNL GenStudio for Performance Marketing] können Sie TikTok-Anzeigen als Paid-Media-Erlebnisse im [[!DNL Create]](/help/user-guide/create/overview.md)-Workflow erstellen. Erstellen Sie kreative Varianten, führen Sie Marken- und Kanalprüfungen durch, veröffentlichen Sie in [!DNL Content] und aktivieren Sie über [[!DNL Activate]](/help/user-guide/activation/overview.md), um Inhalte zur abschließenden Überprüfung und zum Launch an TikTok Ads Manager zu senden.
 
-TikTok in [!DNL GenStudio for Performance Marketing] fügt sich in einen größeren Omni-Channel-Workflow ein: Sie können die Kampagnen- und Anzeigenleistung von TikTok in [[!DNL Insights]](/help/user-guide/insights/overview.md) neben anderen Social-Media- und Anzeigekanälen (wie Meta und LinkedIn) analysieren, anstatt zu separaten Reporting-Tools zu wechseln.
+TikTok in [!DNL GenStudio for Performance Marketing] fügt sich in einen größeren Omni-Channel-Workflow ein: Sie können die Kampagnen- und Anzeigenleistung von TikTok in den standardmäßigen [!DNL Insights] - [!UICONTROL Kampagnen], [!UICONTROL Anzeigen], [!UICONTROL Media] und [!UICONTROL Attribute] - [[!DNL Insights]](/help/user-guide/insights/overview.md#dashboard) neben anderen Social- und Display-Kanälen (wie Meta und LinkedIn) analysieren, anstatt zu separaten Reporting-Tools zu wechseln. Die **[!UICONTROL Insights 2.0]** Cross-Channel-Übersicht ([Übersicht über Insights — Insights 2.0](/help/user-guide/insights/overview.md#insights-20)) konzentriert sich nur auf Meta und LinkedIn. TikTok ist dort derzeit nicht enthalten.
 
 [!DNL Insights] Oberflächen-Metriken, einschließlich:
 
@@ -77,7 +77,7 @@ Ein System Manager hat Ihr TikTok Ads-Konto in [!DNL Activate] verbunden:
 
 ### TikTok-Erlebnis starten
 
-![TikTok-Kanal im Workflow „Erstellen“](../../assets/tiktok/create-tiktok-experience.png){width="90%"}
+![TikTok-Kanal im Erstellungs-Workflow](../../assets/tiktok/create-tiktok-experience.png){width="90%"}
 **So starten Sie ein TikTok**:
 
 1. Navigieren Sie zu **[!UICONTROL Erstellen]** und wählen Sie **[!UICONTROL TikTok]**.
@@ -107,7 +107,7 @@ Führen Sie vor dem Speichern oder Senden des Erlebnisses zur Überprüfung Inha
    * **TikTok-Kanalregeln** - Seitenverhältnis, Dateityp, Kopierlänge.
 1. Beheben Sie alle gemeldeten Probleme (z. B. Kopierlänge oder dichten Text auf dem Bildschirm).
 
-Weitere Informationen [ Inhaltsprüfungen finden ](/help/user-guide/guidelines/brand-validation.md) unter „Markenvalidierung“.
+Weitere Informationen [&#x200B; Inhaltsprüfungen finden &#x200B;](/help/user-guide/guidelines/brand-validation.md) unter „Markenvalidierung“.
 
 ## Speichern einer TikTok-Anzeige in GenStudio for Performance Marketing
 
@@ -183,7 +183,7 @@ Ein _Veröffentlichen in Bearbeitung_-Modal wird angezeigt und automatisch gesch
 
 ![GenStudio-Veröffentlichungs-Modal](../../assets/tiktok/publishing-modal.png){width="30%"}
 
-In der Tabelle Aktivierung werden die neuesten Aktivierungen mit dem Status **Ausstehend** angezeigt, während die Verarbeitung abgeschlossen ist. Sie können die Seite verlassen, während die Veröffentlichung abgeschlossen ist.
+Die Tabelle Aktivierung zeigt die neuesten Aktivierungen mit dem Status **Ausstehend** während der Verarbeitung an.Sie können die Seite verlassen, während die Veröffentlichung abgeschlossen ist.
 
 ![Detailseite für TikTok](../../assets/tiktok/tiktok-details-page.png){width="90%"}
 

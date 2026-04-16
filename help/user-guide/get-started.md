@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 648
+source-wordcount: 665
 ht-degree: 0%
 
 ---
@@ -90,4 +90,4 @@ Siehe [Hochladen genehmigter Assets](/help/user-guide/content/manage-assets.md).
 
 ### Schritt 5: Herstellen einer Verbindung zu einem Paid-Media-Konto
 
-Konfigurieren Sie eine Verbindung zwischen GenStudio for Performance Marketing und Ihren Paid-Media-Konten, um Daten aus aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten. Verwenden Sie [!DNL Insights] zur Analyse von kanalabgeleiteten Daten. Siehe [Verbinden von Paid Media-Konten](/help/user-guide/connectors/connect-channel.md).
+Konfigurieren Sie eine Verbindung zwischen GenStudio for Performance Marketing und Ihren Paid-Media-Konten, um Daten aus aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten. Verwenden Sie [!DNL Insights], um kanalabgeleitete Daten zu analysieren, einschließlich der **[!UICONTROL Insights 2.0]** kanalübergreifenden Übersicht bei der Arbeit mit Meta und LinkedIn ([Übersicht über Insights](/help/user-guide/insights/overview.md#insights-20)). Siehe [Verbinden von Paid Media-Konten](/help/user-guide/connectors/connect-channel.md).

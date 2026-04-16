@@ -25,9 +25,9 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
 workflow-type: tm+mt
-source-wordcount: 675
+source-wordcount: 943
 ht-degree: 0%
 
 ---
@@ -42,6 +42,24 @@ Vom [!DNL Insights]-Dashboard aus haben Sie folgende Möglichkeiten:
 - **Leistungsschwache Inhalte optimieren**: Suchen Sie nach Inhalten, die keine gute Leistung erbringen, und verwenden Sie die integrierte generative KI, um Varianten sofort zu erstellen, was möglicherweise die Effektivität verbessern kann, ohne von Grund auf neu zu beginnen.
 - **Hochleistungsinhalte neu beleben**: Nehmen Sie erfolgreiche Inhalte und passen Sie sie an, um die Anzeige für die Zielgruppe zu aktualisieren oder Hero-Inhalte für die Verwendung in neuen Kampagnen anzupassen, was möglicherweise den Lebenszyklus und die Leistung verlängert.
 
+Das [!DNL Insights]-Modul enthält **[!UICONTROL Insights 2.0]**, ein kanalübergreifendes Leistungserlebnis für Paid Social. Er funktioniert zusammen mit den detaillierten Tabellen- und Galerieansichten [&#x200B; Abschnitt &#x200B;](#dashboard)Dashboard“ dieses Artikels.
+
+## Insights 2.0 {#insights-20}
+
+**[!UICONTROL Insights 2.0]** bietet eine Leistungsintelligenzschicht, die Marketing-Experten einen klaren Überblick über die Leistung von Paid Social-Media-Marketing in allen verbundenen Konten gibt.
+
+**In [!UICONTROL Insights 2.0] haben Sie folgende Möglichkeiten:**
+
+- **Überprüfen von kanalübergreifenden oder Einzelkanal-Übersichten (Meta und LinkedIn)**: Zeigen Sie eine konsolidierte Momentaufnahme über beide bezahlten Social-Media-Kanäle hinweg an oder gehen Sie in einen einzelnen Kanal auf.
+- **Verwenden des kanalübergreifenden Leistungsberichts**: Zeigen Sie den Ergebnisanteil jedes Kanals mit einer Visualisierung des Prozentsatzes an, einschließlich der Gesamtausgaben (Prozentsatz und Betrag) und der Metriken zum Leistungsanteil wie CTR, CPC und CPM.
+- **Verwenden des Berichts zur Anzeigenleistung**: Identifizieren Sie Anzeigen mit hoher und niedriger Leistung mit Rankings und Metriken, die Optimierungsentscheidungen unterstützen.
+- **Analysieren von Meta-Konversionsmetriken**: Konzentrieren Sie sich auf Konversionen mit Einblick in die CPA in allen funnel-Phasen (z. B. interaktive Besuche, Informationsanfrage, App-Start, Interessent und App abgeschlossen) und überprüfen Sie die Konversionstrends im Laufe der Zeit, wobei die Konversionsdaten in GenStudio for Performance Marketing verfügbar sind.
+- **Einblicke aus Anzeigen-Tags erkunden**: Die Tracking-IDs von Anzeigen werden in strukturierte Tags geparst, damit Sie die Leistung nach von Ihnen definierten Dimensionen (z. B. call to action, Geografie, Format oder Konzept) analysieren, die Budgetzuweisung für diese Dimensionen anzeigen und weniger Zeit mit der manuellen Dekodierung von Namenskonventionen verbringen können.
+
+>[!NOTE]
+>
+>**[!UICONTROL Insights 2.0]** umfasst derzeit NUR **Meta** und **LinkedIn**. TikTok, DV360 und Innovid sind derzeit nicht in der Übersicht **[!UICONTROL Insights 2.0]** enthalten. Die Ansichten **[!UICONTROL Kampagnen]**, **[!UICONTROL Anzeigen]**, **[!UICONTROL Media]** und **[!UICONTROL Attribute]** im Abschnitt [Dashboard](#dashboard) unterstützen weiterhin den breiteren Kanalsatz, der unter [Kanäle unterstützt](#channels-supported) beschrieben ist.
+
 ## Data Connectors
 
 Beim ersten Öffnen von [!DNL Insights] wird möglicherweise ein Banner angezeigt, das Sie anleitet, Adobe GenStudio for Performance Marketing mit einem Kanalkonto zu verbinden.
@@ -50,7 +68,7 @@ Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistisch
 
 {{connect-insights}}
 
-## Unterstützte Kanäle
+## Unterstützte Kanäle {#channels-supported}
 
 Zu den unterstützten Kanälen in Insights gehören Meta, LinkedIn, TikTok, DV360 und Innovid.
 
@@ -60,7 +78,7 @@ Derzeit sind Mediendaten für DV360 und Innovid nicht verfügbar, was bedeutet, 
 
 Diese Einschränkung ist auf Einschränkungen der Paid-Media-Plattformen selbst zurückzuführen und nicht auf ein Problem mit GenStudio for Performance Marketing.
 
-## Dashboard
+## Dashboard {#dashboard}
 
 Das [!DNL Insights]-Dashboard verfügt über eine konfigurierbare Tabelle für jeden Inhaltstyp: [!UICONTROL Kanäle], [!UICONTROL Anzeigen], [!UICONTROL Media] und [!UICONTROL Attribute].
 
