@@ -62,7 +62,7 @@ Bei der Einführung eines neuen `## YYYY.MM {#latest}`:
 4. Entfernen Sie `{#latest}` aus der archivierten Überschrift. Der neue obere Abschnitt ist der einzige mit `{#latest}`.
 5. Die chronologische Reihenfolge innerhalb von **früheren Versionshinweisen** beibehalten (neueste archivierte Blöcke nach oben, sofern die Datei nicht bereits eine andere Reihenfolge verwendet - **mit der vorhandenen Datei**).
 
-Bearbeiten **** während der Durchführung dieses Archivs nicht den **(bereits**) `+++Notes from …+++` - fügen Sie nur den neu archivierten Block ein und behalten Sie die älteren Archive unverändert bei.
+Bearbeiten **&#x200B;**&#x200B;während der Durchführung dieses Archivs nicht den **(bereits**) `+++Notes from …+++` - fügen Sie nur den neu archivierten Block ein und behalten Sie die älteren Archive unverändert bei.
 
 ## Erforderliche Struktur
 
@@ -113,14 +113,14 @@ Verwenden Sie genau:
 ## Verbotene Inhalte
 
 - Schließen **nicht** Jira-Schlüssel, interne Problemnummern, interne URLs oder Unternehmens-Wiki-Links in veröffentlichten Versionshinweisen ein.
-- Geben **** Dokumente, Tickets oder interne Tools zum Wissenstransfer nicht als Nachweis an. Fassen Sie nur benutzerfreundliche Ergebnisse zusammen.
-- Duplizieren **** nicht `{#latest}` in mehreren Abschnitten.
+- Geben **&#x200B;**&#x200B;Dokumente, Tickets oder interne Tools zum Wissenstransfer nicht als Nachweis an. Fassen Sie nur benutzerfreundliche Ergebnisse zusammen.
+- Duplizieren **&#x200B;**&#x200B;nicht `{#latest}` in mehreren Abschnitten.
 
 ## Qualitätskontrollen
 
 Vor Abschluss der Aufgabe:
 
-- [ ] **Umfang:** Nur der `## … {#latest}` wurde hinzugefügt oder bearbeitet; **frühere Versionshinweise** und ältere Monatsabschnitte wurden nicht geändert, außer dem [Archivieren des vorherigen ](#archive-previous-latest) Ausschneiden/Einfügen des vorherigen `{#latest}` in einen **neuen** Archivblock.
+- [ ] **Umfang:** Nur der `## … {#latest}` wurde hinzugefügt oder bearbeitet; **frühere Versionshinweise** und ältere Monatsabschnitte wurden nicht geändert, außer dem [Archivieren des vorherigen &#x200B;](#archive-previous-latest) Ausschneiden/Einfügen des vorherigen `{#latest}` in einen **neuen** Archivblock.
 - [ ] Alle neuen oder geänderten relativen Links werden nach Möglichkeit in echte Pfade unter `help/` aufgelöst.
 - [ ] Beta-Funktionen enthalten bei Bedarf das Beta-Badge-Snippet .
 - [ ] Terminologie entspricht den vorhandenen Versionshinweisen (`[!DNL …]`, `[!UICONTROL …]`).
