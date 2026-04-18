@@ -5,43 +5,14 @@ recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
 TQID: https://experienceleague.adobe.com/V33xtE9DNQS4PXKR0hfGuwpQyuAFApllCSYbR03xAjs
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
-  - id: b286a442-6f0d-405a-adea-abb4a98e2d7b
-  - id: bb0d2eba-617d-4fdd-b920-2f535b5c031c
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
-  - id: d87258a7-722c-4afd-b632-adddc447c7aa
-  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-  - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 45495ee2df117d6c9d87324fc1ac421387fd3032
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4aid: b286a442-6f0d-405a-adea-abb4a98e2d7bid: bb0d2eba-617d-4fdd-b920-2f535b5c031cid: be495d08-ecd1-455f-951e-c22de504e667id: d1558755-1618-43a0-bf5d-134ebe62e93bid: d87258a7-722c-4afd-b632-adddc447c7aaid: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e3878dde-4b87-4290-9e81-ed7ee6eb83feid: ee4b6e5f-5b7a-421b-9859-0f964841a866id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f7f72c23c8bc7a52040af2c897b94d107a7c95bf
 workflow-type: tm+mt
-source-wordcount: 4994
+source-wordcount: 4727
 ht-degree: 0%
 
 ---
@@ -52,35 +23,11 @@ Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for
 
 ## 2026.04.16 {#latest}
 
-### Übersicht über New [!DNL Insights] 2.0
-
-Die Version 2.0 von [[!DNL Insights]](/help/user-guide/insights/overview.md) vereint die Leistung von &lbrace;1 **Meta** und LinkedIn **in einem Arbeitsbereich.** Kanalübergreifende und kanalspezifische Momentaufnahmen, Berichte im Beitragsstil sowie leistungsstarke und leistungsschwache Anzeigenansichten erleichtern die Anzeige, wo die Ausgaben funktionieren.
-
-### [!DNL Insights] von Anzeigen-Tags
-
-**Einblicke aus Anzeigen-Tags** unterteilt Tracking-IDs in Tag-Dimensionen, die Sie neben der Leistung (wie Kosten, Interaktion, Konversionen usw.) analysieren können, ohne Anzeigenamen in Tabellen zu exportieren. In dem Erlebnis werden stärkere und schwächere Tag-Werte angezeigt, sodass Ihre Namenskonvention zu etwas wird, das Sie steuern können, und nicht zu etwas, das Sie offline decodieren.
-
 ### Kontextabhängige Empfehlungen in [!DNL Create]
 
 Im [Erstellungs](/help/user-guide/create/overview.md)Workflow wird **[!UICONTROL Aus Inhalt auswählen]** jetzt mit **[!UICONTROL Relevanz]** Sortierung geöffnet, sodass das Raster die [!DNL Brands], [!DNL Products], [!DNL Personas] und Sprachen in Ihrer Eingabeaufforderungsschublade widerspiegelt.
 
 Oder wenn Neuigkeit anstelle von kontextueller Anpassung führen soll, wechseln Sie zu **[!UICONTROL Kürzlich hinzugefügt]**.
-
-### Austausch von Inhaltsfragmenten auf der HTML-Arbeitsfläche
-
-Für [E](/help/user-guide/create/create-email-experience.md)Mail-Erlebnisse auf der HTML-Arbeitsfläche **E-Mail-Erlebnisse mithilfe von drei Steckplatztypen in einer Arbeitsfläche zusammenstellen**:
-
-* Generative Slots (KI-generierte Kopie)
-* Slots für Inhaltsfragmente (vorab genehmigte Inhaltsfragmente, die aus einem verbundenen AEM-Repository über das Content Advisor-MFE ausgewählt wurden)
-* Gesperrte Slots (unveränderliche Felder wie Haftungsausschlüsse)
-
-Diese Inhaltsfragmente befinden sich auf derselben Arbeitsfläche, sodass modulare, genehmigte Kopien bereitgestellt werden können, ohne dass HTML manuell neu erstellt werden muss.
-
-### Erstellen von [!DNL Brands], [!DNL Products] und [!DNL Personas] über eine URL
-
-Erstellen Sie [!DNL Brands], [!DNL Products] oder [!DNL Personas] ausgehend von einer öffentlichen Marken-URL, deren Ausgaben auf den Online-Veröffentlichungen der Marke basieren.
-
-Markenrichtlinien können in einem einzigen automatischen Durchlauf erstellt werden. Produkte und Rollen beginnen mit vorgeschlagenen Kandidaten, die Sie bestätigen, bevor vollständige Details erstellt werden.
 
 ### Connected TV (CTV)-Anzeigen in [!DNL Create]
 
@@ -91,12 +38,6 @@ Sie können Szenen zusammenstellen, sich auf die Hilfe der generativen KI verlas
 ### HTML5-Anzeigevorlagen, -Varianten und -Größenänderungen
 
 Sie können **DOM-basierte HTML5-Zip-Datei hochladen, um eine Anzeigevorlage zu entwickeln** in [!DNL Create], HTML5-Anzeigenvarianten zu erstellen und die Größe von Creative zu zusätzlichen Seitenverhältnissen zu ändern. Abgeschlossene Erlebnisse können für [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) und [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md) aktiviert werden.
-
-### Firefly Creative-Produktions-Workflows in GenStudio
-
-[!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
-
-**Firefly Creative-Produktions**-Workflows können in GenStudio for Performance Marketing veröffentlicht und ausgeführt werden, sodass Marketing-Fachleute Produktionsausführungen in der App durchführen, Sendungen herunterladen und fertige Assets mit weniger Tool-Hops an [[!DNL Content]](/help/user-guide/content/overview.md) weiterleiten können.
 
 ## Frühere Versionshinweise
 
@@ -168,7 +109,7 @@ Marketing-Experten können jetzt Logos innerhalb von Vorlagen direkt im [!DNL Cr
 
 [!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
 
-* Marketing-Experten [&#x200B; jetzt Erlebnisse für Prüfungs-, Genehmigungs](/help/user-guide/content/manage-assets.md#export-experiences) und Archivierungszwecke in das PDF-Format exportieren.
+* Marketing-Experten [ jetzt Erlebnisse für Prüfungs-, Genehmigungs](/help/user-guide/content/manage-assets.md#export-experiences) und Archivierungszwecke in das PDF-Format exportieren.
 
 ### Benutzerdefinierte Modelle in Firefly Image Model 4
 
@@ -176,7 +117,7 @@ Marketing-Experten können jetzt Logos innerhalb von Vorlagen direkt im [!DNL Cr
 
 ### Meta-Anzeigenaktivierung für ein einzelnes Video
 
-* Marketing-Experten können [&#x200B; Meta-Anzeigen jetzt mit einzelnen Video-Assets &#x200B;](/help/user-guide/activation/activate-meta-ad.md) GenStudio for Performance Marketing direkt in Meta Ads Manager aktivieren. Auf diese Weise können Medienkäufer, Performance-Marketing-Experten und Kreativ-Teams Video-Anzeigenerlebnisse nahtlos veröffentlichen und dabei denselben optimierten Workflow beibehalten, der für die statische Anzeigenaktivierung verwendet wird.
+* Marketing-Experten können [ Meta-Anzeigen jetzt mit einzelnen Video-Assets ](/help/user-guide/activation/activate-meta-ad.md) GenStudio for Performance Marketing direkt in Meta Ads Manager aktivieren. Auf diese Weise können Medienkäufer, Performance-Marketing-Experten und Kreativ-Teams Video-Anzeigenerlebnisse nahtlos veröffentlichen und dabei denselben optimierten Workflow beibehalten, der für die statische Anzeigenaktivierung verwendet wird.
 * Benutzer können kreative Details für Videoanzeigen konfigurieren, eine Vorschau des Videos anzeigen und Videoanzeigen für Meta-Plattformen aktivieren.
 
 ### CPA nach Aktionstyp für Meta-Kampagnen
@@ -318,7 +259,7 @@ Mit der Bildaktivierung mit mehreren Seitenverhältnissen für Meta Ads können 
 
 ### Barrierefreiheitsbeschriftungen für Bilder und Links
 
-Fügen Sie den Bildern und call-to-action-Links in Ihren Varianten Barrierefreiheitsbeschriftungen (Aria-Labels) hinzu, um barrierefreie Namen bereitzustellen, die den Benutzenden helfen, den Zweck interaktiver Elemente zu verstehen. Detaillierte Anweisungen finden [&#x200B; unter &#x200B;](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
+Fügen Sie den Bildern und call-to-action-Links in Ihren Varianten Barrierefreiheitsbeschriftungen (Aria-Labels) hinzu, um barrierefreie Namen bereitzustellen, die den Benutzenden helfen, den Zweck interaktiver Elemente zu verstehen. Detaillierte Anweisungen finden [ unter ](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
 
 ### Erstellung von nicht-englischen Inhalten
 
@@ -352,7 +293,7 @@ Jetzt können Sie in GenStudio for Performance Marketing [!DNL Create] die [Gene
 
 [!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
 
-Neben Bildinhalten können Sie jetzt Videos zu &lbrace;LinkedIn[&#x200B; und {](/help/user-guide/create/create-linkedin.md#manage-videos)}Meta[&#128279;](/help/user-guide/create/create-meta-ad.md#manage-videos)-Anzeigen hinzufügen. Sehen Sie sich die automatische Wiedergabe der Videos direkt in GenStudio for Performance Marketing an, während Sie auswählen, und fügen Sie Ihren Varianten Videos hinzu.
+Neben Bildinhalten können Sie jetzt Videos zu {LinkedIn[ und {](/help/user-guide/create/create-linkedin.md#manage-videos)}Meta](/help/user-guide/create/create-meta-ad.md#manage-videos)-Anzeigen hinzufügen. [Sehen Sie sich die automatische Wiedergabe der Videos direkt in GenStudio for Performance Marketing an, während Sie auswählen, und fügen Sie Ihren Varianten Videos hinzu.
 
 ### Fehlerbehebungen und Verbesserungen
 
@@ -360,7 +301,7 @@ Neben Bildinhalten können Sie jetzt Videos zu &lbrace;LinkedIn[&#x200B; und {](
 
 * Die [Workfront Proof-Integration](/help/user-guide/approvals/overview.md) bringt die leistungsstarken Prüf- und Genehmigungsfunktionen des Testversands in GenStudio for Performance Marketing ein. In GenStudio for Performance Marketing überprüfte Inhalte werden mit Workfront Proof synchronisiert. Überprüfungskommentare und -status werden beibehalten.
 
-* Es wurde die Möglichkeit hinzugefügt[&#x200B; in Ihren Varianten barrierefreie Namen für Bilder und call-to-action](/help/user-guide/create/manage-variants.md#add-accessibility-labels)Links bereitzustellen, indem Barrierefreiheitsbeschriftungen (ARIA-Labels) hinzugefügt wurden.
+* Es wurde die Möglichkeit hinzugefügt[ in Ihren Varianten barrierefreie Namen für Bilder und call-to-action](/help/user-guide/create/manage-variants.md#add-accessibility-labels)Links bereitzustellen, indem Barrierefreiheitsbeschriftungen (ARIA-Labels) hinzugefügt wurden.
 
 * Beim Hinzufügen oder Überarbeiten [Markenrichtlinien](/help/user-guide/guidelines/brands.md) in einer anderen Sprache zeigt GenStudio for Performance Marketing diese Richtlinien in derselben Sprache an.
 
@@ -368,7 +309,7 @@ Neben Bildinhalten können Sie jetzt Videos zu &lbrace;LinkedIn[&#x200B; und {](
 
 * Sie können jetzt [Rich-Text-Formatierung für Text verwenden](/help/user-guide/create/manage-variants.md#manually-edit-text) in Ihren generierten Varianten verwenden. Experimentieren Sie mit einer Vielzahl von Formatierungsoptionen für Varianttext, z. B. Farbe, Größe, Listen und mehr.
 
-* Sie können jetzt während [&#x200B; Platform-Einrichtung einen neuen &#x200B;](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) erstellen, indem Sie während der Platform-Einrichtung einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensätze definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
+* Sie können jetzt während [ Platform-Einrichtung einen neuen ](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) erstellen, indem Sie während der Platform-Einrichtung einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensätze definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
 
 * Sie können jetzt Kampagnendetails exportieren, um sie in Word oder PDF als Kampagnenseminare extern zugänglich zu machen. Wählen Sie eine Kampagne aus und klicken Sie dann **[!UICONTROL Exportieren]** (obere rechte Ecke).
 
@@ -378,7 +319,7 @@ Neben Bildinhalten können Sie jetzt Videos zu &lbrace;LinkedIn[&#x200B; und {](
 
 ### Fehlerbehebungen und Verbesserungen
 
-* Funktion zum [&#x200B; (Hinzufügen von alternativem Text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) zu einem Bild für eine einzelne Variante aktiviert.
+* Funktion zum [ (Hinzufügen von alternativem Text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) zu einem Bild für eine einzelne Variante aktiviert.
 * Ein [neues Seitenverhältnis von Meta](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) - Querformat 1,19 :1 (1080 Pixel Breite) wurde hinzugefügt.
 * Jetzt können Sie mehr als ein Erlebnis für den Export oder Download auswählen. Siehe [Exportieren von Erlebnissen](/help/user-guide/content/manage-assets.md#export-experiences).
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
@@ -390,9 +331,9 @@ Neben Bildinhalten können Sie jetzt Videos zu &lbrace;LinkedIn[&#x200B; und {](
 ### Fehlerbehebungen und Verbesserungen
 
 * Neue Filteroptionen für Vorlagen! Jetzt können Sie Ihre Liste _[!UICONTROL Vorlagen auswählen]_ in [!DNL Create] und in _[!UICONTROL Inhalt]_ > _[!UICONTROL Vorlagen]_ verfeinern. Siehe [Suchvorlagen](/help/user-guide/templates/use-templates.md#search-templates). Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
-* Mit dieser Funktion [&#x200B; einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt &#x200B;](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
+* Mit dieser Funktion [ einzelne Ebenen (bearbeitbare Textfelder oder bearbeitbare Bilder) eines Erlebnisses angezeigt ](/help/user-guide/create/manage-variants.md#view-layers) ausgewählt werden, um sie für Revisionen hervorzuheben, z. B. zum Regenerieren von Inhalten oder Zuschneiden von Bildern.
 * Es wurde `sub-headline` ein [neues Vorlagenfeld](/help/user-guide/templates/use-templates.md#template-elements) hinzugefügt, um zusätzlichen Text in Erlebnissen zu erhalten, die Aufmerksamkeit der Zielgruppe zu erregen und Marketing-Botschaften hervorzuheben.
-* Unterstützung für das [&#x200B; von Anzeigenerlebnissen &#x200B;](/help/user-guide/activation/overview.md) GenStudio for Performance Marketing in Google Campaign Manager 360 hinzugefügt. Activate unterstützt detaillierte Vorschauen von Google Campaign Manager 360-Anzeigen, bevor sie auf einem Campaign Manager 360-Advertiser veröffentlicht werden. Über Activate veröffentlichte Anzeigen werden automatisch nach der Live-Schaltung in die Insights gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
+* Unterstützung für das [ von Anzeigenerlebnissen ](/help/user-guide/activation/overview.md) GenStudio for Performance Marketing in Google Campaign Manager 360 hinzugefügt. Activate unterstützt detaillierte Vorschauen von Google Campaign Manager 360-Anzeigen, bevor sie auf einem Campaign Manager 360-Advertiser veröffentlicht werden. Über Activate veröffentlichte Anzeigen werden automatisch nach der Live-Schaltung in die Insights gezogen, sodass Benutzende die Anzeigenleistung verfolgen und darüber berichten können.
 
 +++
 
@@ -406,7 +347,7 @@ Marketing-Fachleute können jetzt [Anzeigen-Erlebnisse](/help/user-guide/activat
 
 [!BADGE Beta]{type=Informative tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."}
 
-Unterstützung für das Erstellen [&#x200B; LinkedIn-Erlebnissen &#x200B;](/help/user-guide/create/create-linkedin.md). Siehe die [LinkedIn-Anzeige](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanalspezifischen Richtlinien.
+Unterstützung für das Erstellen [ LinkedIn-Erlebnissen ](/help/user-guide/create/create-linkedin.md). Siehe die [LinkedIn-Anzeige](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanalspezifischen Richtlinien.
 
 ### Erstellen von Bannererlebnissen
 
@@ -416,7 +357,7 @@ Es wurde Unterstützung für [Erstellen von Bannererlebnissen](/help/user-guide/
 
 ### Compliance
 
-Im Rahmen der Markenvalidierung wurden [Compliance-Standards](/help/user-guide/guidelines/overview.md) in &quot;[&quot; &#x200B;](/help/user-guide/guidelines/brand-validation.md). Bei diesen Prüfungen wird jede Variante in einem Erlebnis anhand [!DNL Brand] Richtlinien, Platform-Richtlinien (z. B. für Meta) und ADA-Standards überprüft. Dieser Prozess bietet eine umfassende Zusammenfassung der Richtlinien und Standards, die überarbeitet werden müssen, um eine bessere Einhaltung zu gewährleisten.
+Im Rahmen der Markenvalidierung wurden [Compliance-Standards](/help/user-guide/guidelines/overview.md) in &quot;[&quot; ](/help/user-guide/guidelines/brand-validation.md). Bei diesen Prüfungen wird jede Variante in einem Erlebnis anhand [!DNL Brand] Richtlinien, Platform-Richtlinien (z. B. für Meta) und ADA-Standards überprüft. Dieser Prozess bietet eine umfassende Zusammenfassung der Richtlinien und Standards, die überarbeitet werden müssen, um eine bessere Einhaltung zu gewährleisten.
 
 ### Erweiterbarkeit
 
@@ -434,10 +375,10 @@ Das neue GenStudio for Performance Marketing [Erweiterbarkeits-Framework](/help/
 ### Fehlerbehebungen und Verbesserungen
 
 * Die Funktionen für [Standardkanal](/help/user-guide/guidelines/brands.md#channel-guidelines), [Bild](/help/user-guide/guidelines/brands.md#image-guidelines), [Logo](/help/user-guide/guidelines/brands.md#logos) und [color](/help/user-guide/guidelines/brands.md#colors) Richtlinien für [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
-* Es wurde die Möglichkeit hinzugefügt[&#x200B; innerhalb einer Variante „Links &#x200B;](/help/user-guide/create/manage-variants.md#add-image-link) Bildern hinzuzufügen“.
+* Es wurde die Möglichkeit hinzugefügt[ innerhalb einer Variante „Links ](/help/user-guide/create/manage-variants.md#add-image-link) Bildern hinzuzufügen“.
 * Die Funktionen [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md) Überprüfung und Genehmigung wurden in die neue rechte Aktionsleiste verschoben, um Platz auf der Arbeitsfläche zu maximieren und das Benutzererlebnis zu verbessern.
-* Vereinfachte Abläufe beim [&#x200B; (Hochladen oder manuelles Hinzufügen einer Marke](/help/user-guide/guidelines/add-guidelines.md#add-brands).
-* Es wurde die Möglichkeit eingeführt[&#x200B; Bild-Assets innerhalb einer Variante auf &#x200B;](/help/user-guide/create/manage-variants.md#swap-image) Arbeitsfläche hinzuzufügen oder auszutauschen.
+* Vereinfachte Abläufe beim [ (Hochladen oder manuelles Hinzufügen einer Marke](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Es wurde die Möglichkeit eingeführt[ Bild-Assets innerhalb einer Variante auf ](/help/user-guide/create/manage-variants.md#swap-image) Arbeitsfläche hinzuzufügen oder auszutauschen.
 * Verbessertes Benutzererlebnis und Sichtbarkeit von Kanalkategorien [auf der Startseite erstellen](/help/user-guide/create/overview.md) indem sie in die Abschnitte Eigene Medien, Bezahlte Medien und Inhalte unterteilt werden.
 * Verbesserte Filterung in [!DNL Insights] Tabellen- und Galerieansichten.
 
@@ -569,7 +510,7 @@ Zusätzliche neue Funktionen bieten Editoren folgende Möglichkeiten:
 
 * Die Funktion zum Bearbeiten von Fragmenten für E-Mail- und Meta-Anzeigen wird jetzt wie erwartet durch einen einzigen Klick ausgelöst. <!-- GS-8081 -->
 
-* Verbesserte Leistung der Schaltfläche [!DNL Create]&#x200B;**[!UICONTROL Zurück]**. <!-- GS-6767 -->
+* Verbesserte Leistung der Schaltfläche [!DNL Create]**[!UICONTROL Zurück]**. <!-- GS-6767 -->
 
 +++
 
@@ -663,7 +604,7 @@ Diese Version umfasst Verbesserungen bei der Lokalisierung in der gesamten Benut
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]****[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
