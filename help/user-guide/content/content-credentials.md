@@ -1,6 +1,6 @@
 ---
-title: Content Credentials for Organizations
-description: Learn about how to apply and review Content Credentials in GenStudio for Performance Marketing.
+title: Content Credentials für Unternehmen
+description: Erfahren Sie, wie Sie Content Credentials in GenStudio for Performance Marketing anwenden und überprüfen.
 level: Intermediate
 feature: Content Management, Content Attributes
 exl-id: 9fc1e428-7fa7-4f00-84ba-51c9318766f4
@@ -24,42 +24,42 @@ ht-degree: 0%
 
 ---
 
-# Content Credentials for organizations
+# Content Credentials für Unternehmen
 
-Learn how tamper-proof credentials for content that prove brand authenticity and drive compliance are embedded directly in your marketing workflow.
+Erfahren Sie, wie manipulationssichere Anmeldeinformationen für Inhalte, die die Markenauthentizität beweisen und die Compliance fördern, direkt in Ihren Marketing-Workflow eingebettet werden.
 
 >[!WARNING]
 >
-> This feature is currently in beta and is only available to organizations that have been granted access. If interested, please reach out to your Adobe account team representative or [use this link to request enrollment](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
+> Diese Funktion befindet sich derzeit in der Beta-Phase und steht nur Organisationen zur Verfügung, die Zugriff erhalten haben. Wenden Sie sich bei Interesse an Ihren Adobe-Kundenbetreuer oder ([&#x200B; Sie diesen Link, um eine Registrierung anzufordern](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
 
-## Get started with Content Credentials {#content-credentials}
+## Erste Schritte mit Content Credentials {#content-credentials}
 
 >[!CONTEXTUALHELP]
 >id="gspm_content_credentials"
 >title="Content Credentials in [!DNL GenStudio for Performance Marketing]"
->abstract="Tamper-proof credentials for content that prove brand authenticity and drive compliance can be embedded directly in your marketing workflow."
+>abstract="Manipulationssichere Anmeldedaten für Inhalte, die die Markenauthentizität beweisen und die Compliance fördern, können direkt in Ihren Marketing-Workflow eingebettet werden."
 
-After Content Credentials have been activated in the Admin Console, GenStudio for Performance Marketing users can turn on Content Credentials for all assets globally in the app. If the global option to apply credentials is turned off, users have the choice to apply Content Credentials for each individual asset.
+Nachdem Content Credentials in der Admin Console aktiviert wurde, können GenStudio for Performance Marketing-Benutzende Content Credentials für alle Assets global in der App aktivieren. Wenn die globale Option zum Anwenden von Anmeldeinformationen deaktiviert ist, können Benutzerinnen und Benutzer Content Credentials für jedes einzelne Asset anwenden.
 
-Once content is published, Content Credentials will be visible on external platforms, like LinkedIn.
+Nach der Veröffentlichung von Inhalten ist Content Credentials auf externen Plattformen wie LinkedIn sichtbar.
 
-Administrators are responsible for uploading a valid X.509 certificate within the Admin Console. This step ensures that the enterprise&#39;s digital signature is properly configured and ready for use in supported Adobe DX applications.
+Admins sind für das Hochladen eines gültigen X.509-Zertifikats in Admin Console verantwortlich. Dadurch wird sichergestellt, dass die digitale Signatur des Unternehmens ordnungsgemäß konfiguriert und für die Verwendung in unterstützten Adobe DX-Anwendungen bereit ist.
 
 >[!NOTE]
 >
->Control over this setting might transition to the Admin Console in the future, streamlining the management of Content Credentials across applications and enhancing administrative oversight.
+>Die Kontrolle über diese Einstellung könnte in Zukunft auf Admin Console übergehen, die Verwaltung von Content Credentials anwendungsübergreifend optimieren und die administrative Aufsicht verbessern.
 
-## What are Content Credentials? 
+## Was ist Content Credentials? 
 
-Content Credentials are a durable, industry-standard type of metadata with details about how content was made and identity information about the creators. Content Credentials can be viewed when the content is published online to supporting platforms, or by using tools like [Adobe&#39;s Inspect tool](https://contentauthenticity.adobe.com/inspect) or the [Adobe Content Authenticity Chrome browser extension](https://helpx.adobe.com/de/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
+Content Credentials sind dauerhafte, dem Branchenstandard entsprechende Metadaten, die Details zur Inhaltserstellung und Identitätsinformationen zu den Erstellern enthalten. Content Credentials kann angezeigt werden, wenn die Inhalte online auf unterstützenden Plattformen veröffentlicht werden, oder mithilfe von Tools wie dem Inspektions-Tool von [Adobe &#x200B;](https://contentauthenticity.adobe.com/inspect) der Browser-Erweiterung [Adobe Content Authenticity Chrome](https://helpx.adobe.com/de/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
 
-Applying Content Credentials can help increase transparency about how content was made and can help your users connect themselves to their content.
+Die Anwendung von Content Credentials kann dazu beitragen, die Transparenz hinsichtlich der Art und Weise, wie Inhalte erstellt wurden, zu erhöhen, und Ihren Benutzenden helfen, sich mit ihren Inhalten zu verbinden.
 
-[Learn more about Content Credentials](https://helpx.adobe.com/de/creative-cloud/help/content-credentials.html) at Adobe.
+[Erfahren Sie mehr über Content Credentials](https://helpx.adobe.com/de/creative-cloud/help/content-credentials.html) bei Adobe.
 
-## Brand signature and asset tracking
+## Markensignatur und Asset-Tracking
 
-Brand-signed content plays a significant role in promoting brand integrity and user trust. Unternehmen können ihren Inhalt in Adobe-Programmen mit einer eindeutigen Markensignatur signieren, wenn ihr Zertifikat in der Admin Console ordnungsgemäß konfiguriert ist. Diese Authentizitätsgarantie wird mithilfe unsichtbarer Wasserzeichen- und Fingerabdrucktechnologien aufrechterhalten, die dazu beitragen, die Dauerhaftigkeit der Signatur während des gesamten Lebenszyklus des Inhalts zu bewahren.
+Markensignierte Inhalte spielen eine wichtige Rolle bei der Förderung der Markenintegrität und des Benutzervertrauens. Unternehmen können ihren Inhalt in Adobe-Programmen mit einer eindeutigen Markensignatur signieren, wenn ihr Zertifikat in der Admin Console ordnungsgemäß konfiguriert ist. Diese Authentizitätsgarantie wird mithilfe unsichtbarer Wasserzeichen- und Fingerabdrucktechnologien aufrechterhalten, die dazu beitragen, die Dauerhaftigkeit der Signatur während des gesamten Lebenszyklus des Inhalts zu bewahren.
 
 Zusätzlich zur Markensignierung können Unternehmen Asset-IDs direkt an ihren Inhalt anhängen. Dies erleichtert das effiziente Tracking von Assets, insbesondere wenn sie freigegeben oder auf Social-Media-Plattformen gepostet werden. Durch die Integration von Asset-IDs können Unternehmen den Ursprung und den Verteilungspfad ihrer Inhalte verfolgen und so ihre Aufsicht und Rechenschaftspflicht verbessern.
 
