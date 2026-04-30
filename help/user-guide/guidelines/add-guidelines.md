@@ -26,9 +26,9 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7417595bdb075a49cdcfc988be5b900801816019
+source-git-commit: e43c9569f3fc5a2353a6fc0e15189ac31f216050
 workflow-type: tm+mt
-source-wordcount: 3052
+source-wordcount: 3019
 ht-degree: 0%
 
 ---
@@ -44,26 +44,6 @@ Richtlinien können benutzerdefiniert sein oder als Standardrichtlinien vorliege
 Beim Erstellen von Varianten aus einer Vorlage mit vordefinierten Kanalrichtlinien (wie [!DNL Brands], [!DNL Personas] oder [!DNL Products]) gelten diese Richtlinien für die Varianten. Sie können sie bei Bedarf ändern.
 
 {{in-academy}}
-
-## Anleitungen zum Hinzufügen von Daten aus einer URL
-
-Wenn Sie sich dafür entscheiden, eine [!DNL Brand], [!DNL Product] oder [!DNL Persona] über eine URL in [!DNL GenStudio for Performance Marketing] hinzuzufügen, beachten Sie die folgenden Informationen.
-
-**Voraussetzungen für URL-basierte**:
-
-- Sie haben ein **aktives [!DNL GenStudio for Performance Marketing]-Konto** mit Brand Manager oder höheren Berechtigungen.
-- Die **URL ist öffentlich**. Passwortgeschützte oder durch Login geschützte Seiten erzeugen eine begrenzte Ausgabe.
-- **Um die bestmöglichen Ergebnisse zu erzielen, verwenden Sie die URL** der eigenen Website der Marke (eine Homepage oder eine Produkt-/Kategorieseite) anstelle eines retailer, Resellers oder Aggregators.
-
-**URL-Typen und ihre erwarteten Ausgaben**:
-
-| URL-Typ | Was zu erwarten ist |
-| --- | --- |
-| Marken-Homepage | Sie erhalten vollständige Markenrichtlinien, und das System bietet eine breite Produkt- und Persönlichkeitsabdeckung. |
-| Produktkategorieseite | Produkte und Rollen werden der Kategorie zugeordnet, die auf dieser Seite dargestellt wird. |
-| Campaign-Landingpage | Persönliche Signale sind besonders nützlich, aber die Markenausgabe kann die Kampagne widerspiegeln anstatt die vollständige Marke. |
-| Retailer oder Partnerseite | Das System priorisiert Inhalte von Drittanbietern, sodass die Ausgabe begrenzt ist. |
-| Gated/Login-required-Seite | Der Seiteninhalt ist nicht verfügbar, sodass die Ausgabe konservativ ist. |
 
 ## Hinzufügen von Marken
 
@@ -136,7 +116,7 @@ Sie müssen Ihre [!DNL Brand] nicht [veröffentlichen](#publish-brand) um die In
 
 ### Erstellen einer Marke über eine URL
 
-**Voraussetzungen:** Siehe [Voraussetzungen für URL-basierte Workflows](#prerequisites-for-url-based-workflows). Informationen dazu, wie sich verschiedene URLs auf die Ergebnisse auswirken, finden Sie unter [URL-Typen und erwartete Ausgabe](#url-types-and-expected-output).
+**Voraussetzungen:** Siehe [Anleitung beim Hinzufügen über eine URL](#guidance-when-adding-from-a-url).
 
 **So erstellen Sie eine Marke über eine URL:**
 
@@ -279,7 +259,7 @@ Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persön
 
 ### [!DNL Personas] aus URL hinzufügen
 
-**Voraussetzungen:** Siehe [Voraussetzungen für URL-basierte Workflows](#prerequisites-for-url-based-workflows). Informationen dazu, wie sich verschiedene URLs auf die Ergebnisse auswirken, finden Sie unter [URL-Typen und erwartete Ausgabe](#url-types-and-expected-output).
+**Voraussetzungen:** Siehe [Anleitung beim Hinzufügen über eine URL](#guidance-when-adding-from-a-url).
 
 **So fügen Sie über eine URL Personas hinzu:**
 
@@ -363,7 +343,7 @@ Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokume
 
 ### Hinzufügen von Produkten über URL
 
-**Voraussetzungen:** Siehe [Voraussetzungen für URL-basierte Workflows](#prerequisites-for-url-based-workflows). Informationen dazu, wie sich verschiedene URLs auf die Ergebnisse auswirken, finden Sie unter [URL-Typen und erwartete Ausgabe](#url-types-and-expected-output).
+**Voraussetzungen:** Siehe [Anleitung beim Hinzufügen über eine URL](#guidance-when-adding-from-a-url).
 
 **So fügen Sie [!DNL Products] über eine URL hinzu:**
 
@@ -408,3 +388,23 @@ Während des Onboarding werden Zielgruppendefinitionen importiert und in ein Gen
 1. Wählen Sie eine Audience aus der Liste aus, die zugewiesen werden soll. Das System empfiehlt empfohlene Zielgruppen, die sich an den ausgewählten [!DNL Persona] ausrichten, wenn ein [!DNL Persona] ausgewählt ist.
 1. Klicken Sie **[!UICONTROL Siehe Zielgruppendetails]**, um die erweiterte Beschreibung und die für die ausgewählte Zielgruppe generierten Messaging-Voreinstellungen anzuzeigen. Zielgruppendetails bestimmen die Inhaltserstellung und stellen sicher, dass Ihr Kreativ mit den spezifischen Eigenschaften und Präferenzen Ihres Zielsegments übereinstimmt.
    ![Bereich mit Zielgruppendetails](./audience-details.png){width=450}
+
+## Anleitungen zum Hinzufügen von Daten aus einer URL
+
+Wenn Sie sich dafür entscheiden, eine [!DNL Brand], [!DNL Product] oder [!DNL Persona] über eine URL in [!DNL GenStudio for Performance Marketing] hinzuzufügen, beachten Sie die folgenden Informationen.
+
+**Voraussetzungen für URL-basierte**:
+
+- Sie haben ein **aktives [!DNL GenStudio for Performance Marketing]-Konto** mit Brand Manager oder höheren Berechtigungen.
+- Die **URL ist öffentlich**. Passwortgeschützte oder durch Login geschützte Seiten erzeugen eine begrenzte Ausgabe.
+- **Um die bestmöglichen Ergebnisse zu erzielen, verwenden Sie die URL** der eigenen Website der Marke (eine Homepage oder eine Produkt-/Kategorieseite) anstelle eines retailer, Resellers oder Aggregators.
+
+**URL-Typen und ihre erwarteten Ausgaben**:
+
+| URL-Typ | Was zu erwarten ist |
+| --- | --- |
+| Marken-Homepage | Sie erhalten vollständige Markenrichtlinien, und das System bietet eine breite Produkt- und Persönlichkeitsabdeckung. |
+| Produktkategorieseite | Produkte und Rollen werden der Kategorie zugeordnet, die auf dieser Seite dargestellt wird. |
+| Campaign-Landingpage | Persönliche Signale sind besonders nützlich, aber die Markenausgabe kann die Kampagne widerspiegeln anstatt die vollständige Marke. |
+| Retailer oder Partnerseite | Das System priorisiert Inhalte von Drittanbietern, sodass die Ausgabe begrenzt ist. |
+| Gated/Login-required-Seite | Der Seiteninhalt ist nicht verfügbar, sodass die Ausgabe konservativ ist. |
