@@ -17,7 +17,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 6b964da5bf0d0d10508a43f17f68faf1114270c1
+source-git-commit: 1dbfb6115c9340f9c14cef75d5144a303314fa71
 workflow-type: tm+mt
 source-wordcount: 1835
 ht-degree: 85%
@@ -93,9 +93,9 @@ Zu den **Meta-Felderrollen gehören**:
 
 Unten sehen Sie, wie einige dieser Felderrollen zugeordnet sind.
 
-| ![Ein Facebook-Post mit Felderrollen wurde angegeben](./facebook-post.png){width="50%" align="center"}<br> | ![Eine Facebook-Story mit Rollen im Feld wird angezeigt](./facebook-story.png){width="60%" align="center"}<br> |
+| ![Ein Facebook-Post mit Felderrollen wurde angegeben](./facebook-post.png){width="60%" align="center" zoomable="yes"}<br> | ![Eine Facebook-Story mit Rollen im Feld wird angezeigt](./facebook-story.png){width="70%" align="center" zoomable="yes"}<br> |
 |:---:|:---:|
-| ![Ein Instagram-Post mit Feldrollen angezeigt](./instagram-post.png){width="50%" align="center"}<br> | ![Eine Instagram-Story mit Feldrollen angezeigt](./instagram-story.png){width="60%" align="center"}<br> |
+| ![Ein Instagram-Post mit Feldrollen angezeigt](./instagram-post.png){width="60%" align="center" zoomable="yes"}<br> | ![Eine Instagram-Story mit Feldrollen angezeigt](./instagram-story.png){width="70%" align="center" zoomable="yes"}<br> |
 
 **LinkedIn-Feldrollen umfassen**:
 
@@ -109,7 +109,7 @@ Unten sehen Sie, wie einige dieser Felderrollen zugeordnet sind.
 
 Unten sehen Sie, wie einige dieser Felderrollen zugeordnet sind.
 
-![Ein LinkedIn-Beitrag mit Felderrollen angegeben](./linkedin-ad.png){width="20%" align="center"}
+![Ein LinkedIn-Beitrag mit Felderrollen angegeben](./linkedin-ad.png){width="30%" align="center" zoomable="yes"}
 
 Das -Plug-in speichert diese Zuordnungen, um sie für generierte Inhalte zu verwenden. Eine Feldrolle kann mehreren Vorlagenelementen zugeordnet werden. Manuelle Felder sind für Elemente vorgesehen, deren Textbearbeitung erhalten bleiben soll, die aber nicht zur Generierung markiert werden.
 
@@ -122,7 +122,7 @@ So weisen Sie Elementrollen zu:
 1. Wählen Sie ein Element in Ihrer Vorlage aus (Text, Bild usw.)
 1. Verwenden Sie das Dropdown-Menü, um eine Rolle zuzuweisen.
 
-![Zuordnung von Feldrollen](./field-role-mapping.png){width="60%"}
+![Zuordnung von Feldrollen](./field-role-mapping.png){width="60%" zoomable="yes"}
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
