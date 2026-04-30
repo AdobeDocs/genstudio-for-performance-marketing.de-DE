@@ -30,10 +30,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 5f02a3076ca875f9819e5da55824bbf9c5337bb4
+source-git-commit: 605ae7a178cd0ad10e302457a9717bb286e81ebb
 workflow-type: tm+mt
-source-wordcount: 724
-ht-degree: 100%
+source-wordcount: 727
+ht-degree: 89%
 
 ---
 
@@ -51,6 +51,7 @@ Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 * [Meta-Anzeigen](meta-experiences.md)
 * [LinkedIn-Anzeigen](linkedin-experiences.md)
 * [TikTok-Anzeigen](tiktok-experiences.md)
+* [Connected TV-Anzeigen](create-ctv.md)
 * [Anzeigen anzeigen](display-ad-experiences.md)
 * [Banner](banner-experiences.md)
 * [Bilder](generate-assets.md)
@@ -217,11 +218,11 @@ Um KI-generierte Inhalte zu erstellen, geben Sie eine [beschreibende Eingabeauff
 
 ### Inhaltsprüfungen
 
-GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) für jede Variante durch, um sicherzustellen, dass sie die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt. [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) Informationen stehen für jeden generierten Inhalt zur Verfügung, was bedeutet, dass er mit umfassenden Inhaltsprüfungen und der Kohärenz zwischen Text und Bildern konform ist. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
+GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) für jede Variante durch, um sicherzustellen, dass sie die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt. [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) Informationen stehen für jeden generierten Inhalt zur Verfügung, was darauf hinweist, dass er mit umfassenden Inhaltsprüfungen und der Kohärenz zwischen Text und Bildern konform ist. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 
-Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [ Überprüfungen und Kommentare ](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
+Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [&#x200B; Überprüfungen und Kommentare &#x200B;](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
 
 Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung durch die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
 

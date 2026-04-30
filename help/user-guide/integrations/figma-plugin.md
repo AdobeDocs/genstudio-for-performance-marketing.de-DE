@@ -17,10 +17,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 8c7ac98d651195c28a2c82341c68d40b067b2c76
+source-git-commit: 6b964da5bf0d0d10508a43f17f68faf1114270c1
 workflow-type: tm+mt
-source-wordcount: 1713
-ht-degree: 93%
+source-wordcount: 1835
+ht-degree: 85%
 
 ---
 
@@ -80,16 +80,49 @@ Es gibt keine Anforderung für eine feste Größe. Anzeigevorlagen unterstützen
 
 Das Plug-in muss die verschiedenen Elemente Ihrer Vorlage verstehen, z. B. Überschrift, Haupttext oder Bild.
 
+Zu den **Meta-Felderrollen gehören**:
+
+* Bild
+* Bildtext
+* CTA
+* Textkörper
+* Überschrift
+* Website-URL
+* Link anzeigen
+* Manuelle Felder
+
+Unten sehen Sie, wie einige dieser Felderrollen zugeordnet sind.
+
+| ![Ein Facebook-Post mit Felderrollen wurde angegeben](./facebook-post.png){width="50%" align="center"}<br> | ![Eine Facebook-Story mit Rollen im Feld wird angezeigt](./facebook-story.png){width="60%" align="center"}<br> |
+|:---:|:---:|
+| ![Ein Instagram-Post mit Feldrollen angezeigt](./instagram-post.png){width="50%" align="center"}<br> | ![Eine Instagram-Story mit Feldrollen angezeigt](./instagram-story.png){width="60%" align="center"}<br> |
+
+**LinkedIn-Feldrollen umfassen**:
+
+* Bild
+* Einführungstext
+* Bildtext
+* Überschrift
+* CTA
+* Website-URL
+* Manuelle Felder
+
+Unten sehen Sie, wie einige dieser Felderrollen zugeordnet sind.
+
+![Ein LinkedIn-Beitrag mit Felderrollen angegeben](./linkedin-ad.png){width="20%" align="center"}
+
+Das -Plug-in speichert diese Zuordnungen, um sie für generierte Inhalte zu verwenden. Eine Feldrolle kann mehreren Vorlagenelementen zugeordnet werden. Manuelle Felder sind für Elemente vorgesehen, deren Textbearbeitung erhalten bleiben soll, die aber nicht zur Generierung markiert werden.
+
+>[!IMPORTANT]
+>
+> **Sie müssen ein Bild zuordnen** indem Sie die Rolle `image` einem Bildelement oder einer Bildkomponente in Ihrer Vorlage zuweisen.
+
 So weisen Sie Elementrollen zu:
 
 1. Wählen Sie ein Element in Ihrer Vorlage aus (Text, Bild usw.)
 1. Verwenden Sie das Dropdown-Menü, um eine Rolle zuzuweisen.
 
-Das -Plug-in speichert diese Zuordnungen, um sie für generierte Inhalte zu verwenden. Ein Feld „role“ kann mehreren Vorlagenelementen zugeordnet werden.
-
 ![Zuordnung von Feldrollen](./field-role-mapping.png){width="60%"}
-
-### Ausnahmen bei der Feldzuordnung
 
 {{$include /help/_includes/field-mapping-exceptions.md}}
 
