@@ -4,19 +4,13 @@ description: Stellen Sie Ihre App Builder-App oder Ihr Add-on für GenStudio for
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 TQID: https://experienceleague.adobe.com/7Z4Fb-jPi4FHrTeOgHxxO4fl982sqri-7uEDoylFF-s
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bfaa655b-e017-428d-80d0-09de2183b296
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: da3860b0-d637-47df-bef0-273751180266
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bfaa655b-e017-428d-80d0-09de2183b296id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266
+source-git-commit: 3a50cdb378d024370808680ec9b606c789429dc2
 workflow-type: tm+mt
-source-wordcount: 447
+source-wordcount: 501
 ht-degree: 0%
 
 ---
@@ -53,7 +47,7 @@ Sie können die Erstellung und Bereitstellung Ihrer App erzwingen, ohne sie erne
 
 >[!NOTE]
 >
->Beim Erzwingen eines Builds und einer Bereitstellung wird die vorhandene Bereitstellung überschrieben. **Testen Sie Ihre App** gründlich, zunächst in einer Testumgebung.
+>Beim Erzwingen eines Builds und einer Bereitstellung wird die vorhandene Bereitstellung überschrieben. **Testen Sie Ihre App** gründlich in einer Testumgebung.
 
 ```bash
 aio app build --force-build
@@ -111,6 +105,10 @@ Validierungs-Erweiterungen finden Sie nach einer Eingabeaufforderungsgenerierung
 Führen Sie die ausgewählte Erweiterung aus, um den generierten Inhalt zu validieren.
 
 ![Gültige Validierung](./validation-valid.png){width="600" zoomable="yes"}
+
+Wenn Fehler auftreten, können Sie die Erweiterung verwenden, um die Kopie der Erlebnisse programmgesteuert zu aktualisieren. Durch Klicken auf **[!UICONTROL Kopieren]** wird der vorgeschlagene Text in die Zwischenablage kopiert. Durch Klicken auf **[!UICONTROL Anwenden]**-Schaltfläche wird der Text auf ein bestimmtes Textfeld im generierten Erlebnis angewendet.
+
+![Ein Validierungsfehler, der die Schaltflächen Kopieren und Anwenden anzeigt](./validation-copy-apply.png){width="600" zoomable="yes"}
 
 ### DAM-Erweiterungen suchen
 
