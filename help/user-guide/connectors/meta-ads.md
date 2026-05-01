@@ -27,9 +27,9 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
 workflow-type: tm+mt
-source-wordcount: 750
+source-wordcount: 875
 ht-degree: 0%
 
 ---
@@ -89,6 +89,23 @@ Auf dieser Seite wird beschrieben, wie Sie Ihr Meta Ads-Profilkonto mit GenStudi
 
 Verwenden **[!UICONTROL Konto hinzufügen]**, um der Liste weitere Konten hinzuzufügen. Der Autorisierungsfluss kann beim Hinzufügen von Konten, die mit demselben Meta-Geschäftsprofil verknüpft sind, geringfügig abweichen. Sie wählen während des Verbindungsprozesses nur die neuen Meta Ads-Konten aus.
 
+## Verbinden eines Instagram-Kontos
+
+>[!IMPORTANT]
+>
+>Bevor Sie eine Meta-Anzeige aktivieren, stellen Sie in Meta Business Manager sicher, dass das Instagram-Konto, das Sie verwenden möchten, mit demselben während des Onboardings ausgewählten Werbekonto verbunden ist. Wenn diese Verbindung fehlt, wird das Instagram-Konto während der Aktivierung möglicherweise nicht im Dropdown[!DNL GenStudio for Performance Marketing]Menü _Instagram_ angezeigt.
+
+**So überprüfen oder aktualisieren Sie die Instagram-Kontoverbindung in Meta Business Manager**:
+
+1. Navigieren Sie zu **[!UICONTROL Einstellungen]**.
+1. Wählen _unter_ Konten“ **[!UICONTROL Instagram-Konten]** aus.
+1. Wählen Sie das Instagram-Konto aus, das Sie verwenden möchten.
+1. Klicken Sie auf **[!UICONTROL Connected Assets]**.
+1. Bestätigen _unter „Werbekonten_, dass das beim Onboarding verwendete Werbekonto aufgeführt ist.
+1. Wenn es nicht aufgeführt ist, klicken Sie auf **[!UICONTROL Assets verbinden]** und fügen Sie das richtige Werbekonto hinzu.
+
+Nachdem das Werbekonto verbunden ist, kehren Sie zu [!DNL GenStudio for Performance Marketing] zurück und setzen Sie den Aktivierungsfluss fort.
+
 ## Best Practices für Verbindungen
 
 Um Fehler zu vermeiden, sollten Sie beim Einrichten von Verbindungen die folgenden Best Practices beachten:
@@ -140,5 +157,3 @@ Probleme können auftreten, wenn Instagram-Konten ausgewählt werden, ohne währ
 1. Wählen Sie NICHT das Instagram-Konto beim ersten Verbindungsversuch aus.
 1. Überprüfen Sie, ob die Verbindung erfolgreich hergestellt wurde, bevor Sie andere Assets hinzufügen.
 1. Sobald die Seitenverbindung stabil ist, fügen Sie Instagram-Konten separat hinzu.
-
-
