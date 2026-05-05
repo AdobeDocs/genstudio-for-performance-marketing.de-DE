@@ -24,24 +24,24 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10082fcc357e53ce6a084fb466d60a5674ea9f9e
+source-git-commit: acdd8a2f6b066a7b4849e92c94127011dc6daed5
 workflow-type: tm+mt
-source-wordcount: 1464
+source-wordcount: 1469
 ht-degree: 1%
 
 ---
 
-# Übersicht über Anzeigen und Anzeigenplatzierung
+# Anzeigen-Tags und Übersicht über die Anzeigenplatzierung
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Anzeigen]_ zeigt eine Liste der Anzeigen für das verbundene Kanal-Werbekonto an. Eine _Anzeige_ ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen.
+Die [!DNL Insights] Ansicht _[!UICONTROL Anzeigen-Tags]_ zeigt eine Liste der Anzeigen für das verbundene Kanal-Werbekonto. Eine _Anzeige_ ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen.
 
 {{connect-insights}}
 
-Die _[!UICONTROL Anzeigen]_-Tabelle ist nach &quot;[!UICONTROL -Namen“ &#x200B;]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
+Die _[!UICONTROL Anzeigen]_ Tags) ist nach [!UICONTROL Anzeigenamen“ &#x200B;]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
 
-![Anzeigenfilter und -tabelle](/help/assets/insights-ads-filter.png){zoomable="yes"}
+![Leistungsmetriken für Anzeigen-Tags-Insights](./ad-tags-tab.png)
 
-Die _[!UICONTROL Anzeige]_-Galerieansicht zeigt eine Collage aus Anzeigenvorschauen und einer Metrik, wie z. B. Klickrate. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oben rechts in der Galerie, um **[!UICONTROL Karteneinstellungen]** zu öffnen und eine der drei sichtbaren Metriken umzuschalten:
+Die _[!UICONTROL Anzeigen-Tags]_-Galerieansicht zeigt eine Collage aus Anzeigenvorschauen und einer Metrik, wie z. B. die Klickrate. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oben rechts in der Galerie, um **[!UICONTROL Karteneinstellungen]** zu öffnen und eine der drei sichtbaren Metriken umzuschalten:
 
 - CPA (Kosten pro Aktion)
 - CTR (Clickthrough-Rate)

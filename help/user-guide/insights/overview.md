@@ -25,9 +25,9 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
+source-git-commit: d3d3bd0d0790ecfe5a9c0e796b74fcf97672f1d2
 workflow-type: tm+mt
-source-wordcount: 943
+source-wordcount: 959
 ht-degree: 0%
 
 ---
@@ -52,9 +52,13 @@ Das [!DNL Insights]-Modul enthält **[!UICONTROL Insights 2.0]**, ein kanalüber
 
 - **Überprüfen von kanalübergreifenden oder Einzelkanal-Übersichten (Meta und LinkedIn)**: Zeigen Sie eine konsolidierte Momentaufnahme über beide bezahlten Social-Media-Kanäle hinweg an oder gehen Sie in einen einzelnen Kanal auf.
 - **Verwenden des kanalübergreifenden Leistungsberichts**: Zeigen Sie den Ergebnisanteil jedes Kanals mit einer Visualisierung des Prozentsatzes an, einschließlich der Gesamtausgaben (Prozentsatz und Betrag) und der Metriken zum Leistungsanteil wie CTR, CPC und CPM.
+  ![Kanalübergreifender Leistungsbericht](./cross-channel-report.png)
 - **Verwenden des Berichts zur Anzeigenleistung**: Identifizieren Sie Anzeigen mit hoher und niedriger Leistung mit Rankings und Metriken, die Optimierungsentscheidungen unterstützen.
+  ![Bericht zur Anzeigenleistung](./ad-performance-report.png)
 - **Analysieren von Meta-Konversionsmetriken**: Konzentrieren Sie sich auf Konversionen mit Einblick in die CPA in allen funnel-Phasen (z. B. interaktive Besuche, Informationsanfrage, App-Start, Interessent und App abgeschlossen) und überprüfen Sie die Konversionstrends im Laufe der Zeit, wobei die Konversionsdaten in GenStudio for Performance Marketing verfügbar sind.
+  ![Meta-Konversionsmetriken](./meta-conversion-report.png)
 - **Einblicke aus Anzeigen-Tags erkunden**: Die Tracking-IDs von Anzeigen werden in strukturierte Tags geparst, damit Sie die Leistung nach von Ihnen definierten Dimensionen (z. B. call to action, Geografie, Format oder Konzept) analysieren, die Budgetzuweisung für diese Dimensionen anzeigen und weniger Zeit mit der manuellen Dekodierung von Namenskonventionen verbringen können.
+  ![Insights 2.0-Bericht zu Anzeigen-Tags](./ad-tags-insights.png)
 
 >[!NOTE]
 >
@@ -92,10 +96,6 @@ Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterun
 
 Die [[!DNL Insights] _[!UICONTROL Ansicht &#x200B;]_&#x200B;Kampagnen](campaigns.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[&#x200B; dass Sie ein Kanalkonto &#x200B;](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
 
-### Anzeigen
-
-Die [[!DNL Insights] _[!UICONTROL Anzeigen &#x200B;]_&#x200B;Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL &#x200B; Ansicht &#x200B;]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen&#x200B;_[!UICONTROL &#x200B; Anzeigenamen &#x200B;]_&#x200B;können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
-
 ### Medien
 
 Die [[!DNL Insights] _[!UICONTROL Media &#x200B;]_&#x200B;Ansicht](media.md) soll Ihnen dabei helfen, die Leistung kreativer Inhalte zu analysieren. Sie können Medienattribute identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
@@ -111,3 +111,7 @@ In der Ansicht mit den Mediendetails zeigt die linke Seite eine Miniaturansicht 
 Medien _Attribute_ helfen bei der Identifizierung kreativer Inhalte durch inhärente Details wie Farbe, Ton, Komposition (z. B. Betreff, Schriftarten, visuelle Elemente) und andere Schlüsselkomponenten. Attribute sind häufig der am wenigsten gemessene und analysierte Satz von Inhaltsinformationen.
 
 Die [[!DNL Insights] _[!UICONTROL Attribute &#x200B;]_&#x200B;Ansicht](attributes.md) kann Ihnen dabei helfen, zu untersuchen und zu identifizieren, welche Attribute bei bestimmten Zielgruppen, Kanälen und Regionen eine bessere Leistung erzielen, und kann Ihnen dabei helfen, saisonale Trends hervorzuheben. Mit diesen Einblicken können Sie leistungsstarke Attribute verwenden, um Varianten zu erstellen, eine bestimmte Zielgruppe anzusprechen oder mit verschiedenen Kampagnenstrategien zu experimentieren.
+
+### Anzeigen-Tags
+
+Die [[!DNL Insights] _[!UICONTROL Anzeigen &#x200B;]_&#x200B;Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL &#x200B; Ansicht &#x200B;]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen&#x200B;_[!UICONTROL &#x200B; Anzeigenamen &#x200B;]_&#x200B;können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
