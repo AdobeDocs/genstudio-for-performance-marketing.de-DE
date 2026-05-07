@@ -26,9 +26,9 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 899a575f664d3aba0fe913fd625f8e5353ee854d
+source-git-commit: 8ec5d89113f24b91b4d963124050eaf4bf1bf368
 workflow-type: tm+mt
-source-wordcount: 3019
+source-wordcount: 3023
 ht-degree: 0%
 
 ---
@@ -199,7 +199,7 @@ Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich a
 
 Um eine Rolle hinzuzufügen, [eine Rolle hochladen](#upload-a-persona), [manuell eine Rolle erstellen](#manually-add-persona) oder [Rollen aus einer URL hinzufügen](#adding-personas-from-url). Wenn Sie Dateien hochladen oder einen Persona manuell hinzufügen, wählen Sie Richtlinien aus und geben Sie Ihre persönlichen Details ein.
 
-Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Personas]** .
+Klicken Sie im linken Navigationsbereich auf **[!DNL More]** und dann in der Liste _Freigegeben_ auf **[!DNL Personas]**.
 
 ![Richtlinien in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 
@@ -282,12 +282,12 @@ Auf _[!DNL Personas]_&#x200B;Startseite können Sie **eine bereits erstellte[!DN
 
 Hinzufügen eines Produkts:
 
-1. Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Products]** .
+1. Klicken Sie im linken Navigationsbereich auf **[!DNL More]** und dann in der Liste _Freigegeben_ auf **[!DNL Products]**.
    ![Richtlinien in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
 1. Wählen Sie im _[!DNL Products]_&#x200B;Bedienfeld **[!UICONTROL Produkt hinzufügen]**&#x200B;aus.
 1. Wählen Sie [Produkt hochladen](#upload-a-product), [manuell ein Produkt erstellen](#manually-add-a-product) oder [Produkte über eine URL hinzufügen](#adding-products-from-url). Wenn Sie Dateien hochladen oder ein Produkt manuell hinzufügen, wählen Sie Richtlinien aus und geben Sie Ihre Produktdetails ein.
 
-![Hinzufügen einer [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
+![Hinzufügen einer [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes" align="center"}
 
 Sie können eine [!DNL Product] in GenStudio for Performance Marketing einbeziehen, um die von Ihnen erstellten Inhalte besser auf ein bestimmtes Produkt anzupassen.
 
