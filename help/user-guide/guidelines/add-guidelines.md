@@ -26,9 +26,9 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a8b4c6b395908dc6aada4c5be9fcc53d9776da50
+source-git-commit: 899a575f664d3aba0fe913fd625f8e5353ee854d
 workflow-type: tm+mt
-source-wordcount: 2499
+source-wordcount: 3019
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Beim Erstellen von Varianten aus einer Vorlage mit vordefinierten Kanalrichtlini
 
 ## Hinzufügen von Marken
 
-Um ein [!DNL Brand] hinzuzufügen, [&#x200B; Sie (ein Markenhandbuch hochladen](#upload-a-brand) oder [manuell eine Marke erstellen](#manually-add-brand) indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Veröffentlichen Sie  [!DNL Brand]](#publish-brand) in [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
+Um ein [!DNL Brand] hinzuzufügen, [laden Sie ein Markenhandbuch hoch](#upload-a-brand), [erstellen Sie manuell eine Marke](#manually-add-brand) oder [erstellen Sie eine Marke über eine URL](#creating-a-brand-from-url). Wenn Sie Dateien hochladen oder eine Marke manuell hinzufügen, wählen Sie Richtlinien aus und geben Sie Ihre Markendetails ein. [Veröffentlichen Sie  [!DNL Brand]](#publish-brand) in [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
 
 Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Brands]** .
 
@@ -113,6 +113,19 @@ Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokument
 Um Ihre erstellten [!DNL Brands] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben im Bedienfeld _[!UICONTROL Marken]_, um zurück zur Startseite _[!UICONTROL Marken]_ zu navigieren.
 
 Sie müssen Ihre [!DNL Brand] nicht [veröffentlichen](#publish-brand) um die Informationen zugänglich zu machen. Manuell hinzugefügte Informationen sind sofort nach dem Hinzufügen verfügbar. Damit andere Personen in Ihrem Unternehmen die [!DNL Brand] in GenStudio for Performance Marketing verwenden können, müssen Sie sie veröffentlichen. Ein erstelltes [!DNL Brand] liegt bis zur Veröffentlichung im Entwurfsformat vor.
+
+### Erstellen einer Marke über eine URL
+
+**Voraussetzungen:** Siehe [Anleitung beim Hinzufügen über eine URL](#guidance-when-adding-from-a-url).
+
+**So erstellen Sie eine Marke über eine URL:**
+
+1. Navigieren Sie zu **[!DNL Brands]** in GenStudio und klicken Sie dann auf die Schaltfläche **[!UICONTROL +Marke hinzufügen]**.
+1. Wenn Sie aufgefordert werden, _Wählen Sie eine Möglichkeit aus, Ihre Marke hinzuzufügen_, wählen Sie **[!UICONTROL über URL]** aus.
+1. Geben Sie die URL der Marke in das bereitgestellte Feld ein.
+1. Das System liest die Seite und generiert automatisch Markenrichtlinien - dieser Vorgang dauert in der Regel weniger als eine Minute.
+1. Überprüfen Sie die generierte Karte mit den Markenrichtlinien und bearbeiten Sie Felder nach Bedarf.
+1. Klicken Sie auf **[!UICONTROL Speichern]**. Die Marke ist jetzt für die Inhaltserstellung verfügbar.
 
 ### Miniaturansicht der Marke ändern
 
@@ -184,7 +197,7 @@ Um **Markeninformationen anzuzeigen** klicken Sie im linken Navigationsbereich a
 
 ## Fügen Sie [!DNL Personas] hinzu.
 
-Um eine Rolle hinzuzufügen, [eine Rolle hochladen](#upload-a-persona) oder [manuell eine Rolle erstellen](#manually-add-persona) indem Sie Richtlinien auswählen und Ihre persönlichen Details eingeben.
+Um eine Rolle hinzuzufügen, [eine Rolle hochladen](#upload-a-persona), [manuell eine Rolle erstellen](#manually-add-persona) oder [Rollen aus einer URL hinzufügen](#adding-personas-from-url). Wenn Sie Dateien hochladen oder einen Persona manuell hinzufügen, wählen Sie Richtlinien aus und geben Sie Ihre persönlichen Details ein.
 
 Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Personas]** .
 
@@ -244,6 +257,19 @@ Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persön
 
    Um Ihre erstellte [!DNL Personas] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben in der _Persona_-Ansicht, um zurück zur _[!DNL Personas]_&#x200B;zu navigieren.
 
+### [!DNL Personas] aus URL hinzufügen
+
+**Voraussetzungen:** Siehe [Anleitung beim Hinzufügen über eine URL](#guidance-when-adding-from-a-url).
+
+**So fügen Sie über eine URL Personas hinzu:**
+
+1. Navigieren Sie zu **[!DNL Personas]** in GenStudio und klicken Sie dann auf die Schaltfläche **[!UICONTROL +Persona hinzufügen]**.
+1. Wenn Sie aufgefordert werden, _Wählen Sie eine Möglichkeit aus, Ihre_ hinzuzufügen **[!UICONTROL „Über URL]**.
+1. Geben Sie die URL der Marke in das bereitgestellte Feld ein.
+1. Überprüfen Sie die Liste der Zielgruppensegmente, die von der Seite angezeigt werden. Entfernen Sie nicht zutreffende Segmente, benennen Sie sie nach Bedarf um und fügen Sie fehlende Segmente hinzu.
+1. Bestätigen Sie die Liste. Das System beginnt mit der Erstellung vollständiger Personenkarten für jedes bestätigte Segment.
+1. Personenkarten werden nach Abschluss des Vorgangs in der Bibliothek angezeigt. Überprüfen und bearbeiten Sie jede Rolle, bevor Sie sie bei der Inhaltserstellung verwenden.
+
 ### Verwalten von [!DNL Personas]
 
 Auf _[!DNL Personas]_&#x200B;Startseite können Sie **eine bereits erstellte[!DNL Persona]**&#x200B;öffnen, um sie zu bearbeiten oder zu überprüfen, oder **eine Rolle löschen**&#x200B;aus der Liste löschen:
@@ -258,8 +284,8 @@ Hinzufügen eines Produkts:
 
 1. Klicken Sie im linken Navigationsbereich in der Liste _Freigegeben_ auf **[!DNL Products]** .
    ![Richtlinien in GenStudio for Performance Marketing](/help/assets/guidelines.png){width="650" zoomable="yes"}
-1. Wählen Sie im _[!DNL Products]_&#x200B;Bedienfeld **Produkt hinzufügen**&#x200B;aus.
-1. Wählen Sie [Produkt hochladen](#upload-a-product) oder [manuell ein Produkt erstellen](#manually-add-product) indem Sie Richtlinien auswählen und Ihre Produktdetails eingeben.
+1. Wählen Sie im _[!DNL Products]_&#x200B;Bedienfeld **[!UICONTROL Produkt hinzufügen]**&#x200B;aus.
+1. Wählen Sie [Produkt hochladen](#upload-a-product), [manuell ein Produkt erstellen](#manually-add-a-product) oder [Produkte über eine URL hinzufügen](#adding-products-from-url). Wenn Sie Dateien hochladen oder ein Produkt manuell hinzufügen, wählen Sie Richtlinien aus und geben Sie Ihre Produktdetails ein.
 
 ![Hinzufügen einer [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"}
 
@@ -315,6 +341,19 @@ Sie können Produktdetails manuell hinzufügen, anstatt vorhandene Produktdokume
 
    Um Ihre erstellte [!DNL Products] anzuzeigen, klicken Sie auf den Rückwärtspfeil oben in der Ansicht _Produkt_, um zurück zur _[!DNL Products]_&#x200B;Startseite zu navigieren.
 
+### Hinzufügen von Produkten über URL
+
+**Voraussetzungen:** Siehe [Anleitung beim Hinzufügen über eine URL](#guidance-when-adding-from-a-url).
+
+**So fügen Sie [!DNL Products] über eine URL hinzu:**
+
+1. Navigieren Sie zu **[!DNL Products]** in GenStudio und klicken Sie dann auf die Schaltfläche **[!UICONTROL +Produkt hinzufügen]**.
+1. Wenn Sie aufgefordert werden, _Wählen Sie eine Möglichkeit aus, Ihr Produkt hinzuzufügen_, wählen Sie **[!UICONTROL Über URL]** aus.
+1. Geben Sie eine URL ein. Verwenden Sie die Homepage der Marke für eine umfassende Produktliste oder eine Kategorieseite, um den Umfang der Ergebnisse zu ermitteln.
+1. Überprüfen Sie die Liste der Produkte, die von der Seite angezeigt werden. Entfernen Sie Elemente, die nicht gehören, benennen Sie sie bei Bedarf um und fügen Sie fehlende Produkte hinzu.
+1. Bestätigen Sie die Liste. Das System beginnt mit der Erstellung vollständiger Produktdetails für jedes bestätigte Produkt.
+1. Produkte werden in der Bibliothek angezeigt. Überprüfen und bearbeiten Sie jedes Produkt, bevor Sie es bei der Inhaltserstellung verwenden.
+
 ### Verwalten von [!DNL Products]
 
 Auf _[!DNL Products]_&#x200B;Startseite können Sie **eine bereits erstellte[!DNL Product]**&#x200B;öffnen, um sie zu bearbeiten oder zu überprüfen, oder **ein Produkt löschen**&#x200B;aus der Liste löschen:
@@ -349,3 +388,23 @@ Während des Onboarding werden Zielgruppendefinitionen importiert und in ein Gen
 1. Wählen Sie eine Audience aus der Liste aus, die zugewiesen werden soll. Das System empfiehlt empfohlene Zielgruppen, die sich an den ausgewählten [!DNL Persona] ausrichten, wenn ein [!DNL Persona] ausgewählt ist.
 1. Klicken Sie **[!UICONTROL Siehe Zielgruppendetails]**, um die erweiterte Beschreibung und die für die ausgewählte Zielgruppe generierten Messaging-Voreinstellungen anzuzeigen. Zielgruppendetails bestimmen die Inhaltserstellung und stellen sicher, dass Ihr Kreativ mit den spezifischen Eigenschaften und Präferenzen Ihres Zielsegments übereinstimmt.
    ![Bereich mit Zielgruppendetails](./audience-details.png){width=450}
+
+## Anleitungen zum Hinzufügen von Daten aus einer URL
+
+Wenn Sie sich dafür entscheiden, eine [!DNL Brand], [!DNL Product] oder [!DNL Persona] über eine URL in [!DNL GenStudio for Performance Marketing] hinzuzufügen, beachten Sie die folgenden Informationen.
+
+**Voraussetzungen für URL-basierte**:
+
+- Sie haben ein **aktives [!DNL GenStudio for Performance Marketing]-Konto** mit Brand Manager oder höheren Berechtigungen.
+- Die **URL ist öffentlich**. Passwortgeschützte oder durch Login geschützte Seiten erzeugen eine begrenzte Ausgabe.
+- **Um die bestmöglichen Ergebnisse zu erzielen, verwenden Sie die URL** der eigenen Website der Marke (eine Homepage oder eine Produkt-/Kategorieseite) anstelle eines retailer, Resellers oder Aggregators.
+
+**URL-Typen und ihre erwarteten Ausgaben**:
+
+| URL-Typ | Was zu erwarten ist |
+| --- | --- |
+| Marken-Homepage | Sie erhalten vollständige Markenrichtlinien, und das System bietet eine breite Produkt- und Persönlichkeitsabdeckung. |
+| Produktkategorieseite | Produkte und Rollen werden der Kategorie zugeordnet, die auf dieser Seite dargestellt wird. |
+| Campaign-Landingpage | Persönliche Signale sind besonders nützlich, aber die Markenausgabe kann die Kampagne widerspiegeln anstatt die vollständige Marke. |
+| Retailer oder Partnerseite | Das System priorisiert Inhalte von Drittanbietern, sodass die Ausgabe begrenzt ist. |
+| Gated/Login-required-Seite | Der Seiteninhalt ist nicht verfügbar, sodass die Ausgabe konservativ ist. |
