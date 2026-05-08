@@ -22,7 +22,7 @@ Dieses Thema richtet sich an **Administratoren** die die App installieren, Anmel
 
 ## Installieren der App über Adobe Exchange
 
->[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483320?captions=ger&learn=on)
 
 1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL Experience Cloud]**.
 1. Öffnen Sie die Liste [Marketo for GenStudio](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio).
