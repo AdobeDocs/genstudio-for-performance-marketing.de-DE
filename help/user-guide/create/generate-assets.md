@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Bildern
+title: Erzeugen von Bildvarianten
 description: Erstellen Sie in Adobe ein Bild, das dem Stil eines Referenzbilds entspricht [!DNL GenStudio]  für Performance Marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
@@ -8,66 +8,55 @@ level: Beginner
 recommendations: noDisplay
 exl-id: c1118ada-7fee-43cd-aff4-eab69539afb4
 TQID: https://experienceleague.adobe.com/NXtN00EKTe0lGI8jJMJWJfWx6mHoMQI1of1mJhgrR5U
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: e4a0febc-5163-4017-82ce-fc7594509fb6
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: e4a0febc-5163-4017-82ce-fc7594509fb6id: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 6d1053bf94b0a0ba65be90359e4d176e64dfffae
 workflow-type: tm+mt
-source-wordcount: 836
+source-wordcount: 752
 ht-degree: 0%
 
 ---
 
-# Bildern generieren
+# Erzeugen von Bildvarianten
 
-Mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol) können Sie _[!DNL On-brand images]_&#x200B;generieren - generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und allgemeine Ästhetik einfangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
+Mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol) können Sie _[!DNL Image variants]_generieren - generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und allgemeine Ästhetik einfangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL Image variants]_ and _[!DNL Similar images]_. -->
 
-Um ein ansprechendes und effektives Bild zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ &#x200B;](/help/user-guide/effective-prompts.md).
+Um ein ansprechendes und effektives Bild zu entwerfen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen von Eingabeaufforderungen“ ](/help/user-guide/effective-prompts.md).
 
 ## Bildtypen
 
-_[!DNL On-brand images]_&#x200B;sind generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und Gesamtästhetik einfangen. Diese Bilder werden mithilfe von Bildern erstellt, die bereits in [!DNL Content] verfügbar sind, sowie anhand einer sorgfältig gestalteten Eingabeaufforderung, die das Design steuert. Sie halten sich strikt an die Markenrichtlinien und Parameter, die während des Generierungsprozesses ausgewählt wurden.
+_[!DNL Image variants]_sind generierte Assets, die sich von einem ausgewählten Bild inspirieren lassen und dessen visuelle Wirkung und Gesamtästhetik einfangen. Diese Bilder werden mithilfe von Bildern erstellt, die bereits in [!DNL Content] verfügbar sind, sowie anhand einer sorgfältig gestalteten Eingabeaufforderung, die das Design steuert. Sie halten sich strikt an die Markenrichtlinien und Parameter, die während des Generierungsprozesses ausgewählt wurden.
 
-_[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ --> Richtlinien, Parameter und eine [sorgfältig gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) enthalten, um ansprechende Bild-Assets bereitzustellen.
+_[!DNL Image variants]_<!-- and _[!DNL Similar images]_ --> Richtlinien, Parameter und eine [sorgfältig gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) enthalten, um ansprechende Bild-Assets bereitzustellen.
 
 <!-- * _[!DNL Similar images]_—Image assets created with strong similarity to an existing selected image available in [!DNL Content]. When generating similar images, GenStudio for Performance Marketing redesigns the selected image, giving slight variations on the content to provide variety and nuance. -->
 
-## Erstellen von Markenbildern
+## Erzeugen von Bildvarianten
 
-Sie können [!DNL On-brand images] mithilfe definierter Richtlinien, Parameter und eines ausgewählten Referenzbilds generieren. Diese Elemente leiten zusammen mit Ihrer Eingabeaufforderung die Erstellung konsistenter [!DNL On-brand image].
+Sie können [!DNL Image variants] mithilfe definierter Richtlinien, Parameter und eines ausgewählten Referenzbilds generieren. Neben Ihrer Eingabeaufforderung leiten diese Elemente die Erstellung konsistenter [!DNL Image variants].
 
 ### Referenzbild auswählen
 
-Um ein _[!DNL On-brand images]_&#x200B;zu erstellen, wählen Sie ein vorhandenes Bild aus, das in [!DNL Content] gespeichert ist. Informationen [&#x200B; unterstützten [!DNL on-brand image]-Dimensionen finden Sie &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) „Best Practices für Vorlagen“.
+Um _[!DNL Image variants]_zu erstellen, wählen Sie ein vorhandenes Bild aus, das in [!DNL Content] gespeichert wurde. Siehe [Best Practices für Vorlagen](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) für Informationen zu unterstützten Bildabmessungen.
 
 **So wählen Sie ein Referenzbild aus**:
 
-1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Markeninternes Bild]**.
-1. Verwenden Sie die Suchoption neben _Filter_, um ein bestimmtes Bild zu finden.
-
-   ![Referenzbild auswählen](/help/assets/select-img.png){width="400" zoomable="yes"}
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Bildvarianten generieren]**.
+   ![Erzeugen von Bildvarianten](./gen-image-variants.png){width="400" zoomable="yes"}
+1. Um ein Referenzbild auszuwählen, verwenden Sie die Schaltfläche _[!UICONTROL Aus Inhalt auswählen]_, um ein bestimmtes Bild zu finden.
+   ![Aus Inhalt auswählen](./gen-variant-select-from-content.png){width="200" zoomable="yes"}
 
    Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Speicherort_ aus. Filtern Sie und wählen Sie ein Bild aus.
 
-1. Klicken Sie in _Ansicht_ Bild auswählen“ auf ein Bild.
+   ![Referenzbild auswählen](/help/assets/select-img.png){width="400" zoomable="yes"}
 
-   Das ausgewählte Bild kann bis zu 10 MB groß sein.
+1. Klicken Sie in _Ansicht_ Bild auswählen“ auf ein Bild, um das Auswahlfeld zu aktivieren.
+
+   Das ausgewählte Bild kann bis zu 10 MB groß sein. Es kann jeweils nur ein Bild ausgewählt werden.
 
 1. Klicken Sie **[!UICONTROL Verwenden]**.
 
@@ -75,38 +64,19 @@ Um ein _[!DNL On-brand images]_&#x200B;zu erstellen, wählen Sie ein vorhandenes
 
 ### Parameter hinzufügen
 
-Die Integration [Richtlinien](/help/user-guide/guidelines/overview.md) und Parameter verbessert den Prozess der Inhaltserstellung und ist ein entscheidender Vorbereitungsschritt für die Erstellung eines [!DNL on-brand image].
+Die Integration [Richtlinien](/help/user-guide/guidelines/overview.md) und Parameter verbessert den Prozess der Inhaltserstellung und ist ein wichtiger Schritt zur Vorbereitung der [!DNL Image variants].
 
 **Hinzufügen von Richtlinien und Parametern**:
 
 1. Wählen _auf der Registerkarte_ Standard“ eine [!DNL Brand] aus, um über die Inhaltserstellung zu informieren.
 
-   Wenn in diesem Menü keine Marken verfügbar sind, [&#x200B; Sie „Richtlinien zu Ihrer GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md).
-
-1. Wählen Sie unter „Bildkategorie“ eine Bildkategorie aus _[!UICONTROL die Ihrem]_ am besten entspricht.
-
-   Bildkategorien sind verfügbar, wenn ein [!DNL Brand] ausgewählt wurde. Die Optionen werden durch die ausgewählten [!DNL Brand] bestimmt.
-
-<!-- 
-1. _(Optional)_ Select a custom model from _[!UICONTROL Model]_.
-
-   Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. 
--->
-
+   Wenn in diesem Menü keine Marken verfügbar sind, [ Sie „Richtlinien zu Ihrer GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md).
+1. Wählen Sie ein Modell aus, das für die Bildgenerierung verwendet werden soll _[!UICONTROL Model]_.
 1. Wählen Sie unter (Seitenverhältnis) das _[!UICONTROL Seitenverhältnis]_.
-1. Klicken Sie **[!UICONTROL Aus Inhalt auswählen]** in _[!UICONTROL Stilverweis]_, um ein Referenzbild hinzuzufügen. Das ausgewählte Bild beeinflusst die visuelle Ästhetik und Tiefe der von Ihnen generierten Bilder.
-
-   Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Speicherort_ aus. Filtern Sie und wählen Sie ein Bild aus.
-
-1. Wählen Sie auf _Registerkarte_ den _Inhaltstyp_ aus.
-
-   Diese ist basierend auf der für die ausgewählte [!DNL Brand] vorhandenen Bildkategorie - _Art_ oder _Foto_ - vorausgewählt und kann nicht bearbeitet werden.
-
-1. Passen Sie die Gesamtintensität der vorhandenen visuellen Eigenschaften des Bildes in &quot;_[!UICONTROL &quot;]_.
 
 ### Eingabeaufforderung eingeben
 
-Erstellen Sie nach Auswahl der Parameter eine Eingabeaufforderung in natürlicher Sprache, um mit der Generierung von Markenbildern zu beginnen.
+Erstellen Sie nach Auswahl der Parameter eine Eingabeaufforderung in natürlicher Sprache, um mit der Generierung von Bildvarianten zu beginnen.
 
 Siehe [Effektive Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md).
 
@@ -127,20 +97,20 @@ Nachdem Sie Bildvarianten generiert haben, können Sie sie mit Adobe Express dir
 
    Ein _Powered by Adobe Express_-Fenster wird angezeigt.
 
-1. Führen Sie eine Bildbearbeitung durch, z[&#x200B; B. &#x200B;](https://helpx.adobe.com/de/express/create-and-edit-images/edit-images/crop-images.html)Zuschneiden eines Bildes[&#x200B; „Entfernen eines &#x200B;](https://helpx.adobe.com/de/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html)&quot; und Anwenden von Effekten.
+1. Führen Sie eine Bildbearbeitung durch, z[ B. ](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html)Zuschneiden eines Bildes[ „Entfernen eines ](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html)&quot; und Anwenden von Effekten.
 
-   Siehe [Dokumentation zu Adobe Express](https://helpx.adobe.com/de/express/user-guide.html) um zu erfahren, wie Sie Bilder in GenStudio for Performance Marketing mit Adobe Express überarbeiten können.
+   Siehe [Dokumentation zu Adobe Express](https://helpx.adobe.com/express/user-guide.html) um zu erfahren, wie Sie Bilder in GenStudio for Performance Marketing mit Adobe Express überarbeiten können.
 
 1. Klicken Sie _[!UICONTROL Änderungen übernehmen]_ um Ihre Änderungen zu speichern.
 1. Fahren Sie mit der Bearbeitung einzelner Bildvarianten nach Bedarf fort und wenden Sie Änderungen an, um Ihren Fortschritt zu speichern.
 
 ### Überprüfen der Ausrichtung der Inhaltsprüfung
 
-Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
+Um die generierten Varianten zu optimieren und die strikte Einhaltung von Markenidentität, Plattformrichtlinien und Barrierefreiheitsstandards sicherzustellen, nutzen Sie die Leistungsfähigkeit des Bedienfelds [_Inhaltsprüfung_ ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Dieses Bedienfeld zeigt umfassende Details zur Inhaltsprüfung an und beleuchtet Bereiche mit Verbesserungsmöglichkeiten.
 
 **So führen Sie Inhaltsprüfungen durch**:
 
-1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
+1. Klicken Sie auf _Symbol für das Bedienfeld_ Inhaltsüberprüfung“ in der rechten Aktionsleiste, um das Bedienfeld [_Inhaltsüberprüfung_ zu ](/help/user-guide/guidelines/brand-validation.md#content-check-panel). Zeigen Sie eine Zusammenfassung der Prüfungen *Überprüfung erforderlich* und *bestanden* an, um zu sehen, welche Abschnitte und Richtlinien verbessert werden müssen.
 
    ![_Inhaltsüberprüfung_ Bedienfeld](/help/assets/content-check-img.png){width="500" zoomable="yes"}
 
