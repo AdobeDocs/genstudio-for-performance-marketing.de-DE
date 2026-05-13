@@ -1,6 +1,6 @@
 ---
-title: Übersicht über Anzeigen und Anzeigenplatzierung
-description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget und Ausgaben für Anzeigen- und Anzeigenplatzierungs-Performance in Adobe GenStudio for Performance Marketing.
+title: Veröffentlichte Erlebnisdetails
+description: Hier erhalten Sie einen Überblick über Kundeninteraktion, Budget und Ausgaben für veröffentlichte Erlebnisse und Platzierungsleistung in Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
@@ -24,45 +24,21 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: acdd8a2f6b066a7b4849e92c94127011dc6daed5
+source-git-commit: d61c45100a8ec4973e87948315f5500e023a29eb
 workflow-type: tm+mt
-source-wordcount: 1469
+source-wordcount: 1320
 ht-degree: 1%
 
 ---
 
-# Anzeigen-Tags und Übersicht über die Anzeigenplatzierung
 
-Die [!DNL Insights] Ansicht _[!UICONTROL Anzeigen-Tags]_ zeigt eine Liste der Anzeigen für das verbundene Kanal-Werbekonto. Eine _Anzeige_ ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen.
+# Veröffentlichte Erlebnisdetails {#ad-details}
 
-{{connect-insights}}
+Wählen Sie ein veröffentlichtes Erlebnis aus und zeigen Sie die Leistungsmetriken, Textattribute und Platzierungen an, die mit jedem Erlebnis verknüpft sind. Die _[!UICONTROL Veröffentlichte Erlebnisdetails]_ enthält Metriken für `click-through rate`, `cost per action` und `spend` - wie viel des Budgets für das Erlebnis ausgegeben wurde. Da Erlebnisse mehrere Platzierungen haben können, z. B. einen Feed oder ein Banner, können Sie für jede Platzierung eine Aufschlüsselung derselben Metriken sehen. Verwenden Sie die linken und rechten Pfeile unter **[!UICONTROL Leistung nach Platzierung]**, um die Platzierungsmetriken zu durchlaufen.
 
-Die _[!UICONTROL Anzeigen]_ Tags) ist nach [!UICONTROL Anzeigenamen“ &#x200B;]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
+![Veröffentlichte Erlebnisdetails mit Metriken und Platzierungen](/help/assets/insights-ad-details.png){zoomable="yes"}
 
-![Leistungsmetriken für Anzeigen-Tags-Insights](./ad-tags-tab.png)
-
-Die _[!UICONTROL Anzeigen-Tags]_-Galerieansicht zeigt eine Collage aus Anzeigenvorschauen und einer Metrik, wie z. B. die Klickrate. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oben rechts in der Galerie, um **[!UICONTROL Karteneinstellungen]** zu öffnen und eine der drei sichtbaren Metriken umzuschalten:
-
-- CPA (Kosten pro Aktion)
-- CTR (Clickthrough-Rate)
-- CPC (Kosten pro Klick)
-- Ausgaben
-
-{{filter-table}}
-
-## Anzeigendetails
-
-Wählen Sie eine Anzeige aus und zeigen Sie die Leistungsmetriken, Textattribute und Platzierungen an, die mit jeder Anzeige verbunden sind. Die _[!UICONTROL Seite „Anzeigendetails]_ enthält Metriken für die `click-through rate`, `cost per action` und `spend`, d. h. wie viel des Budgets für die Anzeige ausgegeben wurde. Da Anzeigen mehrere Platzierungen haben können, z. B. einen Feed oder ein Banner, können Sie für jede Anzeigenplatzierung eine Aufschlüsselung der gleichen Metriken sehen. Verwenden Sie die Pfeile nach links und rechts unter **[!UICONTROL Performance nach Anzeigenplatzierung]**, um durch die Platzierungsmetriken zu navigieren.
-
-![Anzeigendetails mit Metriken und Anzeigenplatzierungen](/help/assets/insights-ad-details.png){zoomable="yes"}
-
-### Anzeigenattribute
-
-Unter der Anzeigenvorschau finden Sie eine Liste mit Attributen, die mit der Anzeige verknüpft sind.
-
-{{$include /help/_includes/generated-attributes.md}}
-
-### Anzeigenformate
+## Anzeigenformate
 
 Anzeigenformate beziehen sich auf die verschiedenen kreativen Elemente und Layouts, die zur Ausrichtung an Ihren Kampagnenzielen, zur Interaktion mit Ihrer Zielgruppe und zur Verfolgung von Leistungsmetriken verwendet werden.
 
@@ -76,7 +52,7 @@ Anzeigenformate beziehen sich auf die verschiedenen kreativen Elemente und Layou
 | DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | Der Paid-Media-Kanal bietet keinen Zugriff auf das Abrufen von Kreativ-Assets, was die genaue Klassifizierung der Anzeigentypen erschwert. |
 | Innovid | K. A. | Der Paid-Media-Kanal bietet keinen Zugriff auf das Abrufen von Kreativ-Assets, was die genaue Klassifizierung der Anzeigentypen erschwert. |
 
-### Platzierungen hinzufügen
+## Platzierungen hinzufügen
 
 Anzeigenplatzierungen beziehen sich auf die spezifischen Orte oder Plattformen, an denen Ihre Anzeigen innerhalb einer Kampagne erscheinen. Diese Platzierungen bestimmen, wie und wo Ihre Zielgruppe mit Ihren Inhalten interagiert. Anzeigenplatzierungen erweitern die Reichweite der Zielgruppe, was zur Maximierung der Sichtbarkeit, Interaktion und der allgemeinen Effektivität der Kampagne beiträgt.
 
@@ -124,4 +100,3 @@ Die folgende Tabelle enthält Definitionen für Leistungsmetriken zur Anzeigenpl
 | **[!UICONTROL CPC &#x200B;]**<br>_Cost per click_ | Die durchschnittlichen Kosten, die mit jedem Klick in einer einzelnen Anzeigenplatzierung verbunden sind.<p>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks`<p>Diese Metrik hilft bei der Bewertung der Kosteneffizienz der Anzeigenplatzierung bei der Generierung von Klicks. | Ein niedrigerer CPC zeigt an, dass die Anzeigenplatzierung Klicks zu niedrigeren Kosten generiert, was für die Maximierung des ROI von Vorteil sein kann. |
 | **[!UICONTROL Ausgaben]** | Der Betrag, der für eine einzelne Anzeigenplatzierung ausgegeben wird und einen Bruchteil der Gesamtsumme darstellt, die für die gesamte Anzeige ausgegeben wird. Diese Metrik hilft, die Budgetzuweisung und die Ausgabeneffizienz für jede Anzeigenplatzierung zu verfolgen. | Die Überwachung der Ausgaben kann dazu beitragen, sicherzustellen, dass Ressourcen auf verschiedenen Platzierungen effektiv verwendet werden. |
 | **Attribute** | Liste der in dieser Anzeigenplatzierung vorhandenen inhärenten Funktionen. | Attribute helfen dabei, kreative Elemente zu identifizieren, die Ihre Zielgruppe am meisten ansprechen. Siehe [Kategorien](/help/user-guide/insights/attributes.md#categories). |
-

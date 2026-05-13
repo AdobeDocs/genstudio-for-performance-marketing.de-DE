@@ -39,7 +39,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f7f72c23c8bc7a52040af2c897b94d107a7c95bf
+source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
 workflow-type: tm+mt
 source-wordcount: 4727
 ht-degree: 0%
@@ -151,7 +151,7 @@ Marketing-Experten können jetzt Logos innerhalb von Vorlagen direkt im [!DNL Cr
 
 ### CPA nach Aktionstyp für Meta-Kampagnen
 
-* Analysieren Sie [Kosten pro Aktion (CPA) mit flexibler Konversionsverfolgung](/help/user-guide/insights/ads.md) für Meta-Werbekampagnen.
+* Analysieren Sie [Kosten pro Aktion (CPA) mit flexibler Konversionsverfolgung](/help/user-guide/insights/published-experiences.md) für Meta-Werbekampagnen.
 * Wählen Sie anstelle einer einzelnen festen Metrik aus mehreren Aktionstypen - z. B. Käufe, Ereignisse vom Typ „In den Warenkorb legen“, Leads, Videoansichten oder benutzerdefinierte Konversionen -, um die CPA für Kampagnen, Anzeigen, Assets und Attribute in [!DNL Insights] zu berechnen und anzuzeigen.
 
 ### Fehlerbehebungen und Verbesserungen
@@ -276,7 +276,7 @@ Adobe GenStudio for Performance Marketing bietet jetzt integrierte E-Mail-Übers
 
 ### Filter für kompatible Assets
 
-Ein neuer Filter im [!DNL Insights]-Modul blendet automatisch [nicht unterstützte Bild- und Video-Assets](/help/user-guide/insights/ads.md#ad-formats) aus der Vorschau aus, sodass visuelles Durcheinander und kaputte Kacheln vermieden werden. Diese Verbesserung stellt sicher, dass Benutzende nur Medien sehen, die tatsächlich verfügbar und einsatzbereit sind, wodurch ein saubereres und zuverlässigeres Erlebnis entsteht. Der Filter funktioniert zusammen mit dem vorhandenen Filter Kompatibilitätsanzeigen .
+Ein neuer Filter im [!DNL Insights]-Modul blendet automatisch [nicht unterstützte Bild- und Video-Assets](/help/user-guide/insights/published-experiences.md#ad-formats) aus der Vorschau aus, sodass visuelles Durcheinander und kaputte Kacheln vermieden werden. Diese Verbesserung stellt sicher, dass Benutzende nur Medien sehen, die tatsächlich verfügbar und einsatzbereit sind, wodurch ein saubereres und zuverlässigeres Erlebnis entsteht. Der Filter funktioniert zusammen mit dem vorhandenen Filter Kompatibilitätsanzeigen .
 
 ### Aktivierung mehrerer Assets für Meta
 

@@ -25,9 +25,9 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d3d3bd0d0790ecfe5a9c0e796b74fcf97672f1d2
+source-git-commit: 96438790ee2d211cee8ab076b13f8d404b0a2700
 workflow-type: tm+mt
-source-wordcount: 959
+source-wordcount: 1002
 ht-degree: 0%
 
 ---
@@ -96,6 +96,10 @@ Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterun
 
 Die [[!DNL Insights] _[!UICONTROL Ansicht &#x200B;]_&#x200B;Kampagnen](campaigns.md) ist die Standardansicht und zeigt eine Liste der aktiven Kampagnendetails an, wie Ziele, Budget, Startdatum und Aktivität. Stellen Sie sicher[&#x200B; dass Sie ein Kanalkonto &#x200B;](/help/user-guide/connectors/connect-channel.md), damit GenStudio for Performance Marketing Ihre statistischen Daten erhält.
 
+### Veröffentlichte Erlebnisse
+
+Die Ansicht [[!DNL Insights] _[!UICONTROL Veröffentlichte Erlebnisdetails &#x200B;]_](published-experiences.md) konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Die [!UICONTROL Veröffentlichte Erlebnisse] ermöglicht es Ihnen, die Metriken eines Erlebnisses basierend auf seiner Platzierung innerhalb eines bestimmten Datumsbereichs zu analysieren. Durch Klicken auf einen&#x200B;_[!UICONTROL &#x200B; Erlebnisnamen &#x200B;]_&#x200B;können Sie die Erlebnisleistungsmetriken, die Leistung nach Platzierung und Attribute anzeigen.
+
 ### Medien
 
 Die [[!DNL Insights] _[!UICONTROL Media &#x200B;]_&#x200B;Ansicht](media.md) soll Ihnen dabei helfen, die Leistung kreativer Inhalte zu analysieren. Sie können Medienattribute identifizieren, die zur Verbesserung einer ausgewählten Metrik beitragen, z. B. Klicks oder Impressionen.
@@ -114,4 +118,4 @@ Die [[!DNL Insights] _[!UICONTROL Attribute &#x200B;]_&#x200B;Ansicht](attribute
 
 ### Anzeigen-Tags
 
-Die [[!DNL Insights] _[!UICONTROL Anzeigen &#x200B;]_&#x200B;Ansicht](ads.md) konzentriert sich auf die Bewertung der Effektivität einer Anzeige. Mit [!UICONTROL &#x200B; Ansicht &#x200B;]Anzeigen“ können Sie die Metriken einer Anzeige basierend auf ihrer Platzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen&#x200B;_[!UICONTROL &#x200B; Anzeigenamen &#x200B;]_&#x200B;können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
+Die Ansicht [[!DNL Insights] _[!UICONTROL Anzeigen &#x200B;]_&#x200B;Tags](ad-tags.md) zeigt eine Liste der Anzeigen für das verbundene Kanal-Werbekonto an. Eine_ Anzeige _ist ein Werbeelement, das visuelle und interaktive Inhalte enthält, die im Rahmen einer Marketing-Kampagne an eine bestimmte Zielgruppe verteilt werden sollen.

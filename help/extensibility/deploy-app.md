@@ -14,9 +14,9 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 topic_v2:
   - id: da3860b0-d637-47df-bef0-273751180266
-source-git-commit: 3a50cdb378d024370808680ec9b606c789429dc2
+source-git-commit: ca8bfb11a301697c92e97bad41ea3ba8aa359847
 workflow-type: tm+mt
-source-wordcount: 501
+source-wordcount: 622
 ht-degree: 0%
 
 ---
@@ -91,6 +91,7 @@ Je nach dem Typ der bereitgestellten Erweiterung befinden sich neue Erweiterunge
 * [Erweiterung für Digital Asset Management (DAM)](#find-dam-extensions)
 * [Vorlagenerweiterung](#find-template-extensions)
 * [Übersetzungs-Erweiterung](#find-translation-extensions)
+* [Inhaltsfragment-Erweiterung](#find-content-fragment-extension)
 
 ### Prompt-Erweiterungen suchen
 
@@ -128,7 +129,6 @@ Vorlagenerweiterungen finden Sie auf der Registerkarte **Externe Vorlagenanwendu
 
 ![Vorlagenerweiterungen](./template-ext.png){width="600" zoomable="yes"}
 
-
 ### Suchen von Übersetzungserweiterungen
 
 Verwenden Sie Übersetzungs-Erweiterungspunkte , um Ihren eigenen Übersetzungs-Service über einen Proxy zu übertragen, anstatt die standardmäßige GenStudio-Übersetzung zu verwenden.
@@ -136,7 +136,21 @@ Für diese Erweiterungen gibt es keinen Speicherort auf der Benutzeroberfläche.
 
 Wenn die Erweiterung registriert ist, wird der bereitgestellte Übersetzungs-Service verwendet. Andernfalls wird der standardmäßige GenStudio-Übersetzungs-Service verwendet.
 
+### Inhaltsfragmenterweiterung suchen
 
+Die Inhaltsfragment-Erweiterung in [!DNL GenStudio for Performance Marketing] ersetzt Text in generierten E-Mail-Erlebnissen auf der [!DNL Create]-Arbeitsfläche durch Einträge aus einem verbundenen Drittanbieter-Repository (3P). Nachdem Sie die Erweiterung konfiguriert und bereitgestellt haben, tauschen Sie die Kopie aus der Arbeitsfläche aus, ohne den Workflow verlassen zu müssen.
+
+>[!NOTE]
+>
+>Der Austausch von Inhaltsfragmenterweiterungen ist heute für E **Mail**-Erlebnisse auf der Arbeitsfläche verfügbar. **Horizon**-Channel-Support ist in Kürze verfügbar.
+
+**So tauschen Sie Text mithilfe der Inhaltsfragment-Erweiterung aus**:
+
+1. Klicken Sie auf der Arbeitsfläche in einer generierten E-Mail-Variante auf ein bearbeitbares Textfeld.
+1. Klicken Sie **[!UICONTROL Wechseln]**.
+   ![Text austauschen](./subject-line-swap.png){width="400" zoomable="yes"}
+1. Wählen Sie das Repository eines Drittanbieters aus. Ihr Unternehmen steuert, welche Repositorys angezeigt werden und wie sich die Repository-Benutzeroberfläche verhält.
+1. Wählen Sie den Anspruch aus, den Sie als Ersatztext für das Feld verwenden möchten.
 
 Wenn Sie mit Ihrem Add-on zufrieden sind, können Sie es ohne den `query` verteilen.
 

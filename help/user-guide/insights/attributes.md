@@ -24,7 +24,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
 workflow-type: tm+mt
 source-wordcount: 812
 ht-degree: 0%
@@ -45,7 +45,7 @@ Die _[!UICONTROL Attribute]_ ist unter Verwendung des Namens [!UICONTROL Attribu
 
 ## Attributdetails
 
-Attribute helfen dabei, [Anzeigen](ads.md#ad-details) und [Medien](media.md#media-details) anhand ihrer inhärenten Details wie Farbe, Komposition, visuelle Elemente und andere Eigenschaften zu identifizieren.
+Attribute helfen dabei, [Anzeigen](published-experiences.md#ad-details) und [Medien](media.md#media-details) anhand ihrer inhärenten Details wie Farbe, Komposition, visuelle Elemente und andere Eigenschaften zu identifizieren.
 
 In der Attributdetailansicht können Sie sehen, welche Anzeigen das ausgewählte Attribut verwenden. Zu den Details gehören die Gesamtleistung der Attribute und eine Aufschlüsselung der Leistungsmetriken für jede Anzeige.
 
