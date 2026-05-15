@@ -4,19 +4,13 @@ description: Erfahren Sie, wie Sie den Experience Selector Micro FrontEnd für I
 feature: Extensibility, Extensions, Experiences
 exl-id: 918d3772-406b-4e16-bddc-0d5b160978d3
 TQID: https://experienceleague.adobe.com/0KCx1agovbj3-ShbAZ6JiHnHchMI47F9g4mvE4NPpvc
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bfaa655b-e017-428d-80d0-09de2183b296
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bfaa655b-e017-428d-80d0-09de2183b296
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 8caee588140b91f81a8c77f7da4b930674f46865
 workflow-type: tm+mt
-source-wordcount: 601
+source-wordcount: 620
 ht-degree: 4%
 
 ---
@@ -32,6 +26,8 @@ Mit dem GenStudio Experience Selector-MFE können Benutzer:
 - Unterstützt sowohl einzelne als auch mehrere Auswahlmodi
 - Authentifizierung über die SUSI-Integration (Sign-up) durchführen
 - Bereitstellung einer konsistenten Benutzeroberfläche über verschiedene Frameworks hinweg
+
+Informationen zum Einbetten dieses MFE in Salesforce Lightning mit LWC und optionalen E-Mail-Vorlagen finden Sie unter [Experience Selector MFE in Salesforce](experience-selector-salesforce.md).
 
 ## Integrationsoptionen
 
@@ -119,7 +115,7 @@ Das `susiConfig` kann Folgendes umfassen:
 
 Dieses Repository enthält Arbeitsbeispiele für verschiedene Frameworks:
 
-- [Eine **vollständige React-Anwendung** die die Integration mit dem Vite-Build-System &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [Eine **vollständige React-Anwendung** die die Integration mit dem Vite-Build-System ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
 - [Eine **Vue 3-Anwendung** mit Kompositions-API-Integration](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
