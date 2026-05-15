@@ -5,12 +5,25 @@ level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
 TQID: https://experienceleague.adobe.com/FW4WpVLALtYYI2mGT3i3IH5KYuYnZ5h2pbnm9gKcrVE
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
-subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: b03d2162-d906-40a0-9cbd-001391e22d4a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5520579-b31f-4df7-9281-f0d9f91e2edcid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: b03d2162-d906-40a0-9cbd-001391e22d4a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
 source-git-commit: 4cac970f46ab08bcec2f23fd882c552af088c4ea
 workflow-type: tm+mt
 source-wordcount: 812
@@ -38,7 +51,7 @@ In der Attributdetailansicht können Sie sehen, welche Anzeigen das ausgewählte
 
 ![Attributleistungsmetriken](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing erkennt bestimmte Funktionen und wendet das entsprechende Attribut auf Medieninhalte oder Anzeigen als Tag an. Beispiele für [ Tags finden ](#categories) unter „Kategorien“. Um alle mit einer Anzeige verknüpften Attribute anzuzeigen, klicken Sie auf das Symbol „Einstellungen“ (Zahnrad) oben rechts in der Tabelle, um die Spalte **[!UICONTROL Attribute]** auszuwählen.
+GenStudio for Performance Marketing erkennt bestimmte Funktionen und wendet das entsprechende Attribut auf Medieninhalte oder Anzeigen als Tag an. Beispiele für [&#x200B; Tags finden &#x200B;](#categories) unter „Kategorien“. Um alle mit einer Anzeige verknüpften Attribute anzuzeigen, klicken Sie auf das Symbol „Einstellungen“ (Zahnrad) oben rechts in der Tabelle, um die Spalte **[!UICONTROL Attribute]** auszuwählen.
 
 ## Kategorien
 
@@ -68,8 +81,8 @@ Die folgende Tabelle enthält Definitionen und Einblicke zu wichtigen digitalen 
 | **[!UICONTROL Anzahl der Videos]** | Die Anzahl der Videos mit diesem Attribut. | Die Anzahl in der Tabelle Attribute kann sich von der Anzahl in der Ansicht Attributdetails unterscheiden. Diese Diskrepanz kann auftreten, wenn die Kanalquelle (z. B. Meta und GenStudio) geringfügig unterschiedliche Zusammenfassungsberechnungen verwendet. |
 | **[!UICONTROL Impressions]** | Eine Zählung, mit der jedes Mal, wenn ein Bild oder Videos mit diesem Attribut im Kanal geladen wird, unabhängig von Interaktion oder Anzeige. | Eine hohe Impressionsanzahl kann auf eine breite Sichtbarkeit hinweisen, aber für eine echte Leistung von insight sollten Sie sie im Zusammenhang mit anderen Interaktionsmetriken berücksichtigen. |
 | **[!UICONTROL Klicks]** | Die Häufigkeit, mit der Benutzende mit einem Bild oder Video mit diesem Attribut interagieren. | Eine hohe Klickanzahl zeigt ein starkes Interesse an den Inhalten und deren Interaktion mit ihnen an, was effektiv sein und die richtige Zielgruppe erreichen kann. |
-| **[!UICONTROL CTR ]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die zu Klicks auf Bilder oder Videos mit diesem Attribut geführt haben.<br>**Berechnung**: `clicks` geteilt durch `impressions` | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
-| **[!UICONTROL CPM ]**<br>_Kosten pro Tausend_ | Kosten für alle eintausend Ad-Impressions eines Bildes oder Videos mit diesem Attribut.<br>**Berechnung**: Gesamtbetrag `spent` durch Reichweite geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
-| **[!UICONTROL CPA ]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für die Durchführung einer bestimmten Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Hilft bei der Identifizierung von Attributen, die zu wertvollen Kundenaktionen führen. |
-| **[!UICONTROL CPC ]**<br>_Cost per click_ | Durchschnittliche Kosten, die mit jedem Klick auf Bilder oder Videos mit diesem Attribut verbunden sind <br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
+| **[!UICONTROL CTR &#x200B;]**<br>_Clickthrough-Rate_ | Prozentsatz (%) der Impressionen, die zu Klicks auf Bilder oder Videos mit diesem Attribut geführt haben.<br>**Berechnung**: `clicks` geteilt durch `impressions` | Eine hohe Klickrate bedeutet, dass die Inhalte für die Zielgruppe in den Bereichen Messaging und Design hochrelevant und motivierend sind und auf die Interessen der Zielgruppe ausgerichtet sind. |
+| **[!UICONTROL CPM &#x200B;]**<br>_Kosten pro Tausend_ | Kosten für alle eintausend Ad-Impressions eines Bildes oder Videos mit diesem Attribut.<br>**Berechnung**: Gesamtbetrag `spent` durch Reichweite geteilt und dann mit 1000 multipliziert | Ein niedriger Wert kann auf eine kostengünstige Sichtbarkeit hinweisen, insbesondere in Verbindung mit einer hohen Clickthrough-Rate. |
+| **[!UICONTROL CPA &#x200B;]**<br>_Kosten pro Aktion_ | Durchschnittliche Kosten, die für die Durchführung einer bestimmten Kundenaktion ausgegeben werden, z. B. für einen Kauf oder ein Abonnement.<br>**Berechnung**: Gesamtbetrag `spent` geteilt durch die Anzahl der abgeschlossenen Kundenaktionen | Hilft bei der Identifizierung von Attributen, die zu wertvollen Kundenaktionen führen. |
+| **[!UICONTROL CPC &#x200B;]**<br>_Cost per click_ | Durchschnittliche Kosten, die mit jedem Klick auf Bilder oder Videos mit diesem Attribut verbunden sind <br>**Berechnung**: Gesamtbetrag `spent` geteilt durch `clicks` | Niedrigere Durchschnittskosten können auf kosteneffiziente Werbeausgaben hindeuten, insbesondere im Vergleich zu einem Anstieg der Konversionen. |
 | **[!UICONTROL Ausgaben]** | Der aus dem Budget ausgegebene Betrag, da er sich auf Attribute über einen bestimmten Zeitraum bezieht. | Ein hoher Ausgabenbetrag innerhalb eines kurzen Zeitraums kann auf eine schnelle Nutzung hindeuten, was zu einem frühzeitigen Abbau der Ressourcen führen könnte. Verfolgen Sie die Ausgaben anhand wichtiger Leistungsmetriken, um die Gesamtrendite zu überwachen. |

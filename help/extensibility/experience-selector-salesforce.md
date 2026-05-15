@@ -37,7 +37,7 @@ Die Integration kann auch:
   ```
 
 * **Berechtigungen:** Benutzer, die E-Mail-Vorlagen erstellen, benötigen Zugriff auf den E-Mail-Zielvorlagenordner und Rechte zum Erstellen von Vorlagen entsprechend Ihren Organisationsrichtlinien. Apex wird `with sharing` ausgeführt.
-* **Adobe/GenStudio:** Ihre Adobe IMS-Organisations-ID und SUSI-`clientId` müssen mit Ihrer Adobe-Konfiguration übereinstimmen (siehe &quot;[ konfigurieren](#configure-integration-values-developer--implementation)).
+* **Adobe/GenStudio:** Ihre Adobe IMS-Organisations-ID und SUSI-`clientId` müssen mit Ihrer Adobe-Konfiguration übereinstimmen (siehe &quot;[&#x200B; konfigurieren](#configure-integration-values-developer--implementation)).
 * **Browser/CSP:** Salesforce muss das Laden von Skripten aus `https://experience.adobe.com` zulassen (siehe [Konfigurieren einer Inhaltssicherheitsrichtlinie und einer Adobe-URL](#configure-content-security-policy-and-adobe-url)).
 
 ## Bereitstellen des Pakets (Entwickler)
