@@ -2,9 +2,9 @@
 title: Experience Selector-MFE in Salesforce
 description: Erfahren Sie, wie Sie den Experience Selector-MFE in Salesforce Lightning bereitstellen und konfigurieren, einschließlich CSP, Adobe-Authentifizierung, Apex-E-Mail-Vorlagen und Validierung.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: 4cac970f46ab08bcec2f23fd882c552af088c4ea
+source-git-commit: 99a2b657560d20642b7b92aefb976ba2373ebc7f
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Allgemeine Optionen zur MFE-Integration, Konfigurationseigenschaften und Framewo
 
 ## Funktionsweise dieser Integration
 
->[!VIDEO](https://video.tv.adobe.com/v/3491088?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491079?learn=on)
 
 Die Lightning-Web-Komponente (LWC) lädt `sfgsmfe` Adobe Experience Selector-UMD-Bundle und rendert es in einem `<dialog>`, damit Benutzer ein Erlebnis aus [!DNL GenStudio for Performance Marketing] auswählen können.
 
@@ -25,7 +25,8 @@ Die Integration kann auch:
 
 * **Vorschau und Decodierung:** Zeigt die ausgewählte Payload als JSON, decodierten HTML und eine bereinigte HTML-Vorschau im LWC an.
 * **E-Mail-Vorlagen (optional):** Ein **[!UICONTROL E-Mail-Vorlage erstellen]**-Fluss in Salesforce kann Apex (`EmailTemplateController.createEmailTemplate`) aufrufen, um einen `EmailTemplate`-Datensatz (HTML, Betreff und Ordner) einzufügen.
-* **Laufzeitladen:** Das GenStudio-Skript wird von der in Adobe gehosteten URL auf `experience.adobe.com` geladen, nicht von einer statischen Salesforce-Ressource in der typischen Implementierung.
+
+Das Erlebnisselektorskript für [!DNL GenStudio for Performance Marketing] wird von der in Adobe gehosteten URL für `experience.adobe.com` geladen und nicht von einer in der typischen Implementierung von statischen Salesforce-Ressource.
 
 ## Voraussetzungen
 
@@ -37,12 +38,12 @@ Die Integration kann auch:
   ```
 
 * **Berechtigungen:** Benutzer, die E-Mail-Vorlagen erstellen, benötigen Zugriff auf den E-Mail-Zielvorlagenordner und Rechte zum Erstellen von Vorlagen entsprechend Ihren Organisationsrichtlinien. Apex wird `with sharing` ausgeführt.
-* **Adobe/GenStudio:** Ihre Adobe IMS-Organisations-ID und SUSI-`clientId` müssen mit Ihrer Adobe-Konfiguration übereinstimmen (siehe &quot;[&#x200B; konfigurieren](#configure-integration-values-developer--implementation)).
+* **Adobe/GenStudio:** Ihre Adobe IMS-Organisations-ID und SUSI-`clientId` müssen mit Ihrer Adobe-Konfiguration übereinstimmen (siehe &quot;[ konfigurieren](#configure-integration-values-developer--implementation)).
 * **Browser/CSP:** Salesforce muss das Laden von Skripten aus `https://experience.adobe.com` zulassen (siehe [Konfigurieren einer Inhaltssicherheitsrichtlinie und einer Adobe-URL](#configure-content-security-policy-and-adobe-url)).
 
 ## Bereitstellen des Pakets (Entwickler)
 
-Die Integration folgt einem Salesforce DX-Stil-Layout. Der standardmäßige Paketordner wird normalerweise in Ihrem Salesforce DX-Projekt `force-app`.
+Das Projekt verwendet das Salesforce DX-Layout. Der standardmäßige Paketordner ist `force-app`.
 
 1. Stellen Sie im Stammverzeichnis Ihres Projekts die Quelle für die Zielorganisation bereit:
 
@@ -52,12 +53,10 @@ Die Integration folgt einem Salesforce DX-Stil-Layout. Der standardmäßige Pake
 
 2. Vergewissern Sie sich, dass die Bereitstellung fehlerfrei abgeschlossen wird.
 
-Typische Metadaten in Ihrem Projekt umfassen:
+* `force-app/main/default/lwc/sfgsmfe` - LWC-Bundle (HTML, JS, CSS, Meta).
+* `force-app/main/default/classes/EmailTemplateController.cls` - Spitze für die Vorlagenerstellung.
 
-* Ein LWC-Bundle mit dem Namen `sfgsmfe` (HTML, JavaScript, CSS und Meta XML), das die Selektor-Benutzeroberfläche und das Laden von Skripten hostet.
-* Eine Apex-Klasse (z. B. `EmailTemplateController`), die E-Mail-Vorlagen erstellt, wenn Sie diesen optionalen Fluss verwenden.
-
-Ihr Projekt kann auch statische Ressourcen definieren. Wenn der LWC-Lader die Adobe CDN-URL für die `standalone.js` verwendet, sind diese Ressourcen für diesen Ladepfad nicht erforderlich, es sei denn, Sie ändern die Implementierung.
+Das Repository kann auch statische Ressourcen (`reactApp`, `sfgsmfe_react`) enthalten. Das aktuelle [!DNL GenStudio for Performance Marketing] in `sfgsmfe.js` verwendet die Adobe CDN-URL für die `standalone.js`. Diese statischen Ressourcen sind für diesen Ladepfad nicht erforderlich, es sei denn, Sie ändern die Implementierung.
 
 ## Hinzufügen der Komponente zu einer Lightning-Seite (Admin)
 
@@ -66,7 +65,7 @@ Die `sfgsmfe` Komponente wird bereitgestellt für:
 * Lightning-App-Seiten
 * Startseiten
 * Datensatzseiten
-* Registerkarten (indem die Komponente auf einer Lightning-Seite platziert wird, die über eine benutzerdefinierte Registerkarte geöffnet wird)
+* Registerkarten (über eine Lightning-Seite auf einer benutzerdefinierten Registerkarte)
 
 So fügen Sie die Komponente hinzu:
 
@@ -92,7 +91,8 @@ Wenn das Skript nicht geladen werden kann:
 
 1. Öffnen Sie die Browser-Entwickler-Tools.
 1. Überprüfen Sie die **[!UICONTROL Konsole]** und **[!UICONTROL Netzwerk]** auf blockierte Anfragen oder CSP-Verstöße.
-1. Fügen Sie **[!UICONTROL CSP Trusted Sites]** (und alle zugehörigen Einstellungen für Ihre Salesforce-Version) für `https://experience.adobe.com` hinzu oder passen Sie sie entsprechend der aktuellen Salesforce-Dokumentation für Lightning an.
+1. Fügen Sie (**[!UICONTROL URLs]** (und alle zugehörigen Einstellungen für Ihre Salesforce-Version) für `https://experience.adobe.com` hinzu oder passen Sie sie entsprechend der aktuellen Salesforce-Dokumentation für Lightning an.
+   ![Vertrauenswürdige Sites in Salesforce CSP](./sf-trusted-urls.png){width="80%" zoomable="yes"}
 
 ## Integrationswerte konfigurieren (Entwickler/Implementierung)
 
@@ -125,13 +125,13 @@ Tipps für den Betrieb:
 
 ## Validierungs-Checkliste
 
-Diese Liste nach Bereitstellung und Konfiguration verwenden:
+Bestätigen Sie die Elemente in dieser Liste nach der Bereitstellung und Konfiguration für eine sichere Validierung der Integration:
 
-* [ ] Bereitstellung wird fehlerfrei abgeschlossen.
-* [ ] Benutzer können die Lightning-Seite öffnen, die `sfgsmfe` enthält.
-* [ ] Die Komponente zeigt keinen Ladefehler an. Die Registerkarte Netzwerk gibt HTTP 200 für `standalone.js` zurück.
-* [ ] **[!UICONTROL GenStudio-Erlebnis auswählen]** wird die Auswahl geöffnet und Auswahlrückrufe werden ausgeführt.
-* [ ] **[!UICONTROL E-Mail-]** erstellen) ist erfolgreich, wenn Sie diesen Fluss verwenden, und die Vorlage wird unter dem konfigurierten Ordner in &quot;**[!UICONTROL &quot;]**.
+1. Bereitstellung wird fehlerfrei abgeschlossen.
+1. Benutzer können die Lightning-Seite öffnen, die `sfgsmfe` enthält, und die Benutzeroberfläche der Erlebnisauswahl anzeigen.
+1. Die Komponente zeigt keinen Ladefehler an. Die Registerkarte Netzwerk gibt HTTP 200 für `standalone.js` zurück.
+1. **[!UICONTROL GenStudio-Erlebnis auswählen]** öffnet den Selektor und führt Auswahlrückrufe aus.
+1. **[!UICONTROL E-Mail-Vorlage erstellen]** ist erfolgreich, wenn Sie diesen Fluss verwenden, und die Vorlage wird unter dem konfigurierten Ordner in &quot;**[!UICONTROL &quot;]**.
 
 ## Siehe auch
 
