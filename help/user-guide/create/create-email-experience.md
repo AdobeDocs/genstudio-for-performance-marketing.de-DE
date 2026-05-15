@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: ecda1f61abaafe858629fc4700f61d89e2ab9e3e
 workflow-type: tm+mt
-source-wordcount: 1098
+source-wordcount: 1132
 ht-degree: 0%
 
 ---
@@ -106,6 +106,7 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 
 * **Um [&#x200B; E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
 * **Um [E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** klicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf
+* **Erfahren Sie[&#x200B; wie [!DNL GenStudio for Performance Marketing] generative Felder, injizierbare Inhaltsfragmentfelder und gesperrte Felder auf einer Arbeitsfläche kombinieren, um](/help/user-guide/create/email-experiences.md#content-fragment-swap)** genehmigte Inhaltsfragmente in E-Mail-Varianten“ zu verwenden. Administratoren konfigurieren Fragmentquellen wie in [Inhaltsfragmenterweiterung suchen](/help/extensibility/deploy-app.md#find-content-fragment-extension) beschrieben.
 * **Um [Call to action zu ändern oder auszuwählen](/help/user-guide/create/manage-variants.md#revise-call-to-action)** klicken Sie auf die Schaltfläche call-to-action und wählen Sie _[!UICONTROL Umformulieren]_ oder _[!UICONTROL Link hinzufügen]_.
 * **Um [&#x200B; Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
 * **Um [&#x200B; Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.

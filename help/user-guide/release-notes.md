@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
+source-git-commit: d8bce70c1e5cd80df2a8b6789de6ee3acda4b643
 workflow-type: tm+mt
-source-wordcount: 4727
+source-wordcount: 4991
 ht-degree: 0%
 
 ---
@@ -50,7 +50,35 @@ ht-degree: 0%
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen der GenStudio for Performance Marketing-Anwendung.
 
-## 2026.04.16 {#latest}
+## 2026.05.15 {#latest}
+
+### Kollaboratives Bearbeiten auf der Arbeitsfläche „Horizont“
+
+Bezahlte Medienentwürfe auf der Horizont-Arbeitsfläche sind keine Einzelübung mehr. Besitzer können jetzt Mitarbeiter per E-Mail mit den Rollen **[!UICONTROL Editor]** oder **[!UICONTROL Viewer]** einladen, sodass alle mit demselben lebenden Entwurf arbeiten, anstatt Exporte zwischen Tools zu springen.
+
+Mit der Schaltfläche [!UICONTROL Freigeben] auf der Arbeitsfläche können Editoren sehen, wie Zeichenflächen- und Feldaktualisierungen (einschließlich Überschriften, CTAs und Beschreibungen) in Echtzeit landen.
+
+### Aktualisiertes Karten-Layout auf der [!DNL Create] [!DNL Content]
+
+Der [!DNL Create] Einstiegspunkt in [!DNL Content] zeigt das aktualisierte Kartenlayout.
+
+### Austausch von AEM-Inhaltsfragmenten in E-Mail-Erlebnissen auf der HTML-Arbeitsfläche
+
+[E-Mail](/help/user-guide/create/email-experiences.md)Erlebnisse auf der HTML-Arbeitsfläche bieten jetzt den Austausch von Inhalten durch vorab genehmigte **AEM-Inhaltsfragmente** durch vorab geregelte modulare Inhalte, wobei keine Inhalte aus seitlichen Kanälen eingefügt werden.
+
+Verlassen Sie sich auf die bereits in AEM veröffentlichten Fragmente Ihrer Organisation, ohne GenStudio for Performance Marketing zu verlassen.
+
+### Hinzufügen von [!DNL Brands], [!DNL Products] und [!DNL Personas] über eine URL
+
+[!DNL GenStudio for Performance Marketing] nimmt veröffentlichte **[!DNL Brand]**-, **[!DNL Product]**- und **[!DNL Persona]**-Signale direkt von einer URL auf, wodurch stundenlange manuelle Eingaben reduziert werden, während die Ausgaben auf den Ergebnissen beruhen, die die Marke tatsächlich online veröffentlicht. [Hinzufügen von Richtlinien von einer öffentlichen URL](/help/user-guide/guidelines/add-guidelines.md#guidance-when-adding-from-a-url) spiegelt schließlich wider, wie Marketing-Experten das Web recherchieren, bevor sie jemals einen Brief öffnen.
+
+Markenrichtlinien landen in einem einzigen Durchgang, während Produkte und Rollen von einer intelligenten Auswahlliste ausgehen, sodass Sie kuratieren, was dazugehört, bevor das System Datensätze anreichert. Die KI-gestützte Erkennung bleibt bewusst konservativ, wenn eine Site dünn oder mit Gates versehen ist, was regulierte Teams schützt, ohne die Dynamik zu blockieren.
+
+Organisationen, die einen **[!UICONTROL Brand Manager]** oder höher benötigen, setzen diese Schutzmaßnahmen weiterhin automatisch um. Öffentlich zugängliche Marken-Domains bieten auch weiterhin die umfassendste Anleitung, wenn Sie Programme über Regionen oder Portfolios hinweg skalieren.
+
+## Frühere Versionshinweise
+
++++Hinweise aus 2026.04.16
 
 ### Kontextabhängige Empfehlungen in [!DNL Create]
 
@@ -68,7 +96,7 @@ Sie können Szenen zusammenstellen, sich auf die Hilfe der generativen KI verlas
 
 Sie können **DOM-basierte HTML5-Zip-Datei hochladen, um eine Anzeigevorlage zu entwickeln** in [!DNL Create], HTML5-Anzeigenvarianten zu erstellen und die Größe von Creative zu zusätzlichen Seitenverhältnissen zu ändern. Abgeschlossene Erlebnisse können für [Google Campaign Manager 360](/help/user-guide/activation/activate-cm360-ad.md) und [[!DNL Innovid]](/help/user-guide/activation/activate-innovid-ad.md) aktiviert werden.
 
-## Frühere Versionshinweise
++++
 
 +++Hinweise aus dem 15.03.2026
 

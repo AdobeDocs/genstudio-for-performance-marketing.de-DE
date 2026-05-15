@@ -1,6 +1,6 @@
 ---
 title: E-Mail-Ereignisse
-description: Informationen zu E-Mail-Erlebnissen in Adobe GenStudio for Performance Marketing.
+description: Erfahren Sie mehr über E-Mail-Erlebnisse in Adobe GenStudio for Performance Marketing, einschließlich des Arbeitsflächen-Verhaltens und des Austausches von Inhaltsfragmenten aus genehmigten Bibliotheken.
 feature: Create Canvas, Media Templates
 role: User
 level: Beginner
@@ -21,9 +21,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
+source-git-commit: 853b63dbc04410c09a0b44c05f3655c06e5dfbcb
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: 581
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 ## E-Mails mit mehreren Abschnitten
 
-E-Mail-Erlebnisse können mehrere Abschnitte enthalten, sodass sie vollständig an Ihre Marke und Ihre Ziele angepasst werden können. [Wählen  [!DNL Products]  für jeden Abschnitt visuelle Assets aus &#x200B;](/help/user-guide/create/create-email-experience.md#add-parameters) verwenden Sie [strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) um eindeutige Inhalte zu erstellen. Jeder Abschnitt unterstützt ein visuelles Asset.
+E-Mail-Erlebnisse können mehrere Abschnitte enthalten, sodass sie vollständig an Ihre Marke und Ihre Ziele angepasst werden können. [Auswählen [!DNL Products]  und visuelle Assets für jeden Abschnitt](/help/user-guide/create/create-email-experience.md#add-parameters) und verwenden Sie [strukturierte Aufforderungen](/help/user-guide/effective-prompts.md#structured-prompts), um eindeutige Inhalte zu erstellen. Jeder Abschnitt unterstützt ein visuelles Asset.
 
 Unter [Anpassen von Vorlagen mit Abschnitten](/help/user-guide/templates/customize-template.md#sections-or-groups) erfahren Sie, wie Sie eine Vorlage mit mehreren Abschnitten erstellen.
 
@@ -81,3 +81,30 @@ Jedes Feld und jeder Abschnitt von E-Mail-Erlebnissen wird schrittweise in diese
 Nachdem Sie einen Satz von E-Mail-Varianten erstellt haben, können Sie die für jeden Abschnitt angezeigte Zeichenzahl sehen. Bewegen Sie den Mauszeiger über einen generierten Abschnitt, z. B. die Betreffzeile oder den Hauptteil, oder klicken Sie darauf, und sehen Sie sich den Abschnittsnamen und die Zeichenanzahl für diesen Abschnitt an.
 
 ![Zeichenanzahl](/help/assets/character-count.png){width="500" zoomable="yes"}
+
+## Austausch von Inhaltsfragmenten {#content-fragment-swap}
+
+>[!NOTE]
+>
+>Der Austausch von Inhaltsfragmenten ist heute für E **Mail**-Erlebnisse auf der Arbeitsfläche verfügbar. **Horizon**-Channel-Support ist in Kürze verfügbar.
+
+E-Mail-Inhalte von Unternehmen benötigen häufig sowohl neu generierte Kopien als auch genehmigte Modulbausteine (z. B. Haftungsausschlüsse, Sicherheitssprache, Angebote und regulierte Ansprüche) sowie Inhalte, die Sie für Vorlagen gestalten. Teams, die modulare Inhalte in [!DNL Adobe Experience Manager], [!DNL Marketo Engage], [!DNL Adobe Journey Optimizer] und [!DNL Adobe Campaign] speichern, können diese Inhalte suchen und austauschen, um sie in E-Mail-Erlebnissen zu verwenden, ohne [!DNL GenStudio for Performance Marketing] verlassen zu müssen. Dies kann für Folgendes nützlich sein:
+
+* **Compliance-bewusster Inhalt:** KI kann kreative Slots füllen, während Compliance-genehmigte Fragmente injizierbare Slots ersetzen. Gesperrte rechtliche Bereiche bleiben durch den Export unverändert.
+* **Wiederverwendbare genehmigte Inhaltskomponenten:** genehmigten Überschriften, regionalen Haftungsausschlüssen oder Produktbeschreibungen können das Aufzeichnungssystem in [!DNL Adobe Experience Manager] bleiben, während Autoren sie ohne Umgehungslösungen durch Kopieren und Einfügen in Varianten abrufen.
+
+Ersteller stellen Erlebnisse auf der Arbeitsfläche zusammen; Marken- und Compliance-Teams halten Genehmigungs-Workflows in [!DNL Adobe Experience Manager]; IT- und Integrations-Teams verbinden Repositorys und Berechtigungen, die Ihr Unternehmen benötigt.
+
+![Austausch von Inhaltsfragmenten](./cf-swap.png){width="500" zoomable="yes"}
+
+Wenn Ihr Unternehmen den Austausch von Inhaltsfragmenten aktiviert, können Sie Folgendes erwarten:
+
+* Inhaltsfragmentfelder können aus einer verbundenen Inhaltsbibliothek gefüllt werden, anstatt nur manuell eingegeben oder die KI-Generierung durchgeführt zu werden.
+* Durchsuchen, Suchen und Filtern von Fragmenten mithilfe von Metadaten wie Kampagne, Persona, Kanal, Sprache und Marke.
+* Eine Repository-Auswahl ist verfügbar, wenn mehrere Repositorys konfiguriert sind.
+* Vorschau eines Fragments, bevor es Feldtext ersetzt.
+* Übertragen einer Fragmentauswahl auf alle Varianten in einer Aktion.
+
+![Bereich der Inhaltsfragmente-Benutzeroberfläche](./cf-pane.png){width="500" zoomable="yes"}
+
+Ihr Unternehmen wählt aus, welche Inhaltsfragmentquellen und Repositorys verfügbar sind. Unter [Inhaltsfragmenterweiterung suchen](/help/extensibility/deploy-app.md#find-content-fragment-extension) erfahren Sie, wie Admins Quellen konfigurieren und wie Autoren Kopien von der Arbeitsfläche mit **[!UICONTROL Swap)]**.
