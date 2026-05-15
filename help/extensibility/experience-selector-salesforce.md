@@ -17,7 +17,7 @@ Allgemeine Optionen zur MFE-Integration, Konfigurationseigenschaften und Framewo
 
 ## Funktionsweise dieser Integration
 
->[!VIDEO](https://video.tv.adobe.com/v/3491079?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491088?captions=ger&learn=on)
 
 Die Lightning-Web-Komponente (LWC) lädt `sfgsmfe` Adobe Experience Selector-UMD-Bundle und rendert es in einem `<dialog>`, damit Benutzer ein Erlebnis aus [!DNL GenStudio for Performance Marketing] auswählen können.
 
