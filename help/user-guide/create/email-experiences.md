@@ -21,9 +21,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 853b63dbc04410c09a0b44c05f3655c06e5dfbcb
+source-git-commit: e41ca23a135e2cacfcc029c04992bbff1b515bd6
 workflow-type: tm+mt
-source-wordcount: 581
+source-wordcount: 580
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Nachdem Sie einen Satz von E-Mail-Varianten erstellt haben, können Sie die für
 >
 >Der Austausch von Inhaltsfragmenten ist heute für E **Mail**-Erlebnisse auf der Arbeitsfläche verfügbar. **Horizon**-Channel-Support ist in Kürze verfügbar.
 
-E-Mail-Inhalte von Unternehmen benötigen häufig sowohl neu generierte Kopien als auch genehmigte Modulbausteine (z. B. Haftungsausschlüsse, Sicherheitssprache, Angebote und regulierte Ansprüche) sowie Inhalte, die Sie für Vorlagen gestalten. Teams, die modulare Inhalte in [!DNL Adobe Experience Manager], [!DNL Marketo Engage], [!DNL Adobe Journey Optimizer] und [!DNL Adobe Campaign] speichern, können diese Inhalte suchen und austauschen, um sie in E-Mail-Erlebnissen zu verwenden, ohne [!DNL GenStudio for Performance Marketing] verlassen zu müssen. Dies kann für Folgendes nützlich sein:
+E-Mail-Inhalte von Unternehmen benötigen häufig sowohl neu generierte Kopien als auch genehmigte Modulbausteine (z. B. Haftungsausschlüsse, Sicherheitssprache, Angebote und regulierte Ansprüche) sowie Inhalte, die Sie für Vorlagen gestalten. Teams, die modulare Inhalte in [!DNL Adobe Experience Manager] speichern, können diese Inhalte finden und austauschen, um sie in E-Mail-Erlebnissen zu verwenden, ohne [!DNL GenStudio for Performance Marketing] verlassen zu müssen. Dies kann für Folgendes nützlich sein:
 
 * **Compliance-bewusster Inhalt:** KI kann kreative Slots füllen, während Compliance-genehmigte Fragmente injizierbare Slots ersetzen. Gesperrte rechtliche Bereiche bleiben durch den Export unverändert.
 * **Wiederverwendbare genehmigte Inhaltskomponenten:** genehmigten Überschriften, regionalen Haftungsausschlüssen oder Produktbeschreibungen können das Aufzeichnungssystem in [!DNL Adobe Experience Manager] bleiben, während Autoren sie ohne Umgehungslösungen durch Kopieren und Einfügen in Varianten abrufen.
