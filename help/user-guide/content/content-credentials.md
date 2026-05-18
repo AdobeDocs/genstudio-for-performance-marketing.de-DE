@@ -20,7 +20,7 @@ topic_v2:
 source-git-commit: 7aed06dbb249cfc7e0f15d792563699e63b1a390
 workflow-type: tm+mt
 source-wordcount: 723
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -37,7 +37,7 @@ Erfahren Sie, wie manipulationssichere Anmeldeinformationen für Inhalte, die di
 >[!CONTEXTUALHELP]
 >id="gspm_content_credentials"
 >title="Content Credentials in [!DNL GenStudio for Performance Marketing]"
->abstract="Manipulationssichere Anmeldedaten für Inhalte, die die Markenauthentizität beweisen und die Compliance fördern, können direkt in Ihren Marketing-Workflow eingebettet werden."
+>abstract="Manipulationssichere Anmeldedaten für Inhalte, die die Markenauthentizität belegen und die Compliance fördern, können direkt in Ihren Marketing-Workflow eingebettet werden."
 
 Nachdem Content Credentials in der Admin Console aktiviert wurde, können GenStudio for Performance Marketing-Benutzende Content Credentials für alle Assets global in der App aktivieren. Wenn die globale Option zum Anwenden von Anmeldeinformationen deaktiviert ist, können Benutzerinnen und Benutzer Content Credentials für jedes einzelne Asset anwenden.
 
