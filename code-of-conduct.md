@@ -1,11 +1,11 @@
 ---
 source-git-commit: c9672d8899b54c7998e9cb8b64fe1834339f8010
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 17%
+source-wordcount: '443'
+ht-degree: 16%
 
 ---
-# Adobe-Verhaltenskodex
+# Verhaltenskodex von Adobe
 
 ## Unser Versprechen
 
@@ -21,17 +21,17 @@ Ausrichtung.
 Beispiele für Verhaltensweisen, die zu einer positiven Umgebung beitragen
 Einschließen:
 
-* Freundliche und inklusive Ausdrucksweise
-* Respektvoll gegenüber unterschiedlichen Ansichten und Erfahrungen
-* Dankbare Annahme konstruktiver Kritik
-* Fokus auf das, was für die Community am besten ist
-* Emphatisches Verhalten gegenüber anderen Community-Mitgliedern
+* Verwenden freundlicher und inklusiver Sprache
+* Respektieren unterschiedlicher Ansichten und Erlebnisse
+* Akzeptieren konstruktiver Kritik
+* Fokussieren auf das, was für die Community am besten ist
+* Zeigen von Empathie gegenüber anderen Mitgliedern der Community
 
 Beispiele für inakzeptables Verhalten von Teilnehmern:
 
 * Verwendung sexualisierter Sprache oder Symbolik und unerwünschte sexuelle Annäherung oder
 Vorschüsse
-* Trollen, beleidigende/herabwürdigende Äußerungen und persönliche oder politische Angriffe
+* Trollen, beleidigende/abwertende Äußerungen und persönliche oder politische Angriffe
 * Öffentliche oder private Belästigung
 * Veröffentlichen von privaten Informationen anderer Personen, z. B. physische oder elektronische
 Adresse, ohne ausdrückliche Genehmigung
@@ -66,7 +66,7 @@ Meldung durch Kontaktaufnahme mit dem Projektteam unter Grp-opensourceoffice@ado
 Beschwerden werden geprüft und untersucht und führen zu einer Antwort, die
 für notwendig und den Umständen angemessen erachtet wird. Das Projektteam ist
 verpflichtet, die Vertraulichkeit des Melders eines Vorfalls zu wahren.
-Weitere Einzelheiten zu spezifischen Durchsetzungsmaßnahmen können auch gesondert angegeben werden.
+Weitere Details zu bestimmten Durchsetzungsrichtlinien können separat veröffentlicht werden.
 
 Projektverantwortliche, die den Verhaltenskodex nicht ordnungsgemäß befolgen oder durchsetzen
 Glaube kann mit vorübergehenden oder dauerhaften Auswirkungen konfrontiert sein, wie durch andere
@@ -75,4 +75,4 @@ Mitglieder der Projektleitung.
 ## Attribution
 
 Dieser Verhaltenskodex wurde basierend auf dem [Contributor Covenant](https://contributor-covenant.org), Version 1.4,
-Verfügbar unter [https://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/de/version/1/4/code-of-conduct.html)
+Verfügbar unter [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
