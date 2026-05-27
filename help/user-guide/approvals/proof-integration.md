@@ -4,31 +4,26 @@ description: Integration von Workfront Proof mit Adobe GenStudio for Performance
 feature: Content Review, Content Management
 exl-id: 149db773-4787-4cfb-b29e-c49f13abf39a
 TQID: https://experienceleague.adobe.com/G9e9Ft0l9OmSX1lCJY8syzP2-pIswt0MkCpOYlox-Zk
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 910
+source-wordcount: 911
 ht-degree: 1%
 
 ---
 
 # Integration von Workfront Proof mit GenStudio for Performance Marketing
 
-Die Integration mit Workfront Proof verbessert den Überprüfungs- und Genehmigungs-Lebenszyklus von GenStudio for Performance Marketing mit erweiterten Funktionen, einschließlich Genehmigungsvorlagen, mehrstufigen Workflows und der Möglichkeit, Korrekturabzugsversionen [&#x200B; vergleichen](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). Diese strukturierte Versionierung gewährleistet Transparenz, Verantwortlichkeit und optimierte Zusammenarbeit während des gesamten Lebenszyklus der Inhaltsüberprüfung.
+Die Integration mit Workfront Proof verbessert den Überprüfungs- und Genehmigungs-Lebenszyklus von GenStudio for Performance Marketing mit erweiterten Funktionen, einschließlich Genehmigungsvorlagen, mehrstufigen Workflows und der Möglichkeit, Korrekturabzugsversionen [ vergleichen](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). Diese strukturierte Versionierung gewährleistet Transparenz, Verantwortlichkeit und optimierte Zusammenarbeit während des gesamten Lebenszyklus der Inhaltsüberprüfung.
 
 >[!BEGINSHADEBOX]
 
 **Voraussetzungen**:
 
-Installieren Sie die Erweiterung [Adobe Workfront Web Viewer](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
+Installieren Sie die Erweiterung [Adobe Workfront Web Viewer](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
 
 >[!ENDSHADEBOX]
 
@@ -48,14 +43,14 @@ In der folgenden Tabelle werden die standardmäßigen Überprüfungs- und Genehm
 
 | Funktion        | GenStudio for Performance Marketing                                                                 | Workfront-Korrekturabzug                                                                 |
 |-------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Lebenszyklus von Entwürfen/Korrekturabzügen**        | Der Entwurfsinhalt läuft mit der Veröffentlichung ab. | Mehrstufige, rollenbasierte Genehmigungsketten mit zeitgestempelten, persistenten Protokollen.<br> Alle Versionen werden auf unbestimmte Zeit beibehalten. |
+| **Lebenszyklus von Entwürfen/Korrekturabzügen**        | Der Entwurfsinhalt läuft mit der Veröffentlichung ab. | Mehrstufige, rollenbasierte Genehmigungsketten mit zeitgestempelten, persistenten Protokollen.<br> Alle Versionen werden auf unbestimmte Zeit beibehalten. |
 | **Kommentare**                | Kommentare sind mit einer Entwurfs-ID verknüpft und werden nach der Veröffentlichung verworfen.                                           | Persistente Kommentare und Anmerkungen werden zur Prüfung und Compliance beibehalten.     |
-| **Versionen**           | Entwürfe werden als eindeutige Instanzen behandelt<br>kein paralleler Vergleich.                                      | Vollständige Versionskontrolle mit Side-by-Side- und Overlay-Vergleichstools.        |
+| **Versionen**           | Entwürfe werden als eindeutige Instanzen behandelt.<br>Kein Seitenvergleich.                                      | Vollständige Versionskontrolle mit Side-by-Side- und Overlay-Vergleichstools.        |
 | **Projektmanagement** | Grundlegende Kampagnenverwaltung. | Umfassendes Kampagnen-Lifecycle-Management, einschließlich Anpassung, Vorlagen, Reporting und detaillierter Audits. |
 
 ### Lizenzen und Benutzerrollen
 
-Lizenzen identifizieren die Gruppe von Benutzerberechtigungen innerhalb eines Produkts. Workfront Proof bietet mehr Lizenztypen oder Benutzerrollen als GenStudio for Performance Marketing. [Übersicht über Korrekturabzugsrollen](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) Einführung in Benutzerrollen, die mit dem Workfront Proof-Workflow für Überprüfung und Genehmigung verknüpft sind.
+Lizenzen identifizieren die Gruppe von Benutzerberechtigungen innerhalb eines Produkts. Workfront Proof bietet mehr Lizenztypen oder Benutzerrollen als GenStudio for Performance Marketing. [Übersicht über Korrekturabzugsrollen](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) führt Benutzerrollen ein, die mit dem Workfront Proof-Workflow für Überprüfung und Genehmigung verknüpft sind.
 
 | GenStudio for Performance Marketing-Lizenz       | Workfront-Lizenz                 | Beschreibung                                                                                                                                                      |
 |---------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,7 +62,7 @@ Adobe-Systemadministratoren verwalten die Benutzerbereitstellung und Berechtigun
 
 >[!NOTE]
 >
->Workfront Proof bietet [zusätzliche Benutzerrollen](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles). Nicht alle Rollen sind innerhalb von Performance Marketing sichtbar. Das System berücksichtigt jedoch alle Rollen, die in einer Workfront Proof-Vorlage festgelegt sind.
+Workfront Proof bietet [zusätzliche Benutzerrollen](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles). Nicht alle Rollen sind innerhalb von Performance Marketing sichtbar. Das System berücksichtigt jedoch alle Rollen, die in einer Workfront Proof-Vorlage festgelegt sind.
 
 ### Entwürfe und Testsendungen
 
@@ -89,9 +84,9 @@ Genehmigungsvorlagen unterstützen mehrstufige Genehmigungen, die die Koordinier
 
 Reviewer können direkt auf bestimmte Bereiche des Testversands klicken, um präzise, kontextuelle Kommentare zu hinterlassen. Alle Kommentare erhalten einen Zeitstempel und werden als Teil des Versionsverlaufs des Korrekturabzugs gespeichert. Der Kommentarverlauf ist in GenStudio for Performance Marketing nicht verfügbar.
 
-Sie können [zwei Versionen eines Korrekturabzugs vergleichen](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) um Prüfungskommentare und -inhalte auszuwerten.
+Sie können [zwei Versionen eines Korrekturabzugs vergleichen](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) um Prüfungskommentare und -inhalte auszuwerten.
 
 ## Benachrichtigungen und Erinnerungen
 
 Prüfende und genehmigende Personen erhalten E-Mail-Benachrichtigungen, wenn ein neuer Korrekturabzug zur Überprüfung verfügbar ist oder wenn sich der Status einer laufenden Überprüfung geändert hat.
-[Korrekturabzugs-Benachrichtigungen und &#x200B;](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders) enthalten einen personalisierten Link zum Korrekturabzug, Details zum Korrekturabzug und seinem Fortschritt während des Genehmigungsprozesses sowie Versionsinformationen.
+[Korrekturabzugsbenachrichtigungen und -](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders): enthalten einen personalisierten Link zum Korrekturabzug, Details zum Korrekturabzug und seinem Fortschritt während des Genehmigungsprozesses sowie Versionsinformationen.
