@@ -6,11 +6,19 @@ role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
 TQID: https://experienceleague.adobe.com/fiKHSZ-YFZ2gSD5iZ-aKaZtsC49Mrj1dqHpHqtbXZVM
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 3322f783cd49ddcb897942e5e91590d53b554bdd
 workflow-type: tm+mt
 source-wordcount: 1347
@@ -29,12 +37,12 @@ Beachten Sie bei der Verwendung von Vorlagen mit GenStudio for Performance Marke
 1. Design mit [Barrierefreiheitsstandards](accessibility-for-templates.md) für ein optimales Erlebnis
 1. Befolgen [kanalspezifischen Vorlagenrichtlinien](#follow-channel-specific-template-guidelines)
 1. Beachten Sie bei der Verwendung [Express](/help/user-guide/templates/express-templates.md)Vorlagen“ die spezifischen Tipps unter [Best Practices für Express-zu-GenStudio-Vorlagen](#express-to-genstudio-template-best-practices).
->>
-Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Außerdem erhalten Sie detaillierte [ zum Anpassen einer Vorlage ](customize-template.md) spezifische Anweisungen zur Verwendung in Ihrer nächsten Kampagne.
+&#x200B;>>
+Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und Verfahren in [Arbeiten mit Vorlagen](use-templates.md). Außerdem erhalten Sie detaillierte [&#x200B; zum Anpassen einer Vorlage &#x200B;](customize-template.md) spezifische Anweisungen zur Verwendung in Ihrer nächsten Kampagne.
 
 ## Verwenden der richtigen Vorlagenelemente
 
-Jeder Vorlagentyp verwendet verschiedene Elemente, um eine Struktur für die kanalspezifische Inhaltserstellung zu erstellen. [Machen Sie sich mit den Teilen einer Vorlage vertraut ](use-templates.md#template-elements) fügen Sie die besten Elemente für Ihren Inhalt und Vorlagentyp hinzu.
+Jeder Vorlagentyp verwendet verschiedene Elemente, um eine Struktur für die kanalspezifische Inhaltserstellung zu erstellen. [Machen Sie sich mit den Teilen einer Vorlage vertraut &#x200B;](use-templates.md#template-elements) fügen Sie die besten Elemente für Ihren Inhalt und Vorlagentyp hinzu.
 
 Verwenden Sie beim Anpassen Ihrer Vorlage die Feldnamen anstelle dieser Elemente, bei denen GenStudio for Performance Marketing Inhalte generieren muss.
 
