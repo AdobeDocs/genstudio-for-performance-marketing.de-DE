@@ -84,7 +84,7 @@ Um Benutzenden die Berechtigung zum Erstellen, Bearbeiten und Veröffentlichen v
 
 **So fügen Sie Benutzer zur Benutzergruppe hinzu**:
 
-1. Admin Console Navigieren Sie in der __ zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzergruppen]**.
+1. Navigieren Sie in der __ zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzergruppen]**.
 
 1. Wählen Sie den Namen der zuvor erstellten Benutzergruppe aus. Das _Benutzer zu dieser Benutzergruppe hinzufügen_-Popup wird geöffnet.
 

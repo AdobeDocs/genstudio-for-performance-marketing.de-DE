@@ -21,7 +21,7 @@ Durch die Verteilung des Add-ons kann es von Ihrem Unternehmen und anderen verwe
 
 In diesem Thema wird die private Verteilung beschrieben. Private Distribution beschränkt die Bereitstellung des Add-ons auf die Organisation, die durch die IMS-Organisation identifiziert wird, für die es entwickelt wurde.
 
-Öffentliche Verteilung stellt das Add-on als App auf der Adobe Exchange zur Verfügung. [Öffentliche Verteilung](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) In der Entwicklerdokumentation zu _App Builder_ wird beschrieben, wie Sie Ihre App für jede Adobe-Organisation verfügbar machen.
+Öffentliche Verteilung stellt das Add-on als App auf der Adobe Exchange zur Verfügung. [Öffentliche Verteilung](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) wird in der Entwicklerdokumentation zu _App Builder_ beschrieben, wie Sie Ihre App für jede Adobe-Organisation verfügbar machen.
 
 >[!BEGINSHADEBOX]
 

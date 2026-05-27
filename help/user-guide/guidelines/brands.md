@@ -22,7 +22,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
-source-wordcount: 1525
+source-wordcount: 1526
 ht-degree: 2%
 
 ---
@@ -65,10 +65,10 @@ Die folgende Tabelle zeigt die einzelnen Kategorien von Richtlinien und Richtlin
 
 | Richtlinienkategorie | Beschreibung | Best Practices |
 | ------------------| :---------- | :---------- |
-| [!UICONTROL Ton der Stimme] | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_ „echt“, „verspielt“<br><br>Präzise sein (3-6 Richtlinien) und sich auf wichtige Markensprachattribute konzentrieren.<br><br>Wählen Sie Wörter/Sätze aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
-| [!UICONTROL Markenwerte] | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_ „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
-| [!UICONTROL Redaktionelle Leitlinien] | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiele_ „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_ „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie einen <br><br>„Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
-| [!UICONTROL Redaktionelle Einschränkungen] | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von …“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
+| [!UICONTROL Ton der Stimme] | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_: „echt“, „verspielt“<br><br>Präzise (3-6 Richtlinien) und Fokus auf wichtige Markensprachattribute.<br><br>Wählen Sie Wörter/Ausdrücke aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
+| [!UICONTROL Markenwerte] | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_: „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
+| [!UICONTROL Redaktionelle Leitlinien] | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiele_: „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein“<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_: „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie den Satzfall“<br><br> Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
+| [!UICONTROL Redaktionelle Einschränkungen] | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von…“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
 
 ### Bildrichtlinien
 

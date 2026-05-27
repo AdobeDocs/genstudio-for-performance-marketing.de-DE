@@ -230,7 +230,7 @@ Rich-Text-Bearbeitung kann für bestimmte Felder innerhalb bestimmter Kanäle ve
 
 ## Abschnitte oder Gruppen
 
-Wenn für Ihre E-Mail-Vorlage mehrere Inhaltsbereiche erforderlich sind, z. B. mehrere Angebote oder Geschichten, können Sie diese mithilfe von Abschnitten oder Gruppen organisieren. _Abschnitte_ Informieren Sie GenStudio for Performance Marketing darüber, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
+Wenn für Ihre E-Mail-Vorlage mehrere Inhaltsbereiche erforderlich sind, z. B. mehrere Angebote oder Geschichten, können Sie diese mithilfe von Abschnitten oder Gruppen organisieren. _Abschnitte_ informieren GenStudio for Performance Marketing, dass die Felder in diesem Abschnitt ein hohes Maß an Kohärenz erfordern. Durch Festlegen dieser Beziehung kann die KI Inhalte generieren, die den kreativen Elementen im Abschnitt entsprechen.
 
 Verwenden Sie einen Gruppennamen Ihrer Wahl als Präfix, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Verwenden Sie einen Feldnamen (z. B. `headline`, `body`, `image` oder `cta`) nach dem Unterstrich (`_`).
 

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 # LinkedIn-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI nutzen, um effizient [leistungsstarke LinkedIn-Erlebnisse zu erstellen](/help/user-guide/create/create-linkedin.md). [!DNL Create] ermöglicht es Erstellern und Marketern von Inhalten[&#x200B; „Richtlinien](/help/user-guide/guidelines/overview.md), Bild-Assets und eine [&#x200B; Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, [markenkonforme LinkedIn-Erlebnisse zu generieren](/help/user-guide/create/create-email-experience.md).
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI nutzen, um effizient [leistungsstarke LinkedIn-Erlebnisse zu erstellen](/help/user-guide/create/create-linkedin.md). [!DNL Create] können Ersteller und Marketing-Experten von Inhalten [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [anweisende Eingabeaufforderung](/help/user-guide/effective-prompts.md) verwenden, um [markenkonforme LinkedIn-Erlebnisse zu generieren](/help/user-guide/create/create-email-experience.md).
 
 Beim Generieren von LinkedIn-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
