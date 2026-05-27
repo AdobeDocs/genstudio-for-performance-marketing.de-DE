@@ -33,7 +33,7 @@ ht-degree: 10%
 
 # Benutzerrollen und -berechtigungen
 
-Das Erstellen und Bereitstellen moderner Marketing-Kampagnen erfordert die Zusammenarbeit von Stakeholdern mit unterschiedlichen Zuständigkeiten und Fähigkeiten. _Benutzerrollen:_ den Zugriff von Stakeholdern auf die vielen Funktionen von GenStudio for Performance Marketing. Die zugewiesene Benutzerrolle bestimmt die Aufgaben, die Sie auf dieser Plattform ausführen können. Ein Adobe-Systemadministrator weist Ihnen eine Rolle im GenStudio-Produktprofil in der Adobe Admin Console zu. Ihre Begrüßungs-E-Mail identifiziert Ihre zugewiesene Rolle.
+Das Erstellen und Bereitstellen moderner Marketing-Kampagnen erfordert die Zusammenarbeit von Stakeholdern mit unterschiedlichen Zuständigkeiten und Fähigkeiten. _Benutzerrollen_ steuern den Zugriff der Stakeholder auf die vielen Funktionen von GenStudio for Performance Marketing. Die zugewiesene Benutzerrolle bestimmt die Aufgaben, die Sie auf dieser Plattform ausführen können. Ein Adobe-Systemadministrator weist Ihnen eine Rolle im GenStudio-Produktprofil in der Adobe Admin Console zu. Ihre Begrüßungs-E-Mail identifiziert Ihre zugewiesene Rolle.
 
 >[!NOTE]
 >

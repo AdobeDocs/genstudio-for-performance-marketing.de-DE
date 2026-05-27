@@ -51,7 +51,7 @@ GenStudio-Systemmanager und GenStudio-Bearbeiter können Kampagnen erstellen.
 
 1. Doppelklicken Sie auf die Kopfzeile _Neue Kampagne_ und geben Sie einen aussagekräftigen, eindeutigen Namen ein.
 
-   GenStudio for Performance Marketing Dieser Name wird in _zu einer_-Bezeichnung, mit der Sie Assets oder Erlebnisse während des Hochladens und der Erstellung mit der Kampagne verknüpfen können.
+   Dieser Name wird in _zu einer_-Bezeichnung, mit der Sie Assets oder Erlebnisse während des Hochladens und der Erstellung mit der Kampagne verknüpfen können.
 
 1. Geben Sie Werte in die Felder _Details_ ein, die Ihre Kampagne beschreiben. Definitionen _Kampagnenfunktionen finden Sie in der_ Kampagnendetails“.
 

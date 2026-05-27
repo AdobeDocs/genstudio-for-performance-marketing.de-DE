@@ -15,7 +15,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 910
+source-wordcount: 911
 ht-degree: 1%
 
 ---
@@ -48,14 +48,14 @@ In der folgenden Tabelle werden die standardmäßigen Überprüfungs- und Genehm
 
 | Funktion        | GenStudio for Performance Marketing                                                                 | Workfront-Korrekturabzug                                                                 |
 |-------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Lebenszyklus von Entwürfen/Korrekturabzügen**        | Der Entwurfsinhalt läuft mit der Veröffentlichung ab. | Mehrstufige, rollenbasierte Genehmigungsketten mit zeitgestempelten, persistenten Protokollen.<br> Alle Versionen werden auf unbestimmte Zeit beibehalten. |
+| **Lebenszyklus von Entwürfen/Korrekturabzügen**        | Der Entwurfsinhalt läuft mit der Veröffentlichung ab. | Mehrstufige, rollenbasierte Genehmigungsketten mit zeitgestempelten, persistenten Protokollen.<br> Alle Versionen werden auf unbestimmte Zeit beibehalten. |
 | **Kommentare**                | Kommentare sind mit einer Entwurfs-ID verknüpft und werden nach der Veröffentlichung verworfen.                                           | Persistente Kommentare und Anmerkungen werden zur Prüfung und Compliance beibehalten.     |
-| **Versionen**           | Entwürfe werden als eindeutige Instanzen behandelt<br>kein paralleler Vergleich.                                      | Vollständige Versionskontrolle mit Side-by-Side- und Overlay-Vergleichstools.        |
+| **Versionen**           | Entwürfe werden als eindeutige Instanzen behandelt.<br>Kein Seitenvergleich.                                      | Vollständige Versionskontrolle mit Side-by-Side- und Overlay-Vergleichstools.        |
 | **Projektmanagement** | Grundlegende Kampagnenverwaltung. | Umfassendes Kampagnen-Lifecycle-Management, einschließlich Anpassung, Vorlagen, Reporting und detaillierter Audits. |
 
 ### Lizenzen und Benutzerrollen
 
-Lizenzen identifizieren die Gruppe von Benutzerberechtigungen innerhalb eines Produkts. Workfront Proof bietet mehr Lizenztypen oder Benutzerrollen als GenStudio for Performance Marketing. [Übersicht über Korrekturabzugsrollen](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) Einführung in Benutzerrollen, die mit dem Workfront Proof-Workflow für Überprüfung und Genehmigung verknüpft sind.
+Lizenzen identifizieren die Gruppe von Benutzerberechtigungen innerhalb eines Produkts. Workfront Proof bietet mehr Lizenztypen oder Benutzerrollen als GenStudio for Performance Marketing. [Übersicht über Korrekturabzugsrollen](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) führt Benutzerrollen ein, die mit dem Workfront Proof-Workflow für Überprüfung und Genehmigung verknüpft sind.
 
 | GenStudio for Performance Marketing-Lizenz       | Workfront-Lizenz                 | Beschreibung                                                                                                                                                      |
 |---------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -94,4 +94,4 @@ Sie können [zwei Versionen eines Korrekturabzugs vergleichen](https://experienc
 ## Benachrichtigungen und Erinnerungen
 
 Prüfende und genehmigende Personen erhalten E-Mail-Benachrichtigungen, wenn ein neuer Korrekturabzug zur Überprüfung verfügbar ist oder wenn sich der Status einer laufenden Überprüfung geändert hat.
-[Korrekturabzugs-Benachrichtigungen und &#x200B;](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders) enthalten einen personalisierten Link zum Korrekturabzug, Details zum Korrekturabzug und seinem Fortschritt während des Genehmigungsprozesses sowie Versionsinformationen.
+[Korrekturabzugsbenachrichtigungen und -](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders): enthalten einen personalisierten Link zum Korrekturabzug, Details zum Korrekturabzug und seinem Fortschritt während des Genehmigungsprozesses sowie Versionsinformationen.
