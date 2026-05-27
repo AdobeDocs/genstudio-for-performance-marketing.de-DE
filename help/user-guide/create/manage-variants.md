@@ -4,24 +4,11 @@ description: Passen Sie die generierten Varianten und Assets an Ihre Anforderung
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
 TQID: https://experienceleague.adobe.com/2VdZdQv90JGEpCM7BE4egbz933eotbeePy3ze35mM0o
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a8b28c00-da6e-4d27-8667-80f790ad8972
-  - id: be495d08-ecd1-455f-951e-c22de504e667
-  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
-  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a8b28c00-da6e-4d27-8667-80f790ad8972id: be495d08-ecd1-455f-951e-c22de504e667id: de1f9646-abd3-4e21-9de2-df62ce55c8dcid: dee4e9a9-78d1-4953-8179-f8da6117027did: f54ee13b-9545-4d68-9842-a12026e60aaf
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 2125
@@ -109,7 +96,7 @@ Nachdem Sie einen Variantensatz generiert haben, können Sie den Text und den Li
 
 >[!NOTE]
 >
->Sie können CTA-Beschriftungstext mithilfe der Option _[!UICONTROL Umformulieren]_ bearbeiten, wenn der Beschriftungstext ein generiertes Vorlagenfeld ist (in der Vorlage nicht hartcodiert). Sie können einen CTA-Link mit der Option _[!UICONTROL Link bearbeiten]_ bearbeiten, wenn der Link vorhanden und bearbeitbar ist (in der Vorlage nicht hartcodiert).
+Sie können CTA-Beschriftungstext mithilfe der Option _[!UICONTROL Umformulieren]_ bearbeiten, wenn der Beschriftungstext ein generiertes Vorlagenfeld ist (in der Vorlage nicht hartcodiert). Sie können einen CTA-Link mit der Option _[!UICONTROL Link bearbeiten]_ bearbeiten, wenn der Link vorhanden und bearbeitbar ist (in der Vorlage nicht hartcodiert).
 
 **So überarbeiten Sie die CTA in einer Variante**:
 
@@ -185,7 +172,7 @@ Sie können das [Seitenverhältnis von Meta-Anzeigen“ schnell ändern](/help/u
 
 >[!NOTE]
 >
->Je nach verfügbaren Vorlagen können unterschiedliche Seitenverhältnisse und Größen verfügbar sein.
+Je nach verfügbaren Vorlagen können unterschiedliche Seitenverhältnisse und Größen verfügbar sein.
 
 **So ändern Sie das Seitenverhältnis generierter Meta-Anzeigen**:
 
@@ -215,7 +202,7 @@ Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzuf
 1. Klicken Sie auf **[!UICONTROL Symbol]** Inhalt austauschen“.
 1. Verwenden Sie die Filter- und Suchfunktion in der [!DNL Content] von GenStudio Assets, um Ihre Suchergebnisse weiter einzugrenzen.
 
-   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort &#x200B;]**&#x200B;auswählen](/help/user-guide/content/manage-assets.md#location).
+   Sie können auch Bilder verwenden, die in verbundenen Adobe Experience Manager (AEM) Assets Content Hub-Repositorys verfügbar sind, indem Sie dieses Repository aus dem Menü [**[!UICONTROL Speicherort ]**auswählen](/help/user-guide/content/manage-assets.md#location).
 
 1. Klicken Sie, um ein Bild auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -240,7 +227,7 @@ Sie können in Ihren Varianten einen Link zu Text, Bildern und CTA-Schaltfläche
 
 Wenn Sie während des Erstellungsprozesses Inhalte (Bilder) hinzufügen, können Sie Alt-Text für jedes Bild definieren. Das Hinzufügen von Alternativtext zu Bildern verbessert die Barrierefreiheit, die Suchmaschinenoptimierung und das Benutzererlebnis.
 
-Um die ALT-Text-Funktion zu aktivieren[&#x200B; fügen Sie in &#x200B;](/help/user-guide/templates/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
+Um die ALT-Text-Funktion zu aktivieren[ fügen Sie in ](/help/user-guide/templates/customize-template.md#alternative-text) Vorlage einen Platzhalter für Inhalte hinzu.
 
 **So fügen Sie Bildern in generierten Varianten Alternativtext hinzu**:
 
@@ -266,7 +253,7 @@ Geben Sie einen barrierefreien Namen für Bild- und call-to-action-Links in Ihre
 1. Klicken Sie in das Textfeld und fügen Sie eine kurze Beschreibung hinzu, die erklärt, was der Link oder die Schaltfläche bewirkt. Sie können beispielsweise „Auf der offiziellen WKND-Website einkaufen“ für einen call to action-Button-Link verwenden.
 1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
 
-Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [&#x200B; Sie in der Vorlage &#x200B;](/help/user-guide/templates/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
+Um die Funktion für Barrierefreiheitsbeschriftungen zu aktivieren, [ Sie in der Vorlage ](/help/user-guide/templates/customize-template.md)einen Platzhalter für Inhalte hinzufügen“.
 
 ## Vorschau für Gerät
 

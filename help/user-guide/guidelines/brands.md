@@ -4,25 +4,14 @@ description: GenStudio for Performance Marketing  [!DNL Brands]  eine umfassende
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 TQID: https://experienceleague.adobe.com/mZ70azBCwP8KshE6iX7hwGvEWawBkU36aDejZbAkRAY
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
-  - id: fee2c7a9-112e-463c-b451-44aaecaa6966
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: f54ee13b-9545-4d68-9842-a12026e60aafid: fee2c7a9-112e-463c-b451-44aaecaa6966
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
-source-wordcount: 1525
+source-wordcount: 1526
 ht-degree: 2%
 
 ---
@@ -35,7 +24,7 @@ GenStudio for Performance Marketing nutzt die Fülle an Markendaten aus Ihrer [!
 
 ## Verwalten von Marken
 
-Nachdem Sie Markenrichtlinien zu GenStudio for Performance Marketing hinzugefügt haben, können [&#x200B; sie &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands) (verwalten[&#x200B; veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung stehen sie Ihrem Team zur Asset-Generierung zur Verfügung.
+Nachdem Sie Markenrichtlinien zu GenStudio for Performance Marketing hinzugefügt haben, können [ sie ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) (verwalten[ veröffentlichen](/help/user-guide/guidelines/add-guidelines.md#publish-brand). Durch die Veröffentlichung stehen sie Ihrem Team zur Asset-Generierung zur Verfügung.
 
 [!DNL Brands] können sich entweder im Status _Unveröffentlicht_ oder _Veröffentlicht_ befinden. Neuer [!DNL Brands] als _Unveröffentlicht_.
 
@@ -65,14 +54,14 @@ Die folgende Tabelle zeigt die einzelnen Kategorien von Richtlinien und Richtlin
 
 | Richtlinienkategorie | Beschreibung | Best Practices |
 | ------------------| :---------- | :---------- |
-| [!UICONTROL Ton der Stimme] | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_ „echt“, „verspielt“<br><br>Präzise sein (3-6 Richtlinien) und sich auf wichtige Markensprachattribute konzentrieren.<br><br>Wählen Sie Wörter/Sätze aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
-| [!UICONTROL Markenwerte] | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_ „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
-| [!UICONTROL Redaktionelle Leitlinien] | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiele_ „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_ „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie einen <br><br>„Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
-| [!UICONTROL Redaktionelle Einschränkungen] | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von …“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
+| [!UICONTROL Ton der Stimme] | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_: „echt“, „verspielt“<br><br>Präzise (3-6 Richtlinien) und Fokus auf wichtige Markensprachattribute.<br><br>Wählen Sie Wörter/Ausdrücke aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
+| [!UICONTROL Markenwerte] | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_: „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
+| [!UICONTROL Redaktionelle Leitlinien] | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiele_: „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein“<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_: „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie den Satzfall“<br><br> Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
+| [!UICONTROL Redaktionelle Einschränkungen] | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von…“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
 
 ### Bildrichtlinien
 
-Die folgende Tabelle zeigt die einzelnen Kategorien von Bildrichtlinien und die zugehörigen Werte. Sie müssen [Kategorie“ &#x200B;](add-guidelines.md#add-brands), z. B. „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“, um die Bildrichtlinien anzuwenden.
+Die folgende Tabelle zeigt die einzelnen Kategorien von Bildrichtlinien und die zugehörigen Werte. Sie müssen [Kategorie“ ](add-guidelines.md#add-brands), z. B. „Allgemeine Kunstrichtlinien“ oder „Produktfotografie“, um die Bildrichtlinien anzuwenden.
 
 | Richtlinienkategorie | Beschreibung | Werte |
 | ------------------| :---------- | :---------- |
@@ -168,7 +157,7 @@ Jedes hochgeladene Logo enthält die folgenden Details in der Logo-Kachel:
 - Dateigröße
 - Auflösung
 
-Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [&#x200B; einzelne Logo anzeigen und &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
+Über das Aktionsmenü (drei Punkte) für ein Logo können Sie [ einzelne Logo anzeigen und ](/help/user-guide/guidelines/add-guidelines.md#manage-brands):
 
 - **[!UICONTROL Details anzeigen]**
 - **[!UICONTROL Download]**

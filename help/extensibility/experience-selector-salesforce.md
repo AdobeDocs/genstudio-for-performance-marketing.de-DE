@@ -17,7 +17,7 @@ Allgemeine Optionen zur MFE-Integration, Konfigurationseigenschaften und Framewo
 
 ## Funktionsweise dieser Integration
 
->[!VIDEO](https://video.tv.adobe.com/v/3491088?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491079?learn=on)
 
 Die Lightning-Web-Komponente (LWC) lädt `sfgsmfe` Adobe Experience Selector-UMD-Bundle und rendert es in einem `<dialog>`, damit Benutzer ein Erlebnis aus [!DNL GenStudio for Performance Marketing] auswählen können.
 
@@ -38,7 +38,7 @@ Das Erlebnisselektorskript für [!DNL GenStudio for Performance Marketing] wird 
   ```
 
 * **Berechtigungen:** Benutzer, die E-Mail-Vorlagen erstellen, benötigen Zugriff auf den E-Mail-Zielvorlagenordner und Rechte zum Erstellen von Vorlagen entsprechend Ihren Organisationsrichtlinien. Apex wird `with sharing` ausgeführt.
-* **Adobe/GenStudio:** Ihre Adobe IMS-Organisations-ID und SUSI-`clientId` müssen mit Ihrer Adobe-Konfiguration übereinstimmen (siehe &quot;[&#x200B; konfigurieren](#configure-integration-values-developer--implementation)).
+* **Adobe/GenStudio:** Ihre Adobe IMS-Organisations-ID und SUSI-`clientId` müssen mit Ihrer Adobe-Konfiguration übereinstimmen (siehe &quot;[ konfigurieren](#configure-integration-values-developer--implementation)).
 * **Browser/CSP:** Salesforce muss das Laden von Skripten aus `https://experience.adobe.com` zulassen (siehe [Konfigurieren einer Inhaltssicherheitsrichtlinie und einer Adobe-URL](#configure-content-security-policy-and-adobe-url)).
 
 ## Bereitstellen des Pakets (Entwickler)
