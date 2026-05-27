@@ -23,8 +23,8 @@ topic_v2:
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 360
-ht-degree: 0%
+source-wordcount: 361
+ht-degree: 1%
 
 ---
 
@@ -56,4 +56,4 @@ Die folgende Tabelle zeigt die einzelnen Kategorien [!DNL Personas] Richtlinien 
 | ------------------| :---------- |-------------|
 | Personenname | Stellt ein bestimmtes Zielgruppensegment dar, für das generierte Marketing-Materialien zugeschnitten sind | Klare und knappe Personenname hinzufügen.<br><br>_Beispiele_: „CMOs of Retail“, „Angehende Pflegeschüler“, „New Savings Act Clients“ |
 | Beschreibung | Kurze Zusammenfassung zur Definition der wichtigsten Merkmale, Bedürfnisse und Verhaltensweisen | Präzise Sprache verwenden, um die Rolle und die eindeutige Segmentierung der Zielgruppe klar zu beschreiben (1-2 Sätze).<br><br>Konzentrieren Sie sich darauf, was dieses Zielgruppensegment antreibt (Bedürfnisse, Kernmerkmale usw.)<br><br>Halten Sie die Beschreibung kurz und vermeiden Sie tiefe demografische Daten oder zusätzliche Informationen. |
-| Messaging-Voreinstellungen | Klare Zusammenfassung der bevorzugten Kommunikationsstile, die bei einer bestimmten Rolle Anklang finden | Definieren Sie individuelle Messaging-Anforderungen und -Motivationen für die Persona, wobei Sie sich darauf konzentrieren, wie die Persona Kommunikation bevorzugt erhält und damit interagiert.<br><br>Geben Sie spezifische Messaging-Voreinstellungen in der Liste an (jeder Listeneintrag 1-2 Sätze).<br><br>Begrenzen Sie die Liste auf maximal 10 Sätze, und stellen Sie sicher, dass die wichtigsten Informationen hervorgehoben sind.<br><br>_Beispiel_: „Messaging-Voreinstellungen für technisch versierte Profis:<li>Präzise, jargonfreie Kommunikation.</li><li>Reagiert positiv auf datengesteuerte Einblicke und umsetzbare Ratschläge.</li><li>Bevorzugt visuelle Elemente wie Infografiken und Diagramme, um komplexe Informationen schnell zu erfassen.</li><li>Wertschätzt Transparenz mit ehrlichem, unkompliziertem Ansatz.</li>&quot; |
+| Messaging-Voreinstellungen | Klare Zusammenfassung der bevorzugten Kommunikationsstile, die bei einer bestimmten Rolle Anklang finden | Definieren Sie individuelle Messaging-Anforderungen und -Motivationen für die Persona, wobei Sie sich darauf konzentrieren, wie die Persona Kommunikation bevorzugt erhält und mit ihr interagiert.<br><br>Geben Sie in der Liste bestimmte Nachrichtenvoreinstellungen an (jeder Listeneintrag umfasst 1-2 Sätze).<br><br>Begrenzen Sie die Liste auf maximal 10 Sätze, um sicherzustellen, dass die wichtigsten Informationen hervorgehoben sind.<br><br>_Beispiel_: „Nachrichtenvoreinstellungen für technisch versierte Profis:<li>Präzise, jargonfreie Kommunikation.</li><li>Reagiert positiv auf datengesteuerte Einblicke und umsetzbare Ratschläge.</li><li>Bevorzugt visuelle Elemente wie Infografiken und Diagramme, um komplexe Informationen schnell zu erfassen.</li><li>Wertschätzt Transparenz mit ehrlichem, unkompliziertem Ansatz.</li>&quot; |
