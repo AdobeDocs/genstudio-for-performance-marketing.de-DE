@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d8bce70c1e5cd80df2a8b6789de6ee3acda4b643
+source-git-commit: a080850e354d2306a2947a2295c22fd0ddf38480
 workflow-type: tm+mt
-source-wordcount: 4991
+source-wordcount: 5011
 ht-degree: 0%
 
 ---
@@ -75,6 +75,10 @@ Verlassen Sie sich auf die bereits in AEM veröffentlichten Fragmente Ihrer Orga
 Markenrichtlinien landen in einem einzigen Durchgang, während Produkte und Rollen von einer intelligenten Auswahlliste ausgehen, sodass Sie kuratieren, was dazugehört, bevor das System Datensätze anreichert. Die KI-gestützte Erkennung bleibt bewusst konservativ, wenn eine Site dünn oder mit Gates versehen ist, was regulierte Teams schützt, ohne die Dynamik zu blockieren.
 
 Organisationen, die einen **[!UICONTROL Brand Manager]** oder höher benötigen, setzen diese Schutzmaßnahmen weiterhin automatisch um. Öffentlich zugängliche Marken-Domains bieten auch weiterhin die umfassendste Anleitung, wenn Sie Programme über Regionen oder Portfolios hinweg skalieren.
+
+### ChatGPT-Anzeigen jetzt in [!DNL Create], [!DNL Content] und [!DNL Activate] verfügbar
+
+Conversational AI ist eine neue Paid-Media-Oberfläche und [!DNL GenStudio for Performance Marketing] ChatGPT ist jetzt End-to-End. [Erstellen von ChatGPT](/help/user-guide/create/create-chatgpt-ad.md)Anzeigenerlebnissen mit Varianten von Markenkopien, Ausführen von Marken- und Kanalprüfungen, Weiterleiten der Arbeit durch Genehmigungen und Veröffentlichen genehmigter Erlebnisse zur Wiederverwendung und Aktivierung in [!DNL Content].
 
 ## Frühere Versionshinweise
 
