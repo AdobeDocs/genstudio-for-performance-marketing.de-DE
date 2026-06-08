@@ -5,22 +5,15 @@ feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
 TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-subfeature_v2:
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 1dbfb6115c9340f9c14cef75d5144a303314fa71
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2: id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d2e2de8b867264daaa05908dd1d2dc56e3feb071
 workflow-type: tm+mt
-source-wordcount: 1835
-ht-degree: 85%
+source-wordcount: 1775
+ht-degree: 77%
 
 ---
 
@@ -42,7 +35,7 @@ Zu den Funktionen dieses Plug-ins gehören:
 * Exportieren Sie generierte [!DNL Experiences] nach GenStudio for Performance Marketing.
 * Verwenden Sie Plug-in-Optionen, die sich an die ausgewählten Elemente auf der Figma-Arbeitsfläche anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478818?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## Erstellen einer Vorlage
 
@@ -200,9 +193,9 @@ Nachdem Sie eine **[!UICONTROL Aktion]**-Option ausgewählt haben, generieren Si
 Varianten können aus Figma als GenStudio for Performance Marketing [!DNL Experiences] exportiert werden.
 
 1. Wählen Sie den Inhalt aus, der in die Figma-Arbeitsfläche exportiert werden soll, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**&#x200B;Bedienfeld auf Alle für Export markieren .
+   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**Bedienfeld auf Alle für Export markieren .
      ![Generierungsabschnitt auswählen](./select-generation-section.png){width="20%" zoomable="yes"}
-   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**&#x200B;Für Export markieren“.
+   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**Für Export markieren“.
      ![Individuelle Generierung auswählen](./select-generation.png){width="20%" zoomable="yes"}
 1. Wählen Sie im Seitenleistenmenü die Option Exportieren aus.
    ![Die Schaltfläche „Für Export markieren“ wird für eine Meta-Anzeige angezeigt](./mark-for-export.png){width="60%" zoomable="yes"}
@@ -245,27 +238,28 @@ So konvertieren Sie Frames:
 
 1. Öffnen Sie das Firefly Enterprise- und GenStudio-Plug-in in Figma und klicken Sie auf die **[!UICONTROL Export]**-Registerkarte in der Plug-in-Benutzeroberfläche.
 1. Wählen Sie auf der Arbeitsfläche die zu exportierenden Frames aus. Sie können einen einzelnen Frame oder mehrere Frames auswählen.
-1. Führen Sie einen der folgenden Schritte aus:
+1. Führen Sie einen der folgenden Schritte aus, um den/die ausgewählten Frame(s) zu migrieren:
 
    * Klicken Sie auf **[!UICONTROL Exportieren]**, um die konvertierte Datei an einen ausgewählten Speicherort zu exportieren, oder
-   * Klicken Sie **[!UICONTROL Auf GenStudio Photoshop übertragen]**, um die konvertierte Datei für die sofortige Verwendung in GenStudio Photoshop zwischenzuspeichern.
+   * Klicken Sie **[!UICONTROL Auf Photoshop übertragen]**, um die konvertierte Datei für die sofortige Verwendung in GenStudio Photoshop zwischenzuspeichern.
      ![Schaltfläche „An GenStudio Photoshop übertragen“](./transfer-to-ps-button.png){width="40%"}
-1. Wenn das Dialogfeld **[!UICONTROL File Key Required]** angezeigt wird, benötigt das Plug-in eine Figma-Datei-URL, um die Konvertierung abzuschließen. Fügen Sie die URL für Ihr Dokument hinzu:
+1. Geben Sie als Nächstes Ihren Figma-Datei-Link frei. Das Plug-in benötigt eine Figma-Datei-URL, um die Konvertierung abzuschließen. Fügen Sie die URL für Ihr Dokument hinzu.
 
    1. Klicken Sie in Figma **[!UICONTROL Freigeben]** in der oberen rechten Ecke der Arbeitsfläche.
    1. Klicken **[!UICONTROL in „Datei]**&quot; auf **[!UICONTROL Link kopieren]**.
-   1. Fügen Sie den kopierten Link in das Feld **[!UICONTROL Figma-Datei-URL]** im Plug-in-Dialogfeld ein.
-
-1. Klicken Sie auf **[!UICONTROL Absenden]**. Das Plug-in liest die ausgewählten Frames in Figma und konvertiert sie in ein JSON-Dokument, ein Zwischenformat für die Dateidaten.
-   ![Dialogfeld „Dateischlüssel erforderlich“](./file-key-required.png){width="35%"}
-1. Öffnen Sie in Photoshop GenStudio Photoshop und klicken Sie auf die Registerkarte **[!UICONTROL Importieren]**.
-1. Führen Sie einen der folgenden Schritte aus:
+   1. Fügen Sie den kopierten Link in das Feld **[!UICONTROL Figma File link]** im [!DNL GenStudio for Performance Marketing]-Plug-in-Dialog ein. Dies muss für JEDE DATEI erledigt werden:
+      ![Dialogfeld „Dateischlüssel erforderlich“](./file-key-required.png){width="35%"}
+   1. Klicken Sie auf **[!UICONTROL Senden]**.
+1. Es wird ein Popup angezeigt, in dem Sie um Zugriff zum Lesen des Inhalts und der Metadaten Ihrer Datei gebeten werden. Dies muss für alle Dateien nur einmal durchgeführt werden. Klicken Sie auf **[!UICONTROL Zugriff zulassen]**. Das Plug-in liest die ausgewählten Frames in Figma und konvertiert sie in ein JSON-Dokument, ein Zwischenformat für die Dateidaten.
+   ![Zugriff erlauben, um den Inhalt und die Metadaten der Datei zu lesen](./figma-access-request.png){width="35%"}
+1. Öffnen Sie in Photoshop [!DNL GenStudio Photoshop] und klicken Sie auf die Registerkarte **[!UICONTROL Importieren]** .
+1. Um die konvertierte(n) Datei(en) auszuwählen, führen Sie einen der folgenden Schritte aus:
 
    * Klicken Sie auf **[!UICONTROL Aus]** Plug-in), um eine Datei, die mit **[!UICONTROL In GenStudio Photoshop übertragen]** konvertiert wurde, aus der Liste der zwischengespeicherten Dateien auszuwählen, oder
    * Klicken Sie auf **[!UICONTROL JSON hochladen]**, um zur hochzuladenden JSON-Datei zu navigieren und sie auszuwählen.
      ![Schaltfläche „JSON hochladen“](./upload-json.png){width="40%"}
 1. GenStudio Photoshop konvertiert die Informationen aus dem JSON-Dokument in ein geöffnetes Photoshop-Dokument.
-1. Klicken Sie auf **[!UICONTROL Fertig]**. Die neue Datei wird in Photoshop geöffnet und kann verwendet werden. Oder klicken Sie **[!UICONTROL Speichern unter…]**, um einen Speicherort für die Datei auszuwählen.
+1. Klicken Sie **[!UICONTROL Fertig]**. Die neue Datei wird in Photoshop geöffnet und kann verwendet werden. Oder klicken Sie **[!UICONTROL Speichern unter…]**, um einen Speicherort für die Datei auszuwählen.
    ![Dialogfeld „Fertig“](./import-done-button.png){width="40%"}
 
 ## Generationsverlauf
