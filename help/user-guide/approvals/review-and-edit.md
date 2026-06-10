@@ -13,7 +13,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 topic_v2:
   - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 694
 ht-degree: 0%
@@ -36,7 +36,7 @@ Als designierte genehmigende Person können Sie auf verschiedene Arten auf die z
 
 * **Rufen Sie den Entwurf zur Überprüfung direkt über den Link Entwurf im Genehmigungsantrag auf**. Klicken Sie auf den Link Entwurf entweder in der E-Mail mit der Genehmigungsanfrage oder in der produktinternen Benachrichtigung. Die Arbeitsfläche wird geöffnet und zeigt das Asset oder Erlebnis an. Das _Genehmigung_ wird auf der rechten Seite angezeigt.
 
-* **Greifen Sie in der Liste der Genehmigungsanfragen auf den Entwurf zu, der überprüft werden**. Wenn Sie aufgefordert werden, mehrere Inhaltsentwürfe zu überprüfen, enthält Ihre Benachrichtigungs-E-Mail eine Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]**. Klicken Sie auf diese Schaltfläche, um zu einer Seite zu navigieren, auf der alle von Ihnen erhaltenen Benachrichtigungen angezeigt werden, einschließlich Genehmigungsanfragen und Benachrichtigungen, die Sie über andere Adobe Experience Cloud-Produkte aktiviert haben.
+* **Greifen Sie in der Liste der Genehmigungsanfragen auf den Entwurf zu, der überprüft werden**. Wenn Sie aufgefordert werden, mehrere Inhaltsentwürfe zu überprüfen, enthält Ihre Benachrichtigungs-E-Mail eine Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]**. Klicken Sie auf diese Schaltfläche, um zu einer Seite zu navigieren, auf der alle von Ihnen erhaltenen Benachrichtigungen angezeigt werden, einschließlich Genehmigungsanfragen und Benachrichtigungen, die Sie über andere Adobe CX Enterprise-Produkte aktiviert haben.
 
 ## Zugriff auf Inhalte zur Überprüfung
 

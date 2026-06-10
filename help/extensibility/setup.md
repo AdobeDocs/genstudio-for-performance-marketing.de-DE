@@ -12,7 +12,7 @@ feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 338
 ht-degree: 7%
@@ -29,7 +29,7 @@ Das Add-on-Framework von GenStudio for Performance Marketing bietet Unternehmen 
 
 In diesem Handbuch wird der Prozess der Erstellung von Add-ons zur Anpassung und Erweiterung der KI-basierten Inhaltserstellungsfunktionen von GenStudio for Performance Marketing beschrieben.
 
-Entwickelnde von erweiterbaren Apps für GenStudio for Performance Marketing verwenden das standardmäßige Adobe Experience Cloud-App-Entwicklungs-Toolset-Framework, um benutzerdefinierte Apps oder Add-ons zu entwickeln und bereitzustellen. [Adobe App Builder](https://developer.adobe.com/app-builder/) ist von zentraler Bedeutung für dieses Entwicklungs-Tool-Set.
+Entwickelnde von erweiterbaren Apps für GenStudio for Performance Marketing verwenden das standardmäßige Adobe CX Enterprise-App-Entwicklungs-Toolset-Framework, um benutzerdefinierte Apps oder Add-ons zu entwickeln und bereitzustellen. [Adobe App Builder](https://developer.adobe.com/app-builder/) ist von zentraler Bedeutung für dieses Entwicklungs-Toolset.
 
 Die Erstellung von Add-ons umfasst die folgenden allgemeinen Aufgaben:
 

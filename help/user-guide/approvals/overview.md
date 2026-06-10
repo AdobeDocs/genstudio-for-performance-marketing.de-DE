@@ -16,7 +16,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 890
 ht-degree: 0%
@@ -29,7 +29,7 @@ Der Überprüfungs- und Genehmigungs-Workflow stellt sicher, dass alle Beteiligt
 
 >[!NOTE]
 >
->Diese Funktion ist auch als [Integration mit Adobe Workfront Proof](/help/user-guide/approvals/proof-integration.md) verfügbar. Diese Integration bietet Korrekturabzugsfunktionen auf der GenStudio for Performance Marketing-Arbeitsfläche. Durch die Workfront Proof-Integration erhält GenStudio for Performance Marketing einen strukturierteren, transparenteren und kollaborativen Überprüfungsprozess, der Teams dabei hilft, mit größerer Zuversicht und Klarheit vom Entwurf zum endgültigen Abschluss zu gelangen.
+> Diese Funktion ist auch als [Integration mit Adobe Workfront Proof](/help/user-guide/approvals/proof-integration.md) verfügbar. Diese Integration bietet Korrekturabzugsfunktionen auf der GenStudio for Performance Marketing-Arbeitsfläche. Durch die Workfront Proof-Integration erhält GenStudio for Performance Marketing einen strukturierteren, transparenteren und kollaborativen Überprüfungsprozess, der Teams dabei hilft, mit größerer Zuversicht und Klarheit vom Entwurf zum endgültigen Abschluss zu gelangen.
 
 ## Vorteile des Prüfungs- und Validierungs-Workflows
 
@@ -69,7 +69,7 @@ Verfügbare Entwurfsstatus:
 
 >[!NOTE]
 >
->Entwürfe entsprechen _Testsendungen_ für Benutzer der Workfront Proof-Integration. [Entwürfe und Korrekturabzüge](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) unterscheiden sich in Bezug auf Persistenz und Versionierung.
+> Entwürfe entsprechen _Testsendungen_ für Benutzer der Workfront Proof-Integration. [Entwürfe und Korrekturabzüge](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) unterscheiden sich in Bezug auf Persistenz und Versionierung.
 
 ## Genehmigungsrollen
 
@@ -79,7 +79,7 @@ _Reviewer_ können Kommentare hinzufügen, aber Inhalte nicht genehmigen. Die Te
 
 Produktinterne GenStudio for Performance Marketing-Benachrichtigungen aktualisieren genehmigende Personen und Inhaltseditoren in Echtzeit von Asset-Statusänderungen und `@mention`. Benachrichtigungen unterstützen eine schnelle Iteration durch die verschiedenen Überprüfungs-, Bearbeitungs- und Genehmigungszyklen.
 
-Bearbeiter und genehmigende Personen von Inhalten können sich für den Erhalt dieser Benachrichtigungen in Slack anmelden. Siehe [Abonnieren von Services in Experience Cloud](https://experienceleague.adobe.com/de/docs/core-services/interface/services/customer-attributes/subscription).
+Bearbeiter und genehmigende Personen von Inhalten können sich für den Erhalt dieser Benachrichtigungen in Slack anmelden. Siehe [Abonnieren von Services in CX Enterprise](https://experienceleague.adobe.com/de/docs/core-services/interface/services/customer-attributes/subscription).
 
 Von den Genehmigungsteilnehmern durchgeführte Aktionen Trigger für automatische produktinterne Benachrichtigungen und E-Mail-Benachrichtigungen. Wenn Sie einen Genehmigungsprozess starten, erhalten designierte genehmigende Personen sowohl E-Mail- als auch produktinterne Benachrichtigungen. Sie werden mit Produkt- und E-Mail-Benachrichtigungen auf dem Laufenden gehalten, wenn eine genehmigende Person `@mention` Kommentare hinzufügt oder eine Entscheidung trifft. Benachrichtigungen enthalten Links zum Inhaltsentwurf.
 

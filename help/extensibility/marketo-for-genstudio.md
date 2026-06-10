@@ -2,7 +2,7 @@
 title: Marketo für GenStudio
 description: Installieren und konfigurieren Sie die App Marketo for GenStudio Adobe Exchange , damit Ihr Unternehmen Marketo Engage-Vorlagen in GenStudio for Performance Marketing verwenden kann.
 feature: Extensibility
-source-git-commit: c9bfee479a433a1303a66a66917b0bbe60f24a74
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Dieses Thema richtet sich an **Administratoren** die die App installieren, Anmel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483320?captions=ger&learn=on)
 
-1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL Experience Cloud]**.
+1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL CX Enterprise]**.
 1. Öffnen Sie die Liste [Marketo for GenStudio](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio).
    ![Liste der Marketo for GenStudio in Adobe Exchange](/help/extensibility/marketo-adobe-exchange.png){width="75%"}
 1. Wählen Sie **[!UICONTROL Kostenlos]** aus, um die App für Ihre Organisation anzufordern.
