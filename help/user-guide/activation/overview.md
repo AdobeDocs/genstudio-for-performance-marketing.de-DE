@@ -5,12 +5,20 @@ level: Beginner
 feature: Ad Activation
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 TQID: https://experienceleague.adobe.com/-Nal0YqjTzKw4g2SM3IuMf0a13e87CWdTqBZPd0dBkU
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-subfeature_v2: id: d87258a7-722c-4afd-b632-adddc447c7aaid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+subfeature_v2:
+  - id: d87258a7-722c-4afd-b632-adddc447c7aa
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 474
@@ -34,7 +42,7 @@ Jedes Paid-Media-Kanalkonto muss mit GenStudio for Performance Marketing verbund
 
 * [Erstellen einer Aktivierung](create-activation.md). Sie können ein Anzeigenerlebnis erstellen, indem Sie visuelle Assets auswählen, Text zuweisen und Metadaten definieren, bevor Sie sie an einen gebührenpflichtigen Kanal senden.
 
-* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
+* [Aktivierungen verwalten](manage-activations.md). _[!DNL Activate]_&#x200B;bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen anzeigen.
 
 ## Funktionen aktivieren
 
