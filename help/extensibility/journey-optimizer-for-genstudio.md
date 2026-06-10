@@ -79,9 +79,9 @@ Zeigen Sie die Erweiterung unter **[!UICONTROL Journey Administrator]** in AJO *
 
 **Siehe auch** (Journey Optimizer-Zugriffssteuerung):
 
-* [Zugangssteuerung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/access-control-landing-page)
-* [Berechtigungen in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions)
-* [Erste Schritte für Systemadministratoren](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/quick-start/administrator)
+* [Zugangssteuerung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/access-control/access-control-landing-page)
+* [Berechtigungen in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/access-control/permissions)
+* [Erste Schritte für Systemadministratoren](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/quick-start/administrator)
 
 ## Zugriff auf AJO-Vorlagen in GenStudio
 

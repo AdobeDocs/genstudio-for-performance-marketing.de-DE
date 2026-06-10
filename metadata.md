@@ -7,7 +7,7 @@ usetq: true
 landing-page-name: genstudio-for-performance-marketing
 landing-page-breadcrumb-title: GenStudio
 type: Documentation
-git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing.en
+git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing.de-DE
 mini-toc-levels: 2
 description: Adobe GenStudio for Performance Marketing-Handbücher
 index: true
