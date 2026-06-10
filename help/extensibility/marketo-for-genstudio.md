@@ -2,7 +2,7 @@
 title: Marketo für GenStudio
 description: Installieren und konfigurieren Sie die App Marketo for GenStudio Adobe Exchange , damit Ihr Unternehmen Marketo Engage-Vorlagen in GenStudio for Performance Marketing verwenden kann.
 feature: Extensibility
-source-git-commit: c9bfee479a433a1303a66a66917b0bbe60f24a74
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: '955'
 ht-degree: 0%
@@ -22,9 +22,9 @@ Dieses Thema richtet sich an **Administratoren** die die App installieren, Anmel
 
 ## Installieren der App über Adobe Exchange
 
->[!VIDEO](https://video.tv.adobe.com/v/3483320?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483299?learn=on)
 
-1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL Experience Cloud]**.
+1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL CX Enterprise]**.
 1. Öffnen Sie die Liste [Marketo for GenStudio](https://exchange.adobe.com/apps/ec/ab6p21vo8r/marketo-for-genstudio).
    ![Liste der Marketo for GenStudio in Adobe Exchange](/help/extensibility/marketo-adobe-exchange.png){width="75%"}
 1. Wählen Sie **[!UICONTROL Kostenlos]** aus, um die App für Ihre Organisation anzufordern.
@@ -69,7 +69,7 @@ Sie benötigen außerdem die **[!UICONTROL Marketo Engage Identity URL]** die Ih
 
 Um die Erweiterung in GenStudio verfügbar zu machen, stellen Sie die App über Adobe Exchange bereit.
 
-1. Kehren Sie zu [Adobe Exchange &#x200B;](https://exchange.adobe.com).
+1. Kehren Sie zu [Adobe Exchange ](https://exchange.adobe.com).
 1. Wählen Sie **[!UICONTROL Verwalten]** und öffnen Sie die Anwendung **Marketo für GenStudio** (z. B. unter **[!UICONTROL App Builder-Anwendungen]** oder den verwalteten Programmen Ihres Unternehmens).
 1. Wählen **[!UICONTROL unter &quot;]**&quot; eine vorhandene Umgebung aus dem Dropdown-Menü aus oder wählen Sie **[!UICONTROL Umgebung hinzufügen]**, um eine Umgebung zu erstellen.
 1. Öffnen Sie **[!UICONTROL Konfiguration]** für die ausgewählte Umgebung.
@@ -96,7 +96,7 @@ Sobald sie angezeigt wird, verwenden Sie die entsprechende **Workspace ID** für
 
 ## Zugriff auf Marketo-Vorlagen in GenStudio
 
-Nachdem Marketo für GenStudio installiert und konfiguriert wurde, wird beim Erstellen eines E-Mail **-Erlebnisses in GenStudio die**&#x200B;**Marketo-Vorlagen** angezeigt. Verwenden Sie diese Registerkarte, um Vorlagen aus Marketo Engage zu durchsuchen.
+Nachdem Marketo für GenStudio installiert und konfiguriert wurde, wird beim Erstellen eines E-Mail ]**-Erlebnisses in GenStudio die**[!UICONTROL **Marketo-Vorlagen** angezeigt. Verwenden Sie diese Registerkarte, um Vorlagen aus Marketo Engage zu durchsuchen.
 
 >[!IMPORTANT]
 >

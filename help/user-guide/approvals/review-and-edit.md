@@ -4,16 +4,11 @@ description: Erfahren Sie, wie Sie Inhalte iterativ mit Adobe GenStudio for Perf
 feature: Content Review, Content Management
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
 TQID: https://experienceleague.adobe.com/YAUeZkKC0UzOt1fCKgFfXLxGEi2896IpcRTdfwG8KXA
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e4bd5f48-22a4-465d-a046-5ffb52e27856
+source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
 source-wordcount: 694
 ht-degree: 0%
@@ -36,7 +31,7 @@ Als designierte genehmigende Person können Sie auf verschiedene Arten auf die z
 
 * **Rufen Sie den Entwurf zur Überprüfung direkt über den Link Entwurf im Genehmigungsantrag auf**. Klicken Sie auf den Link Entwurf entweder in der E-Mail mit der Genehmigungsanfrage oder in der produktinternen Benachrichtigung. Die Arbeitsfläche wird geöffnet und zeigt das Asset oder Erlebnis an. Das _Genehmigung_ wird auf der rechten Seite angezeigt.
 
-* **Greifen Sie in der Liste der Genehmigungsanfragen auf den Entwurf zu, der überprüft werden**. Wenn Sie aufgefordert werden, mehrere Inhaltsentwürfe zu überprüfen, enthält Ihre Benachrichtigungs-E-Mail eine Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]**. Klicken Sie auf diese Schaltfläche, um zu einer Seite zu navigieren, auf der alle von Ihnen erhaltenen Benachrichtigungen angezeigt werden, einschließlich Genehmigungsanfragen und Benachrichtigungen, die Sie über andere Adobe Experience Cloud-Produkte aktiviert haben.
+* **Greifen Sie in der Liste der Genehmigungsanfragen auf den Entwurf zu, der überprüft werden**. Wenn Sie aufgefordert werden, mehrere Inhaltsentwürfe zu überprüfen, enthält Ihre Benachrichtigungs-E-Mail eine Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]**. Klicken Sie auf diese Schaltfläche, um zu einer Seite zu navigieren, auf der alle von Ihnen erhaltenen Benachrichtigungen angezeigt werden, einschließlich Genehmigungsanfragen und Benachrichtigungen, die Sie über andere Adobe CX Enterprise-Produkte aktiviert haben.
 
 ## Zugriff auf Inhalte zur Überprüfung
 
@@ -74,7 +69,7 @@ Der Ersteller des Inhalts kann mit den Bearbeitungen fortfahren, während er ein
 
 ## Überprüfen von Inhalten mit Workfront Proof
 
-[!DNL Proofing Viewer] bietet [robuste Markup-Tools](https://experienceleague.adobe.com/de/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) zum Kommentieren von Korrekturabzügen und Nachverfolgen von Änderungen. Sie können auch zwei Versionen des Korrekturabzugs vergleichen.
+[!DNL Proofing Viewer] bietet [robuste Markup-Tools](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) zum Kommentieren von Korrekturabzügen und Nachverfolgen von Änderungen. Sie können auch zwei Versionen des Korrekturabzugs vergleichen.
 
 **Zum Überprüfen des Inhalts**:
 
@@ -94,7 +89,7 @@ Der Ersteller des Inhalts kann mit den Bearbeitungen fortfahren, während er ein
 
 ### Vergleichen von Korrekturabzügen
 
-Ab [!DNL Proofing Viewer] können Sie [Korrekturabzugsversionen vergleichen](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs).
+Ab [!DNL Proofing Viewer] können Sie [Korrekturabzugsversionen vergleichen](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs).
 
 **Testsendungen vergleichen**:
 
@@ -104,4 +99,4 @@ Ab [!DNL Proofing Viewer] können Sie [Korrekturabzugsversionen vergleichen](htt
 
    Korrekturabzüge werden nebeneinander angezeigt, die neuere Version auf der linken Seite.
 
-Workfront Proof bietet mehrere Tools zum Vergleichen von Korrekturabzügen, darunter ein Tool zum automatischen Vergleichen. Siehe [Verwenden der Vergleichstools](https://experienceleague.adobe.com/de/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
+Workfront Proof bietet mehrere Tools zum Vergleichen von Korrekturabzügen, darunter ein Tool zum automatischen Vergleichen. Siehe [Verwenden der Vergleichstools](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
