@@ -5,22 +5,15 @@ feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
 TQID: https://experienceleague.adobe.com/JKHpT5m-4KZvq-iWF2u11hRaFFRhKMo-ofbWk-xvRMI
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
-subfeature_v2:
-  - id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d2e2de8b867264daaa05908dd1d2dc56e3feb071
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: e0aa398c-6185-4e77-8cf7-2561c578c181
+subfeature_v2: id: f8fb16a4-19e5-44e1-8db9-d45f8e266e2c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 2c5e5166bfe9d4b1c6cb56495613ff5cf20fab34
 workflow-type: tm+mt
-source-wordcount: 1775
-ht-degree: 77%
+source-wordcount: 1793
+ht-degree: 76%
 
 ---
 
@@ -42,7 +35,7 @@ Zu den Funktionen dieses Plug-ins gehören:
 * Exportieren Sie generierte [!DNL Experiences] nach GenStudio for Performance Marketing.
 * Verwenden Sie Plug-in-Optionen, die sich an die ausgewählten Elemente auf der Figma-Arbeitsfläche anpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478818?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## Erstellen einer Vorlage
 
@@ -200,9 +193,9 @@ Nachdem Sie eine **[!UICONTROL Aktion]**-Option ausgewählt haben, generieren Si
 Varianten können aus Figma als GenStudio for Performance Marketing [!DNL Experiences] exportiert werden.
 
 1. Wählen Sie den Inhalt aus, der in die Figma-Arbeitsfläche exportiert werden soll, indem Sie einen der folgenden Schritte ausführen:
-   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**&#x200B;Bedienfeld auf Alle für Export markieren .
+   * Wählen Sie den Abschnitt Erstellung auf der Arbeitsfläche aus und klicken Sie dann **[!UICONTROL Plug-in]**Bedienfeld auf Alle für Export markieren .
      ![Generierungsabschnitt auswählen](./select-generation-section.png){width="20%" zoomable="yes"}
-   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**&#x200B;Für Export markieren“.
+   * Wählen Sie eine einzelne Generierung auf der Arbeitsfläche aus und klicken Sie dann im Plug **[!UICONTROL in-Bedienfeld]**Für Export markieren“.
      ![Individuelle Generierung auswählen](./select-generation.png){width="20%" zoomable="yes"}
 1. Wählen Sie im Seitenleistenmenü die Option Exportieren aus.
    ![Die Schaltfläche „Für Export markieren“ wird für eine Meta-Anzeige angezeigt](./mark-for-export.png){width="60%" zoomable="yes"}
@@ -218,6 +211,9 @@ Im Plug-in-Bedienfeld wird eine ZIP-Datei erstellt oder es wird ein Link zu **[!
 > Dazu benötigen Sie sowohl das Figma-Plug-in als auch [GenStudio Photoshop](photoshop-plugin.md).
 
 Mit dem Figma-Plug-in können Sie einen Figma-Frame, mehrere Frames oder ein ganzes Dokument in das Photoshop-Format konvertieren und für die Verwendung mit [GenStudio Photoshop](photoshop-plugin.md) exportieren. Derzeit werden während der Konvertierung nur wichtige Eigenschaften wie Sichtbarkeit, Schriftgröße und grundlegende Ebenenattribute unterstützt. Funktionen wie Durchstreichen, Hochgestellt, Tiefgestellt, Deckkraft als Prozentsätze, Verläufe und ähnliche erweiterte Eigenschaften werden noch nicht unterstützt.
+
+<!-- GS-34076: Demo video placement is hardcoded in the tool UI; keep this video above "The plugin supports the following Figma layer types for conversion." -->
+>[!VIDEO](https://video.tv.adobe.com/v/3492271?learn=on)
 
 Das Plug-in unterstützt die folgenden Figma-Ebenentypen für die Konvertierung:
 
@@ -245,6 +241,11 @@ So konvertieren Sie Frames:
 
 1. Öffnen Sie das Firefly Enterprise- und GenStudio-Plug-in in Figma und klicken Sie auf die **[!UICONTROL Export]**-Registerkarte in der Plug-in-Benutzeroberfläche.
 1. Wählen Sie auf der Arbeitsfläche die zu exportierenden Frames aus. Sie können einen einzelnen Frame oder mehrere Frames auswählen.
+
+   >[!NOTE]
+   >
+   > Während der Konvertierung können Frames nicht in einem Abschnitt enthalten sein. Wählen Sie Frames aus, die nicht in einem Abschnittsknoten verschachtelt sind.
+
 1. Führen Sie einen der folgenden Schritte aus, um den/die ausgewählten Frame(s) zu migrieren:
 
    * Klicken Sie auf **[!UICONTROL Exportieren]**, um die konvertierte Datei an einen ausgewählten Speicherort zu exportieren, oder
