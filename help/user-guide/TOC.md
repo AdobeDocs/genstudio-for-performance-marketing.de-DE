@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über die Funktionen von Adobe GenStud
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: c9b8177a564cfcdfd2b63cd28fa22eb93a52d3a7
+source-git-commit: 5aa02e34bb69b8d6254c9a38dc7cd752eadfcad0
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 87%
+source-wordcount: '277'
+ht-degree: 86%
 
 ---
 
@@ -47,6 +47,7 @@ ht-degree: 87%
    + [Anzeigen-Erlebnisse](create/display-ad-experiences.md)
    + [Banner-Erlebnisse](create/banner-experiences.md)
    + [Varianten verwalten](create/manage-variants.md)
+   + [Partizipative Bearbeitung](create/collaborative-editing.md)
    + [Logo-Tausch verwenden](create/logo-swap.md)
    + [Richten Sie in Vorlagen einen Logoaustausch ein](create/logo-swap-setup.md)
    + [E-Mail-Erlebnis erstellen](create/create-email-experience.md)
