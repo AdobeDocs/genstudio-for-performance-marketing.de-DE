@@ -30,10 +30,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: da699f7dc5bd4f0994af4a912017dd2503afed69
+source-git-commit: 5aa02e34bb69b8d6254c9a38dc7cd752eadfcad0
 workflow-type: tm+mt
-source-wordcount: 729
-ht-degree: 88%
+source-wordcount: 794
+ht-degree: 81%
 
 ---
 
@@ -234,6 +234,18 @@ Im Abschnitt _Zuletzt verwendet_ von [!DNL Create] können Sie auf alle aktuelle
 Entwürfe werden automatisch gespeichert und im Abschnitt _Zuletzt_&quot; [!DNL Create] Startseite angezeigt. Jeder Entwurf in diesem Abschnitt zeigt einen Status an, wie _Entwurf_ oder _Genehmigt_.
 
 Klicken Sie auf das Symbol Galerieansicht (Raster), um _Zuletzt verwendet_ Elemente entweder in einer Raster- oder Tabellenansicht anzuzeigen.
+
+### Partizipative Bearbeitung
+
+Entwurfsersteller können jetzt ihre Entwürfe für Mitwirkende freigeben, Rollen zuweisen und daran arbeiten, gemeinsam Inhalte in Echtzeit zu erstellen. Diese Funktion bietet neben der einfachen Überprüfung und Genehmigung einige wichtige Workflow-Vorteile:
+
+* **Einfache Zusammenarbeit an einem vorhandenen Entwurf** mit Schnellbenachrichtigungen, ohne etwas neu erstellen oder exportieren zu müssen.
+
+* **Co-Editing in Echtzeit** zwischen Team-Mitgliedern live, ohne Dateien danach zu aktualisieren oder zusammenzuführen.
+
+* **Nur-Lese-Zugriff** damit neugierige Stakeholder die Arbeitsfläche sehen, bevor der R&amp;A-Fluss beginnt.
+
+Erfahren Sie, wie Sie [gemeinsame Bearbeitung mit Ihren Entwürfen verwenden](collaborative-editing.md).
 
 ### Verwalten von Varianten
 
