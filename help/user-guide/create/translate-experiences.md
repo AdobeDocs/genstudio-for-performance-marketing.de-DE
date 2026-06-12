@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Adobe [!DNL GenStudio for Performance Marketing] bietet eine vordefinierte Übersetzung auf der HTML-Arbeitsfläche, sodass globale und regionale Marketing-Experten genehmigte Erlebnisse ohne Übersetzungs-Tools in mehrere Sprachen skalieren können.
 
-Die Funktion verwendet standardmäßig Azure Open AI . Ihr Unternehmen kann auch über „Übersetzungserweiterungen“ eine Verbindung [ bevorzugten Übersetzungsdienst ](/help/extensibility/deploy-app.md#find-translation-extensions).
+Die Funktion verwendet standardmäßig Azure Open AI . Ihr Unternehmen kann auch über „Übersetzungserweiterungen“ eine Verbindung [&#x200B; bevorzugten Übersetzungsdienst &#x200B;](/help/extensibility/deploy-app.md#find-translation-extensions).
 
 Die Übersetzung beginnt mit einem genehmigten Erlebnis, das in [!DNL Content] gespeichert wurde. Das Quellerlebnis kann in jeder Sprache verfügbar sein. Jede übersetzte Variante wird auf der [!DNL Create]-Arbeitsfläche als bearbeitbarer Entwurf geöffnet, den Sie exportieren, zur Überprüfung senden und als separates Erlebnis veröffentlichen können.
 
@@ -36,7 +36,7 @@ Wenn Ihr Unternehmen eine benutzerdefinierte Übersetzungserweiterung registrier
 
 Starten Sie eine Übersetzung von der [!DNL Create] Landingpage aus, um ein genehmigtes Erlebnis zu lokalisieren.
 
-![Übersetzen und Lokalisieren von Kopien auf der Landingpage ](./translate-create-workflow.png){width="600" zoomable="yes"}
+![Übersetzen und Lokalisieren von Kopien auf der Landingpage &#x200B;](./translate-create-workflow.png){width="600" zoomable="yes"}
 
 **Aus[!DNL Create]** übersetzen:
 
@@ -65,7 +65,7 @@ Sie können die Übersetzung auch [!DNL Content] starten, wenn Sie genehmigte Er
 
 ## Arbeiten mit Übersetzungen auf der Arbeitsfläche
 
-Auf der HTML-Arbeitsfläche kann das Quellerlebnis nicht bearbeitet werden, da es bereits genehmigt ist. E-Mail-Quellerlebnisse werden gesperrt angezeigt. Sie können Text in übersetzten Varianten direkt auf der Arbeitsfläche bearbeiten. Anleitungen [ Bearbeiten von Variantenkopien finden Sie unter ](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
+Auf der HTML-Arbeitsfläche kann das Quellerlebnis nicht bearbeitet werden, da es bereits genehmigt ist. E-Mail-Quellerlebnisse werden gesperrt angezeigt. Sie können Text in übersetzten Varianten direkt auf der Arbeitsfläche bearbeiten. Anleitungen [&#x200B; Bearbeiten von Variantenkopien finden Sie unter &#x200B;](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
 
 Bei übersetzten Erlebnissen wird keine Markenvalidierung durchgeführt oder ein Markenwert angezeigt. Das Quellerlebnis wurde bereits mit Markenrichtlinien erstellt, geprüft und genehmigt.
 
