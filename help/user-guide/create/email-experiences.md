@@ -21,9 +21,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e41ca23a135e2cacfcc029c04992bbff1b515bd6
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 580
+source-wordcount: 600
 ht-degree: 0%
 
 ---
@@ -108,3 +108,5 @@ Wenn Ihr Unternehmen den Austausch von Inhaltsfragmenten aktiviert, können Sie 
 ![Bereich der Inhaltsfragmente-Benutzeroberfläche](./cf-pane.png){width="500" zoomable="yes"}
 
 Ihr Unternehmen wählt aus, welche Inhaltsfragmentquellen und Repositorys verfügbar sind. Unter [Inhaltsfragmenterweiterung suchen](/help/extensibility/deploy-app.md#find-content-fragment-extension) erfahren Sie, wie Admins Quellen konfigurieren und wie Autoren Kopien von der Arbeitsfläche mit **[!UICONTROL Swap)]**.
+
+Sie können ein genehmigtes E-Mail-Erlebnis auf der HTML-Arbeitsfläche auch in mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).

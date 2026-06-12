@@ -17,9 +17,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 338
+source-wordcount: 357
 ht-degree: 1%
 
 ---
@@ -100,3 +100,8 @@ Beim Speichern genehmigter Assets verwaltet [!DNL Content] die Rich-Metadaten, d
 ### Arbeiten mit Vorlagen
 
 Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, damit sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen verwendet werden kann. Erfahren Sie mehr über grundlegende Vorlagenelemente und Verfahren in [Arbeiten mit Vorlagen](../templates/use-templates.md). Machen Sie sich außerdem mit dem Thema „Anpassen einer Vorlage[&#x200B; vertraut, um Vorlagen zu &#x200B;](../templates/customize-template.md).
+
+### Übersetzen genehmigter Erlebnisse
+
+Sie können genehmigte E-Mail- und Paid-Media-Erlebnisse direkt in der [!DNL Content]-Galerie _[!UICONTROL Erlebnisse]_ oder auf der [!DNL Create]-Landingpage in mehrere Sprachen übersetzen. Siehe [Aus Inhalt übersetzen](../create/translate-experiences.md#translate-from-content) oder [Aus Erstellen übersetzen](../create/translate-experiences.md#translate-from-create).
+

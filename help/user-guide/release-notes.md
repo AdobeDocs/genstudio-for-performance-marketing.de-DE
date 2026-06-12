@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
 workflow-type: tm+mt
-source-wordcount: 5011
+source-wordcount: 5016
 ht-degree: 0%
 
 ---
@@ -163,7 +163,7 @@ Marketing-Experten können jetzt Logos innerhalb von Vorlagen direkt im [!DNL Cr
 
 ### Vordefinierte Übersetzung für bezahlte Medien und E-Mail
 
-* Übersetzen Sie direkt in GenStudio for Performance Marketing genehmigte bezahlte Medien- und E-Mail-Erlebnisse in über 40 Sprachen.
+* Übersetzen Sie direkt in GenStudio for Performance Marketing genehmigte bezahlte Medien- und E-Mail-Erlebnisse in über 40 Sprachen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
 * Mit den Open AI-Übersetzungs-Services von Azure können Teams Inhalte gleichzeitig in mehrere Zielsprachen übersetzen.
 
 ### PDF-Export für Erlebnisse

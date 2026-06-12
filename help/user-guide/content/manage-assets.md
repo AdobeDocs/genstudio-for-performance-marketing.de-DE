@@ -21,9 +21,9 @@ role_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 1518
+source-wordcount: 1546
 ht-degree: 1%
 
 ---
@@ -153,6 +153,10 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben]** auf „Löschen“ (Papierkorb).
 
 1. Überprüfen Sie im Popup _Asset löschen_ das Asset und klicken Sie auf **[!UICONTROL Löschen]**.
+
+## Übersetzen von Erlebnissen
+
+Sie können genehmigte Erlebnisse aus der _[!UICONTROL Erlebnisse“ oder aus einer Erlebnisdetailansicht]_ eine oder mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md#translate-from-content).
 
 ## Exportieren von Erlebnissen
 

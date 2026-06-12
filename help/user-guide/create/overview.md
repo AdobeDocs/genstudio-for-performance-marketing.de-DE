@@ -30,10 +30,10 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 5aa02e34bb69b8d6254c9a38dc7cd752eadfcad0
+source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
 workflow-type: tm+mt
-source-wordcount: 794
-ht-degree: 81%
+source-wordcount: 820
+ht-degree: 79%
 
 ---
 
@@ -234,6 +234,10 @@ Im Abschnitt _Zuletzt verwendet_ von [!DNL Create] können Sie auf alle aktuelle
 Entwürfe werden automatisch gespeichert und im Abschnitt _Zuletzt_&quot; [!DNL Create] Startseite angezeigt. Jeder Entwurf in diesem Abschnitt zeigt einen Status an, wie _Entwurf_ oder _Genehmigt_.
 
 Klicken Sie auf das Symbol Galerieansicht (Raster), um _Zuletzt verwendet_ Elemente entweder in einer Raster- oder Tabellenansicht anzuzeigen.
+
+### Übersetzen und lokalisieren
+
+Sie können genehmigte E-Mail- und Paid-Media-Erlebnisse über die [!DNL Create]-Landingpage oder von [!DNL Content] in mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
 
 ### Partizipative Bearbeitung
 

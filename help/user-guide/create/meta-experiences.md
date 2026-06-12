@@ -21,9 +21,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 318
+source-wordcount: 337
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
 GenStudio for Performance Marketing unterstützt sowohl [standardmäßige als auch benutzerdefinierte Meta-Anzeigen](/help/user-guide/templates/meta-template.md).
+
+
+Sie können ein genehmigtes Meta-Erlebnis auf der HTML-Arbeitsfläche in mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
+
 
 Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 

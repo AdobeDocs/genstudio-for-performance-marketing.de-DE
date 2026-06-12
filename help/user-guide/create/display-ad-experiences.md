@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
+source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 126
 ht-degree: 1%
 
 ---
@@ -35,6 +35,8 @@ Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwende
 Beim Generieren von Anzeige-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
 Informationen [&#x200B; unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter &#x200B;](/help/user-guide/templates/display-template.md) für Anzeigenvorlagen .
+
+Sie können ein genehmigtes Display- und Erlebniserlebnis auf der HTML-Arbeitsfläche in mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
 
 Zu den bearbeitbaren Abschnitten eines Displays und Erlebnisses gehören:
 
