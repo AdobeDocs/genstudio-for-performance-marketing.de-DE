@@ -1,9 +1,9 @@
 ---
 name: generate-release-notes
 description: ""
-source-git-commit: 85ad74d3f24fb809b11f57b23bd24a7ae3310f43
+source-git-commit: c3c6aa86f4f520d020f8928612d1be6be1599652
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,7 @@ Wenn neue Informationen in das Dokument gehören, platzieren Sie sie unter der a
 
 Arbeiten Sie in dieser Reihenfolge. Kopieren Sie die Checkliste und verfolgen Sie den Fortschritt bei mehrstufigen Bearbeitungen.
 
+0. [ ] Wenn **Jira** und **Confluence** MCP verfügbar sind, führen Sie zuerst [consumer-release-sources](../consume-release-sources/SKILL.md) aus, um das Arbeitsticket, das Zeremonie-Wiki (GA- und Beta-Funktionsgruppen) und die KT-Seiten aufzunehmen. Wenn MCP nicht verfügbar ist, verwenden Sie eingefügte KT/Wiki-Inhalte und [reference.md](reference.md#internal-sources-kt-and-release-wikis)-Feldzuordnung.
 1. [ ] Öffnen Sie `help/user-guide/release-notes.md` und lesen Sie den aktuellen `## YYYY.MM {#latest}`. Behandeln Sie **früheren Versionshinweise** als **schreibgeschützten**-Kontext, es sei denn, Sie führen den Archivierungsschritt in Schritt 2 aus.
 2. [ ] Wenn Sie eine **neue** monatliche Version hinzufügen: archivieren Sie die aktuelle Version (siehe [Archivieren Sie die neueste Version](#archive-previous-latest)).
 3. [ ] Fügen Sie **Abschnitt** der obersten `## YYYY.MM {#latest}` hinzu oder bearbeiten Sie ihn (neuer Monat am Anfang der Veröffentlichungsliste).
@@ -62,7 +63,7 @@ Bei der Einführung eines neuen `## YYYY.MM {#latest}`:
 4. Entfernen Sie `{#latest}` aus der archivierten Überschrift. Der neue obere Abschnitt ist der einzige mit `{#latest}`.
 5. Die chronologische Reihenfolge innerhalb von **früheren Versionshinweisen** beibehalten (neueste archivierte Blöcke nach oben, sofern die Datei nicht bereits eine andere Reihenfolge verwendet - **mit der vorhandenen Datei**).
 
-Bearbeiten **&#x200B;**&#x200B;während der Durchführung dieses Archivs nicht den **(bereits**) `+++Notes from …+++` - fügen Sie nur den neu archivierten Block ein und behalten Sie die älteren Archive unverändert bei.
+Bearbeiten **** während der Durchführung dieses Archivs nicht den **(bereits**) `+++Notes from …+++` - fügen Sie nur den neu archivierten Block ein und behalten Sie die älteren Archive unverändert bei.
 
 ## Erforderliche Struktur
 
@@ -113,14 +114,14 @@ Verwenden Sie genau:
 ## Verbotene Inhalte
 
 - Schließen **nicht** Jira-Schlüssel, interne Problemnummern, interne URLs oder Unternehmens-Wiki-Links in veröffentlichten Versionshinweisen ein.
-- Geben **&#x200B;**&#x200B;Dokumente, Tickets oder interne Tools zum Wissenstransfer nicht als Nachweis an. Fassen Sie nur benutzerfreundliche Ergebnisse zusammen.
-- Duplizieren **&#x200B;**&#x200B;nicht `{#latest}` in mehreren Abschnitten.
+- Geben **** Dokumente, Tickets oder interne Tools zum Wissenstransfer nicht als Nachweis an. Fassen Sie nur benutzerfreundliche Ergebnisse zusammen.
+- Duplizieren **** nicht `{#latest}` in mehreren Abschnitten.
 
 ## Qualitätskontrollen
 
 Vor Abschluss der Aufgabe:
 
-- [ ] **Umfang:** Nur der `## … {#latest}` wurde hinzugefügt oder bearbeitet; **frühere Versionshinweise** und ältere Monatsabschnitte wurden nicht geändert, außer dem [Archivieren des vorherigen &#x200B;](#archive-previous-latest) Ausschneiden/Einfügen des vorherigen `{#latest}` in einen **neuen** Archivblock.
+- [ ] **Umfang:** Nur der `## … {#latest}` wurde hinzugefügt oder bearbeitet; **frühere Versionshinweise** und ältere Monatsabschnitte wurden nicht geändert, außer dem [Archivieren des vorherigen ](#archive-previous-latest) Ausschneiden/Einfügen des vorherigen `{#latest}` in einen **neuen** Archivblock.
 - [ ] Alle neuen oder geänderten relativen Links werden nach Möglichkeit in echte Pfade unter `help/` aufgelöst.
 - [ ] Beta-Funktionen enthalten bei Bedarf das Beta-Badge-Snippet .
 - [ ] Terminologie entspricht den vorhandenen Versionshinweisen (`[!DNL …]`, `[!UICONTROL …]`).
@@ -130,7 +131,7 @@ Vor Abschluss der Aufgabe:
 
 ## Inhaltsquellen (Zusammenfassung)
 
-Wenn Sie intern aus Wissenstransferdokumenten abrufen oder Wikis freigeben, ordnen Sie Felder zu, wie in [reference.md](reference.md#internal-sources-kt-and-release-wikis) beschrieben. Die bereitgestellte Seite muss als eigenständige Benutzerdokumentation lesen.
+Wenn **Jira/Confluence MCP** verfügbar ist, beginnen Sie mit [consumer-release-sources](../consume-release-sources/SKILL.md) (Zeremonie-Wiki → KT-Seiten → strukturierter Übergabe). Ordnen Sie andernfalls eingefügte Wiki-Felder für den Wissenstransfer oder die Freigabe zu, wie in [reference.md](reference.md#internal-sources-kt-and-release-wikis) beschrieben. Die bereitgestellte Seite muss als eigenständige Benutzerdokumentation lesen.
 
 ## Optional: Neue Unterabschnitte polieren
 
