@@ -220,7 +220,7 @@ Im Plug-in-Bedienfeld wird eine ZIP-Datei erstellt oder es wird ein Link zu **[!
 Mit dem Figma-Plug-in können Sie einen Figma-Frame, mehrere Frames oder ein ganzes Dokument in das Photoshop-Format konvertieren und für die Verwendung mit [GenStudio Photoshop](photoshop-plugin.md) exportieren. Derzeit werden während der Konvertierung nur wichtige Eigenschaften wie Sichtbarkeit, Schriftgröße und grundlegende Ebenenattribute unterstützt. Funktionen wie Durchstreichen, Hochgestellt, Tiefgestellt, Deckkraft als Prozentsätze, Verläufe und ähnliche erweiterte Eigenschaften werden noch nicht unterstützt.
 
 <!-- GS-34076: Demo video placement is hardcoded in the tool UI; keep this video above "The plugin supports the following Figma layer types for conversion." -->
->[!VIDEO](https://video.tv.adobe.com/v/3492271?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492278?captions=ger&learn=on)
 
 Das Plug-in unterstützt die folgenden Figma-Ebenentypen für die Konvertierung:
 
