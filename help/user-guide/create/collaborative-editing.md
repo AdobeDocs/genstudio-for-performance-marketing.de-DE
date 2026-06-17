@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Entwürfe für bezahlte Medien mit Mitwirkend
 feature: Create Canvas
 role: User
 level: Beginner
-source-git-commit: 80f96e0db22ab9215660991f0833da719bdc6393
+source-git-commit: 519c4d0273c996dbebcc28ee90a6b31006581305
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -30,11 +30,11 @@ Die kollaborative Bearbeitung auf der Horizon-Arbeitsfläche bietet die folgende
 
 Alle eingeladenen Mitarbeiter können den Entwurf öffnen und anzeigen. In der folgenden Tabelle sind Bearbeitungs- und Workflow-Aktionen nach Rolle aufgeführt.
 
-| Rolle | Bearbeiten von Zeichenflächen-Elementen | Chrome-Felder bearbeiten | Entwurf freigeben | Starten einer Überprüfung und Genehmigung | Veröffentlichen | Anmerkungen |
-| --- | --- | --- | --- | --- | --- | --- |
-| **[!UICONTROL Besitzer bzw. Besitzerin]** | Ja | Ja | Ja | Ja | Ja | Nur Dokumentersteller |
-| **[!UICONTROL Bearbeiter]** | Ja | Ja | Ja | Ja | Ja | Benutzer werden explizit als **[!UICONTROL Editor“]** |
-| **[!UICONTROL Betrachter]** | Nein | Nein | Nein | Nein | Nein | Als &quot;**[!UICONTROL &quot; eingeladene]** |
+| Rolle | Bearbeiten von Zeichenflächen-Elementen | Chrome-Felder bearbeiten | Entwurf freigeben | Entwurf löschen | Starten einer Überprüfung und Genehmigung | Veröffentlichen | Anmerkungen |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **[!UICONTROL Besitzer bzw. Besitzerin]** | Ja | Ja | Ja | Ja | Ja | Ja | Nur Dokumentersteller |
+| **[!UICONTROL Bearbeiter]** | Ja | Ja | Ja | Nein | Ja | Ja | Benutzer werden explizit als **[!UICONTROL Editor“]** |
+| **[!UICONTROL Betrachter]** | Nein | Nein | Nein | Nein | Nein | Nein | Als &quot;**[!UICONTROL &quot; eingeladene]** |
 
 ## Voraussetzungen
 
