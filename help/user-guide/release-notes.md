@@ -39,9 +39,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b739e84a2345c8bceceff150aa0aa51ba960b0e7
+source-git-commit: 3f40cc7affba7d49430e3a0e6cf01f76ac31a02a
 workflow-type: tm+mt
-source-wordcount: 5284
+source-wordcount: 5467
 ht-degree: 0%
 
 ---
@@ -152,6 +152,26 @@ Weitere Informationen finden Sie unter [Verwenden von Adobe Express-Vorlagen in 
 ### TikTok-Inhalte in GenStudio for Performance Marketing
 
 Sie können jetzt In-Feed-Videoanzeigen für TikTok über GenStudio for Performance Marketing erstellen, genehmigen und aktivieren. Einfaches Generieren von Anzeigen im [!DNL Create]-Workflow und anschließendes Veröffentlichen des Erlebnisses in [!DNL Content]. Verwenden Sie [!DNL Insights] für TikTok, um die Leistung zu überwachen und über die nächste kreative Aktualisierung zu informieren.
+
+### Content Intelligence FEATURATION V4
+
+Die Funktion V4 stellt eine umfassende Aktualisierung von V3 dar und führt ein Advertising-First-Design mit vielen neuen werbespezifischen Funktionen für Bild-, Text- und Videoinhaltstypen ein.
+
+Zu den Vorteilen von V4 gehören:
+
+* **Advertising-First-Design**: Speziell für die Werbeanalyse entwickelt, mit einer umfangreichen CTA/Offer/Logo-Analyse-Suite (18 kombinierte Funktionen).
+* **Granulare Taxonomie**: 249 % mehr Funktionen mit klarer Kategorisierung und konsistenten Funktionsdefinitionen in Bild/Text/Video.
+* **Bewertung der Produktionsqualität**: 13 Videoqualitätsfunktionen für die technische Qualitätsbewertung, die Optimierung der Mobilgeräte und die Klassifizierung des Produktionstyps (CLC/Studio/UGC).
+* **Verbessertes semantisches Verständnis**: Neue Funktionen, einschließlich Markenpersonas, menschliche Wünsche, kognitive Trigger und umfassende Entitätserkennung.
+* **Kanalübergreifende Konsistenz**: Vereinheitlichte Funktionen für verschiedene Inhaltstypen, die eine kanalübergreifende Werbeanalyse ermöglichen.
+* **Optimierung für Mobilgeräte**: Dedizierte Funktionen für Seitenverhältnis, Platzierungsanpassung und mobilnative Erkennung.
+
+**Wichtigste Funktionszusätze:**
+
+* Advertising Suite (über 20 Funktionen): CTA/Angebots-/Logoanalyse, Co-Branding, Influencer-Erkennung
+* Kampagnen- und Produktkontext (7 Funktionen): Produkt, Kampagnenziel/-thema, Zielgruppe, Land, Geografie
+* Metriken zur Videoqualität (13 Funktionen): Technische Qualität, Produktionsklassifizierung, Optimierung für Mobilgeräte
+* Erkennung von Entitäten (9 Funktionen): Influencer, Veranstaltungen, Veranstaltungsorte, Marken-/Produktbeschreibungen, beliebte Medien
 
 +++
 
