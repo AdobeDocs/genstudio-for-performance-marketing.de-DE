@@ -6,26 +6,15 @@ role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
 TQID: https://experienceleague.adobe.com/kXXSni5VZMFH615A-Re1-QjLooEyfXcMwVBwXnxp58s
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10f44078f4c1b5865006311f9b32eab479986722
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: dec342aaecde7f5a23c4c98b97703071adf929f5
 workflow-type: tm+mt
-source-wordcount: 1443
+source-wordcount: 1654
 ht-degree: 1%
 
 ---
@@ -40,7 +29,7 @@ GenStudio for Performance Marketing unterstützt zwar nicht die direkte Erstellu
 
 2. **Codieren Sie Ihre Vorlage**: Konvertieren Sie Ihr Design in HTML und Inline-CSS, um sicherzustellen, dass es auf verschiedenen Geräten sauber und responsiv ist. Beachten Sie die [Richtlinien zur Barrierefreiheit](accessibility-for-templates.md) um Ihre maximal vorgesehene Zielgruppe zu erreichen.
 
-3. **Vorbereiten für GenStudio for Performance Marketing**: Passen Sie Ihre HTML-Vorlage mithilfe der Handlebars-Vorlagensprache an. Fügen Sie Platzhalter ein, um anzugeben, wo GenStudio for Performance Marketing Inhalte dynamisch generieren soll. Siehe „Anpassen [&#x200B; Vorlage](customize-template.md) für GenStudio for Performance Marketing.
+3. **Vorbereiten für GenStudio for Performance Marketing**: Passen Sie Ihre HTML-Vorlage mithilfe der Handlebars-Vorlagensprache an. Fügen Sie Platzhalter ein, um anzugeben, wo GenStudio for Performance Marketing Inhalte dynamisch generieren soll. Siehe „Anpassen [ Vorlage](customize-template.md) für GenStudio for Performance Marketing.
 
 Wenn Sie diese Schritte befolgen, können Sie professionelle und effektive Vorlagen erstellen, die für die Verwendung in GenStudio for Performance Marketing bereit sind, sodass Sie Markeninhalte schnell und effizient erstellen können.
 
@@ -73,11 +62,11 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 >[!TIP]
 >
->Befolgen Sie [Richtlinien für &#x200B;](accessibility-for-templates.md) Barrierefreiheit[&#x200B; und „Best &#x200B;](/help/user-guide/templates/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
+>Befolgen Sie [Richtlinien für ](accessibility-for-templates.md) Barrierefreiheit[ und „Best ](/help/user-guide/templates/best-practices-for-templates.md)&quot;, damit Sie mehr Ihrer Audience erreichen und ein optimales Erlebnis bieten können.
 
 ## Verwalten von Vorlagen
 
-Der _[!DNL Templates]_&#x200B;zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
+Der _[!DNL Templates]_zeigt Ihr Inventar von Vorlagen an, die für die Generierung von Erlebnissen in GenStudio for Performance Marketing angepasst wurden.
 
 ### Vorlagen suchen
 
@@ -90,9 +79,9 @@ Beispielsweise können Sie eine Vorlage eines bestimmten Kanaltyps oder Seitenve
 
 Im Folgenden sehen Sie die Filterung nach Kanaltyp, z. B. E-Mail, Display-Anzeigen, Meta-Anzeigen und LinkedIn-Anzeigen.
 
-![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650"}
+![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650" zoomable="yes"}
 
-Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL &#x200B; Vorlage für eigene oder bezahlte &#x200B;] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
+Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL  Vorlage für eigene oder bezahlte ] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 
 ### Vorlage hinzufügen
 
@@ -100,34 +89,55 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 **So fügen Sie eine Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie in _[!DNL Content]_in der oberen Leiste den ]****[!UICONTROL HTML-Vorlagen} aus.
 
-2. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL + Vorlage hinzufügen]**.
 
-3. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Wählen _[!UICONTROL im Bereich „Genehmigte Vorlage hinzufügen]_ den Vorlagentyp aus. Suchen Sie dann nach der HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
 
-4. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
+   ![Vorlagentypen im Fensterbereich](/help/assets/template-choose-type.png){width="500" zoomable="yes"}
 
-   Beispielvorschau für eine E-Mail-Vorlage:
-
-   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650"}
+1. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
 
    >[!TIP]
    >
-   >Wenn die Vorlage nicht korrekt ist, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch. Oder verwenden Sie den [Vorlagen-Code](/help/user-guide/templates/code-editor.md)Editor, um einfache Korrekturen vorzunehmen.
+   >Wenn die Details in der Vorlage nicht korrekt sind, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch. Oder verwenden Sie den [Vorlagen-Code](/help/user-guide/templates/code-editor.md)Editor, um einfache Korrekturen vorzunehmen.
 
-5. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
+1. Überprüfen Sie die automatisch erkannten Felder. In der Vorschau-/Code-Ansicht mit zwei Bereichen zeigt das linke Bedienfeld eine Live-Vorschau der Vorlage mit farblich hervorgehobenen erkannten Bereichen an.In der rechten Seitenleiste wird die Feldliste aller erkannten Felder mit dem aktuellen Slot-Status angezeigt. Felder werden mit Handlebars-Notation versehen (z. B. `{{headline}}`, `{{body}}`, `{{image}}`), die auf der Registerkarte „Code“ sichtbar ist.
 
-6. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
+   Beispielvorschau für eine E-Mail-Vorlage:
+
+   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+
+1. Wenn ein Bereich nicht automatisch erkannt wurde, bewegen Sie den Mauszeiger im Vorschaubereich darüber, um die Funktion **Mauszeiger zu Tag** anzuzeigen. Klicken Sie, um ein Handlebars-Tag zuzuweisen und den richtigen Steckplatzstatus festzulegen.
+
+   ![Hover-to-Tag-Funktion mit Slot-Status für ein Logo-Feld](/help/assets/template-slot-state.png){width="500" zoomable="yes"}
+
+   >[!TIP]
+   >
+   > **Steckplatzstatus**
+   >
+   > Weisen Sie jedem erkannten Feld den entsprechenden Slot-Status zu:
+   >
+   > | **Steckplatzstatus** | **Beschreibung** | **Verwenden Sie für** |
+   > |---|---|---|
+   > | **Sonstige (bearbeitbar)** | KI generiert zur Laufzeit Inhalte für dieses Feld oder ermöglicht die manuelle Bearbeitung eines benutzerdefinierten Felds. | Überschriften, Textkörper, CTAs - überall dort, wo KI-Variation gewünscht ist. Oder benutzerdefinierte Felder für die manuelle Bearbeitung oder den Austausch von Inhaltsfragmenten. |
+   > | **Behoben** | Feld kann weder von KI noch von Benutzern geändert werden. | Rechtliche Hinweise, regulatorische Fußnoten, Abmelde-Links. |
+
+1. Alternativ dazu können Sie die HTML manuell in der Registerkarte Code bearbeiten und auf die Schaltfläche **[!UICONTROL Felder automatisch erkennen]** klicken, um die Erkennung erneut auszuführen und die Feldliste zu aktualisieren.
+
+1. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
+
+1. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
 
    Vorlagenname und Kanaltyp sind erforderlich. Zusätzliche Anforderungen können Folgendes umfassen:
 
-   - **Meta**: erfordert Seitenverhältnis
+   - **Meta**: Erfordert ein Seitenverhältnis
    - **Banner- und Display-Anzeige**: Erfordert Dimensionen
 
-7. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
+1. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
 
-8. Klicken Sie auf **[!UICONTROL Fertig]**.
+1. Klicken Sie auf **[!UICONTROL Fertig]**.
 
 ### Vorlage aktualisieren
 
@@ -135,7 +145,7 @@ Vorlagen können statische Dateien wie Symbole oder Logos enthalten. [Statischer
 
 **Aktualisieren der Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
 2. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
 
@@ -147,7 +157,7 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 **So erstellen Sie ein Erlebnis mit einer Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
 2. Klicken Sie auf eine Vorlage, um eine vollständige Ansicht und eine Liste der Details anzuzeigen.
 
@@ -177,4 +187,4 @@ Zu den erkannten Anwendungsmustern gehören:
 
 >[!ENDSHADEBOX]
 
-Passen Sie [&#x200B; Ihre Vorlage mit &#x200B;](/help/user-guide/templates/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.
+Passen Sie [ Ihre Vorlage mit ](/help/user-guide/templates/customize-template.md) an, um anzugeben, wo GenStudio for Performance Marketing Inhalte für Sie generieren soll. [Vorlage hinzufügen](#add-a-template) zum [!DNL Content]-Repository hinzufügen und die Vorlage validieren. Nehmen Sie mit dem Code-Editor kleinere Korrekturen vor.
