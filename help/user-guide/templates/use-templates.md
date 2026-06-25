@@ -23,9 +23,9 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10f44078f4c1b5865006311f9b32eab479986722
+source-git-commit: dec342aaecde7f5a23c4c98b97703071adf929f5
 workflow-type: tm+mt
-source-wordcount: 1443
+source-wordcount: 1654
 ht-degree: 1%
 
 ---
@@ -90,7 +90,7 @@ Beispielsweise können Sie eine Vorlage eines bestimmten Kanaltyps oder Seitenve
 
 Im Folgenden sehen Sie die Filterung nach Kanaltyp, z. B. E-Mail, Display-Anzeigen, Meta-Anzeigen und LinkedIn-Anzeigen.
 
-![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650"}
+![Inhaltsvorlagenliste](/help/assets/content-templates-filter.png "Durchsuchen der LinkedIn-Vorlagen"){width="650" zoomable="yes"}
 
 Die Vorlagensuchfunktion ist bei der Auswahl [!UICONTROL &#x200B; Vorlage für eigene oder bezahlte &#x200B;] während der Erstellung verfügbar. Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vorlagen im Repository den entsprechenden Metadatenkriterien entsprechen. Stellen Sie sicher, dass Vorlagen ordnungsgemäß mit Metadaten getaggt sind, damit sie über diese Filter auffindbar sind.
 
@@ -100,34 +100,55 @@ Bevor Sie eine Vorlage hochladen, stellen Sie sicher, dass sie vollständig vorb
 
 **So fügen Sie eine Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
+1. Wählen Sie in _[!DNL Content]_&#x200B;in der oberen Leiste den **&#x200B;**&#x200B;HTML-Vorlagen&rbrace; aus.
 
-2. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
+1. Klicken Sie auf **[!UICONTROL + Vorlage hinzufügen]**.
 
-3. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ die HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Wählen _[!UICONTROL im Bereich „Genehmigte Vorlage hinzufügen]_ den Vorlagentyp aus. Suchen Sie dann nach der HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei in den Ablagebereich. Klicken Sie auf **[!UICONTROL Weiter]**.
 
-4. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
+   ![Vorlagentypen im Fensterbereich](/help/assets/template-choose-type.png){width="500" zoomable="yes"}
 
-   Beispielvorschau für eine E-Mail-Vorlage:
-
-   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650"}
+1. Überprüfen Sie _[!UICONTROL Bereich „Erkannte]_ überprüfen“ die Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind.
 
    >[!TIP]
    >
-   >Wenn die Vorlage nicht korrekt ist, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch. Oder verwenden Sie den [Vorlagen-Code](/help/user-guide/templates/code-editor.md)Editor, um einfache Korrekturen vorzunehmen.
+   >Wenn die Details in der Vorlage nicht korrekt sind, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch. Oder verwenden Sie den [Vorlagen-Code](/help/user-guide/templates/code-editor.md)Editor, um einfache Korrekturen vorzunehmen.
 
-5. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
+1. Überprüfen Sie die automatisch erkannten Felder. In der Vorschau-/Code-Ansicht mit zwei Bereichen zeigt das linke Bedienfeld eine Live-Vorschau der Vorlage mit farblich hervorgehobenen erkannten Bereichen an.In der rechten Seitenleiste wird die Feldliste aller erkannten Felder mit dem aktuellen Slot-Status angezeigt. Felder werden mit Handlebars-Notation versehen (z. B. `{{headline}}`, `{{body}}`, `{{image}}`), die auf der Registerkarte „Code“ sichtbar ist.
 
-6. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
+   Beispielvorschau für eine E-Mail-Vorlage:
+
+   ![Vorschau der Felder erkannt](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+
+1. Wenn ein Bereich nicht automatisch erkannt wurde, bewegen Sie den Mauszeiger im Vorschaubereich darüber, um die Funktion **Mauszeiger zu Tag** anzuzeigen. Klicken Sie, um ein Handlebars-Tag zuzuweisen und den richtigen Steckplatzstatus festzulegen.
+
+   ![Hover-to-Tag-Funktion mit Slot-Status für ein Logo-Feld](/help/assets/template-slot-state.png){width="500" zoomable="yes"}
+
+   >[!TIP]
+   >
+   > **Steckplatzstatus**
+   >
+   > Weisen Sie jedem erkannten Feld den entsprechenden Slot-Status zu:
+   >
+   > | **Steckplatzstatus** | **Beschreibung** | **Verwenden Sie für** |
+   > |---|---|---|
+   > | **Sonstige (bearbeitbar)** | KI generiert zur Laufzeit Inhalte für dieses Feld oder ermöglicht die manuelle Bearbeitung eines benutzerdefinierten Felds. | Überschriften, Textkörper, CTAs - überall dort, wo KI-Variation gewünscht ist. Oder benutzerdefinierte Felder für die manuelle Bearbeitung oder den Austausch von Inhaltsfragmenten. |
+   > | **Behoben** | Feld kann weder von KI noch von Benutzern geändert werden. | Rechtliche Hinweise, regulatorische Fußnoten, Abmelde-Links. |
+
+1. Alternativ dazu können Sie die HTML manuell in der Registerkarte Code bearbeiten und auf die Schaltfläche **[!UICONTROL Felder automatisch erkennen]** klicken, um die Erkennung erneut auszuführen und die Feldliste zu aktualisieren.
+
+1. Klicken Sie **[!UICONTROL Weiter]** wenn Sie mit der Vorlagenvorschau zufrieden sind.
+
+1. Benennen _[!UICONTROL unter „Vorlagendetails angeben und hochladen]_ Ihre Vorlage und wählen Sie einen **[!UICONTROL Kanal]** Typ aus.
 
    Vorlagenname und Kanaltyp sind erforderlich. Zusätzliche Anforderungen können Folgendes umfassen:
 
-   - **Meta**: erfordert Seitenverhältnis
+   - **Meta**: Erfordert ein Seitenverhältnis
    - **Banner- und Display-Anzeige**: Erfordert Dimensionen
 
-7. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
+1. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenidentifizierung bei Suchen und Filtern zu verbessern.
 
-8. Klicken Sie auf **[!UICONTROL Fertig]**.
+1. Klicken Sie auf **[!UICONTROL Fertig]**.
 
 ### Vorlage aktualisieren
 
