@@ -1,5 +1,5 @@
 ---
-title: Adobe GenStudio for Performance Marketing-Integrationen
+title: Integrationen für Adobe GenStudio for Performance Marketing
 description: Erfahren Sie mehr über die für Adobe GenStudio for Performance Marketing verfügbaren Integrationen.
 feature: Generative AI
 role: User
@@ -20,28 +20,28 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
 source-git-commit: 8c7ac98d651195c28a2c82341c68d40b067b2c76
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 195
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe GenStudio for Performance Marketing-Integrationen
+# Integrationen für Adobe GenStudio for Performance Marketing
 
-GenStudio for Performance Marketing bietet Integrationen mit anderen leistungsstarken Designprodukten, die Marketing-Experten, die auf diese Produkte angewiesen sind, ein nahtloses Erlebnis bieten. Hier finden Sie Informationen zu den verfügbaren Integrationen und deren Verwendung.
+GenStudio for Performance Marketing bietet Integrationen mit anderen leistungsstarken Design-Produkten, um Marketing-Fachleuten, die diese Produkte nutzen, ein nahtloses Erlebnis zu bieten.Hier finden Sie Informationen zu den verfügbaren Integrationen und deren Verwendung.
 
-Erkunden Sie die Plug-ins, die GenStudio for Performance Marketing zusammen mit anderen Adobe-Produkten und darüber hinaus bietet, um Ihre Design-Workflows zu optimieren.
+Erkunden Sie die Plug-ins, die GenStudio for Performance Marketing für andere Adobe-Produkte und darüber hinaus bietet, um Ihre Design-Workflows zu optimieren.
 
-Hinweis: Obwohl diese Plug-ins es Kreativen ermöglichen, Anzeigen zu erstellen und als genehmigte Erlebnisse nach GenStudio zu exportieren, sind Adobe Express-Vorlagen in GenStudio for Performance Marketing der empfohlene Ansatz für Kreative, um Anzeigenvorlagen zu erstellen.
+Hinweis: Obwohl es diese Plug-ins Kreativen ermöglichen, Anzeigen zu erstellen und diese als genehmigte Erlebnisse nach GenStudio zu exportieren, sind Adobe Express-Vorlagen in GenStudio for Performance Marketing der empfohlene Ansatz für Kreative, um Anzeigenvorlagen zu erstellen.
 
 ## Figma-Plug-in
 
-Das GenStudio for Performance Marketing Figma-Plug-in fügt dem Figma-Programm ein neues Bedienfeld hinzu, mit dem Benutzende GenStudio for Performance Marketing-Aktionen ausführen können, z. B. das Generieren von markeninternen Inhalten.
+Das Figma-Plug-in für GenStudio for Performance Marketing fügt ein neues Panel hinzu, über das Benutzende GenStudio for Performance Marketing-Aktionen wie das Generieren von markenkonformen Inhalten durchführen können.
 
-Erfahren Sie mehr über das Figma-Plugin auf der [Figma-Plugin](figma-plugin.md) Seite.
+Erfahren Sie mehr über das Figma-Plug-in auf der Seite [Figma-Plug-in](figma-plugin.md).
 
 ## GenStudio Photoshop
 
-GenStudio Photoshop fügt ein neues Bedienfeld zu Adobe Photoshop hinzu, mit dem Benutzende GenStudio for Performance Marketing-Aktionen ausführen können, z. B. das Generieren von markeninternen Inhalten.
+GenStudio Photoshop fügt ein neues Panel zu Adobe Photoshop hinzu, mit dem Benutzende GenStudio for Performance Marketing-Aktionen ausführen können, z. B. das Generieren von markenkonformen Inhalten.
 
-Weitere Informationen zu GenStudio Photoshop finden Sie auf der Seite [GenStudio Photoshop](photoshop-plugin.md) .
+Weitere Informationen zu GenStudio Photoshop finden Sie auf der Seite [GenStudio Photoshop](photoshop-plugin.md).

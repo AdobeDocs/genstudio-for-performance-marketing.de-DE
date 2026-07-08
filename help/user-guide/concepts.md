@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio for Performance Marketing-Konzepte
-description: Erfahren Sie mehr über Adobe GenStudio for Performance Marketing-Konzepte und -Terminologie.
+title: Konzepte von Adobe GenStudio for Performance Marketing
+description: Erfahren Sie mehr über die Konzepte und die Terminologie von Adobe GenStudio for Performance Marketing.
 feature: Generative AI
 role: User
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
@@ -31,41 +31,41 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
 source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 754
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Konzepte
 
-GenStudio for Performance Marketing ist ein eigenständiges Unternehmensprodukt, das den Adobe Content supply chain enthält, um Marketing-Kampagnen zu optimieren. Es ist eine Herausforderung, personalisierte, von der Marke genehmigte Inhalte in großem Maßstab zu erstellen, die Effektivität zu überwachen und sich schnell an den sich ständig verändernden Markt anzupassen. GenStudio for Performance Marketing führt Creative Cloud und CX Enterprise in einer Anwendung zusammen, die generative KI als Leistungsmultiplikator für Marketing-Teams in Unternehmen nutzt.
+GenStudio for Performance Marketing ist ein eigenständiges Unternehmensprodukt, das die Content-Lieferkette von Adobe zur Optimierung von Marketing-Kampagnen verkörpert.Es ist eine Herausforderung, personalisierte, markenkonforme Inhalte im benötigten Umfang zu erstellen, die Effektivität zu überwachen und sich schnell an den sich ständig verändernden Markt anzupassen.GenStudio for Performance Marketing vereint Creative Cloud und CX Enterprise in einer Anwendung, die generative KI als Leistungsmultiplikator für Marketing-Teams in Unternehmen nutzt.
 
-Mit GenStudio for Performance Marketing können Sie:
+GenStudio for Performance Marketing bietet Ihnen folgende Möglichkeiten:
 
-* Erstellen Sie markeninterne Inhalte mit natürlichen Sprachaufforderungen für Ihre digitalen Kanäle der obersten Priorität, wie bezahlte Medien, E-Mail und Display-Anzeigen
+* Erstellen von markenkonformen Inhalten mithilfe von Prompts in natürlicher Sprache für Ihre wichtigsten digitalen Kanäle, wie z. B. Paid Media, E-Mails und Display-Anzeigen
 
-* Zusammenarbeit mit Stakeholdern zur Überprüfung und Genehmigung generierter Inhalte
-* Generierte und genehmigte Inhalte für den Zugriff auf zukünftige Marketing-Kampagnen speichern
-* Bewertung der Content-Effektivität durch Analyse der Asset-Performance und Identifizierung der wichtigsten Attribute leistungsstarker Inhalte
+* Zusammenarbeit mit den Stakeholdern bei der Überprüfung und Genehmigung der generierten Inhalte
+* Speichern von generierten und genehmigten Inhalten, um sie für zukünftige Marketing-Kampagnen nutzen zu können
+* Bewerten der Effektivität von Inhalten durch Analyse der Asset-Leistung und Identifikation der wichtigsten Attribute der Inhalte mit der besten Leistung
 
-## Generative KI-Technologie
+## Technologie für generative KI
 
-GenStudio for Performance Marketing nutzt die Leistungsfähigkeit generativer KI, um den Prozess der Inhaltserstellung zu beschleunigen und eine hochwertige Inhaltserstellung sicherzustellen. Der iterative Lebenszyklus Ihrer Kreativ-Assets führt zu immer genaueren und markenorientierten Inhalten, die bei Ihrer Zielgruppe Anklang finden.
+GenStudio for Performance Marketing nutzt die Leistungsfähigkeit generativer KI, um den Prozess der Inhaltserstellung zu beschleunigen und die Generierung hochwertiger Inhalte sicherzustellen.Der iterative Lebenszyklus Ihrer Kreativ-Assets führt zu immer präziseren und markenkonformen Inhalten, die bei Ihrer Zielgruppe Anklang finden.
 
-Beginnen Sie mit der Aufnahme des Brandings, der Kundenrollen und Produktbeschreibungen Ihres Unternehmens durch die leistungsstarke Funktion „Markenrichtlinien“. Informationen zum Vorbereiten und Hochladen [&#x200B; Richtlinien finden &#x200B;](../user-guide/guidelines/overview.md) unter „Richtlinien - Übersicht“.
+Beginnen Sie damit, das Branding, die Kundenpersonas und die Produktbeschreibungen Ihrer Organisation mithilfe der leistungsstarken Funktion für Markenrichtlinien zu erfassen.Weitere Informationen zum Vorbereiten und Hochladen dieser Richtlinien finden Sie unter [Richtlinien – Überblick](../user-guide/guidelines/overview.md).
 
 {{in-academy}}
 
-### Große Sprachmodelle
+### Large Language Models
 
-GenStudio for Performance Marketing nutzt Adobes generative KI-Plattform, die grundlegende KI- und maschinelle Lerndienste (ML) bietet. Diese Plattform vereinfacht die Verwendung umfangreicher Sprachmodelle (LLMs) und ermöglicht mit den GenAI-Funktionen von Adobe die Erstellung ansprechender Erlebnisse.
+GenStudio for Performance Marketing nutzt die Adobe-Plattform für generative KI, die grundlegende Dienste für KI und maschinelles Lernen (ML) bereitstellt.Diese Plattform vereinfacht die Verwendung von Large Language Models (LLMs) und ermöglicht mit den GenAI-Funktionen von Adobe die Erstellung ansprechender Erlebnisse.
 
 GenStudio for Performance Marketing verwendet die GPT-Serie von Drittanbieter-LLMs über Azure OpenAI.<!-- Claude, and Gemini models. -->
 
 ## [!DNL Generative Actions]
 
-_[!DNL Generative Actions]_&#x200B;sind, wie in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) definiert, die Einheiten, die die Verwendung von generativen KI-Funktionen in GenStudio for Performance Marketing quantifizieren.
+Bei _[!DNL Generative Actions]_, wie in der [Produktbeschreibung von Adobe GenStudio for Performance Marketing](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) definiert, handelt es sich um die Einheiten, die die Verwendung von generativen KI-Funktionen in GenStudio for Performance Marketing quantifizieren.
 
 <!-- 
 Add example about usage mode?
@@ -74,22 +74,22 @@ How they re-up their genactions
 If genactions roll over month to month or not 
 -->
 
-### Abrechnungssätze
+### Preise
 
-Sie erhalten eine Standardzuteilung von [!DNL Generative Actions], wie in der [GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) beschrieben.
+Sie erhalten eine Standardzuteilung von [!DNL Generative Actions], wie in der [Produktbeschreibung von GenStudio for Performance Marketing](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) erläutert.
 
 >[!NOTE]
 >
->Die Nutzungsraten können variieren. Pläne können sich ändern. Aktualisierte Informationen zum Tarif finden Sie in [&#128279;](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Adobe GenStudio for Performance Marketing-Produktbeschreibung.
+>Die Nutzungsraten können variieren.Pläne können sich ändern.Aktualisierte Informationen zu den Tarifen finden Sie in der [Produktbeschreibung für Adobe GenStudio for Performance Marketing](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html).
 
-Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegebenen Rate.
+Die folgenden Funktionen verbrauchen [!DNL Generative Actions] zum angegebenen Tarif.
 
-| Funktion | Rate generativer Aktionen |
+| Funktion | Tarif für generative Aktionen |
 | -----------------------  | ------------------ |
-| E-Mail erstellen | 5 pro Generation |
-| Erstellen von Paid Media-Anzeigen | 5 pro Generation |
-| Erstellen von Display-Anzeigen | 5 pro Generation |
-| Abschnitte regenerieren | 1 pro Generation |
+| E-Mail erstellen | 5 pro Generierung |
+| Paid-Media-Anzeigen erstellen | 5 pro Generierung |
+| Display-Anzeigen erstellen | 5 pro Generierung |
+| Abschnitte neu generieren | 1 pro Generierung |
 
 <!-- 
 | Generate on-brand images | 1 per prompt  |
@@ -98,30 +98,30 @@ Die folgenden Funktionen verbrauchen [!DNL Generative Actions] mit der angegeben
 | Video: TTS + Avatar      | 1 per prompt  | 
 -->
 
-[!DNL Generative Actions] _werden nicht_, wenn:
+[!DNL Generative Actions] _werden nicht_ verbraucht, wenn:
 
-* Verwendung [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) während der Variantengenerierung
+* Verwenden der [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) während der Variantengenerierung
 * Extrahieren von Informationen aus [hochgeladenen Richtlinien](/help/user-guide/guidelines/add-guidelines.md)
-* Manuelles [&#x200B; von Varianten](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
-* Digitale Assets werden automatisch mit Attributen versehen ([[!DNL Insights]](/help/user-guide/insights/overview.md))
+* Manuelle [erneute Überprüfung von Varianten](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
+* Digitale Assets werden automatisch mit Attributen getaggt ([[!DNL Insights]](/help/user-guide/insights/overview.md))
 
 >[!TIP]
 >
->Wenn Sie Ihre [!DNL Generative Actions] überschreiten, können Sie direkt bei Ihrem Kundenbetreuer einkaufen.
+>Wenn Sie Ihr Kontingent für [!DNL Generative Actions] überschreiten, können Sie weitere direkt bei Ihrer Kundenbetreuung erwerben.
 
 ## Data Governance
 
-Bei der Arbeit mit KI zum Generieren von Inhalten ist es wichtig sicherzustellen, dass die Ausgabe sicher und für alle Benutzer inklusiv ist. Dies erfordert die Auswertung der Inhalte auf potenziell schädliche Vorurteile, Hassreden, beleidigendes Material oder Obszönitäten. Adobe testet die Inhaltserstellungstechnologie aus verschiedenen Perspektiven gründlich, führt umfassende Ethikprüfungen durch und implementiert wirksame Minderungspläne, um zu verhindern, dass schädliche Inhalte in die Ergebnisse gelangen.
+Bei der Arbeit mit KI zum Generieren von Inhalten ist es wichtig sicherzustellen, dass der Output sicher und für alle Benutzenden inklusiv ist.Dies erfordert die Auswertung des Inhalts im Hinblick auf potenziell schädliche Vorurteile, Hassreden, anstößiges Material oder Obszönitäten.Adobe testet die Technologie zur Erstellung von Inhalten eingehend aus verschiedenen Perspektiven, führt umfassende ethische Überprüfungen durch und implementiert wirksame Minderungspläne, um zu verhindern, dass in den Ergebnissen schädliche Inhalte vorkommen.
 
-Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und stellt die Einhaltung der Richtlinien für Vertrauen und Sicherheit sowie Ethik von [Adobe &#x200B;](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
+Dieser Ansatz stärkt die soziale Verantwortung, minimiert das Reputationsrisiko und gewährleistet die Einhaltung der [Richtlinien von Adobe zu Vertrauen, Sicherheit und Ethik](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
 
-GenStudio for Performance Marketing umfasst Minderungspläne, um die Verwendung identifizierter schädlicher oder verzerrter Inhalte gemäß den Data Governance-Standards und -Richtlinien von Adobe zu verhindern. Wenn solche Inhalte erkannt werden, werden Sie darauf hingewiesen, dass die Asset-Generierung mit der Meldung „Kann nicht generiert werden“ blockiert wird.
+GenStudio for Performance Marketing umfasst Minderungspläne, um die Verwendung identifizierter schädlicher oder verzerrter Inhalte gemäß den Data-Governance-Standards und -Richtlinien von Adobe zu verhindern.Wenn solche Inhalte erkannt werden, werden Sie darüber informiert, dass die Erstellung von Assets mit der Meldung „Generieren nicht möglich“ blockiert wird.
 
-Wenn diese Nachricht angezeigt wird, können Sie die Eingabeaufforderung bearbeiten und erneut versuchen _den Inhalt der Eingabeaufforderung zur Überprüfung durch GenStudio for Performance Marketing kennzeichnen_ oder markieren). Die Prompt-Daten für Inhalte, die zur Überprüfung gekennzeichnet sind, werden zu internen Überprüfungszwecken erfasst.
+Wenn diese Meldung angezeigt wird, können Sie den Prompt bearbeiten und es erneut versuchen _oder_ den Inhalt des Prompts zur Überprüfung durch GenStudio for Performance Marketing kennzeichnen.Die Prompt-Daten für Inhalte, die zur Überprüfung gekennzeichnet sind, werden zur internen Überprüfung erfasst.
 
-## Inhaltslebenszyklus
+## Content-Lebenszyklus
 
-Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen schneller. GenStudio for Performance Marketing vereinfacht die Inhalts-supply chain in einen gut organisierten Workflow für Marketing-Fachleute. GenStudio for Performance Marketing nutzt Adobe-Technologie in jeder Phase des Lebenszyklus.
+Die Nachfrage nach hochwertigen Erlebnissen auf verschiedenen Kanälen und in immer kürzerer Zeit ist hoch.GenStudio for Performance Marketing vereinfacht die Content-Lieferkette und optimiert den Workflow für Marketing-Fachleute.GenStudio for Performance Marketing nutzt Adobe-Technologie in jeder Phase des Lebenszyklus.
 
 <table style="table-layout:auto">
 
@@ -135,7 +135,7 @@ Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen
 
     <td>
 
-        <p>Ideen austauschen, Richtlinien definieren und eine Strategie rund um Inhalte entwickeln, um Ihre Zielgruppe anzusprechen.</p>
+        <p>Entwickeln Sie Ideen, definieren Sie Richtlinien und erarbeiten Sie eine Strategie rund um Ihre Inhalte, um Ihre Zielgruppe anzusprechen.</p>
 
     </td>
 
@@ -151,7 +151,7 @@ Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen
 
     <td>
 
-        <p>Erstellen Sie den Inhalt basierend auf dem Plan. Zusammenarbeit in Echtzeit, Empfang von Feedback, Bearbeitung und Genehmigung von Inhalten.</p>
+        <p>Erstellen Sie die Inhalte auf der Grundlage des Plans.Arbeiten Sie in Echtzeit zusammen, erhalten Sie Feedback, führen Sie Änderungen durch und genehmigen Sie Inhalte.</p>
 
     </td>
 
@@ -167,7 +167,7 @@ Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen
 
     <td>
 
-        <p>Speichern, Freigeben und Suchen von Kreativ-Assets im zentralen Repository. Wiederverwenden und Revitalisieren von Inhalten basierend auf Leistung.</p>
+        <p>Speichern und suchen Sie Kreativ-Assets im zentralen Repository und gegeben Sie sie frei.Verwenden Sie Inhalte basierend auf der Leistung erneut und revitalisieren Sie sie.</p>
 
     </td>
 
@@ -177,13 +177,13 @@ Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen
 
     <td>
 
-        <p><strong>Versand und Aktivierung</strong></p>
+        <p><strong>Bereitstellung und Aktivierung</strong></p>
 
     </td>
 
     <td>
 
-        <p>Aktivieren von Inhalten und Veröffentlichen über mehrere Marketing-Kanäle hinweg.</P>
+        <p>Aktivieren Sie Inhalte und veröffentlichen Sie sie über mehrere Marketing-Kanäle hinweg.</P>
 
     </td>
 
@@ -193,13 +193,13 @@ Die Nachfrage nach qualitativ hochwertigen Erlebnissen ist auf mehreren Kanälen
 
     <td>
 
-        <p><strong>Reporting und Insights</strong></p>
+        <p><strong>Reporting und Erkenntnisse</strong></p>
 
     </td>
 
     <td>
 
-        <p>Erfassen Sie Daten und leiten Sie Erkenntnisse zur Asset-Leistungsoptimierung ab.</p>
+        <p>Erfassen Sie Daten und gewinnen Sie Erkenntnisse zur Optimierung der Asset-Leistung.</p>
 
     </td>
 

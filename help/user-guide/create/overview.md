@@ -31,19 +31,19 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 8565bb7f27db5d641613d56e5767882dcaaf60ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 820
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # GenStudio for Performance Marketing [!DNL Create]
 
-GenStudio for Performance Marketing [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketing-Experten und verteilte Teams in die Lage zu versetzen, leistungsstarke On-Brand-Erlebnisse zu schaffen.
+GenStudio for Performance Marketing [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketing-Experten und verteilte Teams in die Lage zu versetzen, leistungsstarke, markenkonforme Erlebnisse zu schaffen.
 
 ![Startseite erstellen](/help/assets/create-home.png){width="600" zoomable="yes"}
 
-Die [!DNL Create]-Startseite ist in Kanalabschnitte - _Eigene Medien_, _Bezahlte Medien_ und _Inhalte_ - und einen Abschnitt _Zuletzt_ zuletzt erstellte Entwürfe und veröffentlichte Inhalte unterteilt. Jeder Kanalabschnitt ermöglicht die Erstellung von Inhalten für diesen spezifischen Satz von Kanälen. Gehen Sie beispielsweise zum Abschnitt _Eigene Medien_, um mit der Erstellung einer E-Mail oder eines Banners zu beginnen.
+Die [!DNL Create]-Startseite ist in Kanalabschnitte - _Eigene Medien_, _Bezahlte Medien_ und _Inhalte_ - und einen Abschnitt _Zuletzt_ zuletzt erstellte Entwürfe und veröffentlichte Inhalte unterteilt.Jeder Kanalabschnitt ermöglicht die Erstellung von Inhalten für diesen spezifischen Satz von Kanälen.Gehen Sie beispielsweise zum Abschnitt _Eigene Medien_, um mit der Erstellung einer E-Mail oder eines Banners zu beginnen.
 
 Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 
@@ -53,13 +53,13 @@ Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 * [TikTok-Anzeigen](tiktok-experiences.md)
 * [ChatGPT-Anzeigen](create-chatgpt-ad.md)
 * [Connected TV-Anzeigen](create-ctv.md)
-* [Anzeigen anzeigen](display-ad-experiences.md)
+* [Anzeige](display-ad-experiences.md)
 * [Banner](banner-experiences.md)
 * [Bilder](generate-assets.md)
 
 Neben der Leistungsfähigkeit von [Richtlinien](/help/user-guide/guidelines/overview.md), [Inhalt](/help/user-guide/content/overview.md), [Kampagnen](/help/user-guide/campaigns/overview.md), [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md), [Aktivierung](/help/user-guide/activation/overview.md) und [Insights](/help/user-guide/insights/overview.md) ermöglicht [!DNL Create] die Erstellung wirkungsvoller markenbezogener Marketing-Inhalte.
 
-Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benutzerrollen und Berechtigungen](/help/user-guide/user-roles.md) für detaillierte Informationen zum Rollenzugriff.
+Editoren und Systemadministratoren haben vollen Zugriff auf [!DNL Create].Siehe [Benutzerrollen und Berechtigungen](/help/user-guide/user-roles.md) für detaillierte Informationen zum Rollenzugriff.
 
 ## [!DNL Create]-Anwendungsfälle
 
@@ -71,19 +71,15 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
       <a href="/help/user-guide/create/create-email-experience.md">
 
-      <img alt="Neuen Inhalt erstellen" src="../../assets/icons/icon-create.svg" width="35">
+      <img alt="Neue Inhalte erstellen" src="../../assets/icons/icon-create.svg" width="35">
 
       </a>
 
-      <div>
+      <div><a href="/help/user-guide/create/create-email-experience.md">
 
-         <a href="/help/user-guide/create/create-email-experience.md">
+         <strong>Ein E-Mail-Erlebnis erstellen</strong>
 
-         <strong>E-Mail-Erlebnis erstellen</strong>
-
-         </a>
-
-      </div>
+         </a></div>
 
    </td>
 
@@ -95,15 +91,11 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
       </a>
 
-      <div>
-
-         <a href="/help/user-guide/create/create-meta-ad.md">
+      <div><a href="/help/user-guide/create/create-meta-ad.md">
 
          <strong>Erstellen eines Meta Ad-Erlebnisses</strong>
 
-         </a>
-
-      </div>
+         </a></div>
 
    </td>
 
@@ -111,19 +103,15 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
       <a href="/help/user-guide/create/create-linkedin.md">
 
-      <img alt="Erstellen eines LinkedIn-Anzeigenerlebnisses" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+      <img alt="Erstellen Sie ein LinkedIn-Anzeigenerlebnis." src="../../assets/icons/icon-dataAnalytics.svg" width="35">
 
       </a>
 
-      <div>
+      <div><a href="/help/user-guide/create/create-linkedin.md">
 
-         <a href="/help/user-guide/create/create-linkedin.md">
+         <strong>Erstellen Sie ein LinkedIn-Anzeigenerlebnis</strong>
 
-         <strong>Erstellen eines LinkedIn-Anzeigenerlebnisses</strong>
-
-         </a>
-
-      </div>
+         </a></div>
 
    </td>
 
@@ -131,19 +119,15 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
       <a href="/help/user-guide/create/create-display-ad.md">
 
-      <img alt="Erstellen eines Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
+      <img alt="Erstellen eines Display-Anzeigen-Erlebnisses" src="../../assets/icons/icon-addTemplate.svg" width="35">
 
       </a>
 
-      <div>
+      <div><a href="/help/user-guide/create/create-display-ad.md">
 
-         <a href="/help/user-guide/create/create-display-ad.md">
+         <strong>Erstellen einer Display-Anzeige</strong>
 
-         <strong>Erstellen eines Anzeigen-Erlebnisses</strong>
-
-         </a>
-
-      </div>
+         </a></div>
 
    </td>
 
@@ -155,15 +139,11 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
       </a>
 
-      <div>
+      <div><a href="/help/user-guide/create/create-banner-experience.md">
 
-         <a href="/help/user-guide/create/create-banner-experience.md">
+         <strong>Erstellen Sie ein Banner-Erlebnis</strong>
 
-         <strong>Erstellen eines Bannererlebnisses</strong>
-
-         </a>
-
-      </div>
+         </a></div>
 
    </td>
 
@@ -171,19 +151,15 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
       <a href="/help/user-guide/create/generate-assets.md">
 
-      <img alt="Erstellen von Bildern" src="../../assets/icons/icon-asset.svg" width="35">
+      <img alt="Bilder erstellen" src="../../assets/icons/icon-asset.svg" width="35">
 
       </a>
 
-      <div>
+      <div><a href="/help/user-guide/create/generate-assets.md">
 
-         <a href="/help/user-guide/create/generate-assets.md">
+         <strong>Bilder generieren</strong>
 
-         <strong>Erstellen von Bildern</strong>
-
-         </a>
-
-      </div>
+         </a></div>
 
    </td>
 
@@ -193,13 +169,13 @@ Editoren und System Manager haben vollen Zugriff auf [!DNL Create]. Siehe [Benut
 
 GenStudio for Performance Marketing ermöglicht es Marketing-Experten **„neue Marketing-Inhalte zu**. In diesem Anwendungsbeispiel verwenden Sie definierte [Richtlinien](/help/user-guide/guidelines/overview.md) und Inspirationsbilder, um die Erstellung von markenorientierten Inhalten zu unterstützen.
 
-## [!DNL Create]
+## [!DNL Create] Funktionen
 
-[!DNL Create] integriert verschiedene Komponenten von GenStudio for Performance Marketing, um Benutzende bei der Erstellung von Inhalten zu unterstützen.
+[!DNL Create] integriert verschiedene Komponenten von GenStudio for Performance Marketing, um Benutzer bei der Erstellung von Inhalten zu unterstützen.
 
 ### Vorlagen
 
-Nachdem Sie in der Datei „Was _Sie heute erstellen?_ ausgewählt haben, welchen Kanal Sie erstellen möchten, können Sie auf von der Marke genehmigte Vorlagen zur Verwendung bei der Inhaltserstellung zugreifen. Verwenden Sie Vorlagen, um mit der Inhaltserstellung zu beginnen und mit einer definierten Markenidentität im Einklang zu bleiben.
+Nachdem Sie in der Datei „Was _Sie heute erstellen?_ ausgewählt haben, welchen Kanal Sie erstellen möchten, In diesem Abschnitt können Sie auf von der Marke genehmigte Vorlagen für die Verwendung bei der Inhaltserstellung zugreifen.Verwenden Sie Vorlagen, um den Prozess der Inhaltserstellung zu beschleunigen und mit einer definierten Markenidentität im Einklang zu bleiben.
 
 Vorlagen werden [hochgeladen und in gespeichert [!DNL Content]](/help/user-guide/content/overview.md) und sind in [!DNL Create] verfügbar.
 
@@ -207,52 +183,52 @@ Vorlagen werden [hochgeladen und in gespeichert [!DNL Content]](/help/user-guide
 
 In der Eingabeaufforderungsschublade können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (Richtlinien) und [!DNL Content] (Assets) hinzufügen, um das generierte Erlebnis zu formen.
 
-Diese hinzugefügten Parameter fügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio for Performance Marketing Richtlinien hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung geeigneter markeninterner Inhalte erheblich verbessern.
+Diese hinzugefügten Parameter fügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird.Es wird empfohlen, Ihrer GenStudio for Performance Marketing Richtlinien hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung geeigneter markenkonformer Inhalte erheblich verbessern.
 
-Inhalte - hochgeladene oder hinzugefügte Bild-Assets - in _Parameter_ werden in generierten Varianten verwendet und geben Aufschluss über den für Varianten generierten Kopieninhalt (Text). Sie können Assets hochladen oder Assets auswählen, die bereits in [!DNL Content] oder in einem beliebigen verbundenen AEM Content Hub-Repository vorhanden sind.
+Inhalte – hochgeladene oder hinzugefügte Bild-Assets – in _Parametern_ werden in generierten Varianten verwendet und geben Aufschluss über den für Varianten generierten Kopieninhalt (Text).Sie können Assets hochladen oder Assets auswählen, die bereits in [!DNL Content] oder in einem beliebigen verbundenen AEM Content Hub-Repository vorhanden sind.
 
 ### Prompts
 
-[Erstellen effektiver Eingabeaufforderungen](/help/user-guide/effective-prompts.md) ist ein wichtiger Teil des Generierungsprozesses in [!DNL Create].
+[Das Erstellen effektiver Eingabeaufforderungen](/help/user-guide/effective-prompts.md) ist ein wichtiger Teil des Generierungsprozesses in [!DNL Create].
 
 Um KI-generierte Inhalte zu erstellen, geben Sie eine [beschreibende Eingabeaufforderung](/help/user-guide/effective-prompts.md), die den Kontext oder das Erlebnis beschreibt, das Sie generieren möchten, zusammen mit [Richtlinien](/help/user-guide/guidelines/overview.md) und [_Parametern_](#parameters), in die Eingabeaufforderungsschublade ein und klicken Sie auf **[!UICONTROL Generieren]**.
 
 ### Inhaltsprüfungen
 
-GenStudio for Performance Marketing führt [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance) für jede Variante durch, um sicherzustellen, dass sie die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt. [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) Informationen stehen für jeden generierten Inhalt zur Verfügung, was darauf hinweist, dass er mit umfassenden Inhaltsprüfungen und der Kohärenz zwischen Text und Bildern konform ist. Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
+GenStudio for Performance Marketing führt für jede Variante [Inhaltsprüfungen](/help/user-guide/guidelines/brand-validation.md#content-check-panel) anhand von [Markenrichtlinien](/help/user-guide/guidelines/brands.md), Plattformrichtlinien und [Barrierefreiheitsstandards](/help/user-guide/guidelines/overview.md#compliance), um sicherzustellen, dass die [!DNL Brand]-, Plattform- und Barrierefreiheitsstandards optimal erfüllt sind.Informationen zur [Inhaltsprüfung](/help/user-guide/guidelines/brand-validation.md#content-check-summary) stehen für alle generierten Inhalte zur Verfügung. Daraus geht hervor, dass umfassende Inhaltsprüfungen bestanden wurden und dass Text und Bilder aufeinander abgestimmt sind.Sie können diese Informationen verwenden, um Ihr generiertes Erlebnis zu überarbeiten oder zu verbessern und es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 
-Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [&#x200B; Überprüfungen und Kommentare &#x200B;](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
+Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [ Überprüfungen und Kommentare ](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
 
-Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung durch die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
+Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Validierung an die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
 
 ### Entwürfe
 
-Im Abschnitt _Zuletzt verwendet_ von [!DNL Create] können Sie auf alle aktuellen Entwürfe zugreifen und sie verwalten. Zeigen Sie Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) oder den Export zur Verwendung vorzubereiten. Klicken Sie auf das Optionssymbol (drei Punkte), um einen Entwurf zu löschen.
+Im Abschnitt _Zuletzt verwendet_ von [!DNL Create] können Sie auf alle aktuellen Entwürfe zugreifen und sie verwalten.Zeigen Sie Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) oder den Export zur Verwendung vorzubereiten.Klicken Sie auf das Optionssymbol (drei Punkte), um einen Entwurf zu löschen.
 
 Entwürfe werden automatisch gespeichert und im Abschnitt _Zuletzt_&quot; [!DNL Create] Startseite angezeigt. Jeder Entwurf in diesem Abschnitt zeigt einen Status an, wie _Entwurf_ oder _Genehmigt_.
 
-Klicken Sie auf das Symbol Galerieansicht (Raster), um _Zuletzt verwendet_ Elemente entweder in einer Raster- oder Tabellenansicht anzuzeigen.
+Klicken Sie auf das Symbol „Galerieansicht (Raster)“, um _Zuletzt verwendet_ Elemente entweder in einer Raster- oder Tabellenansicht anzuzeigen.
 
-### Übersetzen und lokalisieren
+### Übersetzen und Lokalisieren
 
-Sie können genehmigte E-Mail- und Paid-Media-Erlebnisse über die [!DNL Create]-Landingpage oder von [!DNL Content] in mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
+Sie können genehmigte E-Mail- und Paid-Media-Erlebnisse über die [!DNL Create]-Landingpage oder über [!DNL Content] in mehrere Sprachen übersetzen.Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
 
-### Partizipative Bearbeitung
+### Kollaboratives Bearbeiten
 
-Entwurfsersteller können jetzt ihre Entwürfe für Mitwirkende freigeben, Rollen zuweisen und daran arbeiten, gemeinsam Inhalte in Echtzeit zu erstellen. Diese Funktion bietet neben der einfachen Überprüfung und Genehmigung einige wichtige Workflow-Vorteile:
+Erstellende von Entwürfen können diese jetzt für mitwirkende Personen freigeben, Rollen zuweisen und gemeinsam in Echtzeit an der Erstellung von Inhalten arbeiten.Diese Funktion bietet neben der einfachen Prüfung und Genehmigung einige wichtige Vorteile für den Workflow:
 
 * **Einfache Zusammenarbeit an einem vorhandenen Entwurf** mit Schnellbenachrichtigungen, ohne etwas neu erstellen oder exportieren zu müssen.
 
-* **Co-Editing in Echtzeit** zwischen Team-Mitgliedern live, ohne Dateien danach zu aktualisieren oder zusammenzuführen.
+* **Gemeinsame Bearbeitung in Echtzeit** live zwischen Team-Mitgliedern, ohne dass Dateien anschließend aktualisiert oder zusammengeführt werden müssen.
 
-* **Nur-Lese-Zugriff** damit neugierige Stakeholder die Arbeitsfläche sehen, bevor der R&amp;A-Fluss beginnt.
+* **Reiner Lesezugriff**, damit interessierte Stakeholder die Arbeitsfläche einsehen können, bevor der R&amp;A-Fluss beginnt.
 
-Erfahren Sie, wie Sie [gemeinsame Bearbeitung mit Ihren Entwürfen verwenden](collaborative-editing.md).
+Erfahren Sie, wie Sie [die kollaborative Bearbeitung mit Ihren Entwürfen nutzen](collaborative-editing.md) können.
 
 ### Verwalten von Varianten
 
 GenStudio for Performance Marketing ermöglicht [umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
 
-Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, die Größe von Assets zu erhöhen und vieles mehr - alles auf der Arbeitsfläche.
+Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, die Größe von Assets zu erhöhen und vieles mehr – alles auf der Arbeitsfläche.
