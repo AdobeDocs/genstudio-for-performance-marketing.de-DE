@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über GenStudio for Performance Marketing-Funktio
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: de08604b8968e6ae49cabd6632eb40516983d841
+source-git-commit: 96249838f5ec957edc22eadf51ec828f54002adf
 workflow-type: tm+mt
-source-wordcount: '1713'
+source-wordcount: '1870'
 ht-degree: 0%
 
 ---
@@ -126,6 +126,14 @@ Die verfügbare Textformatierung umfasst:
 1. Neuen Text eingeben.
 1. Um den Text zu formatieren, klicken Sie auf oder geben Sie in das Textfeld ein. Formatierungsoptionen werden in einer Popup-Leiste angezeigt. Wenn Sie die Umschalttaste gedrückt halten, wird die Leiste ausgeblendet, um den Text anzuzeigen.
 1. Klicken Sie auf eine Stelle außerhalb des Textfelds, um Änderungen zu speichern.
+
+### Verwenden von verknüpften Textflussfeldern
+
+[!DNL Adobe Express] unterstützt den Textfluss, mit dem ein Vorlagenautor zwei Textfelder verknüpfen kann, sodass beide Felder mit einer einzigen Phrase durchlaufen werden. Beispielsweise kann eine Überschrift in einem Feld beginnen und in einem anderen enden, oder ein Teil einer Phrase kann einen anderen Stil als der Rest verwenden. Wenn eine Vorlage mit Textfluss in [!DNL GenStudio for Performance Marketing] importiert wird, erkennt und berücksichtigt die Arbeitsfläche diese Verknüpfung. Erfahren Sie mehr über das Erstellen verknüpfter Textfelder in [Textfluss in Adobe Express](https://helpx.adobe.com/de/express/web/create-and-edit-documents-and-webpages/create-and-edit-documents/text-flow-faq.html).
+
+Sie generieren eine Kopie für verknüpfte Textfelder auf die gleiche Weise wie jedes andere Feld, ohne dass eine zusätzliche Einrichtung erforderlich ist. Die verknüpften Felder verhalten sich während der Generierung, Bearbeitung und Variantenüberprüfung wie ein einzelner verbundener Satz, sodass Sie Text nie zwischen Feldern aufteilen, kopieren oder neu positionieren müssen.
+
+Wenn die generierte Kopie zu lang ist, um in die verknüpften Felder zu passen, wird am unteren Rand des letzten Felds eine rote Linie angezeigt, um den Überlauf anzuzeigen, wobei der gleiche Indikator wie in [!DNL Adobe Express] verwendet wird. Kürzen Sie die Kopie oder generieren Sie das Feld neu, um den Überlauf zu entfernen.
 
 ### Ebenen anzeigen
 
