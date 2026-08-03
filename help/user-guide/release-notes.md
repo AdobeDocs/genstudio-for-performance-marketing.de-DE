@@ -39,7 +39,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b886e9e46f386a6b81e7430fd462b662403b9bcb
+source-git-commit: 86c5e5236bf256694858ae5b0ca1f6930cf35033
 workflow-type: tm+mt
 source-wordcount: 5723
 ht-degree: 95%
@@ -56,7 +56,7 @@ Diese Versionshinweise enthalten die neuesten Aktualisierungen für GenStudio fo
 
 ### Massenbearbeitung auf der Arbeitsfläche „Horizont“
 
-Die Horizon-Arbeitsfläche verknüpft nun verwandte Text- und Bildfelder über die Größen und Seiten hinweg in einer mehrseitigen oder mehrseitigen Vorlage, sodass eine Bearbeitung in der letzten Meile nur einmal erfolgen muss. Wählen Sie im RTE **[!UICONTROL Bedienfeld den Bereich &quot;]** auf“ aus - diese Größe, alle Größen oder alle Konzepte - und die Bearbeitung wird automatisch weitergegeben, mit der Option, die Feld-Tagging bei Bedarf manuell anzupassen.
+Die Horizon-Arbeitsfläche verknüpft nun verwandte Text- und Bildfelder über die Größen und Seiten hinweg in einer mehrseitigen oder mehrseitigen Vorlage, sodass eine Bearbeitung in der letzten Meile nur einmal erfolgen muss. Wählen Sie im Menü Bearbeiten den **[!UICONTROL Anwenden auf]** aus - diese Größe, alle Größen oder alle Konzepte - und die Bearbeitung wird automatisch weitergegeben, mit der Option, die Feld-Tagging bei Bedarf manuell anzupassen.
 
 ### Display-Anzeigen direkt am Trade Desk aktivieren
 
