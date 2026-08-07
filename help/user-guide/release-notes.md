@@ -41,7 +41,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 86c5e5236bf256694858ae5b0ca1f6930cf35033
 workflow-type: tm+mt
-source-wordcount: 5723
+source-wordcount: 5751
 ht-degree: 95%
 
 ---
@@ -98,7 +98,7 @@ Laden Sie Vorlagen mit den zusätzlichen Bildfeldern hoch oder erstellen Sie sie
 
 ### Textflussunterstützung für Express-Vorlagen
 
-[!DNL Create] berücksichtigt jetzt den Textfluss, die Adobe Express-Funktion, die zwei Textfelder verknüpft, sodass auf der Arbeitsfläche „Horizont“ über beide Textfelder eine einzelne Phrase fließt. Die generierte Kopie füllt die verknüpften Felder als eine verbundene Phrase aus, sodass Anzeigenentwürfe, deren Nachricht in zwei Felder aufgeteilt ist, schließlich für die Generierung ohne manuelles Kopieren oder Neupositionieren in Vorlagen verwendet werden können. Weitere Informationen zu [verknüpften Textflussfeldern](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes).
+[!DNL Create] unterstützt jetzt auf der Horizon-Arbeitsfläche den Textfluss, die Adobe Express-Funktion, die zwei Textfelder verknüpft, sodass eine Formulierung über beide Textfelder fließt. Die generierte Version füllt die verknüpften Felder als eine verbundene Formulierung aus. Auf diese Weise können Anzeigenentwürfe, deren Nachricht auf zwei Felder aufgeteilt ist, jetzt für die Generierung ohne manuelles Kopieren oder Neupositionieren in Vorlagen verwendet werden. Weitere Informationen zu [verknüpften Textflussfeldern](/help/user-guide/templates/express-templates.md#use-linked-text-flow-boxes).
 
 +++
 
@@ -453,7 +453,7 @@ Neben Bildinhalten können Sie jetzt Videos zu [LinkedIn](/help/user-guide/creat
 ### Fehlerbehebungen und Verbesserungen
 
 * Die Funktionalität zum [Hinzufügen von alternativem Text](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) zu einem Bild für eine einzelne Variante wurde aktiviert.
-* Ein [neues Seitenverhältnis von Meta](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) - Querformat 1,19:1 (1080 Pixel Breite) wurde hinzugefügt.
+* Ein [neues Meta-Seitenverhältnis](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) wurde hinzugefügt – Querformat 1.19:1 (1.080 Pixel Breite).
 * Jetzt können Sie mehr als ein Erlebnis für den Export oder Download auswählen. Siehe [Exportieren von Erlebnissen](/help/user-guide/content/manage-assets.md#export-experiences).
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
@@ -693,7 +693,7 @@ Diese Version enthält Verbesserungen bei der Lokalisierung in gesamten Benutzer
 
 * Benutzende können jetzt alle interaktiven Elemente der Meta-Anzeigenvorlage allein über die Tastatur steuern. <!-- GS-4066 -->
 
-* Die Extraktion von Bildabmessungen aus Vorlagenbildfeldern wurde zu Vorlagen für Display-Anzeigen hinzugefügt. Anfragen zum intelligenten Zuschnitt werden jetzt für die tatsächliche Bildgröße und nicht für die gesamte Vorlage gesendet. <!-- GS-6926 -->
+* Es wurde eine Extraktion von Bildabmessungen aus Vorlagenbildfeldern hinzugefügt, um Anzeigenvorlagen anzuzeigen. Anfragen zum smarten Zuschneiden werden jetzt für die tatsächliche Dimension des Bildes und nicht für die gesamte Vorlage gesendet. <!-- GS-6926 -->
 
 * Die Zeichenfolge `Zoom to fit to screen` wurde in generierten E-Mail- und Meta-Anzeigen lokalisiert. <!-- GS-5063 -->
 
@@ -737,7 +737,7 @@ Diese Version enthält Verbesserungen bei der Lokalisierung in gesamten Benutzer
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt wie erwartet mit der **[!DNL Content]**-Schaltfläche **[!UICONTROL Löschen]**. Zuvor konnten Benutzende nicht über die Tastatur auf diese Schaltfläche zugreifen. <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
