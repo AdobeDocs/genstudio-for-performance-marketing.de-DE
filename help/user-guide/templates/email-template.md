@@ -6,21 +6,14 @@ role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
 TQID: https://experienceleague.adobe.com/v8DZ2ubNwArTNws12FxsJKNbGbsRB-f0IJk39Y3PgXU
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 445
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -30,9 +23,9 @@ Eine Marketing-E-Mail-Vorlage dient als Grundlage für visuell ansprechende und 
 
 Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
 
-- Verwenden von Adobe- oder Google-Schriftarten
-- Verwenden Sie saubere und responsive HTML und Inline-CSS
-- Verwenden **nicht** JavaScript
+- Verwenden Sie Adobe- oder Google-Schriftarten
+- Verwenden Sie sauberes und responsives HTML sowie Inline-CSS
+- Verwenden Sie **kein** JavaScript
 - Verwenden **nicht** eine feste Breite im Textkörper oder Container
 - Verwenden **nicht** die Base64-Kodierung für Bilder, da dadurch die Vorlagengröße erheblich erhöht werden kann
 - Die maximale Dateigröße für HTML beträgt 102 KB
@@ -52,7 +45,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `pre_header`
 - `subject`
 
-Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## E-Mail mit mehreren Abschnitten
 

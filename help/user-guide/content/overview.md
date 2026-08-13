@@ -5,22 +5,15 @@ level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
 TQID: https://experienceleague.adobe.com/G5Hk3l4ZnlHt81nYxgpFSN2vs6g2-CkiSwLtpAKZqAc
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
-  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
-workflow-type: ht
-source-wordcount: 357
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: 414
+ht-degree: 86%
 
 ---
 
@@ -38,7 +31,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Ort zu
       </a>
       <p>
          <a href="../content/manage-assets.md#search-content">
-         <strong>Suchen von Inhalten</strong>
+         <strong>Inhalt suchen</strong>
          </a>
       </p>
    </td>
@@ -48,7 +41,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Ort zu
       </a>
       <p>
          <a href="../content/manage-assets.md">
-         <strong>Hinzufügen von Assets</strong>
+         <strong>Assets hinzufügen</strong>
          </a>
       </p>
    </td>
@@ -78,7 +71,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Ort zu
       </a>
       <p>
          <a href="../templates/use-templates.md#upload-a-template">
-         <strong>Hochladen einer Vorlage</strong>
+         <strong>Vorlage hochladen</strong>
          </a>
       </p>
    </td>
@@ -91,15 +84,15 @@ Mit GenStudio for Performance Marketing [!DNL Content] können Sie Ihre genehmig
 
 ### Assets hochladen
 
-Im Panel **[!UICONTROL Assets hinzufügen]** können Sie Assets per Drag-and-Drop verschieben oder in Ihren lokalen Dateien nach Assets suchen. Optional können Sie Assets aus einer externen Quelle wie OneDrive oder Dropbox importieren. Für den Upload ist lediglich ein [!UICONTROL Kampagnen]- oder Projektname erforderlich.Durch die Bereitstellung weiterer Details wie Keywords kann jedes Mitglied Ihres Teams relevante Inhalte schnell identifizieren und abrufen.
+Im Panel **[!UICONTROL Assets hinzufügen]** können Sie Assets per Drag-and-Drop verschieben oder in Ihren lokalen Dateien nach Assets suchen. Optional können Sie Assets aus einer externen Quelle wie OneDrive oder Dropbox importieren. Für den Upload ist lediglich ein [!UICONTROL Kampagnen]- oder Projektname erforderlich. Durch die Bereitstellung weiterer Details wie Keywords kann jedes Mitglied Ihres Teams relevante Inhalte schnell identifizieren und abrufen.
 
 ### Suchen und Finden genehmigter Inhalte
 
-Beim Speichern genehmigter Assets verwaltet [!DNL Content] die umfangreichen Metadaten, den Generierungskontext und den Audit-Verlauf.Asset-Details helfen dabei, Suchergebnisse mithilfe von Filtern und Suchzeichenfolgen schnell einzugrenzen.Die KI von GenStudio for Performance Marketing identifiziert und speichert automatisch bestimmte Details, z. B. die Farbe.Bei der Suche nach `blue` im Suchfeld wird die Inhaltsliste auf Assets eingegrenzt, die als „blau“ getaggt sind.
+Beim Speichern genehmigter Assets verwaltet [!DNL Content] die umfangreichen Metadaten, den Generierungskontext und den Audit-Verlauf. Asset-Details helfen dabei, Suchergebnisse mithilfe von Filtern und Suchzeichenfolgen schnell einzugrenzen. Die KI von GenStudio for Performance Marketing identifiziert und speichert automatisch bestimmte Details, z. B. die Farbe. Bei der Suche nach `blue` im Suchfeld wird die Inhaltsliste auf Assets eingegrenzt, die als „blau“ getaggt sind.
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können.Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Design-Elementen zu verwenden.Weitere Informationen zu grundlegenden Vorlagenelementen und Verfahren erhalten Sie unter [Arbeiten mit Vorlagen](../templates/use-templates.md).Beschäftigen Sie sich außerdem mit dem Thema [Anpassen einer Vorlage](../templates/customize-template.md) und erfahren Sie, wie Sie Vorlagen erstellen können.
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Design-Elementen zu verwenden. Weitere Informationen zu grundlegenden Vorlagenelementen und Verfahren erhalten Sie unter [Arbeiten mit Vorlagen](../templates/use-templates.md). Beschäftigen Sie sich außerdem mit dem Thema [Anpassen einer Vorlage](../templates/customize-template.md) und erfahren Sie, wie Sie Vorlagen erstellen können.
 
 ### Übersetzen genehmigter Erlebnisse
 

@@ -4,16 +4,10 @@ description: Stellen Sie Ihre App Builder-App oder Ihr Add-on für GenStudio for
 feature: Extensibility
 exl-id: 51888ab7-7772-4ac8-838d-26db3019e9b0
 TQID: https://experienceleague.adobe.com/7Z4Fb-jPi4FHrTeOgHxxO4fl982sqri-7uEDoylFF-s
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: bfaa655b-e017-428d-80d0-09de2183b296
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: da3860b0-d637-47df-bef0-273751180266
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: bfaa655b-e017-428d-80d0-09de2183b296id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: ca8bfb11a301697c92e97bad41ea3ba8aa359847
 workflow-type: tm+mt
 source-wordcount: 622
@@ -86,8 +80,8 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 Je nach dem Typ der bereitgestellten Erweiterung befinden sich neue Erweiterungen an verschiedenen Stellen in der Benutzeroberfläche. Die derzeit verfügbaren Erweiterungspunkte sind:
 
 * Compliance-Erweiterung, die Folgendes umfasst:
-   * [*Prompt-Erweiterungspunkte*](#find-prompt-extensions) mit denen Kunden zusätzlichen Kontext zur LLM-Generierung hinzufügen können, und
-   * [*Validierungs-Erweiterungspunkte*](#find-validation-extensions) mit denen Kunden den generierten Inhalt aus dem LLM überprüfen können. Die Validierung wird häufig mit einer sofortigen Erweiterung gepaart, um sicherzustellen, dass der mit einer verlängerten Eingabeaufforderung generierte Inhalt den Kundenanforderungen entspricht (z. B. Ansprüche auf medizinische Medikamente oder rechtliche Vorschriften)
+  * [*Prompt-Erweiterungspunkte*](#find-prompt-extensions) mit denen Kunden zusätzlichen Kontext zur LLM-Generierung hinzufügen können, und
+  * [*Validierungs-Erweiterungspunkte*](#find-validation-extensions) mit denen Kunden den generierten Inhalt aus dem LLM überprüfen können. Die Validierung wird häufig mit einer sofortigen Erweiterung gepaart, um sicherzustellen, dass der mit einer verlängerten Eingabeaufforderung generierte Inhalt den Kundenanforderungen entspricht (z. B. Ansprüche auf medizinische Medikamente oder rechtliche Vorschriften)
 * [Erweiterung für Digital Asset Management (DAM)](#find-dam-extensions)
 * [Vorlagenerweiterung](#find-template-extensions)
 * [Übersetzungs-Erweiterung](#find-translation-extensions)

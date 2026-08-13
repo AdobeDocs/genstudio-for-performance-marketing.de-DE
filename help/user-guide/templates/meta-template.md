@@ -6,23 +6,15 @@ role: Developer, User
 feature: Media Templates
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
 TQID: https://experienceleague.adobe.com/-WHH1xjWFaizXTKjuF-K9UtaR12V3QpMezSqRfwbMIU
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2:
-  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2: id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 376
-ht-degree: 1%
+source-wordcount: 380
+ht-degree: 2%
 
 ---
 
@@ -37,7 +29,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 - Es ist genau ein Bildfeld erforderlich
 - Verwenden **nicht** relative Schriftgröße
 - Viewport **nicht**
-- Verwenden **nicht** JavaScript
+- Verwenden Sie **kein** JavaScript
 - Überschreiben **nicht** ein HTML-Element in CSS
 - Verwenden Sie das `<img>` Tag anstelle von `background-image`
 - Maskieren verwenden, um die Lesbarkeit von Text gegenüber Hintergrundbildern zu verbessern
@@ -56,7 +48,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `body`
 - `cta`
 
-Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## Unterstützte Seitenverhältnisse
 
@@ -65,7 +57,7 @@ Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x2
 | Quadrat 1:1 | 1080 x 1080 | Standard für die meisten Meta-Platzierungen; empfohlen für weit reichende Kompatibilität. |
 | Hochformat 4:5 | 1080 x 1350 | Optimiert für mobile Feeds; bietet mehr vertikalen Raum. |
 | Story 9:16 | 1080 x 1920 | Ideal für Stories und Rollen; füllt den gesamten Bildschirm für Mobilgeräte. |
-| Querformat 1.91:1 | 1080 x 566 | Am besten geeignet für Link-Anzeigen und Platzierungen von Nachrichten-Feeds; Breitformat. |
+| Querformat 1,91:1 | 1080 x 566 | Am besten geeignet für Link-Anzeigen und Platzierungen von Nachrichten-Feeds; Breitformat. |
 | Benutzerdefiniert | Mindestens 50 x 50 (Breite) | Nur verwenden, wenn erforderlich; kann zu Zuschnitt oder Skalierung führen. |
 
 Wenn die Anzeige nicht in einem dieser Seitenverhältnisse entworfen wurde, schneidet GenStudio for Performance Marketing das Bild automatisch in die entsprechende Größe zu.
