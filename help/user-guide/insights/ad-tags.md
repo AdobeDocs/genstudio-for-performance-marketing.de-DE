@@ -16,7 +16,7 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Anzeigen-Tags]_ zeigt eine Liste der An
 
 {{connect-insights}}
 
-Die _[!UICONTROL Anzeigen]_ Tags) ist nach [!UICONTROL Anzeigenamen“ ]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
+Die _[!UICONTROL Anzeigen]_ Tags) ist nach [!UICONTROL Anzeigenamen“ &#x200B;]. Klicken Sie auf das Symbol Einstellungen (Zahnrad) oberhalb der rechten Seite der Tabelle, um zwischen den sichtbaren Spalten umzuschalten.
 
 ![Leistungsmetriken für Anzeigen-Tags-Insights](./ad-tags-tab.png)
 
