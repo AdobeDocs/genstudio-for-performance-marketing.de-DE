@@ -47,7 +47,7 @@ Diese Benutzerrollentitel mögen ähnlich aussehen, sie identifizieren jedoch ei
 
 **GenStudio-Systemmanager** sind Hauptbenutzer in GenStudio for Performance Marketing, haben jedoch keine Berechtigung zum Ausführen von Aufgaben in Adobe Admin Console. Diese System Manager-Rolle erfordert eine GenStudio-Produktlizenz und entspricht einem Power User in der [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-Systemmanager verfügen über alle Berechtigungen für GenStudio for Performance Marketing-Funktionen, einschließlich [!DNL Brands], [!DNL Persona] und [!DNL Product] Erstellung, Löschen, Aktualisieren und Veröffentlichen. [Adobe GenStudio for Performance Marketing-Produktbeschreibung](https://helpx.adobe.com/de/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) Erläutert, wie GenStudio-Benutzerrollen mit Produktlizenzen zusammenhängen.
 
-Siehe [Administratorrollen](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise) im _Administrationshandbuch für Unternehmen und Teams_.
+Siehe [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html#enterprise) im _Administrationshandbuch für Unternehmen und Teams_.
 
 ## Berechtigungen
 
