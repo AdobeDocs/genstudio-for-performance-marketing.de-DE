@@ -2,7 +2,7 @@
 title: Erzeugen von Bildvarianten
 description: Erstellen Sie in Adobe ein Bild, das dem Stil eines Referenzbilds entspricht [!DNL GenStudio]  für Performance Marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
-badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in der Beta-Phase, sodass Funktionsbereiche möglicherweise eingeschränkt sind oder geändert werden können."
 role: User
 level: Beginner
 recommendations: noDisplay
@@ -30,7 +30,7 @@ topic_v2:
 source-git-commit: 6d1053bf94b0a0ba65be90359e4d176e64dfffae
 workflow-type: tm+mt
 source-wordcount: 752
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -100,7 +100,7 @@ Siehe [Effektive Eingabeaufforderungen schreiben](/help/user-guide/effective-pro
 
 Standardmäßig werden vier Varianten - angetrieben von der Eingabeaufforderung, den Parametern und dem Inhalt, den Sie hinzugefügt haben - generiert und auf der Arbeitsfläche angezeigt.
 
-### In Adobe Express bearbeiten
+### Bearbeiten in Adobe Express
 
 Nachdem Sie Bildvarianten generiert haben, können Sie sie mit Adobe Express direkt in Adobe GenStudio for Performance Marketing bearbeiten.
 

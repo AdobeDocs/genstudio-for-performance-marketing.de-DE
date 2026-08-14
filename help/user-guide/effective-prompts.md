@@ -82,10 +82,10 @@ Sie können beispielsweise GenStudio for Performance Marketing anweisen, Inhalte
 Die strukturierte Eingabeaufforderung sollte
 
 - Verwenden Sie einen der folgenden Verweise auf den Abschnittsnamen in der E-Mail-Vorlage:
-   - Pod
-   - Gruppe
-   - Abschnitt
-   - Modul
+  - Pod
+  - Gruppe
+  - Abschnitt
+  - Modul
 
   Wenn Ihre Vorlage beispielsweise `moduleA` oder `Group-3` als Abschnittsnamen verwendet, können Sie in der Eingabeaufforderung auf diese Abschnittsnamen verweisen.
 

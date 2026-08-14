@@ -18,9 +18,9 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
-workflow-type: ht
-source-wordcount: 357
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: 414
+ht-degree: 86%
 
 ---
 
@@ -38,7 +38,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Ort zu
       </a>
       <p>
          <a href="../content/manage-assets.md#search-content">
-         <strong>Suchen von Inhalten</strong>
+         <strong>Inhalt suchen</strong>
          </a>
       </p>
    </td>
@@ -48,7 +48,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Ort zu
       </a>
       <p>
          <a href="../content/manage-assets.md">
-         <strong>Hinzufügen von Assets</strong>
+         <strong>Assets hinzufügen</strong>
          </a>
       </p>
    </td>
@@ -78,7 +78,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Ort zu
       </a>
       <p>
          <a href="../templates/use-templates.md#upload-a-template">
-         <strong>Hochladen einer Vorlage</strong>
+         <strong>Vorlage hochladen</strong>
          </a>
       </p>
    </td>
@@ -91,15 +91,15 @@ Mit GenStudio for Performance Marketing [!DNL Content] können Sie Ihre genehmig
 
 ### Assets hochladen
 
-Im Panel **[!UICONTROL Assets hinzufügen]** können Sie Assets per Drag-and-Drop verschieben oder in Ihren lokalen Dateien nach Assets suchen. Optional können Sie Assets aus einer externen Quelle wie OneDrive oder Dropbox importieren. Für den Upload ist lediglich ein [!UICONTROL Kampagnen]- oder Projektname erforderlich.Durch die Bereitstellung weiterer Details wie Keywords kann jedes Mitglied Ihres Teams relevante Inhalte schnell identifizieren und abrufen.
+Im Panel **[!UICONTROL Assets hinzufügen]** können Sie Assets per Drag-and-Drop verschieben oder in Ihren lokalen Dateien nach Assets suchen. Optional können Sie Assets aus einer externen Quelle wie OneDrive oder Dropbox importieren. Für den Upload ist lediglich ein [!UICONTROL Kampagnen]- oder Projektname erforderlich. Durch die Bereitstellung weiterer Details wie Keywords kann jedes Mitglied Ihres Teams relevante Inhalte schnell identifizieren und abrufen.
 
 ### Suchen und Finden genehmigter Inhalte
 
-Beim Speichern genehmigter Assets verwaltet [!DNL Content] die umfangreichen Metadaten, den Generierungskontext und den Audit-Verlauf.Asset-Details helfen dabei, Suchergebnisse mithilfe von Filtern und Suchzeichenfolgen schnell einzugrenzen.Die KI von GenStudio for Performance Marketing identifiziert und speichert automatisch bestimmte Details, z. B. die Farbe.Bei der Suche nach `blue` im Suchfeld wird die Inhaltsliste auf Assets eingegrenzt, die als „blau“ getaggt sind.
+Beim Speichern genehmigter Assets verwaltet [!DNL Content] die umfangreichen Metadaten, den Generierungskontext und den Audit-Verlauf. Asset-Details helfen dabei, Suchergebnisse mithilfe von Filtern und Suchzeichenfolgen schnell einzugrenzen. Die KI von GenStudio for Performance Marketing identifiziert und speichert automatisch bestimmte Details, z. B. die Farbe. Bei der Suche nach `blue` im Suchfeld wird die Inhaltsliste auf Assets eingegrenzt, die als „blau“ getaggt sind.
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können.Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Design-Elementen zu verwenden.Weitere Informationen zu grundlegenden Vorlagenelementen und Verfahren erhalten Sie unter [Arbeiten mit Vorlagen](../templates/use-templates.md).Beschäftigen Sie sich außerdem mit dem Thema [Anpassen einer Vorlage](../templates/customize-template.md) und erfahren Sie, wie Sie Vorlagen erstellen können.
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Design-Elementen zu verwenden. Weitere Informationen zu grundlegenden Vorlagenelementen und Verfahren erhalten Sie unter [Arbeiten mit Vorlagen](../templates/use-templates.md). Beschäftigen Sie sich außerdem mit dem Thema [Anpassen einer Vorlage](../templates/customize-template.md) und erfahren Sie, wie Sie Vorlagen erstellen können.
 
 ### Übersetzen genehmigter Erlebnisse
 

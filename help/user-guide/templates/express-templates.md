@@ -6,7 +6,7 @@ role: Developer, User
 feature: Media Templates
 source-git-commit: 96249838f5ec957edc22eadf51ec828f54002adf
 workflow-type: tm+mt
-source-wordcount: '1870'
+source-wordcount: '1899'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ In diesem Handbuch werden die Anforderungen und Funktionen für Vorlagen aus [!D
 
 [!DNL Adobe Express] können [neue Dokumente mithilfe vorhandener Starter-Vorlagen“ erstellt &#x200B;](https://helpx.adobe.com/de/express/web/documents-and-presentations/text-flow-template.html?x-product=Helpx%2F1.0.0&x-product-location=Search%3AForums%3Alink%2F3.7.5), die im Programm bereitgestellt werden, oder mithilfe [benutzerdefinierter Vorlagen“, die hilfreiche Markenbeschränkungen enthalten können, &#x200B;](https://helpx.adobe.com/de/express/web/brands-libraries-projects/create-manage-brands/edit-shared-template.html). B.:
 
-- [Gesperrte Elemente](https://helpx.adobe.com/de/express/web/invite-collaborate/object-locking.html) die nicht geändert werden können
+- [Gesperrte Elemente](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html) die nicht geändert werden können
 - Sperrbeschränkungen, die steuern, wie Benutzer Elemente bei Bedarf entsperren können
 
 Sperreinstellungen, die für die Vorlage in [!DNL Adobe Express] festgelegt wurden, werden auch in [!DNL GenStudio for Performance Marketing] angewendet. Verwenden Sie [die  [!DNL Adobe Express] -Anweisungen, um eine benutzerdefinierte Vorlage mit Markenbeschränkungen zu &#x200B;](https://helpx.adobe.com/de/express/web/brands-libraries-projects/create-manage-brands/template-control.html).
@@ -200,7 +200,7 @@ Die Tagging-Optionen variieren je nach Elementtyp.
 
 ### Einschränkungen bei Vorlagensperren
 
-Vorlagen können [gesperrte Elemente](https://helpx.adobe.com/de/express/web/invite-collaborate/object-locking.html) enthalten, die von [!DNL Express] übernommen werden und steuern, wie einige Funktionen geändert werden können. Diese Einstellungen werden von der Vorlage berücksichtigt und können auch in der Vorlage geändert werden:
+Vorlagen können [gesperrte Elemente](https://helpx.adobe.com/express/web/invite-collaborate/object-locking.html) enthalten, die von [!DNL Express] übernommen werden und steuern, wie einige Funktionen geändert werden können. Diese Einstellungen werden von der Vorlage berücksichtigt und können auch in der Vorlage geändert werden:
 
 1. Ein gesperrtes Element in der Vorlage auswählen.
 1. Klicken Sie oben links für das ausgewählte Element auf das Schlosssymbol.

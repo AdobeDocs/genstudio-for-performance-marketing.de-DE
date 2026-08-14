@@ -19,7 +19,7 @@ level_v2:
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 300
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -29,12 +29,12 @@ Anzeigevorlagen sind vorkonfigurierte Layouts, mit denen visuell ansprechende Ba
 
 Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigenvorlagen für Banner und Anzeigen an GenStudio for Performance Marketing anpassen:
 
-- Verwenden von Adobe- oder Google-Schriftarten
+- Verwenden Sie Adobe- oder Google-Schriftarten
 - Vorbereiten von Assets, die in schlanken Dimensionen gut angezeigt werden
 - Es ist genau ein Bildfeld erforderlich
 - Verwenden **nicht** eingebettete oder kodierte Hintergrundbilder
 - Verwenden Sie Hintergrundbilder (`image` Feld), die in das GenStudio for Performance Marketing-Inhalts-Repository hochgeladen wurden. Die besten Ergebnisse erzielen Sie, wenn Sie die Richtlinien unter [Hochladen von Bildern &#x200B;](#uploading-images-for-display-ads) Display-Anzeigen“ befolgen
-- Verwenden **nicht** JavaScript
+- Verwenden Sie **kein** JavaScript
 - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird
 
 ## Erkannte Feldnamen

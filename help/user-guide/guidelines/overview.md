@@ -26,7 +26,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 505
 ht-degree: 100%
 
@@ -63,7 +63,7 @@ Richtlinien für GenStudio for Performance Marketing:
 
 Durch die Integration von Marken-, Produkt- und Persona-Daten in GenStudio for Performance Marketing können Sie die Qualität von KI-generierten Inhalten verbessern und so eine umfassende und maßgeschneiderte Markenidentität sicherstellen.
 
-## Anwendungsfälle
+## Anwendungsszenarien
 
 Die Richtlinien für Kanäle ermöglichen zwei Hauptanwendungsfälle, um sicherzustellen, dass alle generierten Inhalte der gewünschten Darstellung einer Marke entsprechen.
 
@@ -84,5 +84,5 @@ Adobe GenStudio for Performance Marketing integriert externe Plattformrichtlinie
 
 Diese kumulativen Compliance-Prüfungen umfassen Folgendes:
 
-* **ADA-Barrierefreiheit** – Unverzichtbar für die Entwicklung von inklusiven Inhalten und digitalen Erlebnissen, die auf die Bedürfnisse von Benutzenden mit unterschiedlichen Fähigkeiten zugeschnitten sind.Diese gewährleisten die Abstimmung mit den Funktionen zur Barrierefreiheit im Web und bieten allen Benutzenden gleichberechtigten Zugriff.GenStudio for Performance Marketing orientiert sich derzeit an den ADA-Standards für Barrierefreiheit (Text) der Stufe AA.
-* **Plattform-Compliance**: Von entscheidender Bedeutung für die Einhaltung der spezifischen Richtlinien der einzelnen Plattformen – beispielsweise Meta oder LinkedIn – und die Befolgung branchenüblicher Best Practices.Dies sind die Standardrichtlinien, die im System vorhanden sind und unter [[!DNL Brand] Richtlinien](/help/user-guide/guidelines/brands.md#brands-guidelines) vorausgefüllt werden.
+* **ADA-Barrierefreiheit** – Unverzichtbar für die Entwicklung von inklusiven Inhalten und digitalen Erlebnissen, die auf die Bedürfnisse von Benutzenden mit unterschiedlichen Fähigkeiten zugeschnitten sind. Diese gewährleisten die Abstimmung mit den Funktionen zur Barrierefreiheit im Web und bieten allen Benutzenden gleichberechtigten Zugriff. GenStudio for Performance Marketing orientiert sich derzeit an den ADA-Standards für Barrierefreiheit (Text) der Stufe AA.
+* **Plattform-Compliance**: Von entscheidender Bedeutung für die Einhaltung der spezifischen Richtlinien der einzelnen Plattformen – beispielsweise Meta oder LinkedIn – und die Befolgung branchenüblicher Best Practices. Dies sind die Standardrichtlinien, die im System vorhanden sind und unter [[!DNL Brand] Richtlinien](/help/user-guide/guidelines/brands.md#brands-guidelines) vorausgefüllt werden.

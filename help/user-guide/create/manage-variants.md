@@ -24,7 +24,7 @@ topic_v2:
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 2125
+source-wordcount: 2129
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Beim [Erstellen von Erlebnissen](/help/user-guide/create/overview.md) können Si
 
 Generierte Variantenentwürfe haben einen Standardnamen, der oben auf der Arbeitsfläche angezeigt wird. Standardmäßige Entwurfsnamen verwenden die folgende Konvention, die den Kanaltyp, das Datum und die Uhrzeit der Generierung enthält.
 
-*Beispiel*: &quot;Meta: Unbenannter Entwurf - 09.5.24, :56 Uhr“
+*Beispiel*: &quot;Meta: Unbenannter Entwurf - 09.5.24, 9:56 Uhr“
 
 **Den Standardnamen ändern**:
 
@@ -181,7 +181,7 @@ Diese generative Erweiterungsfunktion ist mit dem Zuschneide-Tool kombiniert, um
 
 ## Seitenverhältnis ändern
 
-Sie können das [Seitenverhältnis von Meta-Anzeigen“ schnell ändern](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) um die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1::1 quadratisches Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
+Sie können das [Seitenverhältnis von Meta-Anzeigen“ schnell ändern](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) um die gewünschte Anzeigengröße anzupassen. Wählen Sie ein Bildseitenverhältnis aus, das Ihren Vorlagenabmessungen am besten entspricht, um unerwünschtes Zuschneiden oder Dehnen zu vermeiden. Wenn Ihre Vorlage beispielsweise 1.200 × 628 Pixel (ein breites Rechteck) hat, können die Seiten durch ein 1:1-Quadrat-Bild abgeschnitten werden, was möglicherweise wichtige Inhalte abschneidet. Die optimale Bildgröße wäre 628 x 628 Pixel, was der Höhe der Vorlage entspricht.
 
 >[!NOTE]
 >
@@ -203,7 +203,7 @@ Sie können das [Seitenverhältnis von Meta-Anzeigen“ schnell ändern](/help/u
 
    [!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neu ausgewählten Seitenverhältnis. Alle Varianten, einschließlich derjenigen im anfänglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
 
-   Wenn Sie beispielsweise anfänglich vier Varianten in einem Seitenverhältnis von 1::1 generieren und dann das Seitenverhältnis in 4::5 ändern, sind jetzt insgesamt _8_ Varianten auf der Arbeitsfläche verfügbar.
+   Wenn Sie beispielsweise zunächst vier Varianten im Seitenverhältnis 1:1 generieren und dann das Seitenverhältnis in 4:5 ändern, sind jetzt insgesamt _8_ Varianten auf der Arbeitsfläche verfügbar.
 
 ## Bild tauschen
 

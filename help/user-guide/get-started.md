@@ -27,7 +27,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 4d6a7fafb895ad1e2429978c8ee58d750fff8970
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 665
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 # Erste Schritte mit Adobe GenStudio for Performance Marketing
 
-Adobe GenStudio for Performance Marketing bietet eine umfassende Palette von Tools zur Optimierung der Inhaltserstellung, -verwaltung und -analyse.Es erweitert den Lebenszyklus der Inhaltserstellung um Funktionen für generative KI, die verändern, wie Marketing-Inhalte erstellt, überprüft, freigegeben und analysiert werden.
+Adobe GenStudio for Performance Marketing bietet eine umfassende Palette von Tools zur Optimierung der Inhaltserstellung, -verwaltung und -analyse. Es erweitert den Lebenszyklus der Inhaltserstellung um Funktionen für generative KI, die verändern, wie Marketing-Inhalte erstellt, überprüft, freigegeben und analysiert werden.
 
 ## Mit dem Erstellen, Freigeben und Überprüfen von Inhalten beginnen
 
@@ -43,15 +43,15 @@ Wenn Sie mit auf generativer KI basierenden Tools noch nicht vertraut oder einfa
 
 ## Personalisieren von GenStudio for Performance Marketing
 
-GenStudio for Performance Marketing verwendet Informationen über Ihre Marke und Ihre Märkte, um die markenkonforme Inhaltserstellung zu verbessern.Die generative KI nutzt Beschreibungen von [Personas](/help/user-guide/guidelines/personas.md), [Produkten](/help/user-guide/guidelines/products.md) und [Markenrichtlinien](/help/user-guide/guidelines/overview.md) von Kundinnen und Kunden, um die Inhaltserstellung an die Anforderungen Ihrer Organisation anzupassen.
+GenStudio for Performance Marketing verwendet Informationen über Ihre Marke und Ihre Märkte, um die markenkonforme Inhaltserstellung zu verbessern. Die generative KI nutzt Beschreibungen von [Personas](/help/user-guide/guidelines/personas.md), [Produkten](/help/user-guide/guidelines/products.md) und [Markenrichtlinien](/help/user-guide/guidelines/overview.md) von Kundinnen und Kunden, um die Inhaltserstellung an die Anforderungen Ihrer Organisation anzupassen.
 
-Das System-Management richtet Adobe GenStudio for Performance Marketing durch Eingabe oder Hochladen von organisationsspezifischen Informationen ein.Durch diese Vorbereitung wird sichergestellt, dass Inhaltsschaffende und mitwirkende Personen die Funktionen der generativen KI effektiv verwenden können, um Kampagnen-Assets zu erstellen und zu prüfen.Sobald ein bzw. eine Adobe-Systemadmin die Produktinstanz Ihrer Organisation bereitstellt und einem Mitglied des GenStudio-System-Managements Berechtigungen zuweist, kann der GenStudio-System-Manager bzw. die GenStudio-System-Managerin das zugrunde liegende Framework für generative KI mithilfe von Richtlinien vorbereiten.
+Das System-Management richtet Adobe GenStudio for Performance Marketing durch Eingabe oder Hochladen von organisationsspezifischen Informationen ein. Durch diese Vorbereitung wird sichergestellt, dass Inhaltsschaffende und mitwirkende Personen die Funktionen der generativen KI effektiv verwenden können, um Kampagnen-Assets zu erstellen und zu prüfen. Sobald ein bzw. eine Adobe-Systemadmin die Produktinstanz Ihrer Organisation bereitstellt und einem Mitglied des GenStudio-System-Managements Berechtigungen zuweist, kann der GenStudio-System-Manager bzw. die GenStudio-System-Managerin das zugrunde liegende Framework für generative KI mithilfe von Richtlinien vorbereiten.
 
 ### Schritt 1: Hinzufügen von Richtlinien
 
-In [Markenrichtlinien](/help/user-guide/guidelines/overview.md) werden Markenmerkmale erfasst. Die zugrunde liegenden generativen KI-Funktionen von GenStudio for Performance Marketing nutzen diese Richtlinien, um Schutzmechanismen für die Inhaltserstellung festzulegen.Sie können entweder Dokumente mit [[!DNL Brands] Richtlinien](/help/user-guide/guidelines/brands.md) hochladen oder Markeninformationen manuell eingeben.
+In [Markenrichtlinien](/help/user-guide/guidelines/overview.md) werden Markenmerkmale erfasst. Die zugrunde liegenden generativen KI-Funktionen von GenStudio for Performance Marketing nutzen diese Richtlinien, um Schutzmechanismen für die Inhaltserstellung festzulegen. Sie können entweder Dokumente mit [[!DNL Brands] Richtlinien](/help/user-guide/guidelines/brands.md) hochladen oder Markeninformationen manuell eingeben.
 
-Inhaltsschaffende und mitwirkende Personen können mit ihrer Arbeit erst beginnen, wenn die grundlegenden Elemente der [Markenidentität](/help/user-guide/guidelines/brands.md) Ihres Unternehmens festgelegt sind.Zu diesen Markenkomponenten gehören:
+Inhaltsschaffende und mitwirkende Personen können mit ihrer Arbeit erst beginnen, wenn die grundlegenden Elemente der [Markenidentität](/help/user-guide/guidelines/brands.md) Ihres Unternehmens festgelegt sind. Zu diesen Markenkomponenten gehören:
 
 * Immaterielle Elemente, wie z. B. der Tonfall.
 * Reale Assets wie Logos, Farbpaletten und Typografie.
@@ -60,15 +60,15 @@ Bevor Sie Richtlinien erstellen, informieren Sie sich darüber, wie in GenStudio
 
 #### Vorbereiten Ihrer Richtliniendokumente
 
-Umfassende und fokussierte Richtlinien für [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md) definieren die wichtigsten Aspekte der Marketing-Kampagnen Ihrer Organisation.GenStudio for Performance Marketing extrahiert Informationen aus diesen Richtlinien, um mit dem Aufbau Ihrer Marke zu beginnen.Sie können Richtliniendokumente hochladen oder einsehen, während Sie Informationen manuell in GenStudio for Performance Marketing eingeben.Weitere Informationen zum Hochladen oder Eingeben dieser Informationen finden Sie unter [Hinzufügen von Richtlinien](/help/user-guide/guidelines/overview.md).
+Umfassende und fokussierte Richtlinien für [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md) definieren die wichtigsten Aspekte der Marketing-Kampagnen Ihrer Organisation. GenStudio for Performance Marketing extrahiert Informationen aus diesen Richtlinien, um mit dem Aufbau Ihrer Marke zu beginnen. Sie können Richtliniendokumente hochladen oder einsehen, während Sie Informationen manuell in GenStudio for Performance Marketing eingeben. Weitere Informationen zum Hochladen oder Eingeben dieser Informationen finden Sie unter [Hinzufügen von Richtlinien](/help/user-guide/guidelines/overview.md).
 
 #### Überarbeiten von Richtlinien
 
-Das GenStudio-System-Management kann das dem Produkt zugrunde liegende Framework für generative KI vorbereiten, indem die spezifischen Markenanforderungen Ihrer Organisation manuell eingegeben oder hochgeladen werden.Die Einrichtung der Markenrichtlinien einer Organisation ist eine einmalige Aktion. Sie können diese Richtlinien jedoch basierend auf der Volatilität, dem Wachstum und den sich ändernden Marktbedingungen Ihrer Organisation überarbeiten und verbessern.
+Das GenStudio-System-Management kann das dem Produkt zugrunde liegende Framework für generative KI vorbereiten, indem die spezifischen Markenanforderungen Ihrer Organisation manuell eingegeben oder hochgeladen werden. Die Einrichtung der Markenrichtlinien einer Organisation ist eine einmalige Aktion. Sie können diese Richtlinien jedoch basierend auf der Volatilität, dem Wachstum und den sich ändernden Marktbedingungen Ihrer Organisation überarbeiten und verbessern.
 
 ### Schritt 2: Einrichten eines Adobe Admin Console-Projekts für GenStudio [!DNL Brands]
 
-Systemadmins müssen zusätzliche Setup-Aufgaben durchführen, bevor mitwirkende Personen [!DNL Brands] bearbeiten oder erstellen können.Adobe-Systemadmins führen diese Aufgaben in der Adobe Admin Console aus.
+Systemadmins müssen zusätzliche Setup-Aufgaben durchführen, bevor mitwirkende Personen [!DNL Brands] bearbeiten oder erstellen können. Adobe-Systemadmins führen diese Aufgaben in der Adobe Admin Console aus.
 
 * Erstellen Sie eine neue Benutzergruppe, die alle Benutzenden enthält, die Berechtigungen für [!DNL Brands] bearbeiten und erstellen müssen.
 
@@ -78,16 +78,16 @@ Siehe [Zuweisen von Markenberechtigungen](configure-brand-permissions.md).
 
 ### Schritt 3: Hochladen von Vorlagen
 
-Vorlagen beschleunigen die Inhaltserstellung.Eine Vorlage enthält genehmigte Merkmale wie Kopf- und Fußzeilen und ist für bestimmte Kanäle optimiert.Systemadmins verwalten in der Regel Vorlagen für ihre Organisation und laden diese hoch.Inhaltsschaffende verwenden Vorlagen, um den Prozess der Inhaltserstellung innerhalb der festgelegten Grenzen der Organisationsmarke zügig zu starten.
+Vorlagen beschleunigen die Inhaltserstellung. Eine Vorlage enthält genehmigte Merkmale wie Kopf- und Fußzeilen und ist für bestimmte Kanäle optimiert. Systemadmins verwalten in der Regel Vorlagen für ihre Organisation und laden diese hoch. Inhaltsschaffende verwenden Vorlagen, um den Prozess der Inhaltserstellung innerhalb der festgelegten Grenzen der Organisationsmarke zügig zu starten.
 
 Siehe [Arbeiten mit Vorlagen](/help/user-guide/templates/use-templates.md).
 
 ### Schritt 4: Hochladen von genehmigten Assets
 
-Genehmigte Assets in [!DNL Content] stehen allen Bearbeitenden in GenStudio for Performance Marketing zur Verfügung.Sie können [!DNL Content] mit Assets füllen, die von Inhaltsschaffenden verwendet werden können, um neue Erlebnisse oder Assets zu erstellen.
+Genehmigte Assets in [!DNL Content] stehen allen Bearbeitenden in GenStudio for Performance Marketing zur Verfügung. Sie können [!DNL Content] mit Assets füllen, die von Inhaltsschaffenden verwendet werden können, um neue Erlebnisse oder Assets zu erstellen.
 
 Siehe [Hochladen von genehmigten Assets](/help/user-guide/content/manage-assets.md).
 
 ### Schritt 5: Herstellen einer Verbindung zu einem Paid-Media-Konto
 
-Konfigurieren Sie eine Verbindung zwischen GenStudio for Performance Marketing und Ihren Paid-Media-Konten, um Daten aus aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten.Verwenden Sie [!DNL Insights], um kanalbezogene Daten zu analysieren, einschließlich des kanalübergreifenden Überblicks in **[!UICONTROL Insights 2.0]**, wenn Sie mit Meta und LinkedIn arbeiten ([Überblick über Erkenntnisse](/help/user-guide/insights/overview.md#insights-20)). Siehe [Verbinden eines Paid-Media-Kontos](/help/user-guide/connectors/connect-channel.md).
+Konfigurieren Sie eine Verbindung zwischen GenStudio for Performance Marketing und Ihren Paid-Media-Konten, um Daten aus aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten. Verwenden Sie [!DNL Insights], um kanalbezogene Daten zu analysieren, einschließlich des kanalübergreifenden Überblicks in **[!UICONTROL Insights 2.0]**, wenn Sie mit Meta und LinkedIn arbeiten ([Überblick über Erkenntnisse](/help/user-guide/insights/overview.md#insights-20)). Siehe [Verbinden eines Paid-Media-Kontos](/help/user-guide/connectors/connect-channel.md).

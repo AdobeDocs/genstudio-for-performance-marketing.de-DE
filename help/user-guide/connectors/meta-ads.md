@@ -44,10 +44,10 @@ Auf dieser Seite wird beschrieben, wie Sie Ihr Meta Ads-Profilkonto mit GenStudi
 
 - Eine Facebook-/Meta-Anmeldung, die auf alle Meta-Services zugreifen kann
 - _Vollständige Kontrolle_ über Meta Business Portfolio und Werbekonten, einschließlich:
-   - Verwalten von Kampagnen
-   - Leistung anzeigen
-   - Verwalten von Creative Hub-Mockups
-   - Erweiterte Analyse
+  - Verwalten von Kampagnen
+  - Leistung anzeigen
+  - Verwalten von Creative Hub-Mockups
+  - Erweiterte Analyse
 - Deaktivieren Sie alle Popup-Blocker in Ihrem Browser
 - Überprüfen Sie alle Instagram-Kontoseitenverknüpfungen in Meta Business Manager, bevor Sie eine Verbindung herstellen
 - Administratorzugriff auf alle verknüpften Assets bestätigen

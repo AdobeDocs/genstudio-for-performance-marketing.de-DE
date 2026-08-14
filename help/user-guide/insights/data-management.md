@@ -27,7 +27,7 @@ topic_v2:
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 249
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -65,4 +65,4 @@ Siehe [Auswirkungen löschen](https://experienceleague.adobe.com/de/docs/analyti
 
 GenStudio for Performance Marketing bewahrt Kanaldaten 13 Monate lang auf. Diese Aufbewahrungsrichtlinie umfasst die 6 Monate an Daten, die während der ersten Verbindung aufgenommen wurden, um eine umfassende historische Datenanalyse und Berichterstellung sicherzustellen.
 
-Siehe [Verbinden von Paid Media-Konten](/help/user-guide/connectors/connect-channel.md).
+Siehe [Verbinden eines Paid-Media-Kontos](/help/user-guide/connectors/connect-channel.md).

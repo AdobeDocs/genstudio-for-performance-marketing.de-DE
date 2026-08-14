@@ -15,7 +15,7 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: 371
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Verwenden Sie leicht lesbare Schriftarten. Zum Beispiel haben Sans Serif-Schrift
 
 Stellen Sie einen angemessenen Kontrast zwischen Text und Hintergrund bereit. Vermeiden Sie Schriftfarben, die dunklen Text auf einem dunklen Hintergrund und hellen Text auf einem hellen Hintergrund erzeugen. Beachten Sie die Kontrastrichtlinien für ein optimales Verhältnis:
 
-- Text und Bilder von Text: Kontrastverhältnis von mindestens 4,5 :1
+- Text und Bilder von Text: Kontrastverhältnis von mindestens 4,5:1
 - Großer Text und Bilder von großformatigem Text: Kontrastverhältnis von mindestens 3:1
 
 ## Link-Zweck (nur Link)

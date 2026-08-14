@@ -15,7 +15,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 508
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Auswählen von Erlebnissen:
 
 ## Schritt 4: Bestätigen Sie die Einrichtung der Amazon Ads-Plattform
 
-1. Wählen Sie ein Konto aus dem Dropdown-Menü Konto aus. Die Einstellungen Ihres Amazon Ads-Kontos bestimmen die verfügbaren Konten. Ihr Kreativerlebnis wird nach Abschluss der Aktivierung der Kreativbibliothek dieses Kontos in Amazon Ads bereitgestellt.
+1. Wählen Sie ein Konto aus dem Dropdown-Menü Konto aus. Die Kontoeinstellungen Ihres Amazon Ads-Kontos bestimmen die verfügbaren Konten.Ihr Kreativerlebnis wird nach Abschluss der Aktivierung der Kreativbibliothek dieses Kontos in Amazon Ads bereitgestellt.
 
 1. Fügen Sie dem Feld Creative-Name einen Namen hinzu. Amazon Ads identifiziert das Erlebnis durch diesen Namen.
 

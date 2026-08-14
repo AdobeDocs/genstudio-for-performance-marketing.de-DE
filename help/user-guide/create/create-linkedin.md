@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie mit Adobe GenStudio for Performance Marketing
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
-badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in der Beta-Phase, sodass Funktionsbereiche möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
 TQID: https://experienceleague.adobe.com/6ydfKraxfvL6j24ImEAs-P5xV5dldGbQ7Kg8wMsWuOs
@@ -30,7 +30,7 @@ topic_v2:
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 1240
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

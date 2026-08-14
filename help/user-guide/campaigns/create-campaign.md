@@ -1,8 +1,8 @@
 ---
-title: Adobe GenStudio for Performance Marketing-Kampagnen
+title: Kampagnen in Adobe GenStudio for Performance Marketing
 description: Erfahren Sie, wie Sie digitale Marketing-Kampagnen erstellen und verwalten, die Assets und Erlebnisse mit generativer KI nutzen.
 feature: Campaign Planning, Campaign Brief
-badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in der Beta-Phase, sodass Funktionsbereiche möglicherweise eingeschränkt sind oder geändert werden können."
 exl-id: b7c4194f-fa61-4739-acd6-7acbdd98e9b2
 TQID: https://experienceleague.adobe.com/fcmU2HDzq75iNR7LlKqMcANCa67FpA0fFelMhkQtOJk
 product_v2:
@@ -27,7 +27,7 @@ topic_v2:
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 866
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

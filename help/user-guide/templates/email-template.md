@@ -20,7 +20,7 @@ level_v2:
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 445
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -30,9 +30,9 @@ Eine Marketing-E-Mail-Vorlage dient als Grundlage für visuell ansprechende und 
 
 Befolgen Sie die folgenden Best Practices für das Design, wenn Sie E-Mail-Vorlagen für die Arbeit mit GenStudio for Performance Marketing anpassen:
 
-- Verwenden von Adobe- oder Google-Schriftarten
-- Verwenden Sie saubere und responsive HTML und Inline-CSS
-- Verwenden **nicht** JavaScript
+- Verwenden Sie Adobe- oder Google-Schriftarten
+- Verwenden Sie sauberes und responsives HTML sowie Inline-CSS
+- Verwenden Sie **kein** JavaScript
 - Verwenden **nicht** eine feste Breite im Textkörper oder Container
 - Verwenden **nicht** die Base64-Kodierung für Bilder, da dadurch die Vorlagengröße erheblich erhöht werden kann
 - Die maximale Dateigröße für HTML beträgt 102 KB

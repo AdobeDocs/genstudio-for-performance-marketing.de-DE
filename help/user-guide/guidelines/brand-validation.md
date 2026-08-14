@@ -22,7 +22,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 786
+source-wordcount: 787
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ GenStudio for Performance Marketing umfasst Inhaltsprüfungen, die Kunden bei de
 Diese Funktion umfasst die folgenden Inhaltsprüfungen:
 
 * Bilder bieten ein `<alt>` Attribut.
-* Der generierte Text hat einen Kontrast :1 4,5 % zum Hintergrund.
+* Der generierte Text hat einen Kontrast von 4,5:1 im Hintergrund.
 * Wörter oder Ausdrücke, die auf ungewöhnliche oder eingeschränkte Weise verwendet werden, einschließlich Idiome und Jargon, werden vermieden.
 * Es sind erweiterte Formen oder die Bedeutung von Abkürzungen verfügbar.
 * Die Inhalte sind auf der Ebene der Sekundarstufe I lesbar.

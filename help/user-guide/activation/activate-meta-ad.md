@@ -19,8 +19,8 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: afce03c5167b728fe04e4722a1e4f39868d523df
 workflow-type: tm+mt
-source-wordcount: 1980
-ht-degree: 1%
+source-wordcount: 1981
+ht-degree: 3%
 
 ---
 
@@ -106,7 +106,7 @@ Wenn Sie ein genehmigtes Erlebnis nicht direkt aus [!DNL Content] aktivieren mö
 
 Verwenden Sie den _Media_-Abschnitt, um mindestens ein Bild-Asset auszuwählen, das in Ihr Erlebnis aufgenommen werden soll. Anzeigenplatzierungen sind mit unterstützten Bildseitenverhältnissen verknüpft, die als Optionen im Dropdown _Menü_ Platzierungen“ aufgeführt sind. In diesem Menü werden die unterstützten Anzeigenplatzierungen für Facebook-Posts oder Instagram-Storys nach Seitenverhältnis geordnet angezeigt.
 
-Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im _Media_-Bereich wird das Bild standardmäßig mit einem Seitenverhältnis :1 1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
+Nach dem Hochladen werden die Assets in [!DNL Content] gespeichert. Im Bereich _Medien_ wird das Bild standardmäßig mit einem Seitenverhältnis von 1:1 angezeigt. Alternative Seitenverhältnisse umfassen nur die vom Paid-Anzeigenkanal unterstützten Werte. Sie sind nach der vertikalen und horizontalen Ausrichtung gruppiert. GenStudio for Performance Marketing unterstützt die Integration von bis zu sechs Seitenverhältnissen pro aktiviertem Erlebnis.
 
 **Hochladen eines Assets aus Inhalten**:
 
@@ -188,7 +188,7 @@ Nachdem Sie Ihre Anzeigenerlebnisse vorbereitet haben, müssen Sie Ihre Meta-Kon
 
 ### Erstellen eines neuen Anzeigensatzes
 
-Sie können während des Platform-Setups einen neuen Anzeigensatz erstellen, indem Sie während des Platform-Setups einen vorhandenen Anzeigensatz klonen. Meta-Anzeigensätze definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, ein Anzeigensatz ist jedoch ausschließlich mit einer Kampagne verknüpft.
+Sie können während des Platform-Setups einen neuen Anzeigensatz erstellen, indem Sie während des Platform-Setups einen vorhandenen Anzeigensatz klonen. Meta-Anzeigengruppen definieren den Zeitpunkt, die Kanaldetails und die Zielgruppe für eine bestimmte Anzeige. Eine Meta-Kampagne kann mehrere Anzeigengruppen enthalten, eine Anzeigengruppe ist jedoch ausschließlich einer Kampagne zugeordnet.
 
 **So erstellen Sie einen neuen Anzeigensatz**:
 

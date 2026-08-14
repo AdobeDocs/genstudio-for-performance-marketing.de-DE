@@ -45,19 +45,19 @@ Zu den Hauptkomponenten der App Builder-Apps gehören diese Build- und Konfigura
 
 * TS-App-Dateien:
 
-   * `package.json`
-   * `package-lock.json`
-   * `eslint`
-   * `tsconfig`
-   * `jest test up`
+  * `package.json`
+  * `package-lock.json`
+  * `eslint`
+  * `tsconfig`
+  * `jest test up`
 
 * App Builder-Konfigurationsdateien:
 
-   * `app.config.yaml`
-   * `ext.config.yaml`: Konfigurationsdatei für das Add-on.
-   * `app.config.yaml`: Konfigurationsdatei für das Add-on (einschließlich der Definition Ihrer App als GenStudio for Performance Marketing-Add-on).
-   * `.aio`
-   * `.env`: Übergeben Sie die `.env` nicht in die Versionsverwaltung.
+  * `app.config.yaml`
+  * `ext.config.yaml`: Konfigurationsdatei für das Add-on.
+  * `app.config.yaml`: Konfigurationsdatei für das Add-on (einschließlich der Definition Ihrer App als GenStudio for Performance Marketing-Add-on).
+  * `.aio`
+  * `.env`: Übergeben Sie die `.env` nicht in die Versionsverwaltung.
 
 ### Quell-Code
 

@@ -2,7 +2,7 @@
 title: Erstellen eines Banner-Erlebnisses
 description: Erfahren Sie, wie Sie in Adobe Banner-Erlebnisse  [!DNL GenStudio]  Performance-Marketing erstellen.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
-badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in der Beta-Phase, sodass Funktionsbereiche möglicherweise eingeschränkt sind oder geändert werden können."
 role: User
 level: Beginner
 recommendations: noDisplay
@@ -30,7 +30,7 @@ topic_v2:
 source-git-commit: e8e0898054576454bad9ecdbd1a48b17f955e138
 workflow-type: tm+mt
 source-wordcount: 1089
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

@@ -25,7 +25,7 @@ role_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 386
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 # Kampagnen in Adobe GenStudio for Performance Marketing
 
-[!DNL Campaigns] in GenStudio for Performance Marketing beschleunigen die Entwicklung und Bereitstellung von Marketing-Initiativen oder _Kampagnen_.[!DNL Campaigns]-Komponenten umfassen die Assets und Erlebnisse, die für die Erstellung, Genehmigung und Verwaltung durch die KI-generierten Workflows von GenStudio for Performance Marketing geeignet sind, einschließlich markenkonformer Bilder und Texte.
+[!DNL Campaigns] in GenStudio for Performance Marketing beschleunigen die Entwicklung und Bereitstellung von Marketing-Initiativen oder _Kampagnen_. [!DNL Campaigns]-Komponenten umfassen die Assets und Erlebnisse, die für die Erstellung, Genehmigung und Verwaltung durch die KI-generierten Workflows von GenStudio for Performance Marketing geeignet sind, einschließlich markenkonformer Bilder und Texte.
 
 Der [!DNL Campaigns]-Workflow bietet Folgendes:
 
@@ -45,20 +45,20 @@ Der [!DNL Campaigns]-Workflow bietet Folgendes:
 
 ## Anwendungsfälle für Kampagnen
 
-* [Erstellen einer Kampagne](create-campaign.md).Die Ansicht _Kampagne hinzufügen_ bietet einen Rahmen für die Erstellung einer Kampagne in GenStudio for Performance Marketing.Die in der Ansicht _Kampagne hinzufügen_ eingegebenen Informationen werden in [!DNL Campaigns] als Kampagnenobjekt gespeichert.
+* [Erstellen einer Kampagne](create-campaign.md). Die Ansicht _Kampagne hinzufügen_ bietet einen Rahmen für die Erstellung einer Kampagne in GenStudio for Performance Marketing. Die in der Ansicht _Kampagne hinzufügen_ eingegebenen Informationen werden in [!DNL Campaigns] als Kampagnenobjekt gespeichert.
 
-* [Verwalten von Kampagnen](manage-campaign.md) und Kampagneninhalten.Kampagnenelemente wie Zeitpläne, Anzeigenformate und Stakeholder können sich im Laufe einer Kampagne verändern.Sie können vorhandene Kampagnen ändern, indem Sie die Inhalte aktualisieren.
+* [Verwalten von Kampagnen](manage-campaign.md) und Kampagneninhalten. Kampagnenelemente wie Zeitpläne, Anzeigenformate und Stakeholder können sich im Laufe einer Kampagne verändern. Sie können vorhandene Kampagnen ändern, indem Sie die Inhalte aktualisieren.
 
 ## Funktionen von Kampagnen
 
 [!DNL Campaigns] orchestriert die auf generativer KI basierenden Funktionen von GenStudio for Performance Marketing, um Benutzende bei der Planung, Erstellung, Koordinierung und Messung der Kampagnen-Leistung zu unterstützen.
 
-* [[!DNL Create]](/help/user-guide/create/overview.md) bietet auf generativer KI basierende Tools zum Erstellen von Kampagnen-Assets, die auf Ihre Marke abgestimmt sind.Der Prozess zum Erstellen neuer Erlebnisse, Assets und Asset-Varianten wird auf der [!DNL Create]-Arbeitsfläche zentralisiert.Ihre [!DNL Brand]-Richtlinien dienen als Grundlage für die Inhaltserstellung und leiten das zugrunde liegende LLM an, um die Erwartungen Ihrer Organisation an diese Kampagne zu erfüllen.
+* [[!DNL Create]](/help/user-guide/create/overview.md) bietet auf generativer KI basierende Tools zum Erstellen von Kampagnen-Assets, die auf Ihre Marke abgestimmt sind. Der Prozess zum Erstellen neuer Erlebnisse, Assets und Asset-Varianten wird auf der [!DNL Create]-Arbeitsfläche zentralisiert. Ihre [!DNL Brand]-Richtlinien dienen als Grundlage für die Inhaltserstellung und leiten das zugrunde liegende LLM an, um die Erwartungen Ihrer Organisation an diese Kampagne zu erfüllen.
 
-* [[!DNL Content]](/help/user-guide/content/overview.md) bietet eine Bibliothek genehmigter Assets und Erlebnisse, die in Kampagnen einbezogen werden können.Inhalte werden in der Regel in GenStudio for Performance Marketing erstellt, durchlaufen den Prüf- und Genehmigungsprozess und werden anschließend in [!DNL Content] gespeichert.
+* [[!DNL Content]](/help/user-guide/content/overview.md) bietet eine Bibliothek genehmigter Assets und Erlebnisse, die in Kampagnen einbezogen werden können. Inhalte werden in der Regel in GenStudio for Performance Marketing erstellt, durchlaufen den Prüf- und Genehmigungsprozess und werden anschließend in [!DNL Content] gespeichert.
 
-* [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md) bietet die Struktur für die kollaborative Prüfung und Genehmigung einzelner Assets und Erlebnisse.Stakeholder mit unterschiedlichen Interessen und unterschiedlicher Beteiligung an der Erstellung von Kampagnen-Assets – von Kreativen bis hin zu rechtlichen prüfenden Personen – können sich am Prozess der Verfeinerung von Kampagnen-Assets beteiligen.
+* [[!DNL Review and approvals]](/help/user-guide/approvals/overview.md) bietet die Struktur für die kollaborative Prüfung und Genehmigung einzelner Assets und Erlebnisse. Stakeholder mit unterschiedlichen Interessen und unterschiedlicher Beteiligung an der Erstellung von Kampagnen-Assets – von Kreativen bis hin zu rechtlichen prüfenden Personen – können sich am Prozess der Verfeinerung von Kampagnen-Assets beteiligen.
 
-* [[!DNL Insights]](/help/user-guide/insights/overview.md) erfasst Leistungsmetriken für einzelne Kampagnenelemente und ganze Kampagnen.Marketing-Fachleute können Metriken festlegen, um den Erfolg der Kampagne auszuwerten, z. B. Klickraten, Konversionsraten und Interaktionsraten.Stakeholder können diese Metriken verwenden, um die Leistung dieser Kampagnenelemente zu bewerten.Diese Erkenntnisse können die kreative Überarbeitung von Assets in [!DNL Create] anregen.
+* [[!DNL Insights]](/help/user-guide/insights/overview.md) erfasst Leistungsmetriken für einzelne Kampagnenelemente und ganze Kampagnen. Marketing-Fachleute können Metriken festlegen, um den Erfolg der Kampagne auszuwerten, z. B. Klickraten, Konversionsraten und Interaktionsraten. Stakeholder können diese Metriken verwenden, um die Leistung dieser Kampagnenelemente zu bewerten. Diese Erkenntnisse können die kreative Überarbeitung von Assets in [!DNL Create] anregen.
 
 * [[!DNL Activate]](/help/user-guide/activation/overview.md) unterstützt die Veröffentlichung von Kampagnen-Assets als Anzeigenerlebnisse in den dafür vorgesehenen Kanälen.

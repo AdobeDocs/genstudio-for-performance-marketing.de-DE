@@ -37,7 +37,7 @@ Der Vorlagen-Code-Editor soll Ihnen dabei helfen, Ihre Vorlage zu überprüfen u
 
 Der Bereich _[!UICONTROL Erkannte Felder überprüfen]_ zeigt eine Liste von Feldern an, die GenStudio for Performance Marketing in Ihrer Vorlage erkennt. Überprüfen Sie die Liste und Sie können durch den HTML-Code scrollen, um die Bildung Ihrer Vorlage anzuzeigen.
 
-![Code-Editor-Ansicht](/help/assets/template-detected-fields.png "Überprüfung erkannter Felder"){width="600"}
+![Code-Editor-Ansicht](/help/assets/template-detected-fields.png "Überprüfen erkannter Felder"){width="600"}
 
 Wenn Sie feststellen, dass ein Feld in der Liste fehlt, durchsuchen Sie den Vorlagencode und suchen Sie nach dem Speicherort für das fehlende Feld. Fügen Sie den richtigen Platzhalter mithilfe der Handlebars-Syntax und eines [erkannten Feldnamens](/help/user-guide/templates/customize-template.md#recognized-field-names) ein. Verwenden Sie das Formular Suchen und Ersetzen unten im Code-Editor, um nach bestimmten Zeichenfolgen im Code zu suchen. (Windows `CTRL`+`F` oder macOS `CMD`+`F`)
 

@@ -19,7 +19,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 489
+source-wordcount: 490
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Auswählen von Erlebnissen:
 1. Verwenden Sie die Such- und Filterwerkzeuge der Inhaltsgalerie, um das Erlebnis zu identifizieren, das Sie aktivieren möchten. Klicken Sie dann auf **[!UICONTROL Verwenden]**. Alternativ können Sie ein Erlebnis aus Aktivieren auswählen, indem Sie auf **[!UICONTROL Produktkarte]** Neu“ klicken.
 1. Sie werden aufgefordert, eine Plattform auszuwählen, bevor Sie mit der Aktivierung fortfahren. Wählen Sie *Innovid* aus. Die Einrichtungsseite für Innovid Experience wird für dieses Erlebnis geöffnet. Sie wird vorab mit den Details des Erlebnisses gefüllt und kann nicht überarbeitet werden. 
 1. (Optional) Klicken Sie auf **[!UICONTROL Erlebnis hinzufügen]**, um dieser Aktivierungsgruppe Erlebnisse hinzuzufügen.
-1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung der Innovid-Plattform zu bestätigen. Die **[!UICONTROL Platform-Setup]**-Ansicht wird geöffnet. Diese Ansicht zeigt Optionen an, die von den konfigurierten Innovid-Konten abgeleitet wurden.
+1. Klicken Sie **[!UICONTROL Weiter]**, um die Einrichtung der Innovid-Plattform zu bestätigen. Die Ansicht **[!UICONTROL Platform-Setup]** wird geöffnet.Diese Ansicht zeigt Optionen an, die von den konfigurierten Innovid-Konten abgeleitet wurden.
 
 ## Schritt 4: Bestätigen Sie die Einrichtung der Innovid-Plattform
 

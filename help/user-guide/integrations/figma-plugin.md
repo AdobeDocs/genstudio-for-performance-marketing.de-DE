@@ -19,8 +19,8 @@ topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: 2c5e5166bfe9d4b1c6cb56495613ff5cf20fab34
 workflow-type: tm+mt
-source-wordcount: 1793
-ht-degree: 76%
+source-wordcount: 1913
+ht-degree: 78%
 
 ---
 
@@ -264,7 +264,7 @@ So konvertieren Sie Frames:
    1. Klicken **[!UICONTROL in „Datei]**&quot; auf **[!UICONTROL Link kopieren]**.
    1. Fügen Sie den kopierten Link in das Feld **[!UICONTROL Figma File link]** im [!DNL GenStudio for Performance Marketing]-Plug-in-Dialog ein. Dies muss für JEDE DATEI erledigt werden:
       ![Dialogfeld „Dateischlüssel erforderlich“](./file-key-required.png){width="35%"}
-   1. Klicken Sie auf **[!UICONTROL Senden]**.
+   1. Klicken Sie auf **[!UICONTROL Absenden]**.
 1. Es wird ein Popup angezeigt, in dem Sie um Zugriff zum Lesen des Inhalts und der Metadaten Ihrer Datei gebeten werden. Dies muss für alle Dateien nur einmal durchgeführt werden. Klicken Sie auf **[!UICONTROL Zugriff zulassen]**. Das Plug-in liest die ausgewählten Frames in Figma und konvertiert sie in ein JSON-Dokument, ein Zwischenformat für die Dateidaten.
    ![Zugriff erlauben, um den Inhalt und die Metadaten der Datei zu lesen](./figma-access-request.png){width="35%"}
 1. Öffnen Sie in Photoshop [!DNL GenStudio Photoshop] und klicken Sie auf die Registerkarte **[!UICONTROL Importieren]** .
@@ -274,7 +274,7 @@ So konvertieren Sie Frames:
    * Klicken Sie auf **[!UICONTROL JSON hochladen]**, um zur hochzuladenden JSON-Datei zu navigieren und sie auszuwählen.
      ![Schaltfläche „JSON hochladen“](./upload-json.png){width="40%"}
 1. GenStudio Photoshop konvertiert die Informationen aus dem JSON-Dokument in ein geöffnetes Photoshop-Dokument.
-1. Klicken Sie **[!UICONTROL Fertig]**. Die neue Datei wird in Photoshop geöffnet und kann verwendet werden. Oder klicken Sie **[!UICONTROL Speichern unter…]**, um einen Speicherort für die Datei auszuwählen.
+1. Klicken Sie auf **[!UICONTROL Fertig]**. Die neue Datei wird in Photoshop geöffnet und kann verwendet werden. Oder klicken Sie **[!UICONTROL Speichern unter…]**, um einen Speicherort für die Datei auszuwählen.
    ![Dialogfeld „Fertig“](./import-done-button.png){width="40%"}
 
 ## Generationsverlauf

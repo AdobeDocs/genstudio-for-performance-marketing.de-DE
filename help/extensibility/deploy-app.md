@@ -86,8 +86,8 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 Je nach dem Typ der bereitgestellten Erweiterung befinden sich neue Erweiterungen an verschiedenen Stellen in der Benutzeroberfläche. Die derzeit verfügbaren Erweiterungspunkte sind:
 
 * Compliance-Erweiterung, die Folgendes umfasst:
-   * [*Prompt-Erweiterungspunkte*](#find-prompt-extensions) mit denen Kunden zusätzlichen Kontext zur LLM-Generierung hinzufügen können, und
-   * [*Validierungs-Erweiterungspunkte*](#find-validation-extensions) mit denen Kunden den generierten Inhalt aus dem LLM überprüfen können. Die Validierung wird häufig mit einer sofortigen Erweiterung gepaart, um sicherzustellen, dass der mit einer verlängerten Eingabeaufforderung generierte Inhalt den Kundenanforderungen entspricht (z. B. Ansprüche auf medizinische Medikamente oder rechtliche Vorschriften)
+  * [*Prompt-Erweiterungspunkte*](#find-prompt-extensions) mit denen Kunden zusätzlichen Kontext zur LLM-Generierung hinzufügen können, und
+  * [*Validierungs-Erweiterungspunkte*](#find-validation-extensions) mit denen Kunden den generierten Inhalt aus dem LLM überprüfen können. Die Validierung wird häufig mit einer sofortigen Erweiterung gepaart, um sicherzustellen, dass der mit einer verlängerten Eingabeaufforderung generierte Inhalt den Kundenanforderungen entspricht (z. B. Ansprüche auf medizinische Medikamente oder rechtliche Vorschriften)
 * [Erweiterung für Digital Asset Management (DAM)](#find-dam-extensions)
 * [Vorlagenerweiterung](#find-template-extensions)
 * [Übersetzungs-Erweiterung](#find-translation-extensions)

@@ -4,7 +4,7 @@ description: Installieren und konfigurieren Sie die App Journey Optimizer for Ge
 feature: Extensibility
 source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '964'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Erstellen Sie **Projekt** in der [Adobe Developer Console](https://developer.ado
    ![Konfiguration mit AJO-Anmeldeinformationen vor der Bereitstellung (Entwurf)](/help/extensibility/ajo-config-004.png){width="80%"}
 1. Geben Sie die Anmeldeinformationen aus dem Developer Console-Projekt ein, dem die Journey Optimizer-API hinzugefügt wurde (z. B. **[!UICONTROL AJO Client ID]**, **[!UICONTROL AJO Client Secret]** und **[!UICONTROL AJO Token Endpoint]** und alle anderen erforderlichen Felder).
 1. Geben Sie den **Sandbox-Namen in Kleinbuchstaben** ein (z. B. `prod`).
-1. Klicken Sie **[!UICONTROL Bereitstellen]**. Nach Abschluss der Bereitstellung wird der Status als „bereitgestellt“ angezeigt. Der Schaltflächentext ändert sich in „Bereitstellung **[!UICONTROL &quot;]**.
+1. Klicken Sie auf **[!UICONTROL Bereitstellen]**. Nach Abschluss der Bereitstellung wird der Status als „bereitgestellt“ angezeigt. Der Schaltflächentext ändert sich in „Bereitstellung **[!UICONTROL &quot;]**.
    ![Bereitgestellte Anwendung mit „Bereitstellung aufheben“ in der Ansicht &quot;App Builder-Anwendungen“](/help/extensibility/ajo-config-005.png){width="80%"}
 
 Nach der Bereitstellung enthält die Adobe Developer Console ein neues automatisch generiertes Projekt mit dem Namen **Journey Optimizer für GenStudio &lt;your_environment_name>** mit AJO- und Adobe Runtime-APIs. Dieses Projekt ist schreibgeschützt und kann nicht bearbeitet oder gelöscht werden.

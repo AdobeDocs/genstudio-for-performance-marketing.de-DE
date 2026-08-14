@@ -29,11 +29,11 @@ topic_v2:
 source-git-commit: 8ec5d89113f24b91b4d963124050eaf4bf1bf368
 workflow-type: tm+mt
 source-wordcount: 3023
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Richtlinien hinzufügen
+# Hinzufügen von Richtlinien
 
 Mit GenStudio for Performance Marketing können Sie benutzerdefinierte Richtlinien festlegen, die sicherstellen, dass alle KI-generierten Inhalte an eine Markenidentität angepasst werden. Auf dieser Seite finden Sie Anweisungen zum Festlegen und Verwenden jeder einzelnen verfügbaren Richtlinie. Eine allgemeine Erklärung finden Sie unter [Richtlinien - Übersicht](/help/user-guide/guidelines/overview.md).
 

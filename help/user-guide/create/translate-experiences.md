@@ -26,7 +26,7 @@ Vorkonfigurierte Übersetzungen auf der HTML-Arbeitsfläche unterstützen:
 * [E-Mail-Erlebnisse](/help/user-guide/create/email-experiences.md)
 * Bezahlte Medienerlebnisse, einschließlich [Meta](/help/user-guide/create/meta-experiences.md), [LinkedIn](/help/user-guide/create/linkedin-experiences.md) und [Display](/help/user-guide/create/display-ad-experiences.md) Anzeigen
 
-## Bevor Sie beginnen
+## Voraussetzungen
 
 Bestätigen Sie, dass das zu übersetzende Erlebnis **genehmigt** und in der [!DNL Content] (Erlebnisse _[!UICONTROL verfügbar]_. Erlebnisse für Entwürfe oder laufende Überprüfungen sind keine geeigneten Übersetzungsquellen.
 
@@ -148,6 +148,6 @@ Beachten Sie beim Übersetzen von Erlebnissen auf der HTML-Arbeitsfläche die fo
 
 * [E-Mail-Erlebnisse](/help/user-guide/create/email-experiences.md)
 * [Meta-Erlebnisse](/help/user-guide/create/meta-experiences.md)
-* [Anzeigen-Erlebnisse](/help/user-guide/create/display-ad-experiences.md)
-* [Verwalten von Assets und Erlebnissen](/help/user-guide/content/manage-assets.md)
+* [Display-Anzeigen-Erlebnisse](/help/user-guide/create/display-ad-experiences.md)
+* [Assets und Erlebnisse verwalten](/help/user-guide/content/manage-assets.md)
 * [Suchen von Übersetzungserweiterungen](/help/extensibility/deploy-app.md#find-translation-extensions)

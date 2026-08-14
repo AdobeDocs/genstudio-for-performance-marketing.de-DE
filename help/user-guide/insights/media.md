@@ -33,7 +33,7 @@ ht-degree: 0%
 
 # Medienübersicht
 
-Die [!DNL Insights] Ansicht _[!UICONTROL Medien]_ zeigt eine Liste der Medien, die in Anzeigen- und Anzeigenkampagnen für das ausgewählte Konto verwendet werden. _Medien_ stellt ein Bild, Video, Text oder andere kreative Inhalte dar, die für die Verwendung in Ihren Marketing-Initiativen genehmigt wurden.
+Die [!DNL Insights] Ansicht _[!UICONTROL Medien]_ zeigt eine Liste der Medien, die in Anzeigen- und Anzeigenkampagnen für das ausgewählte Konto verwendet werden. _Media_ stellt ein Bild, Video, Text oder andere kreative Inhalte dar, die für die Verwendung in Ihren Marketing-Initiativen genehmigt wurden.
 
 {{connect-insights}}
 

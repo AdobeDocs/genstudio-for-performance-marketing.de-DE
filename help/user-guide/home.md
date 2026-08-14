@@ -1,6 +1,6 @@
 ---
 title: Benutzerhandbuch zu Adobe GenStudio
-description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing.Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
+description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing. Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
 role: User
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
 TQID: https://experienceleague.adobe.com/apgYIh5ri1UwarpHziyvJDEJPAOnmDu4QCulAP1-uRE
@@ -21,15 +21,15 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
-workflow-type: ht
-source-wordcount: 188
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: 257
+ht-degree: 73%
 
 ---
 
 # Adobe GenStudio for Performance Marketing Benutzerhandbuch
 
-GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattform für generative KI basiert.Marketing-Teams können damit Kampagneninhalte für Paid Media, E-Mails und Display-Anzeigen erstellen, verwalten und optimieren.GenStudio for Performance Marketing bietet eine umfassende Palette von Tools für die Inhaltserstellung und das Kampagnen-Management. Ziel ist es, den ROI zu verbessern und die Inhaltserstellung zu skalieren, ohne die Markenintegrität zu beeinträchtigen.
+GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattform für generative KI basiert. Marketing-Teams können damit Kampagneninhalte für Paid Media, E-Mails und Display-Anzeigen erstellen, verwalten und optimieren. GenStudio for Performance Marketing bietet eine umfassende Palette von Tools für die Inhaltserstellung und das Kampagnen-Management. Ziel ist es, den ROI zu verbessern und die Inhaltserstellung zu skalieren, ohne die Markenintegrität zu beeinträchtigen.
 
 ## Erkunden von Funktionen
 
@@ -41,7 +41,7 @@ GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattf
       </a>
       <div>
          <a href="../user-guide/effective-prompts.md">
-         <strong>Schreiben effektiver Prompts</strong>
+         <strong>Effektive Eingabeaufforderungen schreiben</strong>
          </a>
       </div>
       <p>
@@ -54,12 +54,12 @@ GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattf
       </a>
       <div>
          <a href="../user-guide/create/overview.md">
-         <strong>Erstellen von Erlebnissen</strong>
+         <strong>Erlebnisse erstellen</strong>
          </a>
       </div>
       <p>
-<em>Erstellen Sie leistungsstarke, markenkonforme E-Mails und Meta-Anzeigen.</em>
-</p>
+         <em>Erstellen Sie leistungsstarke, markenkonforme E-Mails und Meta-Anzeigen.</em>
+      </p>
    </td>
    <td valign="top">
       <a href="../user-guide/approvals/overview.md">
@@ -67,12 +67,12 @@ GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattf
       </a>
       <div>
          <a href="../user-guide/approvals/overview.md">
-         <strong>Prüfen und Genehmigen</strong>
+         <strong>Überprüfen und bestätigen</strong>
          </a>
       </div>
       <p>
-<em>Orchestrieren Sie die optimierte Prüfung und Genehmigung von Marketing-Assets.</em>
-</p>
+         <em>Orchestrieren Sie die optimierte Prüfung und Genehmigung von Marketing-Assets.</em>
+      </p>
    </td>
    <td valign="top">
       <a href="../user-guide/content/overview.md">
@@ -80,12 +80,12 @@ GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattf
       </a>
       <div>
          <a href="../user-guide/content/overview.md">
-         <strong>Verwalten von Inhalten</strong>
+         <strong>Inhalt verwalten</strong>
          </a>
       </div>
       <p>
          <em>Sie können Inhalte unter Einhaltung der Markenrichtlinien suchen, verwalten und wiederverwenden.</em>
-</p>
+      </p>
    </td>
    <td valign="top">
       <a href="../user-guide/insights/overview.md">
@@ -93,12 +93,12 @@ GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattf
       </a>
       <div>
          <a href="../user-guide/insights/overview.md">
-         <strong>Anzeigen von Erkenntnissen</strong>
+         <strong>Einblicke anzeigen</strong>
          </a>
       </div>
       <p>
-<em>Analysieren Sie die Inhaltswirksamkeit von Paid-Media-Kanälen.</em>
-</p>
+         <em>Analysieren Sie die Inhaltswirksamkeit von Paid-Media-Kanälen.</em>
+      </p>
    </td>
 </tr>
 </table>
@@ -110,33 +110,33 @@ GenStudio for Performance Marketing ist eine Anwendung, die auf der Adobe-Plattf
    <div>
       <a href="/help/user-guide/guidelines/add-guidelines.md">
       <img alt="Hinzufügen von Richtlinien" src="../assets/card-guidelines.png">
-      <strong>Hinzufügen von Richtlinien</strong>
+      <strong>Richtlinien hinzufügen</strong>
       </a>
    </div>
    <p>
-<em>Erfahren Sie, wie Sie Richtlinien für Marken, Produkte und Personas zu GenStudio for Performance Marketing hinzufügen.</em>
-</p>
+      <em>Erfahren Sie, wie Sie Richtlinien für Marken, Produkte und Personas zu GenStudio for Performance Marketing hinzufügen.</em>
+   </p>
 </td>
 <td valign="top">
    <div>
       <a href="/help/user-guide/create/create-meta-ad.md">
       <img alt="Personen, die Dateien in einen Ordner verschieben" src="../assets/card-manage-content.png">
-      <strong>Erstellen eines Meta-Anzeigenerlebnisses</strong>
+      <strong>Erstellen eines Meta Ad-Erlebnisses</strong>
       </a>
    </div>
    <p>
-<em>Erfahren Sie, wie Sie ein markenkonformes Meta-Anzeigenerlebnis erstellen.</em>
-</p>
+      <em>Erfahren Sie, wie Sie ein markenkonformes Meta-Anzeigenerlebnis erstellen.</em>
+   </p>
 </td>
 <td valign="top">
    <div>
       <a href="/help/user-guide/create/generate-assets.md">
       <img alt="Ideen, Bücher, Bleistift, Computer" src="../assets/card-create-assets.png">
-      <strong>Generieren von Bildern</strong>
+      <strong>Erstellen von Bildern</strong>
       </a>
    </div>
    <p>
-<em>Erfahren Sie, wie Sie Bilder generieren können.</em>
-</p>
+      <em>Erfahren Sie, wie Sie Bilder generieren können.</em>
+   </p>
 </td>
 </table>

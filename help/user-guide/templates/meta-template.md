@@ -21,8 +21,8 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 376
-ht-degree: 1%
+source-wordcount: 380
+ht-degree: 2%
 
 ---
 
@@ -37,7 +37,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie Meta-Anzeige
 - Es ist genau ein Bildfeld erforderlich
 - Verwenden **nicht** relative Schriftgröße
 - Viewport **nicht**
-- Verwenden **nicht** JavaScript
+- Verwenden Sie **kein** JavaScript
 - Überschreiben **nicht** ein HTML-Element in CSS
 - Verwenden Sie das `<img>` Tag anstelle von `background-image`
 - Maskieren verwenden, um die Lesbarkeit von Text gegenüber Hintergrundbildern zu verbessern
@@ -65,7 +65,7 @@ Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x2
 | Quadrat 1:1 | 1080 x 1080 | Standard für die meisten Meta-Platzierungen; empfohlen für weit reichende Kompatibilität. |
 | Hochformat 4:5 | 1080 x 1350 | Optimiert für mobile Feeds; bietet mehr vertikalen Raum. |
 | Story 9:16 | 1080 x 1920 | Ideal für Stories und Rollen; füllt den gesamten Bildschirm für Mobilgeräte. |
-| Querformat 1.91:1 | 1080 x 566 | Am besten geeignet für Link-Anzeigen und Platzierungen von Nachrichten-Feeds; Breitformat. |
+| Querformat 1,91:1 | 1080 x 566 | Am besten geeignet für Link-Anzeigen und Platzierungen von Nachrichten-Feeds; Breitformat. |
 | Benutzerdefiniert | Mindestens 50 x 50 (Breite) | Nur verwenden, wenn erforderlich; kann zu Zuschnitt oder Skalierung führen. |
 
 Wenn die Anzeige nicht in einem dieser Seitenverhältnisse entworfen wurde, schneidet GenStudio for Performance Marketing das Bild automatisch in die entsprechende Größe zu.

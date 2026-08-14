@@ -3,7 +3,7 @@ title: Vorbereiten einer E-Mail-Vorlage für GenStudio for Performance Marketing
 description: Erfahren Sie, wie Sie eine E-Mail-Vorlage für die Verwendung in Adobe GenStudio for Performance Marketing vorbereiten.
 level: Beginner
 feature: Media Templates
-badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in Beta, sodass einige Funktionen möglicherweise eingeschränkt sind oder geändert werden können."
+badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in der Beta-Phase, sodass Funktionsbereiche möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay, noCatalog
 exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
 TQID: https://experienceleague.adobe.com/wM0dD2t751PHH9UkmPpZDzwv-1L90UW5vdcKXDeIBHE
@@ -17,8 +17,8 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
-source-wordcount: 404
-ht-degree: 3%
+source-wordcount: 415
+ht-degree: 9%
 
 ---
 
