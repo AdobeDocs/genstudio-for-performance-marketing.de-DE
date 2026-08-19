@@ -5,32 +5,21 @@ level: Intermediate
 feature: Content Management, Content Attributes
 exl-id: 9fc1e428-7fa7-4f00-84ba-51c9318766f4
 TQID: https://experienceleague.adobe.com/ATpH1AXBAhr5tJDVkgx0ZaK20YYBmP7NQF0BUCtGiGw
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: ad3738c7-91ac-48ed-a914-fd0b03f89396
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 7aed06dbb249cfc7e0f15d792563699e63b1a390
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: ad3738c7-91ac-48ed-a914-fd0b03f89396id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: abf48a907a72b060f684865c29b3a42f1ebdc3dc
 workflow-type: tm+mt
-source-wordcount: 723
-ht-degree: 4%
+source-wordcount: 670
+ht-degree: 5%
 
 ---
 
 # Content Credentials für Unternehmen
 
 Erfahren Sie, wie manipulationssichere Anmeldeinformationen für Inhalte, die die Markenauthentizität beweisen und die Compliance fördern, direkt in Ihren Marketing-Workflow eingebettet werden.
-
->[!WARNING]
->
-> Diese Funktion befindet sich derzeit in der Beta-Phase und steht nur Organisationen zur Verfügung, die Zugriff erhalten haben. Wenden Sie sich bei Interesse an Ihren Adobe-Kundenbetreuer oder ([&#x200B; Sie diesen Link, um eine Registrierung anzufordern](https://www.feedbackprogram.adobe.com/c/a/5aWPEOthrDv22Mf9CyekOy?source=qr).
 
 ## Erste Schritte mit Content Credentials {#content-credentials}
 
@@ -39,19 +28,15 @@ Erfahren Sie, wie manipulationssichere Anmeldeinformationen für Inhalte, die di
 >title="Content Credentials in [!DNL GenStudio for Performance Marketing]"
 >abstract="Manipulationssichere Anmeldedaten für Inhalte, die die Markenauthentizität belegen und die Compliance fördern, können direkt in Ihren Marketing-Workflow eingebettet werden."
 
-Nachdem Content Credentials in der Admin Console aktiviert wurde, können GenStudio for Performance Marketing-Benutzende Content Credentials für alle Assets global in der App aktivieren. Wenn die globale Option zum Anwenden von Anmeldeinformationen deaktiviert ist, können Benutzerinnen und Benutzer Content Credentials für jedes einzelne Asset anwenden.
+GenStudio for Performance Marketing wendet Content Credentials automatisch global auf alle Assets an. Es gibt keinen Einrichtungsschritt und keine Asset-bezogenen Einstellungen, die aktiviert werden können: Anmeldeinformationen werden während des Marketing-Workflows eingebettet, beibehalten und aktualisiert.
 
 Nach der Veröffentlichung von Inhalten ist Content Credentials auf externen Plattformen wie LinkedIn sichtbar.
 
-Admins sind für das Hochladen eines gültigen X.509-Zertifikats in Admin Console verantwortlich. Dadurch wird sichergestellt, dass die digitale Signatur des Unternehmens ordnungsgemäß konfiguriert und für die Verwendung in unterstützten Adobe DX-Anwendungen bereit ist.
-
->[!NOTE]
->
->Die Kontrolle über diese Einstellung könnte in Zukunft auf Admin Console übergehen, die Verwaltung von Content Credentials anwendungsübergreifend optimieren und die administrative Aufsicht verbessern.
+C2PA-kompatible Content Credentials erfordern keine Zertifikateinrichtung. Die Markensignatur ist die Ausnahme: Um Inhalte mit der eigenen Signatur Ihres Unternehmens zu signieren, muss ein Administrator ein gültiges X.509-Zertifikat in die Admin Console hochladen. Dadurch wird sichergestellt, dass die digitale Signatur des Unternehmens ordnungsgemäß konfiguriert und für die Verwendung in unterstützten Adobe DX-Anwendungen bereit ist.
 
 ## Was ist Content Credentials? 
 
-Content Credentials sind dauerhafte, dem Branchenstandard entsprechende Metadaten, die Details zur Inhaltserstellung und Identitätsinformationen zu den Erstellern enthalten. Content Credentials kann angezeigt werden, wenn die Inhalte online auf unterstützenden Plattformen veröffentlicht werden, oder mithilfe von Tools wie dem Inspektions-Tool von [Adobe &#x200B;](https://contentauthenticity.adobe.com/inspect) der Browser-Erweiterung [Adobe Content Authenticity Chrome](https://helpx.adobe.com/de/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
+Content Credentials sind dauerhafte, dem Branchenstandard entsprechende Metadaten, die Details zur Inhaltserstellung und Identitätsinformationen zu den Erstellern enthalten. Content Credentials kann angezeigt werden, wenn die Inhalte online auf unterstützenden Plattformen veröffentlicht werden, oder mithilfe von Tools wie dem Inspektions-Tool von [Adobe ](https://contentauthenticity.adobe.com/inspect) der Browser-Erweiterung [Adobe Content Authenticity Chrome](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
 
 Die Anwendung von Content Credentials kann dazu beitragen, die Transparenz hinsichtlich der Art und Weise, wie Inhalte erstellt wurden, zu erhöhen, und Ihren Benutzenden helfen, sich mit ihren Inhalten zu verbinden.
 
@@ -71,7 +56,7 @@ Die Anwendung von Content Credentials kann während des gesamten Marketing-Workf
 
 In der Inhaltsgalerie werden Anmeldeinformationen für importierte Assets angezeigt.
 
-Das Content Credential-Badge in der rechten oberen Ecke der Miniaturansicht zeigt Inhalte an, die mit „Markenzeichen“ versehen sind.
+Das Content Credential-Badge in der rechten oberen Ecke der Miniaturansicht zeigt [!UICONTROL markensignierten] Inhalt an.
 
 ![Ein importiertes Asset mit Anmeldeinformationen](./images/import-discovery1.png)
 
@@ -93,7 +78,7 @@ Die Metadaten der Anmeldeinformationen werden beibehalten, da Assets für Erlebn
 
 Beim Export aus einem Entwurf werden geänderte Assets automatisch neu signiert und die neuen Anmeldeinformationen sind mit dem Original verknüpft.
 
-![Berechtigungsdaten für ein exportiertes Asset](./images/edit-and-transformation1.png){width="60%"}
+![Das Dialogfeld „Herunterladen“ mit Optionen für das Exportformat](./images/edit-and-transformation2.png){width="60%"}
 
 ### Überprüfung und Genehmigung
 
@@ -103,7 +88,7 @@ In der Vorschau Überprüfen und Genehmigen wird der Status der Berechtigung fü
 
 Die Anmeldeinformationen für die einzelnen Varianten werden angezeigt, wenn Reviewer die Assets überprüfen. Genehmigte Erlebnisse werden erneut signiert, wenn Benutzende auf **[!UICONTROL Im Inhalt speichern]** klicken.
 
-![Berechtigungsdaten für ein genehmigtes Asset](./images/review-and-approve2.png)
+![Das Dialogfeld „Details für genehmigte Inhalte bestätigen“ mit der Schaltfläche „Im Inhalt speichern“](./images/review-and-approve3.png)
 
 ### Aktivierung und Export
 
