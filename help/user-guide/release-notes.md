@@ -40,9 +40,9 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 86c5e5236bf256694858ae5b0ca1f6930cf35033
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 5751
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -54,21 +54,21 @@ Diese Versionshinweise enthalten die neuesten Aktualisierungen für GenStudio fo
 
 **NEUE FUNKTIONEN:**
 
-### Massenbearbeitung auf der Arbeitsfläche „Horizont“
+### Massenbearbeitung auf der Horizon-Arbeitsfläche
 
-Die Horizon-Arbeitsfläche verknüpft nun verwandte Text- und Bildfelder über die Größen und Seiten hinweg in einer mehrseitigen oder mehrseitigen Vorlage, sodass eine Bearbeitung in der letzten Meile nur einmal erfolgen muss. Wählen Sie im Menü Bearbeiten den **[!UICONTROL Anwenden auf]** aus - diese Größe, alle Größen oder alle Konzepte - und die Bearbeitung wird automatisch weitergegeben, mit der Option, die Feld-Tagging bei Bedarf manuell anzupassen.
+Die Horizon-Arbeitsfläche verknüpft jetzt verwandte Text- und Bildfelder über die Größen und Seiten hinweg in einer Vorlage mit mehreren Größen oder Seiten, sodass eine letzte Bearbeitung nur einmal erfolgen muss. Wählen Sie im Menü „Bearbeiten“ den Umfang für die Option **[!UICONTROL Anwenden auf]** aus (diese Größe, alle Größen, alle Konzepte). Die Bearbeitung wird dann automatisch übertragen, wobei das Feld-Tagging bei Bedarf manuell angepasst werden kann.
 
-### Display-Anzeigen direkt am Trade Desk aktivieren
+### Aktivieren von Display-Anzeigen direkt für The Trade Desk
 
-Marketing-Experten können jetzt genehmigte Display-Kreative direkt aus [!DNL GenStudio for Performance Marketing] in bestehende The Trade Desk-Kampagnen veröffentlichen. Verbinden Sie ein Konto mit einem API-Token, starten Sie die Aktivierung über [!DNL Activate] oder [!DNL Content] und verfolgen Sie den Aktivierungsstatus mit Deep-Links zurück zum Trade Desk.
+Marketing-Fachleute können genehmigtes Kreativmaterial für die Anzeige jetzt direkt aus [!DNL GenStudio for Performance Marketing] in bestehende The Trade Desk-Kampagnen veröffentlichen. Verbinden Sie ein Konto mit einem API-Token, starten Sie die Aktivierung über [!DNL Activate] oder [!DNL Content] und verfolgen Sie den Aktivierungsstatus mit Deep-Links zurück zu The Trade Desk.
 
-### Austausch von Inhaltsfragmenten auf der Arbeitsfläche „Horizont“
+### Austausch von Inhaltsfragmenten auf der Horizon-Arbeitsfläche
 
-Sie können jetzt einen Textblock auf der Horizon-Arbeitsfläche gegen ein vorab genehmigtes, wiederverwendbares Inhaltsfragment austauschen, das direkt aus der AEM-Inhaltsfragmentbibliothek abgerufen wird. Austausch von Inhaltsfragmenten funktioniert bei der Massenbearbeitung, sodass ein Austausch auf eine einzelne Größe angewendet oder auf alle Größen und Konzepte gleichzeitig angewendet werden kann, wobei die regulierte Kopie genau so beibehalten wird, wie sie ohne manuelle Wiedereingabe genehmigt wurde.
+Sie können jetzt einen Textblock auf der Horizon-Arbeitsfläche gegen ein vorab genehmigtes, wiederverwendbares Inhaltsfragment austauschen, das direkt aus der AEM-Inhaltsfragmentbibliothek abgerufen wird. Der Austausch von Inhaltsfragmenten funktioniert bei der Massenbearbeitung, sodass ein Austausch auf eine einzelne Größe angewendet oder auf alle Größen und Konzepte gleichzeitig übertragen werden kann. Die regulierte Kopie wird dabei ohne manuelle Wiedereingabe genau so beibehalten, wie sie genehmigt wurde.
 
 ## Frühere Versionshinweise
 
-+++Hinweise aus 2026.06.11
++++Hinweise vom 11.06.2026
 
 ### YouTube Shorts in [!DNL Create] und [!DNL Activate]
 
@@ -693,7 +693,7 @@ Diese Version enthält Verbesserungen bei der Lokalisierung in gesamten Benutzer
 
 * Benutzende können jetzt alle interaktiven Elemente der Meta-Anzeigenvorlage allein über die Tastatur steuern. <!-- GS-4066 -->
 
-* Es wurde eine Extraktion von Bildabmessungen aus Vorlagenbildfeldern hinzugefügt, um Anzeigenvorlagen anzuzeigen. Anfragen zum smarten Zuschneiden werden jetzt für die tatsächliche Dimension des Bildes und nicht für die gesamte Vorlage gesendet. <!-- GS-6926 -->
+* Die Extraktion von Bildabmessungen aus Vorlagenbildfeldern wurde zu Vorlagen für Display-Anzeigen hinzugefügt. Anfragen zum intelligenten Zuschnitt werden jetzt für die tatsächliche Bildgröße und nicht für die gesamte Vorlage gesendet. <!-- GS-6926 -->
 
 * Die Zeichenfolge `Zoom to fit to screen` wurde in generierten E-Mail- und Meta-Anzeigen lokalisiert. <!-- GS-5063 -->
 
@@ -737,7 +737,7 @@ Diese Version enthält Verbesserungen bei der Lokalisierung in gesamten Benutzer
 
 * Layout-Probleme mit E-Mail-Rahmen wurden behoben. <!-- GS-6631 -->
 
-* Der Tastaturfokus funktioniert jetzt mit der Schaltfläche **[!DNL Content]**&#x200B;**[!UICONTROL Löschen]** wie erwartet. Zuvor konnten Benutzer nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
+* Der Tastaturfokus funktioniert jetzt wie erwartet mit der Schaltfläche **[!DNL Content]** **[!UICONTROL Löschen]**. Zuvor konnten Benutzende nicht über die Tastatur auf diese Schaltfläche zugreifen.  <!-- GS-4065 -->
 
 +++
 
