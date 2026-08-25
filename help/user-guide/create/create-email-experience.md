@@ -27,9 +27,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: ecda1f61abaafe858629fc4700f61d89e2ab9e3e
+source-git-commit: e47c6644de51ead57f1c2e780aa287eb1de7ac87
 workflow-type: tm+mt
-source-wordcount: 1132
+source-wordcount: 1547
 ht-degree: 0%
 
 ---
@@ -111,10 +111,57 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 * **Um [&#x200B; Textformatierung anzuwenden](/help/user-guide/create/manage-variants.md#manually-edit-text)** in einer Variante klicken Sie auf den Nicht-Bild-Text für eine Variante und klicken Sie auf **[!UICONTROL Text formatieren]**.
 * **Um [&#x200B; Abschnitt einer Variante neu zu erstellen](/help/user-guide/create/manage-variants.md#re-generate-sections)** klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die _[!UICONTROL Vorgeschlagene Bearbeitungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Generieren]**.
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Symbol **[!UICONTROL Austauschen]** Inhalt.
+* **Um [&#x200B; Bild in einer Variante zu bearbeiten](#edit-images-in-the-canvas)** klicken Sie auf ein Bildfeld und klicken Sie auf **[!UICONTROL Bearbeiten]** (Stiftsymbol), um das Bild direkt auf der Arbeitsfläche zuzuschneiden, neu zu positionieren oder zu erweitern.
 * **Um [einen Link zu einem Bild in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-image-link)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf das Link-Symbol.
 * **Um [ALT-Text für Bilder in einer Variante hinzuzufügen](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** klicken Sie auf ein Bild-Asset und verwenden Sie die Option _ALT-Text_, um manuell ALT-Text pro Bild hinzuzufügen oder zu generieren.
 * **Um [Barrierefreiheitsbeschriftungen](/help/user-guide/create/manage-variants.md#add-accessibility-labels) zu Ihren Varianten hinzuzufügen,** Sie auf ein Bild oder einen call-to-action-Link und geben Sie dann eine kurze Beschreibung ein, die erklärt, was der Link oder die Schaltfläche bewirkt.
 * **Um [E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. „E-Mail 1/4„), und klicken Sie dann auf **[!UICONTROL Variante löschen]**.
+
+## Bearbeiten von Bildern auf der Arbeitsfläche
+
+Anpassen von Bildern, ohne die Arbeitsfläche zu verlassen oder sich auf externe Design-Tools zu verlassen. Sie können ein Bild zuschneiden und neu positionieren, um es auf ein Objekt zu fokussieren, oder mithilfe von generativer Erweiterung ein Bild über seine ursprünglichen Grenzen hinaus erweitern. Änderungen gelten nur für Ihren E-Mail-Entwurf. Source-Assets in [!DNL Content] und verbundene Asset-Repositorys werden niemals geändert.
+
+Greifen Sie über ein beliebiges Bildfeld auf die E-Mail-Arbeitsfläche zu. Bearbeitete Bilder werden visuell gekennzeichnet, sodass Sie verfolgen können, welche Bilder Sie aus dem ursprünglichen Asset geändert haben.
+
+### Zuschneiden und Neupositionieren eines Bildes
+
+Beschneiden Sie ein Bild so, dass es nur den gewünschten Bereich verwendet. Das Zuschneiden in E-Mails erfolgt in Freiform ohne Einschränkung des Seitenverhältnisses, sodass Sie die volle Kontrolle darüber haben, welcher Teil des Bildes in welchem Verhältnis angezeigt wird.
+
+**So schneiden Sie ein Bild zu und positionieren es neu**:
+
+1. Bewegen Sie in einem E-Mail-Entwurf den Mauszeiger über ein Bildfeld und klicken Sie darauf.
+1. Klicken Sie **[!UICONTROL Bearbeiten]** (Bleistiftsymbol).
+1. Klicken Sie **[!UICONTROL Zuschneiden]**.
+1. Passen Sie den Zuschnittbereich an und ziehen Sie das Bild an die gewünschte Position.
+1. Klicken Sie **[!UICONTROL Anwenden]**, um das ausgewählte Bild zuzuschneiden, oder **[!UICONTROL Auf alle Bilder anwenden]** um den Zuschnitt auf alle Bildfelder im Entwurf anzuwenden.
+
+Um den Vorgang zu beenden, ohne die Änderungen zu speichern, klicken Sie auf **[!UICONTROL Abbrechen]**.
+
+![Die Ansicht „Bild bearbeiten“, wobei das Tool „Zuschneiden“ für ein Bild auf der E-Mail-Arbeitsfläche aktiv ist](/help/assets/edit-image-crop-email.png){width="650" zoomable="yes"}
+
+### Bild mit Generative Expand erweitern
+
+Verwenden Sie generative Erweiterungen , um ein Bild mit generativer KI über seine ursprünglichen Grenzen hinaus zu erweitern. Die Erweiterung in E-Mails ist nicht auf eine feste Größe oder ein festes Verhältnis beschränkt, sodass Sie ein Bild an den benötigten Platz anpassen können.
+
+**So erweitern Sie ein Bild**:
+
+1. Bewegen Sie in einem E-Mail-Entwurf den Mauszeiger über ein Bildfeld und klicken Sie darauf.
+1. Klicken Sie **[!UICONTROL Bearbeiten]** (Bleistiftsymbol).
+1. Klicken Sie **[!UICONTROL Erweitern]**.
+
+   Das Bild wird in der Ansicht _[!UICONTROL Bild bearbeiten]_ auf einer erweiterten Arbeitsfläche geöffnet und generiert [!DNL GenStudio for Performance Marketing] Erweiterungsoptionen.
+
+1. Verschieben Sie das Bild, um es innerhalb des erweiterten Bereichs zu positionieren.
+1. Wählen Sie eine generierte Option aus oder klicken Sie auf **[!UICONTROL Mehr]** (Plussymbol), um weitere Optionen anzuzeigen.
+1. Klicken Sie **[!UICONTROL Anwenden]**, um das Ergebnis auf das ausgewählte Bild anzuwenden, oder **[!UICONTROL Auf alle Bilder anwenden]** um es auf alle Bildfelder im Entwurf anzuwenden.
+
+Um den Vorgang zu beenden, ohne die Änderungen zu speichern, klicken Sie auf **[!UICONTROL Abbrechen]**.
+
+>[!NOTE]
+>
+>Generative Ausgabegröße erweitern ist nicht beschränkt, sodass die Qualität bei sehr großen Erweiterungen variieren kann. Klicken Sie auf **[!UICONTROL Mehr]**, um zusätzliche Optionen zu generieren, wenn das Ergebnis nicht Ihren Anforderungen entspricht.
+
+![Ein generatives Erweiterungsergebnis ist ausgewählt und kann in der Bildbearbeitungsansicht angewendet werden](/help/assets/generative-expand-email.png){width="650" zoomable="yes"}
 
 ## Feedback zur Senden-Generierung
 
