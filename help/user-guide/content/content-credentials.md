@@ -17,9 +17,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: abf48a907a72b060f684865c29b3a42f1ebdc3dc
+source-git-commit: 5fe8dccdcf24d26706b7d3621acc1715fd9eb164
 workflow-type: tm+mt
-source-wordcount: 670
+source-wordcount: 750
 ht-degree: 5%
 
 ---
@@ -105,6 +105,13 @@ Während der Aktivierung wird der Berechtigungsstatus im Experience Selektor ang
 
 Exportierte Dateien verfügen über eingebettete C2PA-konforme Anmeldeinformationen.
 
+Exportierte Assets behalten außerdem ihre Herkunft bei. Die eingebetteten Anmeldeinformationen zeichnen die Assets auf, aus denen der Export abgeleitet wurde, sodass ein exportiertes Erlebnis durch seine Bearbeitungen zum ursprünglichen importierten Asset zurückverfolgt werden kann. Da sich die Herkunft innerhalb der Datei bewegt, bleibt sie auch nach dem Verlassen von GenStudio for Performance Marketing überprüfbar.
+
 Die Integrität der Anmeldeinformationen wird für alle unterstützten Formate (JPEG, PNG, MP4) gewahrt.
 
 ![Berechtigungsdaten für ein exportiertes Asset](./images/activate-export2.png)
+
+## Verwandte Informationen
+
+* [Inhaltstransparenz](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency)
+* [Content Credentials](https://helpx.adobe.com/de/creative-cloud/help/content-credentials.html) bei Adobe
