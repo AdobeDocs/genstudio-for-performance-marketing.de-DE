@@ -127,7 +127,7 @@ Hier finden Sie weitere Tipps und Einschränkungen zur Arbeit mit den einzelnen 
 
 ## Best Practices für Express-zu-GenStudio-Vorlagen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502403?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502420?captions=ger&learn=on&enablevpops)
 
 Die folgenden Tipps helfen Ihnen dabei, zuverlässige Ergebnisse zu erzielen, wenn Sie Designs aus [!DNL Adobe Express] in Vorlagen für [!DNL GenStudio for Performance Marketing] konvertieren.
 
