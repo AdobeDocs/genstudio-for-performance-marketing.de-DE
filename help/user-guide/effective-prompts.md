@@ -21,7 +21,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+source-git-commit: b92dff810b9f780d2f7c2f737787bcb07fec6a61
 workflow-type: tm+mt
 source-wordcount: 758
 ht-degree: 0%
@@ -35,6 +35,8 @@ Die Kommunikation mit der generativen KI ist für eine effektive Arbeit in Adobe
 GenStudio for Performance Marketing bietet jedes Mal, wenn die Möglichkeit besteht, ein Asset zu ändern, eine generative KI-Eingabeaufforderung. Die Komponenten einer effektiven Eingabeaufforderung sollten eine beschreibende Sprache, Beispiele und Informationen enthalten, die nicht durch Ihre konfigurierten Richtlinien bereitgestellt werden.
 
 Geben Sie als Best Practice Ihre Markendaten mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) an GenStudio for Performance Marketing weiter und Sie können dann die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3502672?learn=on)
 
 ## Beschreibende Sprache
 
