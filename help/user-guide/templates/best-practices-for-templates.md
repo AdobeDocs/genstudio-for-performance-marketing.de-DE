@@ -6,23 +6,15 @@ role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
 TQID: https://experienceleague.adobe.com/fiKHSZ-YFZ2gSD5iZ-aKaZtsC49Mrj1dqHpHqtbXZVM
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 0ff827501580099c4fc08fa8f59dddcf0fb14f12
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 1352
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +29,7 @@ Beachten Sie bei der Verwendung von Vorlagen mit GenStudio for Performance Marke
 1. Berücksichtigen Sie beim Entwerfen mit [Barrierefreiheitsstandards](accessibility-for-templates.md) für ein optimales Erlebnis
 1. Befolgen Sie die [kanalspezifischen Vorlagenrichtlinien](#follow-channel-specific-template-guidelines)
 1. Beachten Sie bei der Verwendung von [Express-Vorlagen](/help/user-guide/templates/express-templates.md) die spezifischen Tipps unter [Best Practices für Express-zu-GenStudio-Vorlagen](#express-to-genstudio-template-best-practices).
-&#x200B;>>
+>>
 Erfahren Sie mehr über die Grundlagen von Vorlagenelementen und -verfahren in [Arbeiten mit Vorlagen](use-templates.md). Unter [Anpassen einer Vorlage](customize-template.md) erhalten Sie spezifische Anweisungen für die Verwendung in Ihrer nächsten Kampagne.
 
 ## Verwenden der richtigen Vorlagenelemente
@@ -52,8 +44,8 @@ Siehe [Vorlagenelemente](use-templates.md#template-elements).
 
 Platzhaltertext kann dazu beitragen, Syntax oder Struktur für Inhalte zu definieren, die später in einer Vorlage von einem Benutzer bzw. einer Benutzerin ausgefüllt werden. Beispiel: {first_name}.{last_name}@email.etc, um eine E-Mail-Adresse zu definieren. Einige gängige Trennzeichen sind jedoch bereits für andere Bedeutungen in GenStudio for Performance Marketing reserviert:
 
-❌ `< >` - Wird für HTML-Tags verwendet.
-❌ `{{ }}` - Wird für Handlebar-Ausdrücke verwendet.
+❌ `< >` – Wird für HTML-Tags verwendet.
+❌ `{{ }}` – Wird für Handlebar-Ausdrücke verwendet.
 
 Verwenden Sie für Platzhaltertext einfache Klammern (gerade oder geschweift), um Verwechslungen mit vorhandenen Tags zu vermeiden.
 
@@ -127,13 +119,13 @@ Hier finden Sie weitere Tipps und Einschränkungen zur Arbeit mit den einzelnen 
 
 ## Best Practices für Express-zu-GenStudio-Vorlagen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502420?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502403?learn=on&enablevpops)
 
 Die folgenden Tipps helfen Ihnen dabei, zuverlässige Ergebnisse zu erzielen, wenn Sie Designs aus [!DNL Adobe Express] in Vorlagen für [!DNL GenStudio for Performance Marketing] konvertieren.
 
 ### Verwenden von Vorlagen mit mehreren Varianten
 
-[!DNL Adobe Express] können Seiten mehrere Größen- oder Seitenverhältnisvariationen in einer Vorlagendatei darstellen.
+In [!DNL Adobe Express] können Seiten in einer Vorlagendatei mehrere Größen- oder Seitenverhältnisvarianten darstellen.
 Wenn Sie die Vorlage in [!DNL GenStudio for Performance Marketing] auswählen, werden alle Varianten auf der Arbeitsfläche angezeigt.
 
 Dieses Verhalten stellt eine Verbesserung gegenüber HTML-Vorlagen dar, die nur eine Variante pro Datei unterstützen.
