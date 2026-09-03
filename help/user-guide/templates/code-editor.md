@@ -6,18 +6,11 @@ role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
 TQID: https://experienceleague.adobe.com/QtGu-GaR4LMNGa4IrtYKzk1EjL1g9y08hF-kAm4rLJM
-product_v2:
-  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2:
-  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2: id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 787
@@ -64,13 +57,13 @@ Wenn Ihre Vorlage Fehler enthält, wird möglicherweise eine `Template is invali
 
 ![Ungültige Vorlage korrigieren](/help/assets/animation/template-code-editor.gif){width="600"}
 
-Der _[!UICONTROL Überprüfen erkannter Felder]_ wird aktualisiert und zeigt die von Ihnen vorgenommenen Änderungen an. Wenn Sie sich vergewissert haben, dass die Felder korrekt und vollständig sind, klicken Sie auf **[!UICONTROL Weiter]**, um mit dem [&#x200B; (Hochladen der Vorlage) &#x200B;](/help/user-guide/templates/use-templates.md#add-a-template).
+Der _[!UICONTROL Überprüfen erkannter Felder]_ wird aktualisiert und zeigt die von Ihnen vorgenommenen Änderungen an. Wenn Sie sich vergewissert haben, dass die Felder korrekt und vollständig sind, klicken Sie auf **[!UICONTROL Weiter]**, um mit dem [ (Hochladen der Vorlage) ](/help/user-guide/templates/use-templates.md#add-a-template).
 
 ## Häufige Probleme mit Vorlagen und Lösungen
 
 | **Fehler** | **Beschreibung** | **Lösung** |
 |-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Parsen fehlgeschlagen | Der Vorlageninhalt konnte nicht als gültige Handlebars geparst werden. | Überprüfen Sie Ihre Vorlage auf HTML- und Handlebars-Syntaxfehler und korrigieren Sie diese, um eine gültige Formatierung für [Inhalts-Platzhalter“ &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders). |
+| Parsen fehlgeschlagen | Der Vorlageninhalt konnte nicht als gültige Handlebars geparst werden. | Überprüfen Sie Ihre Vorlage auf HTML- und Handlebars-Syntaxfehler und korrigieren Sie diese, um eine gültige Formatierung für [Inhalts-Platzhalter“ ](/help/user-guide/templates/customize-template.md#content-placeholders). |
 | Gruppe nicht zugewiesen | Ein Bildfeld in einer E-Mail-Vorlage mit mehreren Gruppen ist keiner Gruppe zugewiesen. | Prüfen Sie, ob Abschnittspräfixe konsistent verwendet werden. Jeder [Abschnitt](/help/user-guide/templates/customize-template.md#sections-or-groups) kann nur einen Feldtyp (`headline`, `body`, `image` `cta`) verwenden. Weisen Sie das Feld `image` einer gültigen Gruppe in Ihrer Vorlage zu. |
 | Bild fehlt | Ein erforderliches Bildfeld fehlt. | Für bestimmte Vorlagentypen ist genau ein `image` erforderlich, z. B. eine Meta-, Display- oder Banneranzeige. Fügen Sie das erforderliche `image` Feld zu Ihrer Vorlage hinzu. |
 | Ungültige einzelne Gruppe | Die E-Mail-Vorlage enthält genau eine Gruppe, die ungültig ist. | Eine einfache E-Mail-Vorlage enthält einen einzigen Satz von Vorlagenelementen, für die keine Namenskonvention für Gruppen gemäß der Definition in [Abschnitte oder Gruppen](/help/user-guide/templates/customize-template.md#sections-or-groups) erforderlich ist. Passen Sie Ihre Vorlage so an, dass sie null Abschnitte enthält, indem Sie eine beliebige Gruppensyntax entfernen. |
@@ -78,5 +71,5 @@ Der _[!UICONTROL Überprüfen erkannter Felder]_ wird aktualisiert und zeigt die
 | Erforderliche Eigenschaften fehlen | Einige erforderliche Metadateneigenschaften fehlen. | Jeder Vorlagentyp verfügt über Anforderungen und Einschränkungen, die auf den Kanalrichtlinien basieren. Meta erfordert beispielsweise ein Seitenverhältnis, und für Display-Anzeigen sind Dimensionen erforderlich. [Befolgen Sie die Richtlinien für kanalspezifische Vorlagen](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines). |
 | Verwendeter reservierter Name | Ein unzulässiger oder reservierter Feldname wird verwendet. | Bestimmte [Feldnamen](/help/user-guide/templates/customize-template.md#recognized-field-names) wie `subject` oder `introductory_text` sind reserviert. Umbenennen von Feldern, die reservierte oder verbotene Namen verwenden. |
 | Zu viele Felder | Die Anzahl der Felder überschreitet die globale Beschränkung von 20. | Entfernen Sie unnötige Felder, um sicherzustellen, dass die Gesamtanzahl 20 nicht überschreitet. |
-| Zu viele Gruppen | Die Anzahl der Gruppen überschreitet das zulässige Maximum des Kanals. | Meta-, Display- und LinkedIn-Vorlagen lassen mehrere Abschnitte nicht zu. E-Mail erfordert beim Definieren von zwei oder drei Abschnitten eine Gruppenbenennung. Verringern Sie die Anzahl der Gruppen in Ihrer Vorlage, um die [Anforderungen des Kanals“ zu &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines). |
+| Zu viele Gruppen | Die Anzahl der Gruppen überschreitet das zulässige Maximum des Kanals. | Meta-, Display- und LinkedIn-Vorlagen lassen mehrere Abschnitte nicht zu. E-Mail erfordert beim Definieren von zwei oder drei Abschnitten eine Gruppenbenennung. Verringern Sie die Anzahl der Gruppen in Ihrer Vorlage, um die [Anforderungen des Kanals“ zu ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines). |
 | Nicht unterstütztes Feld | Die Vorlage verwendet ein Feld, das der Kanal nicht unterstützt. | Ersetzen oder entfernen Sie nicht unterstützte Felder gemäß den [erkannten Feldnamen](/help/user-guide/templates/customize-template.md#recognized-field-names). |
