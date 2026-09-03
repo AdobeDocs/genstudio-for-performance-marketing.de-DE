@@ -4,11 +4,23 @@ description: Vereinfachen und verbessern Sie die Verwaltung von markengeprüften
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
 TQID: https://experienceleague.adobe.com/G9pgYplVoU0cVTOveP57W7MtUehg1E5GAiuGzjL8wRc
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7id: c95c94c1-727b-457a-9184-a4dda4c95ab2id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3aid: f321b88b-6bb7-49cc-a16a-ae2b665ebd32id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
-subfeature_v2: id: a98e0185-3180-4e8c-8f31-f72af4cc21a2id: dd48f9df-f2e2-49fe-a918-332a8e240ffeid: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f321b88b-6bb7-49cc-a16a-ae2b665ebd32
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+subfeature_v2:
+  - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+  - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
 workflow-type: tm+mt
 source-wordcount: 1546
@@ -22,7 +34,7 @@ Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbess
 
 ## [!DNL Content]
 
-In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Klicken Sie in der Ansicht ]_0} auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._[!UICONTROL 
+In der Galerie wird je nach ausgewählter Ansicht ein Inventar der bestätigten Assets, Erlebnisse oder Vorlagen angezeigt. Der Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]**, in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Inhalte zu filtern. Klicken Sie in der Ansicht _0&rbrace; auf das Suchsymbol (Lupe), um ein Keyword zum Suchen eines Assets zu verwenden._
 
 Im Folgenden sehen Sie eine Suche nach dem Begriff `space` in der Galerie [!UICONTROL Assets]:
 
@@ -42,13 +54,13 @@ Wenn bestimmte Filteroptionen nicht sichtbar sind, bedeutet dies, dass keine Vor
 
 **So suchen Sie nach wiederzuverwendenden Inhalten**:
 
-1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Assets]**aus.
+1. Wählen Sie in _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Assets]**&#x200B;aus.
 
 1. Wählen Sie ein Asset-Repository aus der **[!UICONTROL Speicherort]**-Liste aus oder stellen Sie sicher, dass Sie das richtige Asset-Repository verwenden. `GenStudio assets` ist das Standard-Repository.
 
    >[!IMPORTANT]
    >
-   Die _Speicherort_-Liste ist nur verfügbar, wenn Sie [eine Verbindung zu einem AEM-Repository herstellen](connect-aem-repo.md).
+   >Die _Speicherort_-Liste ist nur verfügbar, wenn Sie [eine Verbindung zu einem AEM-Repository herstellen](connect-aem-repo.md).
 
 1. Klicken Sie **[!UICONTROL Suche]** (Lupe), um ein Keyword oder eine Beschreibung einzugeben.
 
@@ -70,9 +82,9 @@ In der **[!UICONTROL Standort]**-Liste über der _[!UICONTROL Assets]_-Galerie a
 
 Wenn Sie ein AEM-Repository auswählen, zeigt die Galerie ein Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
 
-Anleitungen [ Hinzufügen Ihres-Repositorys ](connect-aem-repo.md) GenStudio for Performance Marketing finden Sie unter „Verbinden eines [!DNL AEM Assets Content Hub]-Repositorys“.
+Anleitungen [&#x200B; Hinzufügen Ihres-Repositorys &#x200B;](connect-aem-repo.md) GenStudio for Performance Marketing finden Sie unter „Verbinden eines [!DNL AEM Assets Content Hub]-Repositorys“.
 
-Das AEM-Repository ist schreibgeschützt, d. h. Sie können auf den Inhalt zugreifen, aber keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository ](asset-details.md#system-metadata).
+Das AEM-Repository ist schreibgeschützt, d. h. Sie können auf den Inhalt zugreifen, aber keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository &#x200B;](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 
@@ -102,7 +114,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Hinzufügen von Assets**:
 
-1. Klicken Sie _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie _[!DNL Content]_&#x200B;auf **[!UICONTROL Assets hinzufügen]**.
 
 2. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** aus Dropbox oder Microsoft OneDrive importieren.
 
@@ -126,7 +138,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Herunterladen eines Assets**:
 
-1. Wählen Sie _[!DNL Content]_ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf das Symbol]** Herunterladen“ (Pfeil nach unten).
 
@@ -136,7 +148,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **So löschen Sie ein Asset**:
 
-1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben]** auf „Löschen“ (Papierkorb).
 
@@ -152,11 +164,11 @@ Sie können ein oder mehrere genehmigte Erlebnisse zum Herunterladen in einem mi
 
 >[!WARNING]
 >
-Abgerufene Assets können ohne Bereinigung nicht angezeigt werden. Alle Benutzer müssen Cross-Site-Scripting (XSS) aus den Vorlagen mithilfe von Eingabebereinigungstechniken durchführen.
+>Abgerufene Assets können ohne Bereinigung nicht angezeigt werden. Alle Benutzer müssen Cross-Site-Scripting (XSS) aus den Vorlagen mithilfe von Eingabebereinigungstechniken durchführen.
 
 **Exportieren oder Herunterladen von Erlebnissen**:
 
-1. Wählen Sie _[!DNL Content]_ein oder mehrere Erlebnisse aus.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein oder mehrere Erlebnisse aus.
 
    Es wird ein Banner mit der links ausgewählten Anzahl von Erlebnissen und rechts Optionen [!UICONTROL Aktivieren], [!UICONTROL Herunterladen] oder [!UICONTROL Löschen] angezeigt.
 
@@ -189,7 +201,7 @@ Kriterien für die Optimierung von Bildern mit der [!DNL Edit in Adobe Express]:
 
 **So bearbeiten Sie ein Asset mit Express**:
 
-1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset-Ansicht **[!UICONTROL oben rechts auf]** Symbol „Bearbeiten in Adobe Express&quot;.
 
@@ -207,6 +219,6 @@ Kriterien für die Optimierung von Bildern mit der [!DNL Edit in Adobe Express]:
 
    >[!TIP]
    >
-   Je mehr Details Sie angeben, desto zuverlässiger werden die Funktionen von GenStudio for Performance Marketing. Wählen Sie ein oder mehrere Details aus der Liste aus oder geben Sie gegebenenfalls ein neues ein, z. B. mit Schlüsselwörtern. Jedes hinzugefügte Detail wird unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+   >Je mehr Details Sie angeben, desto zuverlässiger werden die Funktionen von GenStudio for Performance Marketing. Wählen Sie ein oder mehrere Details aus der Liste aus oder geben Sie gegebenenfalls ein neues ein, z. B. mit Schlüsselwörtern. Jedes hinzugefügte Detail wird unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.

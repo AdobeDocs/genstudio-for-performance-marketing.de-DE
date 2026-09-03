@@ -5,11 +5,18 @@ level: Intermediate
 feature: Brand Personalization, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
 TQID: https://experienceleague.adobe.com/13RaDoLWSm8KjpzgsMkxAUOULez15KTUj6xF3QSb3vE
-product_v2: id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
-feature_v2: id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
 workflow-type: tm+mt
 source-wordcount: 742
@@ -23,7 +30,7 @@ Standardmäßig können GenStudio-System-Manager [!DNL Brands] erstellen und bea
 
 Um Inhaltseditoren und Mitarbeitern diese Berechtigungen im Zusammenhang mit [!DNL Brand] zu gewähren, muss ein Adobe-Systemadministrator einige zusätzliche Konfigurationsaufgaben in der Adobe Admin Console durchführen. Siehe [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) im _Administrationshandbuch für Unternehmen und Teams_.
 
-Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung ](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ [Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
+Das Hinzufügen von Benutzenden und Benutzergruppen sind grundlegende Aufgaben, die alle Adobe-Produkte mit Berechtigungen gemeinsam haben und über die Admin Console verwaltet werden. Eine Übersicht über die Benutzerverwaltung [&#128279;](https://helpx.adobe.com/de/enterprise/using/users.html) die Verfahren zum Hinzufügen von _und Benutzergruppen finden Sie_ Adobe Admin Console-Benutzer im Administrationshandbuch für Unternehmen und Teams.
 
 Sehen Sie sich diese Videoeinführung an oder führen Sie die folgenden Schritte aus.
 

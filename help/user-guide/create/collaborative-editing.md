@@ -21,7 +21,7 @@ Eingeladene Mitarbeiter erhalten eine Pulse-Benachrichtigung innerhalb von GenSt
 
 Die kollaborative Bearbeitung auf der Horizon-Arbeitsfläche bietet die folgenden Funktionen:
 
-* **Entwürfe für Mitwirkende freigeben**: Benutzende per E-Mail einladen und **** Editor- oder **[!UICONTROL Viewer]**-Rollen zuweisen. Bearbeiter können den Entwurf auch für andere freigeben.
+* **Entwürfe für Mitwirkende freigeben**: Benutzende per E-Mail einladen und **&#x200B;**&#x200B;Editor- oder **[!UICONTROL Viewer]**-Rollen zuweisen. Bearbeiter können den Entwurf auch für andere freigeben.
 * **Benachrichtigungen einladen**: Eingeladene Teilnehmer erhalten eine Pulse-Benachrichtigung innerhalb von GenStudio for Performance Marketing und eine E-Mail mit einem direkten Link zum Entwurf.
 * **Ko-Bearbeitung in Echtzeit**: Zeichenflächen-Elemente und Chrome-Felder, einschließlich Überschriften, CTAs und Beschreibungen, werden live über alle Editoren hinweg synchronisiert.
 * **Freigegebene Entwürfe auf der Landingpage [!DNL GenStudio for Performance Marketing] [!DNL Content]**: Im Abschnitt **[!UICONTROL Zuletzt]** unter **[!UICONTROL Von Adobe Express-Vorlagen]** organisieren zwei Registerkarten Ihre Entwürfe: **[!UICONTROL Ihre]** (von Ihnen erstellte Entwürfe) und **[!UICONTROL Für Sie freigegeben]** (Entwürfe, auf die andere Ihnen Zugriff gewährt haben).

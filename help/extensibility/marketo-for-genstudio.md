@@ -69,7 +69,7 @@ Sie benötigen außerdem die **[!UICONTROL Marketo Engage Identity URL]** die Ih
 
 Um die Erweiterung in GenStudio verfügbar zu machen, stellen Sie die App über Adobe Exchange bereit.
 
-1. Kehren Sie zu [Adobe Exchange ](https://exchange.adobe.com).
+1. Kehren Sie zu [Adobe Exchange &#x200B;](https://exchange.adobe.com).
 1. Wählen Sie **[!UICONTROL Verwalten]** und öffnen Sie die Anwendung **Marketo für GenStudio** (z. B. unter **[!UICONTROL App Builder-Anwendungen]** oder den verwalteten Programmen Ihres Unternehmens).
 1. Wählen **[!UICONTROL unter &quot;]**&quot; eine vorhandene Umgebung aus dem Dropdown-Menü aus oder wählen Sie **[!UICONTROL Umgebung hinzufügen]**, um eine Umgebung zu erstellen.
 1. Öffnen Sie **[!UICONTROL Konfiguration]** für die ausgewählte Umgebung.
@@ -96,7 +96,7 @@ Sobald sie angezeigt wird, verwenden Sie die entsprechende **Workspace ID** für
 
 ## Zugriff auf Marketo-Vorlagen in GenStudio
 
-Nachdem Marketo für GenStudio installiert und konfiguriert wurde, wird beim Erstellen eines E-Mail ]**-Erlebnisses in GenStudio die**[!UICONTROL **Marketo-Vorlagen** angezeigt. Verwenden Sie diese Registerkarte, um Vorlagen aus Marketo Engage zu durchsuchen.
+Nachdem Marketo für GenStudio installiert und konfiguriert wurde, wird beim Erstellen eines E-Mail **-Erlebnisses in GenStudio die**&#x200B;**Marketo-Vorlagen** angezeigt. Verwenden Sie diese Registerkarte, um Vorlagen aus Marketo Engage zu durchsuchen.
 
 >[!IMPORTANT]
 >

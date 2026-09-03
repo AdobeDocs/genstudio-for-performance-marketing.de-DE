@@ -16,7 +16,7 @@ ht-degree: 9%
 
 Verwenden Sie [[!DNL Create]](/help/user-guide/create/overview.md) in [!DNL GenStudio for Performance Marketing], um **ChatGPT-Anzeigen** als Paid-Media-Erlebnisse zu erstellen - von Richtlinien und Assets über Generierung, Marken- und Kanalprüfungen, Genehmigung, Veröffentlichung in [!DNL Content] und Aktivierung im selben [!DNL Activate], der für Kanäle wie Meta und Google Campaign Manager 360 verwendet wird.
 
-Bevor Sie beginnen, fügen [ bei ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu und überprüfen Sie [effektive Aufforderungen](/help/user-guide/effective-prompts.md) sodass Ihre Headline-Aufforderungen starke Varianten ergeben.
+Bevor Sie beginnen, fügen [&#x200B; bei &#x200B;](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu und überprüfen Sie [effektive Aufforderungen](/help/user-guide/effective-prompts.md) sodass Ihre Headline-Aufforderungen starke Varianten ergeben.
 
 ## Voraussetzungen
 
@@ -76,7 +76,7 @@ Validieren Sie vor dem Speichern oder Senden des Erlebnisses zur Überprüfung d
 So führen Sie Inhaltsprüfungen durch:
 
 1. Klicken Sie **[!UICONTROL Inhaltsüberprüfung]** (Marken- und Kanalprüfungen).
-1. Überprüfen Sie die Validierungsergebnisse im Bedienfeld [_Inhaltsüberprüfung_ ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).
+1. Überprüfen Sie die Validierungsergebnisse im Bedienfeld [_Inhaltsüberprüfung_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel).
 1. Beheben Sie alle gekennzeichneten Probleme - z. B. die Kopierlänge oder den dichten Text auf dem Bildschirm -, indem Sie Varianten bearbeiten oder nach Bedarf neu generieren.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
@@ -99,7 +99,7 @@ Es gibt zwei Status:
 
 Genehmigende Personen können die Ergebnisse der ChatGPT-Erlebnisse, Marken- und Kanalprüfungen anzeigen und **[!UICONTROL genehmigen]** oder Änderungen anfordern.
 
-Siehe [Anfordern von Überprüfungen und ](/help/user-guide/approvals/request-review.md) und [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md).
+Siehe [Anfordern von Überprüfungen und &#x200B;](/help/user-guide/approvals/request-review.md) und [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md).
 
 ### In Inhalt veröffentlichen
 
