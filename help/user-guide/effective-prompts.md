@@ -36,7 +36,7 @@ GenStudio for Performance Marketing bietet jedes Mal, wenn die Möglichkeit best
 
 Geben Sie als Best Practice Ihre Markendaten mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) an GenStudio for Performance Marketing weiter und Sie können dann die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502672?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502680?captions=ger&learn=on)
 
 ## Beschreibende Sprache
 

@@ -34,7 +34,7 @@ ht-degree: 100%
 
 # Richtlinien für GenStudio for Performance Marketing
 
->[!VIDEO](https://video.tv.adobe.com/v/3502922?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502938?captions=ger&learn=on)
 
 Richtlinien für GenStudio for Performance Marketing können entweder hochgeladen oder manuell zu GenStudio for Performance Marketing hinzugefügt werden. So können Benutzende Markenrichtlinien erstellen, die die Essenz der Markenidentität erfassen.
 
