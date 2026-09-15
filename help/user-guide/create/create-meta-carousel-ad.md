@@ -22,7 +22,7 @@ Bevor Sie eine Karussellanzeige erstellen, stellen Sie sicher, dass Sie über ei
 
 Nachdem Sie eine Vorlage ausgewählt und die Arbeitsfläche geöffnet haben, wählen Sie in der Eingabeaufforderungsschublade das Karussellformat aus.
 
-1. Erweitern Sie im _[!DNL Create your ads]_Bedienfeld_[!UICONTROL  Parameter ]_.
+1. Erweitern Sie im _[!DNL Create your ads]_&#x200B;Bedienfeld&#x200B;_[!UICONTROL &#x200B; Parameter &#x200B;]_.
 1. Wählen Sie im Dropdown **[!UICONTROL Menü]** Format“ die Option **[!UICONTROL Karussellanzeige]**.
 
    ![Erstellen Sie das Bedienfeld Anzeigen mit dem Dropdown-Menü Format , das auf Karussellanzeige eingestellt ist, und einer Liste von Karten](./carousel-format-cards.png){width="70%" zoomable="yes"}
