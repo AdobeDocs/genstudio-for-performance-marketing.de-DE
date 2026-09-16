@@ -7,35 +7,43 @@ exl-id: 5bc624c2-d064-4190-8761-ed05d0629d1f
 TQID: https://experienceleague.adobe.com/-D3DGxTpZ-0J-grE5-jKPrptf4C1Z-OE1t0DCoqhRLQ
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Security
+source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
 workflow-type: tm+mt
-source-wordcount: 466
+source-wordcount: '530'
 ht-degree: 1%
-
 ---
-
 # Optimieren von Aktivierungen
 
 Die Aktivierung eines Anzeigenerlebnisses für Paid-Ad-Kanäle umfasst zwei Hauptphasen:
 
-* Vorbereiten Ihres Erlebnisses für die Aktivierung
+* Konfigurieren der Anzeige- und Platform-Setup-Details für jede Zeile in Ihrer Aktivierungstabelle
 
-* Veröffentlichen Ihres Erlebnisses auf dem dafür vorgesehenen bezahlten Kanal und in den dafür zuständigen Managern
+* Veröffentlichen der Aktivierung bei den Werbemanagern der jeweiligen bezahlten Anzeigenkanäle
 
-Die Befolgung der Best Practices beim Erstellen und Aktivieren Ihres Anzeigen-Erlebnisses kann dazu beitragen, potenzielle Komplikationen oder Fehler beim Versand an die Zielkanäle zu minimieren.
+Die Befolgung der Best Practices beim Konfigurieren und Aktivieren Ihrer Anzeigenerlebnisse kann dabei helfen, potenzielle Komplikationen oder Fehler beim Versand an die Zielkanäle zu minimieren.
 
 ## Best Practices
 
 Im Folgenden finden Sie einige gängige Best Practices und die Fehler, die sie verhindern können.
+
+* **Verwenden Sie für jede Zeile eine eindeutige Tracking-ID**
+
+  [!DNL Activate] kennzeichnet doppelte Tracking-IDs als [!UICONTROL Erfordert Aufmerksamkeit] und lässt Sie erst veröffentlichen, wenn jede Zeile im betroffenen Format und in der Platform-Tabelle über eine eindeutige Tracking-ID verfügt. Wenn Sie eine Tracking-ID über mehrere Zeilen hinweg stapelweise bearbeiten, bestätigen Sie, dass Sie denselben Wert auf jede ausgewählte Zeile anwenden möchten.
 
 * **Verwenden gültiger, vollständiger Ziel-URLs**
 
@@ -43,7 +51,7 @@ Im Folgenden finden Sie einige gängige Best Practices und die Fehler, die sie v
 
 * **Stellen Sie sicher, dass die Token-Gültigkeit von Ihrer Anwendung korrekt verarbeitet wird**
 
-  Anwendungen sollten bei Bedarf neue Token anfordern. Authentifizieren Sie sich bei Bedarf erneut und rufen Sie ein neues Zugriffstoken ab, indem Sie sich erneut anmelden oder die Sitzung aktualisieren. Beispielfehler: _Fehler beim Überprüfen des Zugriffs-Tokens: Die Sitzung wurde ungültig gemacht, da der Benutzer sein Kennwort geändert hat oder Facebook die Sitzung aus Sicherheitsgründen geändert hat. (190)_
+  Anwendungen müssen bei Bedarf neue Token anfordern. Authentifizieren Sie sich erneut und erhalten Sie ein neues Zugriffstoken, indem Sie sich erneut anmelden oder die Sitzung aktualisieren. Beispielfehler: _Fehler beim Überprüfen des Zugriffs-Tokens: Die Sitzung wurde ungültig gemacht, da der Benutzer sein Kennwort geändert hat oder Facebook die Sitzung aus Sicherheitsgründen geändert hat. (190)_
 
 * **Überprüfen Sie Ihren Anzeigensatz und stellen Sie sicher, dass immer nur eine Anzeige aktiv ist**
 
