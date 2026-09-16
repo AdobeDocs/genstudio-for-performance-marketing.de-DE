@@ -46,7 +46,7 @@ Sie bereiten diese Komponenten vor der Aktivierung in [!DNL Content] vor und gen
 
 Eine einzelne Aktivierungstabelle kann Erlebnisse für mehrere Paid-Ad-Kanäle und Anzeigenformate gleichzeitig enthalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503545?captions=ger&learn=on)
 
 ## Kanalkonten verbinden
 
