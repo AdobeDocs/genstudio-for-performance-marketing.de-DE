@@ -32,9 +32,9 @@ Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von Linke
 
 **Unterstützte Formate**: Einzelbild, Einzelvideo.
 
-Sie können [ein LinkedIn-Erlebnis ](/help/user-guide/create/create-linkedin.md) GenStudio for Performance Marketing erstellen und es dann zur Aktivierung auswählen.
+Sie können [ein LinkedIn-Erlebnis &#x200B;](/help/user-guide/create/create-linkedin.md) GenStudio for Performance Marketing erstellen und es dann zur Aktivierung auswählen.
 
-Die Aktivierung einer LinkedIn-Anzeige erfolgt [ den gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden die LinkedIn-spezifischen Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein LinkedIn-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie mit LinkedIn Campaign Manager das Erlebnis überprüfen und die Anzeige starten.
+Die Aktivierung einer LinkedIn-Anzeige erfolgt [&#x200B; den gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden die LinkedIn-spezifischen Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein LinkedIn-Erlebnis in GenStudio for Performance Marketing aktiviert haben, können Sie mit LinkedIn Campaign Manager das Erlebnis überprüfen und die Anzeige starten.
 
 GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 

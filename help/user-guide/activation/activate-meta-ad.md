@@ -38,7 +38,7 @@ Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von Meta-
 
 [Erstellen eines Meta-Erlebnisses](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing, und wählen Sie es dann zur Aktivierung aus.
 
-Die Aktivierung einer Meta-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden Meta-spezifische Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein Meta-Erlebnis in GenStudio for Performance Marketing aktiviert haben, verwenden Sie [Meta Ads Manager](https://adsmanager.facebook.com/), um das Erlebnis zu überprüfen und die Anzeige zu starten.
+Die Aktivierung einer Meta-Anzeige erfolgt in [&#x200B; gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden Meta-spezifische Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein Meta-Erlebnis in GenStudio for Performance Marketing aktiviert haben, verwenden Sie [Meta Ads Manager](https://adsmanager.facebook.com/), um das Erlebnis zu überprüfen und die Anzeige zu starten.
 
 Im Gegensatz zu anderen Kanälen kann eine Meta-Anzeige mehrere Seitenverhältnisse in einer Anzeige enthalten. Wenn Ihr Erlebnis mehrere Seitenverhältnisse hat, generiert [!DNL Activate] dennoch nur eine Zeile dafür, nicht eine Zeile pro Seitenverhältnis.
 

@@ -32,9 +32,9 @@ Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von TikTo
 
 **Unterstützte Formate**: In-Feed-Videoanzeigen.
 
-Sie können [ein TikTok-Erlebnis ](/help/user-guide/create/tiktok-experiences.md) GenStudio for Performance Marketing erstellen und es dann zur Aktivierung auswählen.
+Sie können [ein TikTok-Erlebnis &#x200B;](/help/user-guide/create/tiktok-experiences.md) GenStudio for Performance Marketing erstellen und es dann zur Aktivierung auswählen.
 
-Die Aktivierung einer TikTok-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden TikTok-spezifische Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein TikTok-Erlebnis in GenStudio for Performance Marketing aktiviert haben, führen Sie mit TikTok Ads Manager abschließende Prüfungen durch und starten Sie die Anzeige.
+Die Aktivierung einer TikTok-Anzeige erfolgt in [&#x200B; gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden TikTok-spezifische Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein TikTok-Erlebnis in GenStudio for Performance Marketing aktiviert haben, führen Sie mit TikTok Ads Manager abschließende Prüfungen durch und starten Sie die Anzeige.
 
 GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 

@@ -32,7 +32,7 @@ Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von YouTu
 
 **Unterstützte**: Shorts.
 
-Die Aktivierung einer YouTube-Anzeige erfolgt in [ gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden YouTube-spezifische Voraussetzungen und Setup-Felder behandelt. Derzeit unterstützt GenStudio for Performance Marketing nur die Einrichtung von Demand Gen-Kampagnen.
+Die Aktivierung einer YouTube-Anzeige erfolgt in [&#x200B; gleichen allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden YouTube-spezifische Voraussetzungen und Setup-Felder behandelt. Derzeit unterstützt GenStudio for Performance Marketing nur die Einrichtung von Demand Gen-Kampagnen.
 
 GenStudio-Systemmanager und -Bearbeiter können Anzeigen-Erlebnisse aktivieren.
 

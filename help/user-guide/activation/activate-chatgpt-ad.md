@@ -32,7 +32,7 @@ Adobe GenStudio for Performance Marketing unterstützt die Aktivierung von ChatG
 
 **Unterstützte Formate**: Chat-Karten.
 
-Sie können [ein ChatGPT-Erlebnis ](/help/user-guide/create/create-chatgpt-ad.md) GenStudio for Performance Marketing erstellen und es dann zur Aktivierung auswählen.
+Sie können [ein ChatGPT-Erlebnis &#x200B;](/help/user-guide/create/create-chatgpt-ad.md) GenStudio for Performance Marketing erstellen und es dann zur Aktivierung auswählen.
 
 Die Aktivierung einer ChatGPT-Anzeige folgt [denselben allgemeinen Schritten](create-activation.md) die für die Aktivierung auf anderen Paid-Ad-Kanälen erforderlich sind. Auf dieser Seite werden die ChatGPT-spezifischen Voraussetzungen und Setup-Felder behandelt. Nachdem Sie ein ChatGPT-Erlebnis in GenStudio for Performance Marketing aktiviert haben, führen Sie mit OpenAI Ads Manager abschließende Prüfungen durch und starten Sie die Anzeige.
 
