@@ -27,9 +27,9 @@ topic_v2:
     internal-label: Metadata
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 6cb428b368f75e0b646cfa4e6536a4728fdf40e2
+source-git-commit: 0844f7407c4b3a3f8eafe248f498ef7fcd51555d
 workflow-type: tm+mt
-source-wordcount: '1158'
+source-wordcount: '1238'
 ht-degree: 1%
 ---
 # Aktivierungs-Workflow
@@ -46,7 +46,7 @@ Sie bereiten diese Komponenten vor der Aktivierung in [!DNL Content] vor und gen
 
 Eine einzelne Aktivierungstabelle kann Erlebnisse für mehrere Paid-Ad-Kanäle und Anzeigenformate gleichzeitig enthalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503545?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
 
 ## Kanalkonten verbinden
 
@@ -58,6 +58,8 @@ Starten einer Aktivierung von einem von zwei Einstiegspunkten aus:
 
 * **Von[!DNL Content]**: Filtern Sie nach Erlebnissen, wählen Sie ein oder mehrere veröffentlichte Erlebnisse aus und klicken Sie dann **[!UICONTROL der oberen Aktionsleiste]** Aktivieren“.
 * **Von[!DNL Activate]**: Klicken Sie auf der [!DNL Activate] Landingpage auf **[!UICONTROL + Neue Aktivierung]**. Dadurch wird die Erlebnisgalerie geöffnet, in der Sie Erlebnisse zur Aktivierung auswählen.
+
+![Auswählen veröffentlichter Erlebnisse in „Inhalt“ und Klicken auf „Aktivieren“, um eine Aktivierung zu starten](./images/content-select-activate.png)
 
 Suchen Sie in beiden Fällen nach Erlebnisnamen oder filtern Sie nach mehreren Kanälen, um die gewünschten Erlebnisse zu finden.
 
@@ -99,17 +101,27 @@ Eine **Tracking-ID** ist eine eindeutige Beschriftung, die Sie einer Anzeigenzei
 
 Bearbeiten Sie die Felder inline pro Zeile oder wählen Sie mehrere Zeilen innerhalb derselben Formattabelle aus und klicken Sie auf **[!UICONTROL Details bearbeiten]** auf der Symbolleiste, die angezeigt wird, um diese Felder gleichzeitig in großen Mengen zu bearbeiten. Um die Felder der Plattformeinrichtung für eine Gruppe von Anzeigenformaten zu konfigurieren, klicken Sie auf **[!UICONTROL Plattformeinstellungen verwalten]** und bearbeiten Sie die Felder im daraufhin angezeigten Dialogfeld.
 
+![Auswählen mehrerer Anzeigen in einer Aktivierungstabelle, um Details oder Plattformeinstellungen per Massenbearbeitung zu bearbeiten](./images/bulk-edit-action-bar.png)
+
+![Das Dialogfeld „Plattformeinstellungen verwalten“ zur Auswahl eines Meta-Anzeigenkontos, einer-Kampagne und eines Anzeigensatzes](./images/manage-platform-settings.png)
+
 Um schneller zwischen **[!UICONTROL Tracking-ID]**-Feldern zu wechseln, verwenden Sie diese Tastaturbefehle:
 
 * Drücken Sie **Eingabetaste**, um das Bearbeitungsfeld für die ausgewählte **[!UICONTROL Tracking-ID]** zu öffnen.
 * Drücken Sie die **Nach** oder **Nach-unten**-Taste, um zum vorherigen oder nächsten Feld **[!UICONTROL Tracking-ID]** in dieser Spalte zu wechseln.
 * Drücken Sie **Eingabetaste** erneut, um die Bearbeitung zu speichern.
 
+![Inline-Bearbeitung eines Tracking-ID-Felds in der Aktivierungstabelle](./images/tracking-id-edit.png)
+
 ## Überprüfen und veröffentlichen Sie Ihre Erlebnisse auf ihren Anzeigenkanälen
 
 Bestätigen Sie, dass in jeder Zeile [!UICONTROL Bereit zur Aktivierung] angezeigt wird. [!DNL Activate] kennzeichnet fehlende oder ungültige Felder, inkompatible Aktionsaufrufe und doppelte Tracking-IDs als [!UICONTROL erfordert Aufmerksamkeit]. Wenn jede Zeile fertig ist, klicken Sie auf **[!UICONTROL An Platform senden]** und bestätigen Sie dies im Dialogfeld „Veröffentlichen“.
 
+![Eine Aktivierungstabelle, in der jede Zeile „Bereit zur Aktivierung“ anzeigt, wodurch die Option „An Plattformen senden“ aktiviert wird](./images/ready-to-activate.png)
+
 [!DNL Activate] zeigt den Status jeder Anzeige nahezu in Echtzeit an: Ausstehend, dann Veröffentlicht oder Fehlgeschlagen. Wenn eine Anzeige fehlschlägt, bewegen Sie den Mauszeiger über ihren Status, um den Fehler der Plattform anzuzeigen. Sie können jede fehlgeschlagene Anzeige in der Tabelle auf einmal wiederholen, indem Sie auf **[!UICONTROL Erneut versuchen]** klicken, anstatt jede Anzeige einzeln erneut zu versuchen. Veröffentlichte Zeilen sind von der erneuten Übermittlung ausgeschlossen und enthalten einen Deep-Link zur Anzeige im nativen Anzeigen-Manager der Zielplattform. Ihre abschließende Prüfung vor der Veröffentlichung und das Starten von Anzeigen erfolgt im eigenen Anzeigenmanager des Zielkanals: [!DNL Activate] stellt Anzeigen immer in einem inaktiven Status bereit.
+
+![Eine Aktivierungstabelle, die eine Mischung aus den Status „Ausstehend“ und „Nach der Veröffentlichung an Plattformen gesendet“ anzeigt](./images/activation-status-pending.png)
 
 Ihre Aktivierungstabellen werden auf der [!DNL Activate] Landingpage angezeigt.
 
