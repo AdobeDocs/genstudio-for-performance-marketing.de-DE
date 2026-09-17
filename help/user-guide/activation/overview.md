@@ -7,59 +7,57 @@ exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
 TQID: https://experienceleague.adobe.com/-Nal0YqjTzKw4g2SM3IuMf0a13e87CWdTqBZPd0dBkU
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
 subfeature_v2:
   - id: d87258a7-722c-4afd-b632-adddc447c7aa
+    internal-label: Ad activation
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+    internal-label: Metadata
+source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
 workflow-type: tm+mt
-source-wordcount: 474
-ht-degree: 100%
-
+source-wordcount: '413'
+ht-degree: 5%
 ---
-
 # „Aktivieren“ in Adobe GenStudio for Performance Marketing
 
-GenStudio for Performance Marketing [!DNL Activate] bietet einen zentralen Ort für die Vorbereitung Ihrer Anzeigenerlebnisse zur Aktivierung in ausgewählten gebührenpflichtigen Anzeigenkanälen. _Aktivierung_ ist der Prozess der Vorbereitung von Anzeigenerlebnissen, Assets und Text als kreatives Anzeigenerlebnis, das speziell auf die Platzierung in einem bestimmten gebührenpflichtigen Kanal zugeschnitten ist. Bei der Aktivierung werden die Kreativinhalte in den vorgesehenen Kanälen in einem inaktiven Status bereitgestellt, sodass sie für die abschließende Überprüfung und Bereitstellung in den jeweiligen Kanälen bereit sind. Anzeigenerlebnisse können dann in den jeweiligen Zielmärkten verteilt werden.
+In GenStudio for Performance Marketing [!DNL Activate] bereiten Sie Anzeigenerlebnisse vor und senden sie an gebührenpflichtige Anzeigenkanäle wie Meta oder LinkedIn. _Activation_ nutzt ein genehmigtes Anzeigenerlebnis und seine Assets, wendet das für einen bestimmten Kanal erforderliche Setup an und stellt es dann direkt in einem inaktiven, ausgeschalteten Status auf diesen Kanal bereit. Von dort aus können Sie eine abschließende Überprüfung im eigenen Werbe-Manager des Kanals durchführen, bevor Ihre Anzeige live geschaltet wird.
 
-Inhaltsschaffende und Systemadmins können Erlebnisse veröffentlichen, deren Assets entweder in GenStudio for Performance Marketing generiert oder dort hochgeladen werden.
+[!DNL Activate] liefert Ihr Erlebnis direkt im Kanal, sodass Sie keine Dateien exportieren oder sie manuell in den eigenen Werbe-Manager des Kanals hochladen müssen.
 
-[!DNL Activate] zeigt eine Produktkarte für jeden unterstützten Paid-Media-Kanal an. Diese Kachel gibt den Paid-Media-Kanal an und listet die Anzahl der erfolgreichen Anzeigenaktivierungen auf, die in den letzten 30 Tagen stattgefunden haben. Sie bietet außerdem einen Einstiegspunkt für die Verwaltung von Aktivierungen und die Erstellung einer neuen Aktivierung.
-
-Jedes Konto für Paid-Media-Kanäle muss mit GenStudio for Performance Marketing verbunden sein, bevor Sie ein Anzeigenerlebnis aktivieren können.
-
-## Anwendungsfälle für „Aktivieren“
-
-* Aktivieren Sie genehmigte Erlebnisse direkt über [!DNL Content] für ausgewählte gebührenpflichtige Anzeigenkanäle.
-
-* [Erstellen Sie eine Aktivierung](create-activation.md). Sie können ein Anzeigenerlebnis erstellen, indem Sie visuelle Assets auswählen, Text zuweisen und Metadaten definieren, bevor Sie sie an einen Kanal senden.
-
-* [Verwalten Sie Aktivierungen](manage-activations.md). _[!DNL Activate]_bietet einen Überblick über alle aktivierten Erlebnisse. Sie können auch die Details einzelner Aktivierungen einsehen.
+Ein GenStudio-Systemmanager oder -Bearbeiter muss für jeden gebührenpflichtigen Anzeigenkanal das Anzeigenkonto verbinden, bevor Sie ein Anzeigenerlebnis für diesen Kanal aktivieren können.
 
 ## Aktivieren von Funktionen
 
-[!DNL Activate] erleichtert die Vorbereitung von Anzeigenerlebnissen für die Verteilung an die entsprechenden gebührenpflichtigen Zielkanäle.
+Verwenden Sie [!DNL Activate], um Anzeigen-Erlebnisse für ihre zielgerichteten Paid-Ad-Kanäle vorzubereiten. [Massenaktivierung von Erlebnissen](create-activation.md) über mehrere Paid-Ad-Kanäle in einer einzigen Aktivierungstabelle. Wählen Sie [Aktivieren verwalten](manage-activations.md) um den Status und die Details jedes aktivierten Erlebnisses anzuzeigen.
 
-### Aktivieren eines genehmigten Erlebnisses direkt aus „Inhalt“
+>[!VIDEO](https://video.tv.adobe.com/v/3503545?captions=ger&learn=on)
 
-Sie können ein genehmigtes Erlebnis direkt über [!DNL Content] aktivieren oder mehrere genehmigte Erlebnisse als Aktivierungsgruppe für ausgewählte gebührenpflichtige Kanäle aktivieren. Alle Erlebnisse innerhalb einer Gruppe müssen auf denselben gebührenpflichtigen Kanal ausgerichtet sein.
+### Aktivieren genehmigter Erlebnisse aus Inhalten
 
-### Vorbereiten eines Erlebnisses für die Aktivierung
+Wählen Sie ein oder mehrere genehmigte, veröffentlichte Erlebnisse aus [!DNL Content] oder beginnen Sie auf der [!DNL Activate] Landingpage. Im Gegensatz zu früheren Versionen von [!DNL Activate] kann eine einzelne Aktivierungstabelle Erlebnisse für mehrere bezahlte Anzeigenkanäle gleichzeitig enthalten, organisiert nach Anzeigenformat und Kanal.
 
-Auf der Seite _Erlebnis-Setup_ sind die Tools zusammengefasst, mit denen Sie die visuellen Elemente eines Anzeigenerlebnisses auswählen, den Anzeigentext anpassen (einschließlich des CTA-Texts) und hilfreiche Metadaten hinzufügen können, um das Tracking und die Sichtbarkeit des Erlebnisses zu verbessern.
+>[!NOTE]
+>
+>[!DNL Content] ruft ein Ziel wie Meta oder LinkedIn in einem **channel** auf. [!DNL Activate] ruft dasselbe Ziel auf wie **Plattform** (z. B. in **[!UICONTROL Platform-Setup]**). Die beiden Begriffe beziehen sich auf dasselbe.
 
-### Auswählen von Assets für das Anzeigenerlebnis
+### Konfigurieren von Anzeigen- und Platform-Setup-Details
 
-Suchen Sie nach genehmigten visuellen Assets über [!DNL Content] und wählen Sie diese aus oder laden Sie Assets aus Dropbox oder OneDrive hoch. Sie können Assets direkt von Ihrem Gerät hochladen. Ein Anzeigenerlebnis kann in mehreren Platzierungen ausgeführt werden. Assets können in den Seitenverhältnissen hochgeladen werden, die für Ihre Anzeigenplatzierungen erforderlich sind.
+Jede Zeile in der Aktivierungstabelle stellt eine Anzeige dar. Genehmigte Kreativ-Assets, Überschriften und Textkörper sind gesperrt, da sie bereits überprüft und genehmigt wurden. Sie können die verbleibenden Felder bearbeiten, z. B. call-to-action-Text, Ziel-URL und Plattformeinrichtungsdetails wie das Werbekonto, die Kampagne und den Anzeigensatz. Sie können Felder jeweils nur für eine Zeile bearbeiten oder mehrere Zeilen auswählen, um gemeinsam genutzte Felder stapelweise zu bearbeiten.
 
-### Vorschau und Aktivierung Ihres Erlebnisses in einem Anzeigenkanal
+### Überprüfen und veröffentlichen Sie Ihre Erlebnisse auf ihren Anzeigenkanälen
 
-Bestätigen Sie die mit dieser Anzeigenaktivierung verknüpften Konten für gebührenpflichtige Kanäle, Anzeigensätze und Meta-Kampagnen. Im Panel _Vorschau_ können Sie Anzeigenerlebnisse an verschiedenen Platzierungen anzeigen, bevor Sie diese finalisieren. (Wenn Sie eine Platzierung im Panel _Vorschau_ auswählen, ist nur Ihre Ansicht der Anzeige betroffen. Ihre Auswahl für die Platzierung im Panel _Vorschau_ wird nicht gespeichert.) Wenn Sie mit Ihrem Anzeigenerlebnis zufrieden sind, klicken Sie auf **[!UICONTROL Veröffentlichen]**, um das Erlebnis und die zugehörigen Metadaten in den gebührenpflichtigen Anzeigenkanal zu übertragen.
+Bestätigen Sie, dass in jeder Zeile [!UICONTROL Bereit zur Aktivierung] angezeigt wird. [!DNL Activate] kennzeichnet fehlende oder ungültige Felder, inkompatible Aktionsaufrufe und doppelte Tracking-IDs als [!UICONTROL erfordert Aufmerksamkeit]. Wenn jede Zeile fertig ist, klicken Sie auf **[!UICONTROL An Platform senden]**, um alle Anzeigen in der Tabelle zu veröffentlichen. [!DNL Activate] Berichte über den Status jeder Anzeige nahezu in Echtzeit und erfolgreich veröffentlichte Anzeigen enthalten einen Deep-Link zur Anzeige im nativen Anzeigenmanager der Zielplattform. Fehlgeschlagene Anzeigen geben eine Fehlermeldung zurück und können erneut geschaltet werden.

@@ -6,52 +6,46 @@ exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
 TQID: https://experienceleague.adobe.com/ird0IiW8L5Axjj2FmEjlUcD1sPaNCNfxj9XNqGfQWiI
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Troubleshooting
+source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
 workflow-type: tm+mt
-source-wordcount: 361
+source-wordcount: '294'
 ht-degree: 1%
-
 ---
-
 # Verwalten von Aktivierungen
 
-[!DNL Activate] bietet eine zentralisierte Ansicht des Aktivierungsstatus jedes Anzeigenkanals, einschließlich der Aktivierungen Veröffentlicht (erfolgreich), Fehlgeschlagen (nicht erfolgreich) und Veröffentlichung (ausstehend). Die _Aktivierte Erlebnisse_ zeigt alle Aktivierungen für ein verbundenes Kanal-Werbekonto an.
+Ihre Aktivierungstabellen werden auf der [!DNL Activate] Landingpage angezeigt. Jede Tabelle listet ihre Anzeigen zusammen mit ihrem Status auf:
 
-[!DNL Activate] organisiert aktivierte Erlebnisse nach Anzeigenkanal. Klicken Sie **[!UICONTROL der]** auf „Anzeigen“. Die _Aktivierte Erlebnisse_ für den ausgewählten Kanal wird geöffnet. In dieser Ansicht werden Erlebnisse nach Namen aufgelistet und nach Aktivierungsdatum sortiert. Wenn Ihr Unternehmen keine Erlebnisse für diesen Kanal aktiviert hat, enthält die Produktkachel nicht die Schaltfläche **[!UICONTROL Anzeigen]**.
+| Status | Bedeutung |
+|---|---|
+| [!UICONTROL Erfordert Aufmerksamkeit] | Mindestens eine Anzeige in der Aktivierungstabelle enthält ein fehlendes oder ungültiges Feld, z. B. eine inkompatible call to action oder eine doppelte Tracking-ID. |
+| [!UICONTROL Bereit zum Aktivieren] | Alle Anzeigen in der Aktivierungstabelle bestehen die Validierung und sind zur Veröffentlichung bereit. |
+| [!UICONTROL Ausstehend] | Die gesamte Aktivierungstabelle wurde übermittelt und wird von der Zielplattform verarbeitet. |
+| [!UICONTROL Veröffentlicht] | Die gesamte Aktivierungstabelle wurde veröffentlicht. |
+| [!UICONTROL fehlgeschlagen] | Die Zielplattform hat mindestens eine der Anzeigen in der Tabelle abgelehnt. Bewegen Sie den Mauszeiger über die Status-QuickInfo, um die Fehlermeldung der Plattform anzuzeigen. |
 
-## Aktivierte Erlebnisansicht
+Sie können fehlgeschlagene Aktivierungen automatisch wiederholen, indem Sie oben rechts **[!UICONTROL Erneut versuchen]** klicken.
 
-In dieser Ansicht werden Aktivierungen nach Erlebnisnamen in absteigender chronologischer Reihenfolge aufgelistet (zuletzt aufgelistet).
-
-In der folgenden Tabelle sind die Attribute aufgeführt, die die einzelnen Erlebnisse definieren.
-
-| Attribut | Wert |
-|------------------|---------------------------------------------------------------------------------------------|
-| Erlebnisname | Name des Erlebnisses in GenStudio for Performance Marketing: <br> Name identifiziert das Erlebnis in _[!DNL Content]_ |
-| Anzeigenname | Name der Anzeige im Anzeigenkanal |
-| Veröffentlichungsdatum | Datum, an dem das Anzeigen-Erlebnis erfolgreich veröffentlicht wurde<br> Verwendet das Monat-Tag-Jahr-Format |
-| Veröffentlicht von | Name des GenStudio for Performance Marketing-Benutzers, der das Erlebnis aktiviert hat |
-| Regionen | Geografische Region, in der das Erlebnis gestartet wird |
-| Status | Der Status der ausgewählten Anzeigen-Erlebniswerte <br> „Fehlgeschlagen“, „Veröffentlicht“ und „Veröffentlichung“ |
-
-Verwenden Sie **[!UICONTROL Suche]** (Lupe) oder scrollen Sie durch die Erlebnisliste, um eine Aktivierung anhand des Erlebnisnamens zu finden.
-
-Klicken Sie auf die Aktivierung , um eine fokussierte Ansicht der Aktivierungsdetails zu öffnen.
+Veröffentlichte Zeilen sind von der erneuten Übermittlung ausgeschlossen und enthalten einen Deep-Link zur Anzeige im nativen Anzeigen-Manager der Zielplattform, sodass Sie direkt zur Anzeige springen können, um sie zu überprüfen oder zu starten.
 
 ## Detailansicht
 
-Klicken Sie in der _Aktivierte Erlebnisse_ auf eine Aktivierung. Die schreibgeschützte Ansicht _Aktivierungsdetails_ erfasst die definierenden Details eines aktivierten Erlebnisses, einschließlich fehlgeschlagener Aktivierungen. Diese Ansicht enthält Informationen, die sowohl aus GenStudio for Performance Marketing als auch aus dem Anzeigenkanal abgeleitet wurden.
+Klicken Sie auf eine Anzeigenzeile, um eine fokussierte Ansicht der Aktivierungsdetails zu öffnen. Die schreibgeschützte Detailansicht erfasst die definierenden Details einer aktivierten Anzeige, einschließlich fehlgeschlagener Aktivierungen, mit Informationen, die sowohl von GenStudio for Performance Marketing als auch der Zielplattform abgeleitet werden:
 
-* **Veröffentlichungszeit und -datum**: Zeit und Datum der Veröffentlichung im Anzeigenkanal-Manager
-* **Werbe-ID**: ID, die vom gebührenpflichtigen Kanal zugewiesen und für das Tracking verwendet wird. Klicken Sie auf **[!UICONTROL Öffnen]** neben diesem Feld, um die veröffentlichte Anzeige in Meta Ads Manager anzuzeigen
-* **Erlebnisdetails**: Die ausgewählten Bild-Assets, Texte und Metadaten, die während des GenStudio for Performance Marketing-Aktivierungs-Workflows zugewiesen wurden
-* **Kanaleinrichtung**: Die Konten für gebührenpflichtige Kanäle, die zum Aktivieren des Anzeigenerlebnisses verwendet werden
+* **Veröffentlichungszeit und -datum**: Zeit und Datum der Veröffentlichung auf der Zielplattform
+* **Anzeigen-ID**: ID, die von der Zielplattform zugewiesen und zum Tracking verwendet wird, mit einem Deep-Link zur veröffentlichten Anzeige im nativen Anzeigen-Manager der Plattform
+* **Anzeigendetails**: Die für die Anzeige verwendeten genehmigten Assets, Kopien und Metadaten
+* **Platform-Setup**: Die Felder für das Konto, die Kampagne und andere Plattformeinstellungen, die zum Aktivieren der Anzeige verwendet werden
 
-Die _Details_-Ansicht einer fehlgeschlagenen Aktivierung enthält den Grund für das Fehlschlagen.
+Die Detailansicht einer fehlgeschlagenen Aktivierung enthält den Grund für den Fehler.
