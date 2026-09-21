@@ -6,10 +6,10 @@ feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
 nudge: true
-source-git-commit: 378b5c689ce9dab9ffdde6d17a06df68cca2d305
+source-git-commit: 6fb7ddb7549ea6bcd66b6139fbde9ebe12ddaa22
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 97%
+source-wordcount: '309'
+ht-degree: 92%
 ---
 
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
@@ -23,6 +23,11 @@ ht-degree: 97%
   + [Konfigurieren [!DNL Brand] Berechtigungen](configure-brand-permissions.md)
   + [Benutzerrollen](user-roles.md)
   + [Effektive Eingabeaufforderungen](effective-prompts.md)
++ KI-Assistenten
+  + [Überblick über KI-Assistenten](ai-assistants/overview.md)
+  + [KI-Assistenten verbinden](ai-assistants/connect-ai-assistants.md)
+  + [KI-Assistenten verwenden](ai-assistants/use-ai-assistants.md)
+  + [Referenz zu KI-Assistenten-Tools](ai-assistants/tools-reference.md)
 + Einstellungen {#settings}
   + [Bezahlte Medien verbinden](connectors/connect-channel.md)
   + Bezahlte Medienkonten {#connect-account}
