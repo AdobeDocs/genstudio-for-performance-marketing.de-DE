@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # Verwenden von KI-Assistenten
 
-Nachdem Sie [einen KI-Assistenten ](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
+Nachdem Sie [einen KI-Assistenten &#x200B;](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
 
 ## Verbessern der Ergebnisse
 
@@ -89,7 +89,7 @@ Umwandeln einer Empfehlung oder Vorlage in einen bearbeitbaren Entwurf:
 - „Was kann ich in dieser Vorlage ändern?“
 - „Erstellen Sie eine Meta-Anzeige aus dieser Vorlage. Nutzen Sie die Schlagzeilen Sommerverkauf und call to action Shop Now. Hier ist der kreative Auftrag: [Beschreiben Sie Kampagne, Ton und Angebot].“
 
-> [!TIP]
+&#x200B;> [!TIP]
 > Das Erstellen eines Entwurfs ist ein echtes Dokument in Creative Cloud. Es handelt sich nicht um eine Vorschau. Bereiten Sie die Zusammenfassung der Kreativarbeit vor und kopieren Sie sie, bevor Sie eine Frage stellen.
 
 ## Entwurf überprüfen und freigeben
@@ -109,7 +109,7 @@ Nachdem ein Entwurf genehmigt und als Erlebnis veröffentlicht wurde, veröffent
 - „Richten Sie dieses Erlebnis für mein Meta-Werbekonto und meine Kampagne ein.“
 - „Veröffentlichen Sie dieses Erlebnis in LinkedIn.“
 
-> [!IMPORTANT]
+&#x200B;> [!IMPORTANT]
 > Beim Veröffentlichen wird eine Live-Anzeigenplatzierung erstellt, für die möglicherweise Werbeaufwendungen anfallen. Sie kann nicht durch den Assistenten rückgängig gemacht werden. Bestätigen Sie das Zielkonto, die Kampagne und das Erlebnis vor der Veröffentlichung. Durch Wiederholen der Anfrage wird eine weitere Anzeige erstellt.
 
 ## Interpretieren leerer oder nicht verfügbarer Ergebnisse
