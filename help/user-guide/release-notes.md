@@ -69,27 +69,27 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: 5d651c7ec00aff866ce1f3698521b5baf48b3385
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5824'
-ht-degree: 98%
+ht-degree: 100%
 ---
 # Versionshinweise zu GenStudio for Performance Marketing
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen für GenStudio for Performance Marketing.
 
-## 2026.09.15 {#latest}
+## 15.09.2026 {#latest}
 
 **NEUE FUNKTIONEN:**
 
 ### Massenaktivierung
 
-[!DNL Activate] unterstützt jetzt die Massenaktivierung: Wählen Sie mehrere genehmigte Erlebnisse aus [!DNL Content] aus und veröffentlichen Sie sie über mehrere gebührenpflichtige Anzeigenkanäle in einer einzigen Aktivierungstabelle, einschließlich Meta, LinkedIn, Google Campaign Manager 360, Amazon Ads, Innovid, TikTok, YouTube, ChatGPT und The Trade Desk. Bearbeiten Sie freigegebene Felder inline oder massenweise und veröffentlichen Sie dann jede Anzeige zusammen mit einer Statusverfolgung pro Anzeige und automatischen Wiederholungsversuchen für alle fehlgeschlagenen Anzeigen.
+[!DNL Activate] unterstützt jetzt die Massenaktivierung: Wählen Sie mehrere genehmigte Erlebnisse aus [!DNL Content] aus und veröffentlichen Sie sie über mehrere gebührenpflichtige Anzeigenkanäle in einer einzigen Aktivierungstabelle, darunter Meta, LinkedIn, Google Campaign Manager 360, Amazon Ads, Innovid, TikTok, YouTube, ChatGPT und The Trade Desk. Führen Sie eine Inline- oder Massenbearbeitung freigegebener Felder durch und veröffentlichen Sie dann jede Anzeige zusammen mit Status-Tracking pro Anzeige und automatischen Wiederholungsversuchen für fehlgeschlagene Anzeigen.
 
 Weitere Informationen finden Sie unter [Aktivierungs-Workflow](/help/user-guide/activation/create-activation.md).
 
 ## Frühere Versionshinweise
 
-+++Hinweise aus dem 16.7.2026
++++Hinweise vom 16.07.2026
 
 ### Massenbearbeitung auf der Horizon-Arbeitsfläche
 
