@@ -2,7 +2,7 @@
 title: Verwenden von KI-Assistenten
 description: Erfahren Sie, wie Sie Leistungsdaten abfragen, Entwürfe erstellen und genehmigte Anzeigen über einen mit [!DNL GenStudio for Performance Marketing] verbundenen KI-Assistenten veröffentlichen.
 role: User
-source-git-commit: 6fb7ddb7549ea6bcd66b6139fbde9ebe12ddaa22
+source-git-commit: 3d22af77d3893233e497a22f7b00c1faf0070cff
 workflow-type: tm+mt
 source-wordcount: '805'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # Verwenden von KI-Assistenten
 
-Nachdem Sie [einen KI-Assistenten &#x200B;](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
+Nachdem Sie [einen KI-Assistenten ](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
 
 ## Verbessern der Ergebnisse
 
@@ -89,8 +89,9 @@ Umwandeln einer Empfehlung oder Vorlage in einen bearbeitbaren Entwurf:
 - „Was kann ich in dieser Vorlage ändern?“
 - „Erstellen Sie eine Meta-Anzeige aus dieser Vorlage. Nutzen Sie die Schlagzeilen Sommerverkauf und call to action Shop Now. Hier ist der kreative Auftrag: [Beschreiben Sie Kampagne, Ton und Angebot].“
 
-&#x200B;> [!TIP]
-> Das Erstellen eines Entwurfs ist ein echtes Dokument in Creative Cloud. Es handelt sich nicht um eine Vorschau. Bereiten Sie die Zusammenfassung der Kreativarbeit vor und kopieren Sie sie, bevor Sie eine Frage stellen.
+>[!TIP]
+>
+>Das Erstellen eines Entwurfs ist ein echtes Dokument in Creative Cloud. Es handelt sich nicht um eine Vorschau. Bereiten Sie die Zusammenfassung der Kreativarbeit vor und kopieren Sie sie, bevor Sie eine Frage stellen.
 
 ## Entwurf überprüfen und freigeben
 
@@ -109,8 +110,9 @@ Nachdem ein Entwurf genehmigt und als Erlebnis veröffentlicht wurde, veröffent
 - „Richten Sie dieses Erlebnis für mein Meta-Werbekonto und meine Kampagne ein.“
 - „Veröffentlichen Sie dieses Erlebnis in LinkedIn.“
 
-&#x200B;> [!IMPORTANT]
-> Beim Veröffentlichen wird eine Live-Anzeigenplatzierung erstellt, für die möglicherweise Werbeaufwendungen anfallen. Sie kann nicht durch den Assistenten rückgängig gemacht werden. Bestätigen Sie das Zielkonto, die Kampagne und das Erlebnis vor der Veröffentlichung. Durch Wiederholen der Anfrage wird eine weitere Anzeige erstellt.
+>[!IMPORTANT]
+>
+>Beim Veröffentlichen wird eine Live-Anzeigenplatzierung erstellt, für die möglicherweise Werbeaufwendungen anfallen. Sie kann nicht durch den Assistenten rückgängig gemacht werden. Bestätigen Sie das Zielkonto, die Kampagne und das Erlebnis vor der Veröffentlichung. Durch Wiederholen der Anfrage wird eine weitere Anzeige erstellt.
 
 ## Interpretieren leerer oder nicht verfügbarer Ergebnisse
 

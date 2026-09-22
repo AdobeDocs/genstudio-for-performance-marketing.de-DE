@@ -2,7 +2,7 @@
 title: Verbinden eines KI-Assistenten
 description: Erfahren Sie, wie Sie einen unterstützten KI-Assistenten verbinden, um den Zugriff auf verfügbare Tools zu [!DNL GenStudio for Performance Marketing] und zu überprüfen.
 role: User
-source-git-commit: 6fb7ddb7549ea6bcd66b6139fbde9ebe12ddaa22
+source-git-commit: 3d22af77d3893233e497a22f7b00c1faf0070cff
 workflow-type: tm+mt
 source-wordcount: '623'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Bevor Sie eine Verbindung herstellen, überprüfen Sie Folgendes:
 
 [!DNL GenStudio for Performance Marketing] Tools werden in Adobe CX Enterprise Coworker als native Verbindung verwaltet. Ihre Organisation kontrolliert die Verfügbarkeit, sodass Sie nicht die direkte MCP-Server-URL eingeben.
 
-Beginnen Sie eine neue Unterhaltung und [&#x200B; Sie die Verbindung &#x200B;](#verify-the-connection). Wenn die Tools nicht angezeigt werden, wenden Sie sich an den Administrator Ihres Unternehmens oder den Adobe-Support.
+Beginnen Sie eine neue Unterhaltung und [ Sie die Verbindung ](#verify-the-connection). Wenn die Tools nicht angezeigt werden, wenden Sie sich an den Administrator Ihres Unternehmens oder den Adobe-Support.
 
 ## Connect Claude
 
@@ -36,8 +36,9 @@ Claude benötigt einen Pro-, Max-, Team- oder Enterprise-Plan. Derselbe Remote-C
 1. Melden Sie sich mit Ihrer Adobe ID an.
 1. Wählen Sie die IMS-Organisation aus, die Zugriff auf [!DNL GenStudio for Performance Marketing] hat.
 
-&#x200B;> [!NOTE]
-&#x200B;> Bei einem Team- oder Enterprise-Plan muss ein Organisationsverantwortlicher möglicherweise zuerst den Connector hinzufügen. Wenn der Connector bereits verfügbar ist, wählen Sie stattdessen **[!UICONTROL Verbinden]** aus.
+>[!NOTE]
+>
+>Bei einem Team- oder Enterprise-Plan muss ein Organisationsverantwortlicher möglicherweise zuerst den Connector hinzufügen. Wenn der Connector bereits verfügbar ist, wählen Sie stattdessen **[!UICONTROL Verbinden]** aus.
 
 ## ChatGPT verbinden
 
@@ -52,8 +53,9 @@ ChatGPT erfordert ein Plus-, Pro-, Business-, Enterprise- oder Education-Konto. 
 1. Melden Sie sich mit Ihrer Adobe ID an.
 1. Wählen Sie die IMS-Organisation aus, die Zugriff auf [!DNL GenStudio for Performance Marketing] hat.
 
-&#x200B;> [!NOTE]
-> ChatGPT kann den Speicherort der Entwickler- und Connector-Einstellungen ändern. Wenn diese Beschriftungen in Ihrem Konto unterschiedlich sind, befolgen Sie die aktuellen OpenAI-Anweisungen zum Hinzufügen eines Remote-MCP-Connectors.
+>[!NOTE]
+>
+>ChatGPT kann den Speicherort der Entwickler- und Connector-Einstellungen ändern. Wenn diese Beschriftungen in Ihrem Konto unterschiedlich sind, befolgen Sie die aktuellen OpenAI-Anweisungen zum Hinzufügen eines Remote-MCP-Connectors.
 
 ## Codex verbinden
 
@@ -106,8 +108,9 @@ Wenn Sie dazu aufgefordert werden, melden Sie sich bei Ihrer Adobe ID an und wä
 
 Der Assistent gibt verfügbare Leistungsdaten zurück oder erklärt, warum keine Daten mit der Anfrage übereinstimmen.
 
-&#x200B;> [!TIP]
-&#x200B;> Wenn die Authentifizierung fehlschlägt, stellen Sie erneut eine Verbindung her und bestätigen Sie, dass Sie die richtige IMS-Organisation ausgewählt haben. Wenn keine Tools angezeigt werden, vergewissern Sie sich, dass Ihr Konto Zugriff auf [!DNL GenStudio for Performance Marketing] hat.
+>[!TIP]
+>
+>Wenn die Authentifizierung fehlschlägt, stellen Sie erneut eine Verbindung her und bestätigen Sie, dass Sie die richtige IMS-Organisation ausgewählt haben. Wenn keine Tools angezeigt werden, vergewissern Sie sich, dass Ihr Konto Zugriff auf [!DNL GenStudio for Performance Marketing] hat.
 
 ## Verwandte Funktionen
 
