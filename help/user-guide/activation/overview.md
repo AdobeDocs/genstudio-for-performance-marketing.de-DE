@@ -44,7 +44,7 @@ Eine GenStudio-System-Managerin oder -Editorin bzw. ein GenStudio-System-Manager
 
 Verwenden Sie [!DNL Activate], um Anzeigenerlebnisse für ihre entsprechenden gebührenpflichtigen Anzeigenkanäle vorzubereiten. Sie können eine [Massenaktivierung von Erlebnissen](create-activation.md) auf mehreren gebührenpflichtigen Anzeigenkanälen in einer einzigen Aktivierungstabelle vornehmen. Danach [verwalten Sie Aktivierungen](manage-activations.md), um den Status und die Details jedes aktivierten Erlebnisses anzuzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503538?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503545?captions=ger&learn=on)
 
 ### Aktivieren genehmigter Erlebnisse aus „Content“
 
