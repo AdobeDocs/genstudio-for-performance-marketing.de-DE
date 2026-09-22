@@ -23,7 +23,7 @@ Bevor Sie eine Verbindung herstellen, überprüfen Sie Folgendes:
 
 [!DNL GenStudio for Performance Marketing] Tools werden in Adobe CX Enterprise Coworker als native Verbindung verwaltet. Ihre Organisation kontrolliert die Verfügbarkeit, sodass Sie nicht die direkte MCP-Server-URL eingeben.
 
-Beginnen Sie eine neue Unterhaltung und [ Sie die Verbindung ](#verify-the-connection). Wenn die Tools nicht angezeigt werden, wenden Sie sich an den Administrator Ihres Unternehmens oder den Adobe-Support.
+Beginnen Sie eine neue Unterhaltung und [&#x200B; Sie die Verbindung &#x200B;](#verify-the-connection). Wenn die Tools nicht angezeigt werden, wenden Sie sich an den Administrator Ihres Unternehmens oder den Adobe-Support.
 
 ## Connect Claude
 

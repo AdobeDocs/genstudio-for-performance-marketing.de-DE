@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # Verwenden von KI-Assistenten
 
-Nachdem Sie [einen KI-Assistenten ](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
+Nachdem Sie [einen KI-Assistenten &#x200B;](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
 
 ## Verbessern der Ergebnisse
 
