@@ -27,10 +27,10 @@ topic_v2:
     internal-label: Metadata
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: c8d964aa325aee782c175abf3fce880fb17ae6ca
+source-git-commit: db0cebfe795569d9913757d190db853097a00405
 workflow-type: tm+mt
-source-wordcount: '1250'
-ht-degree: 1%
+source-wordcount: '1233'
+ht-degree: 4%
 ---
 # Aktivierungs-Workflow
 
@@ -108,7 +108,7 @@ Um die Felder der Plattformeinrichtung für eine Gruppe von Anzeigenformaten zu 
 
 ![Das Dialogfeld „Plattformeinstellungen verwalten“ zur Auswahl eines Meta-Anzeigenkontos, einer-Kampagne und eines Anzeigensatzes](./images/manage-platform-settings.png)
 
-Die **[!UICONTROL Tracking-ID]**-Felder sind zunächst leer. Eine Tracking-ID entspricht dem Anzeigenamen oder Kreativnamen der Anzeigenplattform, und die Anzeigenplattform verwendet diese als Identifikationsnamen der Anzeige. Verwenden Sie dieses Feld, um diese Anzeige für das Reporting und die Fehlerbehebung zu identifizieren. Geben Sie die gewünschten Werte in die Felder **[!UICONTROL Tracking-ID]** ein.
+Jedes **[!UICONTROL Tracking-ID]**-Feld ist mit dem Erlebnisnamen vorausgefüllt: Die Anzeigenplattform verwendet diesen Wert als Namen der Anzeige oder als kreativen Namen für die Berichterstellung und Fehlerbehebung. Bearbeiten Sie den Wert an Ort und Stelle, wenn Sie etwas Anderes verwenden möchten.
 
 ![Inline-Bearbeitung eines Tracking-ID-Felds in der Aktivierungstabelle](./images/tracking-id-edit.png)
 
@@ -120,7 +120,7 @@ Um schneller zwischen **[!UICONTROL Tracking-ID]**-Feldern zu wechseln, verwende
 
 ## Erlebnisse überprüfen und auf ihren Anzeigenplattformen veröffentlichen
 
-Bestätigen Sie, dass in jeder Zeile [!UICONTROL Bereit zur Aktivierung] angezeigt wird. [!DNL Activate] kennzeichnet fehlende oder ungültige Felder, inkompatible Aktionsaufrufe und doppelte Tracking-IDs als [!UICONTROL erfordert Aufmerksamkeit]. Wenn jede Zeile fertig ist, klicken Sie auf **[!UICONTROL An Plattformen senden]** und bestätigen Sie dies im Dialogfeld „Veröffentlichen“.
+Bestätigen Sie, dass in jeder Zeile der Status [!UICONTROL Bereit zum Aktivieren] angezeigt wird. [!DNL Activate] kennzeichnet fehlende oder ungültige Felder, inkompatible Aktionsaufrufe und doppelte Tracking-IDs mit dem Status [!UICONTROL Erfordert Aufmerksamkeit]. Wenn jede Zeile fertig ist, klicken Sie auf **[!UICONTROL An Plattformen senden]** und bestätigen Sie dies im Dialogfeld „Veröffentlichen“.
 
 ![Eine Aktivierungstabelle, in der jede Zeile „Bereit zur Aktivierung“ anzeigt, wodurch die Option „An Plattformen senden“ aktiviert wird](./images/ready-to-activate.png)
 

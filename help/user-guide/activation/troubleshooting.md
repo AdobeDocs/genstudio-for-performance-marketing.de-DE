@@ -22,9 +22,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
+source-git-commit: db0cebfe795569d9913757d190db853097a00405
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '570'
 ht-degree: 1%
 ---
 # Optimieren von Aktivierungen
@@ -43,7 +43,7 @@ Im Folgenden finden Sie einige gängige Best Practices und die Fehler, die sie v
 
 * **Verwenden Sie für jede Zeile eine eindeutige Tracking-ID**
 
-  [!DNL Activate] kennzeichnet doppelte Tracking-IDs als [!UICONTROL Erfordert Aufmerksamkeit] und lässt Sie erst veröffentlichen, wenn jede Zeile im betroffenen Format und in der Platform-Tabelle über eine eindeutige Tracking-ID verfügt. Wenn Sie eine Tracking-ID über mehrere Zeilen hinweg stapelweise bearbeiten, bestätigen Sie, dass Sie denselben Wert auf jede ausgewählte Zeile anwenden möchten.
+  [!DNL Activate] kennzeichnet doppelte Tracking-IDs als [!UICONTROL Erfordert Aufmerksamkeit] und lässt Sie erst veröffentlichen, wenn jede Zeile im betroffenen Format und in der Platform-Tabelle über eine eindeutige Tracking-ID verfügt. Jedes **[!UICONTROL Tracking-ID]**-Feld ist mit dem Namen des Erlebnisses vorausgefüllt, sodass Zeilen, die ein Erlebnis in verschiedenen Anzeigenformaten oder Plattformen gemeinsam nutzen, mit demselben Wert beginnen. Suchen Sie nach diesen Duplikaten und lösen Sie sie auf, nicht nur nach durch Massenbearbeitungen eingeführten Duplikaten. Wenn Sie eine Tracking-ID über mehrere Zeilen hinweg stapelweise bearbeiten, bestätigen Sie, dass Sie denselben Wert auf jede ausgewählte Zeile anwenden möchten.
 
 * **Verwenden gültiger, vollständiger Ziel-URLs**
 
