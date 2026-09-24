@@ -35,7 +35,7 @@ Um einen visuellen Hinweis zu verwenden, wählen Sie **[!UICONTROL Aus Inhalt au
 
 ## Kopie in der Markensprache aufbewahren
 
-Der Sprachdruck wendet die erlernte Stimme Ihrer Marke auf eine generierte Kopie an, sodass sie ohne zusätzliche Aufforderung in der Marke klingt. Bei Kanälen mit „Insights[ wie LinkedIn und Meta ](/help/user-guide/insights/overview.md) sie standardmäßig aktiviert.
+Der Sprachdruck wendet die erlernte Stimme Ihrer Marke auf eine generierte Kopie an, sodass sie ohne zusätzliche Aufforderung in der Marke klingt. Bei Kanälen mit „Insights[&#x200B; wie LinkedIn und Meta &#x200B;](/help/user-guide/insights/overview.md) sie standardmäßig aktiviert.
 
 ## Web-Seite als Kontext verwenden
 
