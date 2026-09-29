@@ -9,7 +9,7 @@ nudge: true
 source-git-commit: 22db02c07a9f33cb1c70df9286ad6eb143dafd38
 workflow-type: tm+mt
 source-wordcount: '316'
-ht-degree: 92%
+ht-degree: 97%
 ---
 
 # Adobe GenStudio for Performance Marketing Guide {#user-guide}
@@ -25,9 +25,9 @@ ht-degree: 92%
   + [Effektive Eingabeaufforderungen](effective-prompts.md)
 + KI-Assistenten {#ai-assistants}
   + [Überblick über KI-Assistenten](ai-assistants/overview.md)
-  + [KI-Assistenten verbinden](ai-assistants/connect-ai-assistants.md)
-  + [KI-Assistenten verwenden](ai-assistants/use-ai-assistants.md)
-  + [Referenz zu KI-Assistenten-Tools](ai-assistants/tools-reference.md)
+  + [Verbinden eines KI-Assistenten](ai-assistants/connect-ai-assistants.md)
+  + [Verwenden von KI-Assistenten](ai-assistants/use-ai-assistants.md)
+  + [Tools-Referenz für den KI-Assistenten](ai-assistants/tools-reference.md)
 + Einstellungen {#settings}
   + [Bezahlte Medien verbinden](connectors/connect-channel.md)
   + Bezahlte Medienkonten {#connect-account}
