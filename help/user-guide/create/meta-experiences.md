@@ -5,32 +5,44 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-TQID: https://experienceleague.adobe.com/zKvU0COY6lhiGxtx0H5coTozyAiOWcUqh7NZa5FBGGE
+TQID: 'https://experienceleague.adobe.com/zKvU0COY6lhiGxtx0H5coTozyAiOWcUqh7NZa5FBGGE'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a8b28c00-da6e-4d27-8667-80f790ad8972
+    internal-label: Email experiences
   - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
   - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
   - id: ee4b6e5f-5b7a-421b-9859-0f964841a866
+    internal-label: Meta experiences
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3890f933a4cccae2e5dbe7ef2184e1dfd089b20b
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 337
+source-wordcount: '337'
 ht-degree: 2%
-
 ---
-
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu &#x200B;](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta Ad-Erlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/user-guide/create/create-meta-ad.md). [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta Ad-Erlebnisse zu erstellen](/help/user-guide/create/create-meta-ad.md).
 
 Beim Generieren von Meta-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt. GenStudio for Performance Marketing unterstützt sowohl [standardmäßige als auch benutzerdefinierte Meta-Anzeigen](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
@@ -72,7 +84,7 @@ Jedes Feld und jeder Abschnitt der Meta-Anzeigen-Erlebnisse wird schrittweise in
 1. Text auf dem Bild
 1. Markenvalidierung
 
-   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
+   Markenvalidierung und Inhaltsprüfung werden durchgeführt und die Zusammenfassung [_Inhaltsprüfung_ wird ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) jede Variante ausgefüllt.
 
 ## Zeichenanzahl
 

@@ -4,18 +4,35 @@ description: Erfahren Sie, wie Sie auf der HTML-Arbeitsfläche in Adobe GenStudi
 feature: Create Canvas, Content Generation
 role: User
 level: Beginner
-source-git-commit: bc59f6f5dce0c4f22228bcd06c2f5e60a4311e04
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 2%
-
 ---
-
 # Übersetzen und Lokalisieren von Erlebnissen
 
 Adobe [!DNL GenStudio for Performance Marketing] bietet eine vordefinierte Übersetzung auf der HTML-Arbeitsfläche, sodass globale und regionale Marketing-Experten genehmigte Erlebnisse ohne Übersetzungs-Tools in mehrere Sprachen skalieren können.
 
-Die Funktion verwendet standardmäßig Azure Open AI . Ihr Unternehmen kann auch über „Übersetzungserweiterungen“ eine Verbindung [&#x200B; bevorzugten Übersetzungsdienst &#x200B;](/help/extensibility/deploy-app.md#find-translation-extensions).
+Die Funktion verwendet standardmäßig Azure Open AI . Ihr Unternehmen kann auch über „Übersetzungserweiterungen“ eine Verbindung [ bevorzugten Übersetzungsdienst ](/help/extensibility/deploy-app.md#find-translation-extensions).
 
 Die Übersetzung beginnt mit einem genehmigten Erlebnis, das in [!DNL Content] gespeichert wurde. Das Quellerlebnis kann in jeder Sprache verfügbar sein. Jede übersetzte Variante wird auf der [!DNL Create]-Arbeitsfläche als bearbeitbarer Entwurf geöffnet, den Sie exportieren, zur Überprüfung senden und als separates Erlebnis veröffentlichen können.
 
@@ -36,7 +53,7 @@ Wenn Ihr Unternehmen eine benutzerdefinierte Übersetzungserweiterung registrier
 
 Starten Sie eine Übersetzung von der [!DNL Create] Landingpage aus, um ein genehmigtes Erlebnis zu lokalisieren.
 
-![Übersetzen und Lokalisieren von Kopien auf der Landingpage &#x200B;](./translate-create-workflow.png){width="600" zoomable="yes"}
+![Übersetzen und Lokalisieren von Kopien auf der Landingpage ](./translate-create-workflow.png){width="600" zoomable="yes"}
 
 **Aus[!DNL Create]** übersetzen:
 
@@ -65,7 +82,7 @@ Sie können die Übersetzung auch [!DNL Content] starten, wenn Sie genehmigte Er
 
 ## Arbeiten mit Übersetzungen auf der Arbeitsfläche
 
-Auf der HTML-Arbeitsfläche kann das Quellerlebnis nicht bearbeitet werden, da es bereits genehmigt ist. E-Mail-Quellerlebnisse werden gesperrt angezeigt. Sie können Text in übersetzten Varianten direkt auf der Arbeitsfläche bearbeiten. Anleitungen [&#x200B; Bearbeiten von Variantenkopien finden Sie unter &#x200B;](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
+Auf der HTML-Arbeitsfläche kann das Quellerlebnis nicht bearbeitet werden, da es bereits genehmigt ist. E-Mail-Quellerlebnisse werden gesperrt angezeigt. Sie können Text in übersetzten Varianten direkt auf der Arbeitsfläche bearbeiten. Anleitungen [ Bearbeiten von Variantenkopien finden Sie unter ](/help/user-guide/create/manage-variants.md)Verwalten von Varianten“.
 
 Bei übersetzten Erlebnissen wird keine Markenvalidierung durchgeführt oder ein Markenwert angezeigt. Das Quellerlebnis wurde bereits mit Markenrichtlinien erstellt, geprüft und genehmigt.
 

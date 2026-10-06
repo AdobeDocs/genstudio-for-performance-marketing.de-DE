@@ -2,7 +2,13 @@
 title: Verwenden von KI-Assistenten
 description: Erfahren Sie, wie Sie Leistungsdaten abfragen, Entwürfe erstellen und genehmigte Anzeigen über einen mit [!DNL GenStudio for Performance Marketing] verbundenen KI-Assistenten veröffentlichen.
 role: User
-source-git-commit: 3d22af77d3893233e497a22f7b00c1faf0070cff
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '805'
 ht-degree: 0%
@@ -10,7 +16,7 @@ ht-degree: 0%
 
 # Verwenden von KI-Assistenten
 
-Nachdem Sie [einen KI-Assistenten &#x200B;](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
+Nachdem Sie [einen KI-Assistenten ](connect-ai-assistants.md) haben), verwenden Sie Eingabeaufforderungen in natürlicher Sprache, um Leistungsdaten abzufragen, Entwürfe zusammenzustellen und genehmigte Anzeigen in [!DNL GenStudio for Performance Marketing] zu veröffentlichen.
 
 ## Verbessern der Ergebnisse
 

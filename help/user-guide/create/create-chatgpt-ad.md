@@ -4,7 +4,30 @@ description: Erfahren Sie, wie Sie Paid-Media-Erlebnisse mit ChatGPT in Adobe Ge
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: 17b2262615e10d82905ce7ebec65857e9a0b9f2a
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+    internal-label: Generative AI
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+  - id: de1f9646-abd3-4e21-9de2-df62ce55c8dc
+    internal-label: Create prompt
+  - id: f54ee13b-9545-4d68-9842-a12026e60aaf
+    internal-label: Variant generation
+  - id: be495d08-ecd1-455f-951e-c22de504e667
+    internal-label: Content generation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 9%
@@ -14,7 +37,7 @@ ht-degree: 9%
 
 Verwenden Sie [[!DNL Create]](/help/user-guide/create/overview.md) in [!DNL GenStudio for Performance Marketing], um **ChatGPT-Anzeigen** als Erlebnisse für bezahlte Medien zu erstellen, von Richtlinien und Assets über Generierung, Marken- und Kanalprüfungen, Genehmigung, Veröffentlichung in [!DNL Content] und Aktivierung im selben [!DNL Activate], der für Kanäle wie Meta und Google Campaign Manager 360 verwendet wird.
 
-Bevor Sie beginnen, fügen [&#x200B; bei &#x200B;](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu und überprüfen Sie [effektive Aufforderungen](/help/user-guide/effective-prompts.md) sodass Ihre Headline-Aufforderungen starke Varianten ergeben.
+Bevor Sie beginnen, fügen [ bei ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu und überprüfen Sie [effektive Aufforderungen](/help/user-guide/effective-prompts.md) sodass Ihre Headline-Aufforderungen starke Varianten ergeben.
 
 ## Voraussetzungen
 
@@ -74,7 +97,7 @@ Validieren Sie vor dem Speichern oder Senden des Erlebnisses zur Überprüfung d
 So führen Sie Inhaltsprüfungen durch:
 
 1. Klicken Sie **[!UICONTROL Inhaltsüberprüfung]** (Marken- und Kanalprüfungen).
-1. Überprüfen Sie die Validierungsergebnisse im Bedienfeld [_Inhaltsüberprüfung_ &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel).
+1. Überprüfen Sie die Validierungsergebnisse im Bedienfeld [_Inhaltsüberprüfung_ ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).
 1. Beheben Sie alle gemeldeten Probleme (z. B. Kopierlänge oder dichten Text auf dem Bildschirm), indem Sie Varianten bearbeiten oder nach Bedarf neu generieren.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
@@ -97,7 +120,7 @@ Es gibt zwei Status:
 
 Genehmigende Personen können die Ergebnisse der ChatGPT-Erlebnisse, Marken- und Kanalprüfungen anzeigen und **[!UICONTROL genehmigen]** oder Änderungen anfordern.
 
-Siehe [Anfordern von Überprüfungen und &#x200B;](/help/user-guide/approvals/request-review.md) und [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md).
+Siehe [Anfordern von Überprüfungen und ](/help/user-guide/approvals/request-review.md) und [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md).
 
 ### In Inhalt veröffentlichen
 

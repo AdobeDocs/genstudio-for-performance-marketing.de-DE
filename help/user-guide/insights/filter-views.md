@@ -4,31 +4,44 @@ description: Erfahren Sie, wie Sie die erweiterten Filterfunktionen mit Einblick
 level: Intermediate
 feature: Reporting and Insights
 exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
-TQID: https://experienceleague.adobe.com/67TI5R4hy9levkPkdXdQVCgLZl43YEq1oXV8kEEWWOs
+TQID: 'https://experienceleague.adobe.com/67TI5R4hy9levkPkdXdQVCgLZl43YEq1oXV8kEEWWOs'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
 subfeature_v2:
   - id: a98e0185-3180-4e8c-8f31-f72af4cc21a2
+    internal-label: Assets
   - id: dd48f9df-f2e2-49fe-a918-332a8e240ffe
+    internal-label: Channels
   - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
+  - id: e61505eb-ae0c-4fa0-a6cc-9f95313d4431
+    internal-label: Reporting and insights
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Insights
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 855
+source-wordcount: '855'
 ht-degree: 0%
-
 ---
-
 # Filter für Insights-Ansichten
 
 Das [!DNL Insights]-Dashboard bietet einen umfassenden Satz von Filtern für eine effiziente Datenexploration. Bei der Analyse von Kanälen, Anzeigen, Medien oder bestimmten Attributen können Sie mit den Filteroptionen Ihre Ansicht anpassen und Ihren Workflow optimieren. Verwenden Sie Keyword-Filter für eine präzise Zielgruppenbestimmung oder untersuchen Sie vordefinierte Listen, um Ihre Suche zu verfeinern und sich auf die Daten zu konzentrieren, die am wichtigsten sind.
@@ -61,7 +74,7 @@ Einige Tabellen können sich über mehrere Seiten erstrecken, wie unten in der T
 
 ### Schieberegler
 
-Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_&#x200B;**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
+Einige Filteroptionen beinhalten ein Schieberegler-Steuerelement, mit dem Sie einen Wert innerhalb eines definierten Bereichs auswählen können. Beispielsweise können Sie mit _[!UICONTROL Regler]_**[!UICONTROL Medienanzahl]** Attribute nach der Anzahl der zugehörigen Bilder oder Videos filtern. Ziehen Sie den Schieberegler, um einen Bereich festzulegen, der von mindestens 0 bis maximal 100 reicht.
 
 ## Erweiterte Filter
 
@@ -75,9 +88,9 @@ Im Laufe der Zeit kann Ihre Liste von Kampagnen und Anzeigen exponentiell wachse
 
 **So verfeinern Sie die Tabelle Anzeigen mithilfe des Filters Kampagnen**:
 
-1. Wählen Sie _[!DNL Insights]_&#x200B;die Ansicht **[!UICONTROL Anzeigen]**&#x200B;aus.
+1. Wählen Sie _[!DNL Insights]_die Ansicht **[!UICONTROL Anzeigen]**aus.
 
-   ![Anzeigen-Filter und &#x200B;](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
+   ![Anzeigen-Filter und ](/help/assets/insights-ads-filter.png "-Anzeigen-Ansicht mit Filtermenü"){zoomable="yes"}
 
 1. Klicken Sie auf den Umschalter Filter (funnel) oberhalb der linken Seite der Tabelle, um das Menü **[!UICONTROL Filter]** zu öffnen.
 

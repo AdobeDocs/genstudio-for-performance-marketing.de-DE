@@ -4,13 +4,26 @@ description: Erfahren Sie, wie Sie Entwürfe für bezahlte Medien mit Mitwirkend
 feature: Create Canvas
 role: User
 level: Beginner
-source-git-commit: 519c4d0273c996dbebcc28ee90a6b31006581305
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 6%
-
 ---
-
 # Kollaboratives Bearbeiten
 
 Mit der Funktion zur kollaborativen Bearbeitung können Entwurfsersteller Entwürfe für bezahlte Medien auf der Arbeitsfläche am Horizont für Mitwirkende freigeben, Rollen zuweisen und in Echtzeit zusammenarbeiten.
@@ -21,7 +34,7 @@ Eingeladene Mitarbeiter erhalten eine Pulse-Benachrichtigung innerhalb von GenSt
 
 Die kollaborative Bearbeitung auf der Horizon-Arbeitsfläche bietet die folgenden Funktionen:
 
-* **Entwürfe für Mitwirkende freigeben**: Benutzende per E-Mail einladen und **&#x200B;**&#x200B;Editor- oder **[!UICONTROL Viewer]**-Rollen zuweisen. Bearbeiter können den Entwurf auch für andere freigeben.
+* **Entwürfe für Mitwirkende freigeben**: Benutzende per E-Mail einladen und **** Editor- oder **[!UICONTROL Viewer]**-Rollen zuweisen. Bearbeiter können den Entwurf auch für andere freigeben.
 * **Benachrichtigungen einladen**: Eingeladene Teilnehmer erhalten eine Pulse-Benachrichtigung innerhalb von GenStudio for Performance Marketing und eine E-Mail mit einem direkten Link zum Entwurf.
 * **Ko-Bearbeitung in Echtzeit**: Zeichenflächen-Elemente und Chrome-Felder, einschließlich Überschriften, CTAs und Beschreibungen, werden live über alle Editoren hinweg synchronisiert.
 * **Freigegebene Entwürfe auf der Landingpage [!DNL GenStudio for Performance Marketing] [!DNL Content]**: Im Abschnitt **[!UICONTROL Zuletzt]** unter **[!UICONTROL Von Adobe Express-Vorlagen]** organisieren zwei Registerkarten Ihre Entwürfe: **[!UICONTROL Ihre]** (von Ihnen erstellte Entwürfe) und **[!UICONTROL Für Sie freigegeben]** (Entwürfe, auf die andere Ihnen Zugriff gewährt haben).

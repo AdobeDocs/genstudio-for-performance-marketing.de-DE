@@ -3,20 +3,26 @@ title: Erstellen einer App Builder-App
 description: Beginnen Sie mit dem Erstellen einer App oder eines Add-ons zur Erweiterung von GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4e757dd4-a02d-472c-bc13-6f27dffa48f2
-TQID: https://experienceleague.adobe.com/-GBttZv63YVWezBz1o9yrxvd-Uu5mbP-Aqh7Tm-kco4
+TQID: 'https://experienceleague.adobe.com/-GBttZv63YVWezBz1o9yrxvd-Uu5mbP-Aqh7Tm-kco4'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: b6b93e3513804919d43a663bb899e67556a4cbcd
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 496
+source-wordcount: '496'
 ht-degree: 1%
-
 ---
-
 # Entwickeln einer App Builder-App
 
 Entwickelnde, die die nativen Funktionen von GenStudio for Performance Marketing erweitern, verwenden [Adobe App Builder](https://developer.adobe.com/app-builder/), um ihre erweiterbaren Apps oder Add-ons zu erstellen, zu senden und bereitzustellen.
@@ -131,4 +137,4 @@ Durch die Wartung Ihrer Entwicklungsumgebung können Fehler bei der App-Entwickl
 
 * Aktualisieren Sie die GenStudio UIX SDK. Vergewissern Sie sich, dass Sie die neueste Version von [GenStudio UIX SDK](https://github.com/adobe/genstudio-uix-sdk) verwenden. Unter [Beispiel-Repository für GenStudio UIX](https://github.com/adobe/genstudio-uix-examples) erfahren Sie, wie Sie die neuesten SDK-Änderungen verwenden.
 
-Jetzt können Sie &quot;[&#x200B; App bereitstellen](deploy-app.md)
+Jetzt können Sie &quot;[ App bereitstellen](deploy-app.md)

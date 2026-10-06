@@ -2,13 +2,23 @@
 title: Journey Optimizer für GenStudio
 description: Installieren und konfigurieren Sie die App Journey Optimizer for GenStudio Adobe Exchange , damit Ihr Unternehmen Adobe Journey Optimizer-Vorlagen in GenStudio for Performance Marketing verwenden kann.
 feature: Extensibility
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
-
 ---
-
 # Journey Optimizer für GenStudio
 
 Organisationen, die [!DNL Adobe Journey Optimizer] (AJO) und [!DNL GenStudio for Performance Marketing] in derselben [!DNL IMS] verwenden, können die App **Journey Optimizer for GenStudio** von [!DNL Adobe Exchange] installieren. Nachdem ein Systemadministrator die App genehmigt und die Bereitstellung abgeschlossen hat, können Autorinnen und Autoren beim Erstellen von E-Mail-Erlebnissen in GenStudio neben Vorlagen, die direkt in [!DNL Content] hochgeladen wurden, AJO-Inhaltsvorlagen auswählen.
@@ -19,11 +29,11 @@ Dieses Thema richtet sich an **Administratoren und Entwickler** die die App inst
 
 * AJO muss in der Organisation bereitgestellt werden, in der Sie die Erweiterung bereitstellen.
 * Benutzende, die Vorlagen in AJO erstellen, benötigen die Berechtigung **Erstellen und Bearbeiten** von Inhaltsvorlagen in Journey Optimizer, wie sie in Ihrem Unternehmen definiert sind.
-* E-Mail-Vorlagen in AJO müssen Platzhalter für Felder (Handlebars) enthalten, in denen generierte Inhalte angezeigt werden sollen. Eine Vorlage kann ohne diese Felder ausgewählt werden, aber **Erlebnisgenerierung schlägt fehl** wenn die von [!DNL GenStudio for Performance Marketing] erwarteten Platzhalter fehlen. Siehe [Anpassen einer &#x200B;](/help/user-guide/templates/customize-template.md) und [Erkannte Feldnamen](/help/user-guide/templates/customize-template.md#recognized-field-names).
+* E-Mail-Vorlagen in AJO müssen Platzhalter für Felder (Handlebars) enthalten, in denen generierte Inhalte angezeigt werden sollen. Eine Vorlage kann ohne diese Felder ausgewählt werden, aber **Erlebnisgenerierung schlägt fehl** wenn die von [!DNL GenStudio for Performance Marketing] erwarteten Platzhalter fehlen. Siehe [Anpassen einer ](/help/user-guide/templates/customize-template.md) und [Erkannte Feldnamen](/help/user-guide/templates/customize-template.md#recognized-field-names).
 
 ## Installieren der App über Adobe Exchange
 
->[!VIDEO](https://video.tv.adobe.com/v/3483308?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483287?learn=on)
 
 1. Öffnen Sie [Adobe Exchange](https://exchange.adobe.com) und wechseln Sie zu **[!UICONTROL CX Enterprise]**.
 1. Öffnen Sie die Liste [Journey Optimizer for GenStudio](https://exchange.adobe.com/apps/ec/abpopqqr1q/journey-optimizer-for-genstudio).
@@ -47,7 +57,7 @@ Erstellen Sie **Projekt** in der [Adobe Developer Console](https://developer.ado
 
 ### Öffnen Sie die App in Verwalten und fügen Sie eine Umgebung hinzu
 
-1. Kehren Sie zu [Adobe Exchange &#x200B;](https://exchange.adobe.com).
+1. Kehren Sie zu [Adobe Exchange ](https://exchange.adobe.com).
 1. Wählen Sie **[!UICONTROL Verwalten]** und öffnen Sie **[!UICONTROL App Builder-]** (oder den Pfad Ihres Unternehmens zu verwalteten Apps).
 1. Wählen Sie **Journey Optimizer für GenStudio aus** bestätigen Sie, dass die App **genehmigt** ist.
 1. Wählen **[!UICONTROL unter &quot;]**&quot; eine vorhandene Umgebung aus dem Dropdown **Umgebungen:** oder wählen Sie **[!UICONTROL Umgebung hinzufügen]**, um eine Umgebung zu erstellen.
@@ -79,9 +89,9 @@ Zeigen Sie die Erweiterung unter **[!UICONTROL Journey Administrator]** in AJO *
 
 **Siehe auch** (Journey Optimizer-Zugriffssteuerung):
 
-* [Zugangssteuerung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/access-control/access-control-landing-page)
-* [Berechtigungen in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/access-control/permissions)
-* [Erste Schritte für Systemadministratoren](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/quick-start/administrator)
+* [Zugangssteuerung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/access-control-landing-page)
+* [Berechtigungen in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/access-control/permissions)
+* [Erste Schritte für Systemadministratoren](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/quick-start/administrator)
 
 ## Zugriff auf AJO-Vorlagen in GenStudio
 

@@ -5,25 +5,35 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-TQID: https://experienceleague.adobe.com/v8DZ2ubNwArTNws12FxsJKNbGbsRB-f0IJk39Y3PgXU
+TQID: 'https://experienceleague.adobe.com/v8DZ2ubNwArTNws12FxsJKNbGbsRB-f0IJk39Y3PgXU'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 3%
-
 ---
-
 # Richtlinien für E-Mail-Vorlagen
 
 Eine Marketing-E-Mail-Vorlage dient als Grundlage für visuell ansprechende und responsive E-Mail-Kampagnen. Im Allgemeinen können Sie mit HTML-Vorlagen das Layout, die Typografie, die Farben und die Bildsprache entsprechend Ihren Markenrichtlinien steuern. Verwenden Sie beim Vorbereiten Ihrer Vorlage für die Verwendung in GenStudio for Performance Marketing semantische HTML und Inline-CSS für die Formatierung und vermeiden Sie Skripte oder externe Abhängigkeiten. Gut strukturierte HTML-Vorlagen können das Erlebnis der Empfängerinnen und Empfänger verbessern und die Zustellbarkeit und Interaktionsraten verbessern.
@@ -52,7 +62,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 - `pre_header`
 - `subject`
 
-Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Die maximal zulässigen Felder in einer Vorlage sind 20. Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## E-Mail mit mehreren Abschnitten
 

@@ -5,24 +5,33 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
-TQID: https://experienceleague.adobe.com/HjkLWiyqK1quHoZB5lEE-qyB3zci12KlRAZC8ME-9Ao
+TQID: 'https://experienceleague.adobe.com/HjkLWiyqK1quHoZB5lEE-qyB3zci12KlRAZC8ME-9Ao'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+    internal-label: Guidelines
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 300
+source-wordcount: '300'
 ht-degree: 4%
-
 ---
-
 # Anzeigenvorlagen-Richtlinien anzeigen
 
 Anzeigevorlagen sind vorkonfigurierte Layouts, mit denen visuell ansprechende Banner- und Display-Anzeigen erstellt werden. Sie bieten ein flexibles Framework für die Integration von Bildern, Text und call to action und stellen so Konsistenz und Effizienz bei der Produktion mehrerer Anzeigenvarianten sicher. Wenn Sie Ihre Vorlage für die Verwendung in GenStudio for Performance Marketing vorbereiten, stellen Sie sicher, dass alle Assets für die Web-Anzeige optimiert sind und die erforderlichen Dateiformate und -größen erfüllen.
@@ -33,7 +42,7 @@ Befolgen Sie die folgenden Best Practices für das Design, wenn Sie die Anzeigen
 - Vorbereiten von Assets, die in schlanken Dimensionen gut angezeigt werden
 - Es ist genau ein Bildfeld erforderlich
 - Verwenden **nicht** eingebettete oder kodierte Hintergrundbilder
-- Verwenden Sie Hintergrundbilder (`image` Feld), die in das GenStudio for Performance Marketing-Inhalts-Repository hochgeladen wurden. Die besten Ergebnisse erzielen Sie, wenn Sie die Richtlinien unter [Hochladen von Bildern &#x200B;](#uploading-images-for-display-ads) Display-Anzeigen“ befolgen
+- Verwenden Sie Hintergrundbilder (`image` Feld), die in das GenStudio for Performance Marketing-Inhalts-Repository hochgeladen wurden. Die besten Ergebnisse erzielen Sie, wenn Sie die Richtlinien unter [Hochladen von Bildern ](#uploading-images-for-display-ads) Display-Anzeigen“ befolgen
 - Verwenden Sie **kein** JavaScript
 - Es kann nur ein Abschnitt verwendet werden, wodurch ein einziger Satz von Vorlagenelementen erzeugt wird
 
@@ -50,7 +59,7 @@ GenStudio for Performance Marketing generiert automatisch die folgenden Felder. 
 
 - `cta`
 
-Weitere Informationen [&#x200B; Verwendung von Feldnamen in Vorlagen finden &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
+Weitere Informationen [ Verwendung von Feldnamen in Vorlagen finden ](/help/user-guide/templates/customize-template.md#content-placeholders) unter „Platzhalter für Inhalte“.
 
 ## Unterstützte Dimensionen
 

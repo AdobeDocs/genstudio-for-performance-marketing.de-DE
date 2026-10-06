@@ -2,7 +2,13 @@
 title: Verbinden eines KI-Assistenten
 description: Erfahren Sie, wie Sie einen unterstützten KI-Assistenten verbinden, um den Zugriff auf verfügbare Tools zu [!DNL GenStudio for Performance Marketing] und zu überprüfen.
 role: User
-source-git-commit: 3d22af77d3893233e497a22f7b00c1faf0070cff
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '623'
 ht-degree: 0%
@@ -23,7 +29,7 @@ Bevor Sie eine Verbindung herstellen, überprüfen Sie Folgendes:
 
 [!DNL GenStudio for Performance Marketing] Tools werden in Adobe CX Enterprise Coworker als native Verbindung verwaltet. Ihre Organisation kontrolliert die Verfügbarkeit, sodass Sie nicht die direkte MCP-Server-URL eingeben.
 
-Beginnen Sie eine neue Unterhaltung und [&#x200B; Sie die Verbindung &#x200B;](#verify-the-connection). Wenn die Tools nicht angezeigt werden, wenden Sie sich an den Administrator Ihres Unternehmens oder den Adobe-Support.
+Beginnen Sie eine neue Unterhaltung und [ Sie die Verbindung ](#verify-the-connection). Wenn die Tools nicht angezeigt werden, wenden Sie sich an den Administrator Ihres Unternehmens oder den Adobe-Support.
 
 ## Connect Claude
 
