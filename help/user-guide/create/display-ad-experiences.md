@@ -40,11 +40,11 @@ ht-degree: 7%
 
 Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung erfolgreicher Display-Anzeigenerlebnisse](/help/user-guide/create/create-display-ad.md) zu optimieren.
 
-[!DNL Create] ermöglicht es modernen Marketing[Experten, markenkonsistente Anzeige-](/help/user-guide/create/create-display-ad.md) mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und einer [gut formulierten Eingabeaufforderung zu ](/help/user-guide/effective-prompts.md).
+[!DNL Create] ermöglicht es modernen Marketing[Experten, markenkonsistente Anzeige-](/help/user-guide/create/create-display-ad.md) mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und einer [gut formulierten Eingabeaufforderung zu &#x200B;](/help/user-guide/effective-prompts.md).
 
 Beim Generieren von Anzeige-Erlebnissen werden vier Varianten erstellt und auf der Arbeitsfläche angezeigt.
 
-Informationen [ unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter ](/help/user-guide/templates/display-template.md) für Anzeigenvorlagen .
+Informationen [&#x200B; unterstützten Dimensionen, erkannten Feldnamen und mehr finden Sie unter &#x200B;](/help/user-guide/templates/display-template.md) für Anzeigenvorlagen .
 
 Sie können ein genehmigtes Display- und Erlebniserlebnis auf der HTML-Arbeitsfläche in mehrere Sprachen übersetzen. Siehe [Übersetzen und Lokalisieren von Erlebnissen](/help/user-guide/create/translate-experiences.md).
 
