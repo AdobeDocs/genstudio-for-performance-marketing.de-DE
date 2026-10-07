@@ -6,22 +6,29 @@ feature: Media Templates
 badgeBeta: label="Beta" tooltip="Diese Funktion befindet sich derzeit in der Beta-Phase, sodass Funktionsbereiche möglicherweise eingeschränkt sind oder geändert werden können."
 recommendations: noDisplay, noCatalog
 exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
-TQID: https://experienceleague.adobe.com/wM0dD2t751PHH9UkmPpZDzwv-1L90UW5vdcKXDeIBHE
+TQID: 'https://experienceleague.adobe.com/wM0dD2t751PHH9UkmPpZDzwv-1L90UW5vdcKXDeIBHE'
 product_v2:
   - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
 feature_v2:
   - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+  - id: c5a86ad9-9158-4ab1-a7ea-9e29985087b8
+    internal-label: Content lifecycle
+subfeature_v2:
+  - id: e65b668e-f73f-400b-be97-cb6a0ed5e208
+    internal-label: Media templates
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 621f137c2c71c8ab6188c438f877eb3b3e457beb
+    internal-label: Beginner
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
-source-wordcount: 415
+source-wordcount: '415'
 ht-degree: 9%
-
 ---
-
 # Starter-Vorlagen
 
 _Einstiegsvorlagen_ sind vordefinierte Vorlagenoptionen, die Ihnen den schnellen Einstieg in GenStudio for Performance Marketing und das Erstellen effektiver Medien erleichtern. Wählen Sie [!DNL Create] einen Medientyp aus. Wenn erste Vorlagen verfügbar sind, wechseln Sie zur Registerkarte **[!UICONTROL erste Vorlagen]**, um eine Vorlage zu suchen und auszuwählen, die Ihren Anforderungen entspricht.

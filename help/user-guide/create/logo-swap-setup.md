@@ -1,16 +1,29 @@
 ---
 title: Einrichten des Logo-Austausches in Vorlagen
-description: Konfigurieren Sie die Platzhalter für Markenlogos in Vorlagen, um den Logoaustausch in zu aktivieren [!DNL GenStudio for Performance Marketing].
+description: Konfigurieren Sie die Platzhalter für Markenlogos in Vorlagen, um den Logoaustausch in [!DNL GenStudio for Performance Marketing] zu aktivieren.
 feature: Create Canvas
 role: User
 level: Intermediate
-source-git-commit: 98cb7ba338878495e6d7b68f3b8c620abae10127
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+    internal-label: Create
+subfeature_v2:
+  - id: dee4e9a9-78d1-4953-8179-f8da6117027d
+    internal-label: Create canvas
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 2%
-
 ---
-
 # Einrichten des Logoaustauschs in Vorlagen
 
 In diesem Handbuch wird erläutert, wie Sie Platzhalter für Markenlogos in Ihren Vorlagen konfigurieren, um die Funktion [Logo-Tausch](/help/user-guide/create/logo-swap.md) in [!DNL GenStudio for Performance Marketing] zu aktivieren. Verwenden Sie diese Richtlinien, um sicherzustellen, dass der Platzhalter über verschiedene Bildgrößen und Seitenverhältnisse hinweg korrekt angezeigt wird.

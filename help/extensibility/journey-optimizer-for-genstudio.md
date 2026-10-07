@@ -2,13 +2,23 @@
 title: Journey Optimizer für GenStudio
 description: Installieren und konfigurieren Sie die App Journey Optimizer for GenStudio Adobe Exchange , damit Ihr Unternehmen Adobe Journey Optimizer-Vorlagen in GenStudio for Performance Marketing verwenden kann.
 feature: Extensibility
-source-git-commit: e5011c95e9536d73b1f09d6bc76bb83f121573cd
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
-
 ---
-
 # Journey Optimizer für GenStudio
 
 Organisationen, die [!DNL Adobe Journey Optimizer] (AJO) und [!DNL GenStudio for Performance Marketing] in derselben [!DNL IMS] verwenden, können die App **Journey Optimizer for GenStudio** von [!DNL Adobe Exchange] installieren. Nachdem ein Systemadministrator die App genehmigt und die Bereitstellung abgeschlossen hat, können Autorinnen und Autoren beim Erstellen von E-Mail-Erlebnissen in GenStudio neben Vorlagen, die direkt in [!DNL Content] hochgeladen wurden, AJO-Inhaltsvorlagen auswählen.

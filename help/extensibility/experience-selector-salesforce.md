@@ -2,13 +2,29 @@
 title: Experience Selector-MFE in Salesforce
 description: Erfahren Sie, wie Sie den Experience Selector-MFE in Salesforce Lightning bereitstellen und konfigurieren, einschließlich CSP, Adobe-Authentifizierung, Apex-E-Mail-Vorlagen und Validierung.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: 99a2b657560d20642b7b92aefb976ba2373ebc7f
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+    internal-label: GenStudio for Performance Marketing
+feature_v2:
+  - id: bfaa655b-e017-428d-80d0-09de2183b296
+    internal-label: Extensions
+  - id: e0aa398c-6185-4e77-8cf7-2561c578c181
+    internal-label: Integrations
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
+subfeature_v2:
+  - id: d1558755-1618-43a0-bf5d-134ebe62e93b
+    internal-label: Extensibility
+  - id: e3878dde-4b87-4290-9e81-ed7ee6eb83fe
+    internal-label: Experiences
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
-
 ---
-
 # Experience Selector-MFE in Salesforce
 
 In diesem Abschnitt wird erläutert, wie Kunden und Implementierer das [!DNL GenStudio for Performance Marketing] Experience Selector Micro Frontend (MFE) in einer Salesforce-Organisation bereitstellen und ausführen können. Es behandelt Administratorschritte (kein Code), Entwicklerschritte (Bereitstellen und Konfigurieren) und sicherheitsbezogene Einstellungen wie die Content Security Policy (CSP).
