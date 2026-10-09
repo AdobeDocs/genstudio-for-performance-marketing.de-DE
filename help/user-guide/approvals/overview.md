@@ -30,9 +30,9 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
 source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '890'
-ht-degree: 94%
+ht-degree: 100%
 ---
 # Überprüfungen und Genehmigungen in Adobe GenStudio for Performance Marketing
 
@@ -74,9 +74,9 @@ Im Entwurfsstatus wird der Status des Inhaltsentwurfs erfasst, während dieser d
 
 Verfügbare Entwurfsstatus:
 
-**Benachrichtigt**: Der Inhaltseditor hat den Prüfungs- und Genehmigungsprozess gestartet, indem er die genehmigenden Personen darüber informiert, dass ein Entwurf zur Überprüfung bereit ist.
-**Muss bearbeitet**: Gibt an, dass mindestens eine genehmigende Person Änderungen am Inhaltsentwurf angefordert hat. Inhalte mit diesem Status können nicht in [!DNL Content] gespeichert werden.
-**Genehmigt**: Alle designierten genehmigenden Personen haben das Asset oder Erlebnis genehmigt. Inhaltsschaffende können dem Asset oder dem Erlebnis jetzt Metadaten hinzufügen und es in [!DNL Content] speichern.
+**Benachrichtigt**: Inhaltsschaffende haben den Überprüfungs- und Genehmigungsprozess gestartet, indem sie die genehmigenden Personen darüber informiert haben, dass ein Entwurf zur Überprüfung bereitsteht.
+**Muss bearbeitet werden**: Gibt an, dass eine oder mehrere genehmigende Personen Änderungen am Inhaltsentwurf angefordert haben. Inhalte mit diesem Status können nicht in [!DNL Content] gespeichert werden.
+**Genehmigt**: Alle benannten genehmigenden Personen haben das Asset oder das Erlebnis genehmigt. Inhaltsschaffende können dem Asset oder dem Erlebnis jetzt Metadaten hinzufügen und es in [!DNL Content] speichern.
 
 >[!NOTE]
 >
