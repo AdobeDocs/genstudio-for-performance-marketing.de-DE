@@ -122,7 +122,7 @@ Führen Sie vor dem Speichern oder Senden des Erlebnisses zur Überprüfung Inha
    * **TikTok-Kanalregeln** - Seitenverhältnis, Dateityp, Kopierlänge.
 1. Beheben Sie alle gemeldeten Probleme (z. B. Kopierlänge oder dichten Text auf dem Bildschirm).
 
-Weitere Informationen [ Inhaltsprüfungen finden ](/help/user-guide/guidelines/brand-validation.md) unter „Markenvalidierung“.
+Weitere Informationen [&#x200B; Inhaltsprüfungen finden &#x200B;](/help/user-guide/guidelines/brand-validation.md) unter „Markenvalidierung“.
 
 ## Speichern einer TikTok-Anzeige in GenStudio for Performance Marketing
 
