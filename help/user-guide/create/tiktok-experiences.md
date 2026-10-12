@@ -15,6 +15,10 @@ feature_v2:
     internal-label: Create
   - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
     internal-label: Guidelines
+  - id: c95c94c1-727b-457a-9184-a4dda4c95ab2
+    internal-label: Insights
+  - id: bffd9bc2-7f41-4bf6-9f08-f14cbd37afd7
+    internal-label: Campaigns
 subfeature_v2:
   - id: be495d08-ecd1-455f-951e-c22de504e667
     internal-label: Content generation
@@ -34,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
+source-git-commit: 665b1c2970b0f0b322acd32187dd96c28a50b9d7
 workflow-type: tm+mt
 source-wordcount: '933'
 ht-degree: 84%
@@ -118,7 +122,7 @@ Führen Sie vor dem Speichern oder Senden des Erlebnisses zur Überprüfung Inha
    * **TikTok-Kanalregeln** - Seitenverhältnis, Dateityp, Kopierlänge.
 1. Beheben Sie alle gemeldeten Probleme (z. B. Kopierlänge oder dichten Text auf dem Bildschirm).
 
-Weitere Informationen [&#x200B; Inhaltsprüfungen finden &#x200B;](/help/user-guide/guidelines/brand-validation.md) unter „Markenvalidierung“.
+Weitere Informationen [ Inhaltsprüfungen finden ](/help/user-guide/guidelines/brand-validation.md) unter „Markenvalidierung“.
 
 ## Speichern einer TikTok-Anzeige in GenStudio for Performance Marketing
 
