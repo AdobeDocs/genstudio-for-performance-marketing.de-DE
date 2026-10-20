@@ -205,7 +205,7 @@ Nachfolgend finden Sie einen JSON-Beispielblock mit den Schemata.
         },
         "destination_url": {
             "fieldName": "destination_url",
-            "fieldValue": "https://www.adobe.com"
+            "fieldValue": "https://www.adobe.com/de"
         },
         "description": {
             "fieldName": "description",
