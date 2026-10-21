@@ -30,7 +30,7 @@ ht-degree: 0%
 ---
 # Erstellen barrierefreier Vorlagen
 
-Adobe möchte allen Zielgruppen ein optimales Erlebnis bieten. Siehe [Initiativen zur Barrierefreiheit in Adobe](https://www.adobe.com/trust/accessibility/initiatives.html) für weitere Informationen.
+Adobe möchte allen Zielgruppen ein optimales Erlebnis bieten. Siehe [Initiativen zur Barrierefreiheit in Adobe](https://www.adobe.com/de/trust/accessibility/initiatives.html) für weitere Informationen.
 
 In GenStudio for Performance Marketing können Sie Assets und Vorlagen hochladen, die die Inhaltserstellung für eine Vielzahl von Erlebnissen ermöglichen. Die Einhaltung von Barrierefreiheitsstandards hilft Ihnen, Ihre Inhalte an die gewünschte Zielgruppe anzupassen.
 
