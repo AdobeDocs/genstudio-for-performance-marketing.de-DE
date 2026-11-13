@@ -68,18 +68,34 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5d651c7ec00aff866ce1f3698521b5baf48b3385
+source-git-commit: 87749b66644ae6b322ccf872a9b21696d87b4b99
 workflow-type: tm+mt
-source-wordcount: '5824'
-ht-degree: 100%
+source-wordcount: '5942'
+ht-degree: 98%
 ---
 # Versionshinweise zu GenStudio for Performance Marketing
 
 Diese Versionshinweise enthalten die neuesten Aktualisierungen für GenStudio for Performance Marketing.
 
-## 15.09.2026 {#latest}
+## 2026.10.15 {#latest}
 
 **NEUE FUNKTIONEN:**
+
+### Stateful-Generierung mit Voiceprinting und visuellen Hinweisen
+
+Mit der zustandsorientierten Generierung können Sie Inhalte in einer Konversation nacheinander verfeinern, anstatt jedes Mal mit einer neuen Eingabeaufforderung zu beginnen. Die Generierung speichert Ihre früheren Anweisungen und die Varianten, die Sie behalten, und wendet dann nur die gewünschte Änderung an.
+
+Der Sprachdruck speichert Kopien in Ihrer Markensprache auf Kanälen mit [!DNL Insights] wie LinkedIn und Meta. Sie können in einem Bild oder Video, das Sie auswählen, eine visuelle Quelltexte verwenden und in Ihrer Eingabeaufforderung eine Web-Seiten-URL als Referenzkontext hinzufügen.
+
+Weitere Informationen finden Sie unter [Erstellen und Verfeinern von Inhalten mit der statusbehafteten Generierung](/help/user-guide/create/stateful-generation.md).
+
+### Fehlerbehebungen und Verbesserungen
+
+* Die Tracking-ID in einer Massenaktivierung wird jetzt automatisch mit dem Erlebnisnamen ausgefüllt.
+
+## Frühere Versionshinweise
+
++++Hinweise aus dem 15.9.2026
 
 ### Massenaktivierung
 
@@ -87,7 +103,7 @@ Diese Versionshinweise enthalten die neuesten Aktualisierungen für GenStudio fo
 
 Weitere Informationen finden Sie unter [Aktivierungs-Workflow](/help/user-guide/activation/create-activation.md).
 
-## Frühere Versionshinweise
++++
 
 +++Hinweise vom 16.07.2026
 
