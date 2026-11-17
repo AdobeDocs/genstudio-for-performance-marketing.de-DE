@@ -132,7 +132,7 @@ Bereiten Sie die Aktivierung vor, bevor Sie Namen generieren. Die Metadaten der 
 
 1. Überprüfen Sie die Spalte **[!UICONTROL Anzeigename]**.
 
-Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[ Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
+Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[&#x200B; Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
 
 Anfangs verwendet jede Anzeige den Namen ihres Erlebnisses. Wenn einer Plattform keine Vorlage zugewiesen ist, bleiben die Namen bei der Generierung unverändert. Bearbeiten Sie diese Namen nach Bedarf manuell.
 
