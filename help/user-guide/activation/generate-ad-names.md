@@ -2,9 +2,9 @@
 title: Anzeigennamen generieren
 description: Erfahren Sie, wie Sie Namensvorlagen konfigurieren, konsistente Anzeigenamen generieren und Namen überprüfen oder anpassen können, bevor Sie Anzeigen an Ihre unterstützten Aktivierungsplattformen senden.
 role: User
-source-git-commit: 6db986fefd199181e568e5fbc7a3b23554e5e70d
+source-git-commit: 888a9509ed1c3705f67fbf541b38a49b7890ac7d
 workflow-type: tm+mt
-source-wordcount: '1684'
+source-wordcount: '1746'
 ht-degree: 1%
 ---
 
@@ -122,6 +122,13 @@ Das folgende Beispiel zeigt die Vorschau der Vorlage, die Reihenfolge der Felder
 
 Bereiten Sie die Aktivierung vor, bevor Sie Namen generieren. Die Metadaten der einzelnen Erlebnisse enthalten Informationen wie die Kampagne, das Produkt oder die Rolle. Vergewissern Sie sich, dass die Metadaten die Werte enthalten, die Ihre Vorlage benötigt. Siehe [Aktivierungs-Workflow](create-activation.md) für Hilfe bei der Vorbereitung einer Aktivierung.
 
+Wenn Sie zum ersten Mal eine Aktivierung erstellen, hängt der ursprüngliche Name jeder Anzeige von der Vorlagenzuweisung für die Plattform ab:
+
+| Platform-Setup | Anfänglicher Anzeigenname |
+| --- | --- |
+| Dem aktuellen Projekt wird eine Namensvorlage zugewiesen. | Leere Vorlagenfelder werden als Platzhalter angezeigt, z. B. `[market]_[year]`. Namen werden erst generiert, nachdem Sie **[!UICONTROL Anzeigenamen generieren]** ausgewählt haben. |
+| Im aktuellen Projekt ist keine Benennungsvorlage zugewiesen. | Die Anzeige verwendet den Namen ihres Erlebnisses. Bei der Namenserstellung bleibt dieser Name unverändert. |
+
 1. Öffnen **[!UICONTROL Aktivieren]** im gewünschten Projekt.
 1. Hinzufügen von Erlebnissen zu einer Aktivierung.
 1. Schließen Sie die Plattform-Einrichtung und alle erforderlichen Informationen ab, einschließlich Kopie, call-to-action (CTA) und Website-URL.
@@ -132,15 +139,15 @@ Bereiten Sie die Aktivierung vor, bevor Sie Namen generieren. Die Metadaten der 
 
 1. Überprüfen Sie die Spalte **[!UICONTROL Anzeigename]**.
 
-Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[&#x200B; Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
+Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[ Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
 
-Anfangs verwendet jede Anzeige den Namen ihres Erlebnisses. Wenn einer Plattform keine Vorlage zugewiesen ist, bleiben die Namen bei der Generierung unverändert. Bearbeiten Sie diese Namen nach Bedarf manuell.
+Für Plattformen ohne zugewiesene Vorlage bearbeiten Sie die erlebnisbasierten Anzeigenamen nach Bedarf manuell.
 
 Wenn keine Plattformen Vorlagen zugewiesen haben, werden keine Namen generiert.
 
 ## Korrigieren eines einzelnen Anzeigenamens
 
-Überprüfen Sie die generierten Namen, bevor Sie Ihre Anzeigen senden. Fehlende Werte werden als hervorgehobene Platzhalter für Felder angezeigt, z. B. `[market]`, und die betroffenen Anzeigen zeigen &quot;**[!UICONTROL Aufmerksamkeit erforderlich]**.
+Überprüfen Sie die generierten Namen, bevor Sie Ihre Anzeigen senden. Alle Felder, die nach der Generierung leer bleiben, werden als hervorgehobene Platzhalter angezeigt, z. B. `[market]`. Die betroffenen Anzeigen zeigen &quot;**[!UICONTROL Aufmerksamkeit]**.
 
 Um Namen zu finden, die korrigiert werden müssen, suchen Sie in der Aktivierungstabelle nach hervorgehobenen Platzhaltern und **[!UICONTROL Erfordert]**) Status:
 
