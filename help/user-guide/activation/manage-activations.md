@@ -23,10 +23,10 @@ topic_v2:
     internal-label: Metadata
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 4d35c796d2968255c3e1f525215cfe71434f8e23
+source-git-commit: 7863995df08681a8a427277121a5fbeca131c6a9
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '326'
+ht-degree: 0%
 ---
 # Verwalten von Aktivierungen
 
@@ -43,6 +43,10 @@ Ihre Aktivierungstabellen werden auf der [!DNL Activate] Landingpage angezeigt. 
 Sie können fehlgeschlagene Aktivierungen automatisch wiederholen, indem Sie oben rechts **[!UICONTROL Erneut versuchen]** klicken.
 
 Veröffentlichte Zeilen sind von der erneuten Übermittlung ausgeschlossen und enthalten einen Deep-Link zur Anzeige im nativen Anzeigen-Manager der Zielplattform, sodass Sie direkt zur Anzeige springen können, um sie zu überprüfen oder zu starten.
+
+## Anzeigennamen generieren
+
+Verwenden Sie die Namenskonvention Ihrer Organisation, um aus Erlebnisinformationen konsistente Anzeigenamen zu generieren. Sie können Namen überprüfen, bearbeiten oder überschreiben, bevor Sie Anzeigen an Plattformen senden. Siehe [Generieren von Anzeigenamen](generate-ad-names.md).
 
 ## Detailansicht
 
