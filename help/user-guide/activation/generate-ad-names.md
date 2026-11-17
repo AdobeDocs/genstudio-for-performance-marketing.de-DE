@@ -139,7 +139,7 @@ Wenn Sie zum ersten Mal eine Aktivierung erstellen, hängt der ursprüngliche Na
 
 1. Überprüfen Sie die Spalte **[!UICONTROL Anzeigename]**.
 
-Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[ Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
+Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[&#x200B; Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
 
 Für Plattformen ohne zugewiesene Vorlage bearbeiten Sie die erlebnisbasierten Anzeigenamen nach Bedarf manuell.
 
