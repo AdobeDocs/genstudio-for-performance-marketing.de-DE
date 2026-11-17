@@ -2,9 +2,9 @@
 title: Anzeigennamen generieren
 description: Erfahren Sie, wie Sie Namensvorlagen konfigurieren, konsistente Anzeigenamen generieren und Namen überprüfen oder anpassen können, bevor Sie Anzeigen an Ihre unterstützten Aktivierungsplattformen senden.
 role: User
-source-git-commit: 7863995df08681a8a427277121a5fbeca131c6a9
+source-git-commit: 6db986fefd199181e568e5fbc7a3b23554e5e70d
 workflow-type: tm+mt
-source-wordcount: '1575'
+source-wordcount: '1684'
 ht-degree: 1%
 ---
 
@@ -12,21 +12,23 @@ ht-degree: 1%
 
 Die automatisierte Anzeigenbenennung in [!DNL GenStudio for Performance Marketing] hilft Ihnen bei der Aktivierung von Anzeigen, die Namenskonventionen Ihres Unternehmens einzuhalten. Konsistente Namen unterstützen Leistungsberichte, Attribution und die Abstimmung der Ausgaben.
 
-Laden Sie die Namenskonvention hoch, um eine Vorlage zu erstellen, und verwenden Sie sie dann, um Namen aus Erlebnis-Metadaten zu generieren. Überprüfen Sie die Ergebnisse und nehmen Sie Korrekturen vor, bevor Sie Anzeigen an Ihre Plattformen senden.
+Eine Benennungsvorlage definiert die Teile eines Anzeigenamens und ihre Reihenfolge. Zu den Beispielteilen gehören das Produkt, die Kampagne und der Markt. Um eine Vorlage zu erstellen, laden Sie eine Excel-Datei hoch, die die Namenskonvention Ihres Unternehmens beschreibt.
+
+Verwenden Sie die Vorlage, um Namen aus Informationen zu jedem Erlebnis zu generieren, z. B. zu seinem Produkt oder seiner Kampagne. Überprüfen und korrigieren Sie die Ergebnisse, bevor Sie Ihre Anzeigen senden. Die endgültigen Namen werden als Anzeigenamen an jede Zielplattform gesendet.
 
 ## Voraussetzungen
 
-Die Vorlageneinrichtung ist eine einmalige Aufgabe. Wenn Ihrem aktuellen Projekt bereits eine Vorlage zugewiesen ist, fahren Sie mit [Generieren von Namen für eine Aktivierung](#generate-names-for-an-activation) fort.
+Sie müssen eine Vorlage nur einmal einrichten. Wenn Ihrem aktuellen Projekt bereits eine Vorlage zugewiesen ist, navigieren Sie direkt zu [Namen für eine Aktivierung generieren](#generate-names-for-an-activation).
+
+Erstellen Sie andernfalls eine Vorlage und bitten Sie einen System Manager, sie [Ihren Plattformen zuzuweisen](#assign-a-template-to-platforms). Jedes Projekt kann eine andere Standardvorlage für dieselbe Plattform haben.
 
 Bereiten Sie für die Vorlageneinrichtung eine Excel-Datei mit höchstens 3 MB und nur einem Blatt vor. CSV-Dateien werden nicht unterstützt. Beschreiben Sie die Namenskonvention für einzelne Anzeigen, nicht für Kampagnen oder Anzeigengruppen.
 
-Schließen Sie die Felder in der erforderlichen Reihenfolge, die zulässigen Werte, die entsprechenden Codes und Anweisungen zum Auswählen von Werten ein. Wenn Sie beispielsweise `Image` für das Feld `format` auswählen, kann dies zu `IMG` im Namen führen.
+Listen Sie die Felder in der erforderlichen Reihenfolge auf. Geben Sie für jedes Feld die zulässigen Werte, die entsprechenden Codes und Anweisungen zur Auswahl eines Werts an. Beispielsweise verwendet die Option `Image` für das Feld `format` den im Namen `IMG` Code.
 
-Laden Sie das [Beispiel für eine WKND-Meta-Namenskonvention (Excel)](assets/wknd-meta-naming-convention.xlsx) herunter, um eine Beispielstruktur zu untersuchen. Sie enthält Felddefinitionen und Beispielwerte für Jahr, Quartal, Marke, Produkt, Kampagne, Plattform, Format, Creative-Version, Rolle, Markt, Sprache und CTA.
+Laden Sie für eine Beispielstruktur das Beispiel [WKND Meta Naming Convention (Excel) herunter](assets/wknd-meta-naming-convention.xlsx). Die Datei definiert Felder und Beispielwerte für Produkt, Kampagne, Markt und andere Teile eines Anzeigenamens.
 
 Ersetzen Sie die Beispielwerte und Regeln durch die Konvention Ihres Unternehmens, bevor Sie die Datei für Ihre eigenen Aktivierungen verwenden. Die Plattformwerte des Beispiels veranschaulichen Namensoptionen, keine Liste unterstützter Aktivierungsziele.
-
-Ein System Manager muss die Vorlage Ihren Plattformen zuweisen. Verschiedene Projekte können unterschiedliche Standardvorlagen für dieselbe Plattform verwenden.
 
 ## Benennungsvorlage erstellen
 
@@ -41,7 +43,7 @@ Erstellen Sie eine Vorlage aus Ihrer vorhandenen Namenskonventionsdatei und übe
 1. Wählen **[!UICONTROL Datei auswählen]** im Dialogfeld **[!UICONTROL Datei hochladen]**.
 1. Wählen Sie Ihre Excel-Datei.
 
-   Sie können die Datei auch in den Upload-Bereich ziehen. Während **[!UICONTROL Arbeitsblatt analysieren…]** angezeigt wird, werden die Felder und Werte Ihrer Vorlage zugeordnet. Dies kann einige Minuten dauern.
+   Alternativ können Sie die Datei in den Upload-Bereich ziehen. Während **[!UICONTROL Arbeitsblatt analysieren…]** angezeigt wird, werden die Felder und Werte Ihrer Vorlage zugeordnet. Warten Sie einige Minuten, bis die Analyse abgeschlossen ist.
 
 1. Überprüfen Sie die Felder, zulässigen Werte und **[!UICONTROL Anzeigenamenvorschau]**.
 
@@ -58,13 +60,13 @@ Bearbeiten Sie eine gespeicherte Vorlage, um ihren Namen, ihre Felder, ihr Trenn
 1. Navigieren Sie zu **[!UICONTROL Mehr]** > **[!UICONTROL Einstellungen]** > **[!UICONTROL Anzeigenamenvorlage]**.
 1. Öffnen Sie das Dreipunkt-Menü neben Ihrer Vorlage.
 1. Wählen Sie **[!UICONTROL Bearbeiten]** aus.
-1. Klicken Sie auf das Stiftsymbol neben dem Titel, um die Vorlage umzubenennen.
-1. Stellen Sie das **[!UICONTROL Feldtrennzeichen]** entsprechend Ihrer Konvention ein.
+1. Um die Vorlage umzubenennen, klicken Sie auf das Stiftsymbol neben dem Titel.
+1. Setzen Sie **[!UICONTROL Feldtrennzeichen]** auf das Zeichen, das die Teile des Namens trennt, z. B. einen Unterstrich (`_`).
 1. Ziehen Sie die Felder in die gewünschte Reihenfolge.
 
    Verwenden Sie **[!UICONTROL Feld hinzufügen]** oder das Papierkorbsymbol eines Felds, wenn Sie ändern müssen, welche Felder enthalten sind.
 
-1. Wählen Sie das Stiftsymbol eines Felds aus, um seine Einstellungen zu öffnen.
+1. Um die Einstellungen eines Felds zu öffnen, klicken Sie auf sein Stiftsymbol.
 1. Überprüfen Sie **[!UICONTROL Typ]** und **[!UICONTROL Name]** im Dialogfeld **[!UICONTROL Feld bearbeiten]**.
 
    Verwenden Sie **[!UICONTROL Dropdown]** für ein Feld mit vordefinierten Auswahlmöglichkeiten oder **[!UICONTROL Freier Text]** für einen von Ihnen eingegebenen Wert.
@@ -73,11 +75,11 @@ Bearbeiten Sie eine gespeicherte Vorlage, um ihren Namen, ihre Felder, ihr Trenn
 
    **[!UICONTROL options]** enthält die lesbaren Auswahlmöglichkeiten. **[!UICONTROL Code]** enthält die entsprechenden Werte, die im Anzeigenamen verwendet werden. Beispielsweise verwendet die Option `Image` die Code-`IMG`.
 
-   Verwenden Sie **[!UICONTROL Option hinzufügen]** um eine Auswahl hinzuzufügen, oder das Minussymbol neben einer Auswahl, um sie zu entfernen. Doppelte Werte in einem Feld sind nicht zulässig.
+   Um eine Auswahl hinzuzufügen, wählen Sie **[!UICONTROL Option hinzufügen]** aus. Um eine Auswahl zu entfernen, klicken Sie auf das entsprechende Minussymbol. Doppelte Werte in einem Feld sind nicht zulässig.
 
 1. Geben Sie alle **[!UICONTROL Feldregeln]** ein, die zum Auswählen oder Formatieren des Feldwerts erforderlich sind.
 
-   Für das `creativeVersion` Freitextfeld des Beispiels können Sie `Use the experience name as a starting value, with spaces removed.` eingeben
+   Geben Sie für das `creativeVersion`-Freitextfeld diese Beispielregel ein: `Use the experience name as a starting value, with spaces removed.`
 
 1. Wählen **[!UICONTROL im]** Feld die Option „Speichern“ aus.
 
@@ -108,7 +110,7 @@ System Manager legen die Standardvorlage für jede Plattform innerhalb eines Pro
 
 Jede Plattform verfügt über eine Standardvorlage pro Projekt. Sie können dieselbe Vorlage mehreren Plattformen zuweisen.
 
-Sie können Vorlagen projektübergreifend anzeigen und bearbeiten, Zuweisungen jedoch nur für das Projekt ändern, in dem Sie sich gerade befinden.
+Vorlagen stehen zur Anzeige und Bearbeitung in verschiedenen Projekten zur Verfügung. Sie können Platform-Zuweisungen jedoch nur in Ihrem aktuellen Projekt ändern.
 
 Wenn Sie den Standard einer Plattform ersetzen, wird weder die vorherige Vorlage gelöscht noch werden die Zuweisungen anderer Projekte geändert.
 
@@ -118,7 +120,7 @@ Das folgende Beispiel zeigt die Vorschau der Vorlage, die Reihenfolge der Felder
 
 ## Generieren von Namen für eine Aktivierung
 
-Generieren Sie Namen, nachdem Sie Ihre Aktivierung vorbereitet und die von Ihrer Vorlage benötigten Erlebnismetadaten überprüft haben, z. B. Kampagne, Produkt oder Rolle.
+Bereiten Sie die Aktivierung vor, bevor Sie Namen generieren. Die Metadaten der einzelnen Erlebnisse enthalten Informationen wie die Kampagne, das Produkt oder die Rolle. Vergewissern Sie sich, dass die Metadaten die Werte enthalten, die Ihre Vorlage benötigt. Siehe [Aktivierungs-Workflow](create-activation.md) für Hilfe bei der Vorbereitung einer Aktivierung.
 
 1. Öffnen **[!UICONTROL Aktivieren]** im gewünschten Projekt.
 1. Hinzufügen von Erlebnissen zu einer Aktivierung.
@@ -130,9 +132,9 @@ Generieren Sie Namen, nachdem Sie Ihre Aktivierung vorbereitet und die von Ihrer
 
 1. Überprüfen Sie die Spalte **[!UICONTROL Anzeigename]**.
 
-Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit aktivierten Überschreibungen. Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
+Die Generierung gilt für alle Anzeigen auf Plattformen mit einer zugewiesenen Vorlage, mit Ausnahme von Anzeigen mit &quot;[ Namensüberschreibungen](#use-a-custom-ad-name). Beim Öffnen der Tabelle werden die Namen nicht automatisch generiert.
 
-Anfangs verwendet jede Anzeige den Namen ihres Erlebnisses. Wenn einer Plattform keine Vorlage zugewiesen ist, bleiben die Namen bei der Generierung unverändert und können manuell bearbeitet werden.
+Anfangs verwendet jede Anzeige den Namen ihres Erlebnisses. Wenn einer Plattform keine Vorlage zugewiesen ist, bleiben die Namen bei der Generierung unverändert. Bearbeiten Sie diese Namen nach Bedarf manuell.
 
 Wenn keine Plattformen Vorlagen zugewiesen haben, werden keine Namen generiert.
 
@@ -140,7 +142,7 @@ Wenn keine Plattformen Vorlagen zugewiesen haben, werden keine Namen generiert.
 
 Überprüfen Sie die generierten Namen, bevor Sie Ihre Anzeigen senden. Fehlende Werte werden als hervorgehobene Platzhalter für Felder angezeigt, z. B. `[market]`, und die betroffenen Anzeigen zeigen &quot;**[!UICONTROL Aufmerksamkeit erforderlich]**.
 
-In der Aktivierungstabelle werden Namen mit fehlenden Werten gekennzeichnet, damit Sie sie finden und korrigieren können:
+Um Namen zu finden, die korrigiert werden müssen, suchen Sie in der Aktivierungstabelle nach hervorgehobenen Platzhaltern und **[!UICONTROL Erfordert]**) Status:
 
 ![Aktivierungstabelle mit einer Warnung zu fehlenden Werten, hervorgehobenen Market-Platzhaltern in der Spalte Anzeigename und Erfordert einen Wartungsstatus.](images/ad-names-missing-values.png)
 
@@ -164,13 +166,13 @@ Identische Anzeigenamen auf derselben Plattform werden als potenzielle Duplikate
 
 Der Warnhinweis „potenzielle Duplikate“ wird gelöscht, nachdem die Namen geändert wurden.
 
-## Mehrere Anzeigennamen gleichzeitig bearbeiten
+## Mehrere Anzeigennamen bearbeiten {#edit-several-ad-names-at-once}
 
-Verwenden Sie die Massenbearbeitung, um eine gemeinsame Korrektur anzuwenden, ohne Werte zu ersetzen, die für jede Anzeige unterschiedlich bleiben sollen.
+Verwenden Sie die Massenbearbeitung, um eine gemeinsame Korrektur anzuwenden und gleichzeitig Werte beizubehalten, die sich zwischen Anzeigen unterscheiden.
 
 1. Wählen Sie die Anzeigen mithilfe ihrer Zeilenkontrollkästchen aus.
 1. Wählen Sie **[!UICONTROL Anzeigenamen bearbeiten]** in der Auswahlsymbolleiste aus.
-1. Nur Felder ändern, die in allen ausgewählten Anzeigen denselben Wert aufweisen sollen.
+1. Nur Felder ändern, die in allen ausgewählten Anzeigen denselben Wert benötigen.
 
    **[!UICONTROL Gemischte Werte]** bedeutet, dass die ausgewählten Anzeigen derzeit unterschiedliche Werte für ein Feld aufweisen. Lassen Sie dieses Feld unberührt, um den Wert jeder Anzeige zu erhalten.
 
@@ -192,7 +194,7 @@ Wenn Sie beispielsweise nur die Rolle von `OutdoorBeginners` in `Adventurers` ä
 
 ## Verwenden eines benutzerdefinierten Anzeigenamens
 
-Überschreiben Sie einen generierten Namen, wenn eine Anzeige einen vollständigen benutzerdefinierten Namen benötigt.
+Verwenden Sie eine Überschreibung, um den gesamten generierten Namen durch einen benutzerdefinierten Namen zu ersetzen, anstatt einzelne Vorlagenfelder zu bearbeiten.
 
 1. Wählen Sie die Zeile der Anzeige aus.
 1. Wählen Sie **[!UICONTROL Anzeigenamen bearbeiten]** aus.
@@ -202,7 +204,7 @@ Wenn Sie beispielsweise nur die Rolle von `OutdoorBeginners` in `Adventurers` ä
 
 Der benutzerdefinierte Name bleibt unverändert, wenn Sie erneut Namen generieren.
 
-Wenn die Überschreibung aktiviert ist, können Sie den vollständigen Namen anstelle der einzelnen Vorlagenfelder bearbeiten:
+Wenn die Überschreibung aktiviert ist, bearbeiten Sie den vollständigen Namen anstelle der einzelnen Vorlagenfelder:
 
 ![Das Dialogfeld „Anzeigenamen bearbeiten“ mit aktiviertem „Anzeigenamen überschreiben“ und dem vollständigen WKND-Anzeigenamen, der zur Bearbeitung verfügbar ist.](images/ad-name-override.png)
 
@@ -213,7 +215,7 @@ Gehen Sie wie folgt vor, um zur vorlagenbasierten Benennung zurückzukehren:
 1. Wählen Sie **[!UICONTROL Speichern]** aus.
 1. Wählen **[!UICONTROL Anzeigenamen generieren]** über der Aktivierungstabelle aus.
 
-Diese Erzeugungsaktion gilt auch für die anderen in Frage kommenden Anzeigen in der Tabelle.
+Diese Aktion generiert auch Namen für andere Anzeigen in der Tabelle, denen eine Vorlage zugewiesen ist und die keinen benutzerdefinierten Namen überschreiben.
 
 ## Auf Vorlagenänderungen reagieren
 
@@ -236,6 +238,6 @@ Namen mit aktivierten Überschreibungen bleiben während der Regenerierung unver
 
 Wenn die Aktivierung fertig ist, wählen Sie **[!UICONTROL An Plattformen senden]** aus.
 
-Veröffentlichte Namen stimmen genau mit den endgültigen Namen in [!DNL GenStudio for Performance Marketing] überein, einschließlich generierter Namen, Namen, die durch Vorlagenfelder bearbeitet wurden, und überschriebene Namen.
+[!DNL GenStudio for Performance Marketing] sendet den endgültigen Namen jeder Anzeige als Anzeigename an die Zielplattform. Der gesendete Name enthält alle Änderungen an Vorlagenfeldern oder Überschreibungen benutzerdefinierter Namen. Die Anzeigenamen auf der Plattform stimmen genau mit den endgültigen Namen überein, die Sie geprüft haben.
 
 Bei Anzeigezielen wie Innovid werden Namen als kreative Namen angezeigt.
